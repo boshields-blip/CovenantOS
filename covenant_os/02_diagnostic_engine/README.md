@@ -1,28 +1,56 @@
-# Layer 2 — Diagnostic Engine
+# Diagnostic Engine
 
-**Status:** Draft  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+The diagnostic engine is the analytical core of Covenant OS.
 
----
+- Root architecture: [../ARCHITECTURE.md](../ARCHITECTURE.md)
+- Foundational contrast: [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md)
+- Category files: [./categories/01_metaphysics.md](./categories/01_metaphysics.md), [./categories/02_epistemology.md](./categories/02_epistemology.md), [./categories/03_anthropology.md](./categories/03_anthropology.md), [./categories/04_ethics.md](./categories/04_ethics.md), [./categories/05_social_political.md](./categories/05_social_political.md), [./categories/06_identity_meaning.md](./categories/06_identity_meaning.md), [./categories/07_eschatology.md](./categories/07_eschatology.md)
+- Philosophy modules: [./philosophy_modules/README.md](./philosophy_modules/README.md)
+- Western diagnostic map: [./western_christianity_diagnostic_map.md](./western_christianity_diagnostic_map.md)
+- Schemas: [./schemas/philosophy_module.schema.json](./schemas/philosophy_module.schema.json), [./schemas/diagnostic_profile.schema.json](./schemas/diagnostic_profile.schema.json)
 
-## Purpose
+## Why the engine is modular
 
-The Diagnostic Engine surfaces beliefs, contradictions, and patterns in an individual's or group's formation journey. It provides structured tools for examining what someone actually believes — as revealed by their patterns, choices, and reactions — versus what they say they believe in calmer moments.
+Rival philosophical systems are rarely absorbed as one neat package. People inherit pieces: an anthropology from therapeutic culture, an epistemology from rationalism, an eschatology from progressivism, and an ethic from consumer logic. The modular structure lets Covenant OS trace those pieces without flattening them into a single label.
 
-Formation requires honest self-examination. The Diagnostic Engine is the instrument for that examination. It does not condemn; it reveals. The goal is to give individuals and communities accurate information about where they are so they can move intentionally toward where they want to be.
+## Why the engine is categorical
 
-## What belongs here
+The engine uses seven recurring categories because nearly every worldview answers the same deep questions, whether explicitly or implicitly:
 
-- **Belief-mapping frameworks:** structured prompts for identifying stated beliefs versus revealed beliefs
-- **Contradiction detection tools:** templates for surfacing internal inconsistencies between stated convictions and observed behavior or emotional response
-- **Pattern recognition guides:** rubrics for recognizing repeated themes across a person's formation history — where they tend to get stuck, what fears consistently drive their choices, what gifts keep showing up
-- **Diagnostic rubrics for groups:** tools adapted for use in formation groups, where the diagnostic work is done in community with accountability and care
+1. Metaphysics
+2. Epistemology
+3. Anthropology
+4. Ethics
+5. Social/Political
+6. Identity/Meaning
+7. Eschatology
 
-## The diagnostic relationship to Layer 1
+This lets Covenant OS compare very different systems on shared terrain.
 
-The Diagnostic Engine draws on the Foundational Layer's first principles to define what counts as a contradiction and what healthy formation looks like. A pattern is only recognizable as unhealthy if there is a prior commitment to what health means — that commitment lives in Layer 1.
+## Why the engine is contrastive
 
----
+The engine does more than describe. It contrasts rival philosophies with the covenantal frame. The goal is not rhetorical victory but moral and spiritual clarity. By putting systems side by side, it becomes easier to see where modern assumptions have quietly bent Christian imagination.
 
-See [`docs/ARCHITECTURE.md`](../../docs/ARCHITECTURE.md) for the full 5-layer architecture and separation rules.
+## The three-layer structure
+
+### 1. Category Layer
+
+The category layer defines the seven core questions, the diagnostic prompts for each category, and the covenantal contrast statement that acts as a theological north star.
+
+### 2. Philosophy Modules
+
+The philosophy modules describe named patterns such as expressive individualism, therapeutic anthropology, technocratic rationalism, consumerism, postmodernism, materialism, and progressivist utopianism.
+
+### 3. Contrast Engine
+
+The contrast engine is the interpretive act that compares:
+
+- the subject being analyzed,
+- the rival philosophies that appear to be shaping the subject,
+- and the covenantal alternative.
+
+In a future implementation, this layer would generate structured diagnostic outputs. In this scaffold it is expressed through the markdown analysis and JSON schemas.
+
+## Posture of use
+
+This engine is meant to make formation legible, not to turn discernment into suspicion. It should help pastors, teachers, and believers describe influences with patience and humility, remembering that every diagnosis includes the diagnostician.
