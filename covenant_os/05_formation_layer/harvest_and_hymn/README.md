@@ -1,40 +1,40 @@
-# Harvest and Hymn
+# Harvest & Hymn
 
-**Status:** Draft  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+> *A quarterly, seasonal gathering where households come together with food, Scripture, song, and shared offerings.*
 
----
+**Harvest & Hymn** is a Covenant OS formation module for **quarterly community gathering**. Where [Come to the Table](../come_to_the_table/README.md) forms a household weekly around Scripture and meal, Harvest & Hymn extends that same rhythm into seasonal shared life.
 
-## Purpose
-
-Harvest and Hymn is a seasonal formation practice that connects the rhythms of creation — planting, tending, harvesting, resting — with the rhythms of personal and community formation. It uses the physical reality of a harvest season as a lens for examining what has grown in us and in our community, what has died or been lost, what is being prepared for the next season, and what deserves to be celebrated and mourned before it passes.
-
-The practice is grounded in the conviction that created rhythms are not merely agricultural facts; they are formative realities. A community that pays attention to the seasons — that actually notices what is being planted and what is being harvested, both in the ground and in their shared life — is a community capable of deeper formation.
-
-## What belongs here
-
-- The full Harvest and Hymn practice guide, including seasonal structure, facilitator's role, and participant preparation
-- A seasonal framework mapping the four primary agricultural movements (planting, tending, harvest, rest) onto formation themes
-- Hymn and song resources appropriate to each season
-- Liturgical elements: prayers, readings, physical acts (bringing produce, planting seeds, laying things down)
-- Facilitator notes: how to connect the physical reality of the season to the formation theme without forcing the metaphor
-- Adaptations for communities without direct agricultural connection (urban contexts, apartment households)
-- Connection to Come to the Table: how Harvest and Hymn can be used as a seasonal Come to the Table variation
-
-## The practice at a glance
-
-Harvest and Hymn is structured around the agricultural calendar, with a major practice gathering at each seasonal transition:
-
-| Season | Agricultural theme | Formation theme |
-|--------|-------------------|-----------------|
-| Spring (planting) | What are we putting in the ground? | Intention, hope, commitment |
-| Summer (tending) | What requires sustained attention? | Faithfulness, patience, care |
-| Autumn (harvest) | What has come to fruition? | Gratitude, assessment, celebration |
-| Winter (rest) | What needs to lie fallow? | Grief, rest, preparation |
-
-Full practice content will be developed in Phase 2.
+The relationship is intentional: **weekly at home → quarterly in community**.
 
 ---
 
-See [`docs/ARCHITECTURE.md`](../../../docs/ARCHITECTURE.md) for the full 5-layer architecture and separation rules.
+## What this module is
+
+Harvest & Hymn is a table-centered community liturgy rooted in **1 Corinthians 14:26**: *"When you come together, each one has…"* Families bring food, reflection, creative offerings, and testimony so that the body is strengthened through mutual contribution.
+
+This module gives a stable quarterly shape whose content changes by season.
+
+---
+
+## Table of contents
+
+| File | Purpose |
+|---|---|
+| [PHILOSOPHY.md](./PHILOSOPHY.md) | The governing convictions for Harvest & Hymn |
+| [SEASONAL_RHYTHM.md](./SEASONAL_RHYTHM.md) | Spring, Summer, Fall, Winter themes and anchors |
+| [GATHERING_FORMAT.md](./GATHERING_FORMAT.md) | Canonical five-movement quarterly liturgy |
+| [FAMILY_PREPARATION.md](./FAMILY_PREPARATION.md) | How households prepare through worship, work, and reflection |
+| [ELDER_GUIDE.md](./ELDER_GUIDE.md) | How elders equip without dominating |
+| [WORKSHOPS.md](./WORKSHOPS.md) | Optional seasonal workshops and add-ons |
+| [liturgies/spring.md](./liturgies/spring.md) | Spring liturgy |
+| [liturgies/summer.md](./liturgies/summer.md) | Summer liturgy |
+| [liturgies/fall.md](./liturgies/fall.md) | Fall liturgy |
+| [liturgies/winter.md](./liturgies/winter.md) | Winter liturgy |
+
+---
+
+## Relationship to Come to the Table
+
+- **Come to the Table** remains the weekly household practice. See [../come_to_the_table/README.md](../come_to_the_table/README.md).
+- **Harvest & Hymn** is the quarterly community expression of that same rhythm.
+- Households carry the same seasonal thread from weekly table practice into quarterly shared gathering. See [../come_to_the_table/SEASONAL_LITURGY.md](../come_to_the_table/SEASONAL_LITURGY.md).
