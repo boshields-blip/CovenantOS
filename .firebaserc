@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "plumbline-os"
+  },
+  "targets": {
+    "plumbline-os": {
+      "hosting": {
+        "covenant-os": [
+          "covenant-os"
+        ]
+      }
+    }
+  }
+}
