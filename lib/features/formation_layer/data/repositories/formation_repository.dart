@@ -2,8 +2,8 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../../core/config/app_config.dart';
 import '../../../../core/services/supabase_service.dart';
-import '../domain/models/formation_group.dart';
-import '../domain/models/formation_record.dart';
+import '../../domain/models/formation_group.dart';
+import '../../domain/models/formation_record.dart';
 
 /// Data access for formation groups and session records.
 ///
