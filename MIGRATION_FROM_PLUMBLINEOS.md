@@ -1,16 +1,39 @@
 # Migration from PlumbLineOS
 
-**Status:** Draft  
+**Status:** Slice A Complete  
 **Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+**Last updated:** 2026-07-10
 
 ---
 
 ## Overview
 
-CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covenant_os/` directory currently lives at the repository root. This document describes the planned migration — what moves, where it goes, and what remains behind.
+CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covenant_os/` directory currently lives at the repository root. This document describes the migration plan — what moves, where it goes, and what remains behind.
 
-**Phase 1 (this PR)** creates the CovenantOS scaffold with fresh placeholder content. **No content is moved from PlumbLineOS in this phase.** Phase 2 will execute the actual moves and merges described below.
+**Phase 1 (scaffold)** created the CovenantOS repository structure with fresh placeholder content.  
+**Phase 2 / Slice A (this PR)** establishes the Covenant formation runtime vertical in CovenantOS.  
+**Phase 3 (PlumbLineOS PR3)** will tombstone and redirect the covenant paths in TradeCore.
+
+---
+
+## Slice A — What is now owned by CovenantOS
+
+| Capability | Location | Status |
+|---|---|---|
+| App config / env var abstraction | `lib/core/config/app_config.dart` | ✅ Done |
+| Supabase service wrapper | `lib/core/services/supabase_service.dart` | ✅ Done |
+| `os.covenant` entitlement guard | `lib/core/services/entitlement_service.dart` | ✅ Done |
+| Invite acceptance (redeem lane invite) | `lib/features/covenant_onboarding/` | ✅ Done |
+| Post-acceptance onboarding screen | `lib/features/covenant_onboarding/` | ✅ Done |
+| Formation groups model + repository | `lib/features/formation_layer/` | ✅ Done |
+| Formation records model + repository | `lib/features/formation_layer/` | ✅ Done |
+| Come to the Table screen | `lib/features/formation_layer/` | ✅ Done |
+| Harvest and Hymn screen | `lib/features/formation_layer/` | ✅ Done |
+| Formation home screen | `lib/features/formation_layer/` | ✅ Done |
+| Berean Tool home screen (stub) | `lib/features/berean_tool/` | ✅ Stub |
+| GoRouter route wiring | `lib/app/routes/covenant_routes.dart` | ✅ Done |
+| Supabase migrations (4 tables) | `supabase/migrations/` | ✅ Done |
+| PlumbLineOS PR3 cutover guide | `docs/PR3_PLUMBLINEOS_CUTOVER.md` | ✅ Done |
 
 ---
 
@@ -18,35 +41,48 @@ CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covena
 
 | Source in PlumbLineOS | Destination in CovenantOS | Mode |
 |---|---|---|
-| `covenant_os/` (root tree, all 5 layers) | `covenant_os/` (preserve 5-layer structure) | move |
-| `covenant_os/ARCHITECTURE.md` | `docs/ARCHITECTURE.md` (already promoted in this scaffold) | move + merge |
-| `covenant_os/INTRODUCTION.md` | `docs/INTRODUCTION.md` (already promoted in this scaffold) | move + merge |
-| `covenant_os/README.md` | `covenant_os/README.md` | move |
-| `lib/features/covenant_os/` | distribute into `lib/features/{berean_tool,language_module,formation_layer,covenant_forum}/` | move + reorganize |
-| Any covenant routes in `lib/app/routes/homestead_routes.dart` | `lib/app/routes/` | move |
-| Forum / formation group screens | matching feature dirs | move |
-| Supabase migrations matching `*covenant*`, `*formation*`, `*berean*` | `supabase/migrations/` | move |
+| `covenant_os/` (root tree, all 5 layers) | `covenant_os/` (preserve 5-layer structure) | move (Phase 3+) |
+| `covenant_os/ARCHITECTURE.md` | `docs/ARCHITECTURE.md` | move + merge (done in Phase 1) |
+| `covenant_os/INTRODUCTION.md` | `docs/INTRODUCTION.md` | move + merge (done in Phase 1) |
+| `lib/features/covenant_os/` | distribute into `lib/features/` | move + reorganize (Slice A started) |
+| Any covenant routes in `lib/app/routes/homestead_routes.dart` | `lib/app/routes/covenant_routes.dart` | move (Slice A done; PlumbLineOS tombstone in PR3) |
+| Forum / formation group screens | matching feature dirs | move (Slice B+) |
+| Supabase migrations matching `*covenant*`, `*formation*`, `*berean*` | `supabase/migrations/` | Slice A migrations added; full move in Slice B+ |
 
 ---
 
 ## Phase boundaries
 
-### Phase 1 — This PR (scaffold only)
-- Creates the CovenantOS repository structure with fresh placeholder content
-- Does **not** touch PlumbLineOS
-- Establishes the 5-layer `covenant_os/` tree, Flutter app skeleton, docs, and CI
+### Phase 1 — Scaffold (complete)
+- Created the CovenantOS repository structure with fresh placeholder content
+- Did **not** touch PlumbLineOS
+- Established the 5-layer `covenant_os/` tree, Flutter app skeleton, docs, and CI
 
-### Phase 2 — Content migration (future PR)
-- Moves the `covenant_os/` tree from PlumbLineOS to CovenantOS
-- Merges existing `ARCHITECTURE.md` and `INTRODUCTION.md` content into the promoted `docs/` versions
-- Distributes `lib/features/covenant_os/` into the feature-first structure
-- Moves relevant Supabase migrations
-- Tombstones the covenant content in PlumbLineOS (adds deprecation notices pointing here)
+### Phase 2 — Slice A: formation runtime (this PR — complete)
+- Core infrastructure: Supabase service, config, entitlement service
+- Covenant formation vertical: formation groups, session records, Come to the Table, Harvest and Hymn
+- Onboarding/invite acceptance flow
+- Berean Tool stub entry screen
+- GoRouter route wiring with entitlement guard
+- Supabase migrations for Slice A tables
+- PlumbLineOS PR3 cutover documentation
 
-### Phase 3 — PlumbLineOS tombstone (later phase)
-- PlumbLineOS covenant directories are **tombstoned, not deleted**, in a controlled phase
-- A tombstone adds a notice pointing to CovenantOS and prevents future writes to the legacy path
-- The tombstone phase is planned but not scheduled — do not delete anything from PlumbLineOS until explicitly authorized
+### Phase 3 — PlumbLineOS tombstone (next PR: PlumbLineOS PR3)
+- Tombstone /covenant/** routes in TradeCore
+- Remove covenant startup coupling from TradeCore main.dart
+- Remove WeeklyFormationSummaryCard import from Weekly Ops
+- Remove covenant lane from invite-user edge function
+- See `docs/PR3_PLUMBLINEOS_CUTOVER.md` for the full checklist
+
+### Phase 4 — Slice B: Berean Tool + Language Module (future)
+- Full BereanSession model, repository, and session screens
+- Language Module glossary and term management
+- Covenant Forum screens
+- Additional Supabase migrations
+
+### Phase 5 — PlumbLineOS cleanup (future)
+- Delete `lib/features/covenant_os/` from PlumbLineOS after tombstone window
+- Delete `covenant_os/` root tree from PlumbLineOS after tombstone window
 
 ---
 
