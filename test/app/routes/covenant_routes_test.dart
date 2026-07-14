@@ -17,6 +17,35 @@ void main() {
         '/covenant/formation/harvest-and-hymn',
       );
       expect(CovenantRoutePaths.berean, '/covenant/berean');
+      expect(CovenantRoutePaths.language, '/covenant/language');
+      expect(CovenantRoutePaths.forum, '/covenant/forum');
+    });
+
+    test('all Slice A paths are under /covenant prefix', () {
+      final paths = [
+        CovenantRoutePaths.covenant,
+        CovenantRoutePaths.acceptInvite,
+        CovenantRoutePaths.onboarding,
+        CovenantRoutePaths.formation,
+        CovenantRoutePaths.comeToTheTable,
+        CovenantRoutePaths.harvestAndHymn,
+        CovenantRoutePaths.berean,
+        CovenantRoutePaths.language,
+        CovenantRoutePaths.forum,
+      ];
+      for (final path in paths) {
+        expect(
+          path.startsWith('/covenant') || path == CovenantRoutePaths.root,
+          isTrue,
+          reason: '$path should be under /covenant',
+        );
+      }
+    });
+
+    test('accept-invite path supports token query parameter by convention', () {
+      // The path itself carries no token; the token arrives as a query param.
+      // Verify the path does not accidentally encode a token placeholder.
+      expect(CovenantRoutePaths.acceptInvite.contains('token'), isFalse);
     });
   });
 }
