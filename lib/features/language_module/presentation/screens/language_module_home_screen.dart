@@ -36,19 +36,19 @@ class LanguageModuleHomeScreen extends StatelessWidget {
               'reality shape how it understands and practices covenant.',
             ),
             SizedBox(height: 24),
-            _PrincipleRow(
+            _LanguagePrinciple(
               label: 'Ground',
               description:
                   'Every term is grounded in the Foundational Layer '
                   'before it is elaborated here.',
             ),
-            _PrincipleRow(
+            _LanguagePrinciple(
               label: 'Examine',
               description:
                   'Terms are tested against the Berean Tool — does the '
                   'word match what the primary sources actually say?',
             ),
-            _PrincipleRow(
+            _LanguagePrinciple(
               label: 'Form',
               description:
                   'Language that reinforces healthy formation is named '
@@ -68,8 +68,8 @@ class LanguageModuleHomeScreen extends StatelessWidget {
   }
 }
 
-class _PrincipleRow extends StatelessWidget {
-  const _PrincipleRow({
+class _LanguagePrinciple extends StatelessWidget {
+  const _LanguagePrinciple({
     super.key,
     required this.label,
     required this.description,
@@ -86,7 +86,7 @@ class _PrincipleRow extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           SizedBox(
-            width: 80,
+            width: 120,
             child: Text(
               label,
               style: TextStyle(
