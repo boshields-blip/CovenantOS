@@ -70,7 +70,6 @@ class LanguageModuleHomeScreen extends StatelessWidget {
 
 class _LanguagePrinciple extends StatelessWidget {
   const _LanguagePrinciple({
-    super.key,
     required this.label,
     required this.description,
   });

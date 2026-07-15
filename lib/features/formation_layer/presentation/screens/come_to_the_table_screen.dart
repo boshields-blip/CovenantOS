@@ -124,7 +124,7 @@ class _SectionBody extends StatelessWidget {
 }
 
 class _LiturgyStep extends StatelessWidget {
-  const _LiturgyStep({super.key, required this.step, required this.instruction});
+  const _LiturgyStep({required this.step, required this.instruction});
 
   final String step;
   final String instruction;

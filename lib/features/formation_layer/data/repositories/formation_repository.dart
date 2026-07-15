@@ -8,7 +8,7 @@ import '../../domain/models/formation_record.dart';
 /// Data access for formation groups and session records.
 ///
 /// All queries are workspace-scoped — the backend enforces this via RLS,
-/// but all writes also include [workspaceId] explicitly to keep intent clear.
+/// but all writes also include `workspaceId` explicitly to keep intent clear.
 ///
 /// When [AppConfig.isConfigured] is false (no Supabase env vars, e.g. in
 /// tests or demo mode), all read operations return empty lists and all
@@ -67,12 +67,12 @@ class FormationRepository {
           ).toInsertMap(),
         )
         .select()
-        .single() as Map<String, dynamic>;
+        .single();
 
     return FormationGroup.fromMap(inserted);
   }
 
-  /// Soft-deletes a formation group by setting [deletedAt].
+  /// Soft-deletes a formation group by setting `deleted_at`.
   Future<void> deleteGroup(String groupId) async {
     if (!AppConfig.isConfigured) return;
 
@@ -83,7 +83,7 @@ class FormationRepository {
 
   // ── Formation Records ─────────────────────────────────────────────────────
 
-  /// Returns the formation session records for [groupId], newest first.
+  /// Returns the formation session records for `groupId`, newest first.
   Future<List<FormationRecord>> fetchRecordsForGroup(String groupId) async {
     if (!AppConfig.isConfigured) return const [];
 
@@ -128,7 +128,7 @@ class FormationRepository {
           ).toInsertMap(),
         )
         .select()
-        .single() as Map<String, dynamic>;
+        .single();
 
     return FormationRecord.fromMap(inserted);
   }

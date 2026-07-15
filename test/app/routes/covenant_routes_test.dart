@@ -48,4 +48,50 @@ void main() {
       expect(CovenantRoutePaths.acceptInvite.contains('token'), isFalse);
     });
   });
+
+  group('resolveCovenantRedirect', () {
+    test('allows all routes when the app is not configured', () {
+      expect(
+        resolveCovenantRedirect(
+          isConfigured: false,
+          hasSession: false,
+          hasCovenantEntitlement: false,
+        ),
+        isNull,
+      );
+    });
+
+    test('redirects protected routes to accept-invite without a session', () {
+      expect(
+        resolveCovenantRedirect(
+          isConfigured: true,
+          hasSession: false,
+          hasCovenantEntitlement: false,
+        ),
+        CovenantRoutePaths.acceptInvite,
+      );
+    });
+
+    test('redirects protected routes to accept-invite without entitlement', () {
+      expect(
+        resolveCovenantRedirect(
+          isConfigured: true,
+          hasSession: true,
+          hasCovenantEntitlement: false,
+        ),
+        CovenantRoutePaths.acceptInvite,
+      );
+    });
+
+    test('allows protected routes with session and entitlement', () {
+      expect(
+        resolveCovenantRedirect(
+          isConfigured: true,
+          hasSession: true,
+          hasCovenantEntitlement: true,
+        ),
+        isNull,
+      );
+    });
+  });
 }

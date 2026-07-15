@@ -113,7 +113,7 @@ class _SectionBody extends StatelessWidget {
 }
 
 class _SeasonCard extends StatelessWidget {
-  const _SeasonCard({super.key,
+  const _SeasonCard({
     required this.season,
     required this.icon,
     required this.theme,

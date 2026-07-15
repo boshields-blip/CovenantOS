@@ -4,7 +4,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 ///
 /// Call [SupabaseService.client] anywhere in the app to obtain the
 /// authenticated Supabase client. Supabase must be initialised via
-/// [Supabase.initialize] before the first call (done in [main]).
+/// [Supabase.initialize] before the first call (done in `main()`).
 class SupabaseService {
   const SupabaseService._();
 
