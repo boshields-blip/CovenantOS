@@ -93,7 +93,7 @@ class ComeToTheTableScreen extends StatelessWidget {
 }
 
 class _SectionHeader extends StatelessWidget {
-  const _SectionHeader(this.title, {super.key});
+  const _SectionHeader(this.title);
 
   final String title;
 
@@ -113,7 +113,7 @@ class _SectionHeader extends StatelessWidget {
 }
 
 class _SectionBody extends StatelessWidget {
-  const _SectionBody(this.text, {super.key});
+  const _SectionBody(this.text);
 
   final String text;
 
