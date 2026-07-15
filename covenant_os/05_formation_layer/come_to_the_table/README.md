@@ -2,9 +2,9 @@
 
 > *A weekly meal, a short passage, and a household learning to know God together.*
 
-**Come to the Table** is the first concrete communal practice under the Covenant OS Formation Layer. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.
+**Come to the Table** is the first concrete communal practice under the CovenantOS Formation Layer. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.
 
-> **This is a documentation-only scaffold.** No runtime code, no persistence wiring. This module lives entirely under `covenant_os/05_formation_layer/come_to_the_table/` and is intentionally documentation-first.
+> **This directory is documentation-first.** Runtime presentation may exist elsewhere in CovenantOS, but this module lives under `covenant_os/05_formation_layer/come_to_the_table/` and does not define app code or persistence wiring.
 
 ---
 
@@ -30,9 +30,9 @@ It is also designed to be hospitable outward: a format portable enough to share 
 
 1. Read [SESSION_FORMAT.md](./SESSION_FORMAT.md) — the canonical seven-movement liturgy of one weekly meal.
 2. Read [AGE_BANDS.md](./AGE_BANDS.md) — how to invite each age into the same passage.
-3. Run the first session using [sessions/0001_in_the_beginning.md](./sessions/0001_in_the_beginning.md).
+3. Run the first session using the pattern in [SESSION_FORMAT.md](./SESSION_FORMAT.md).
 4. Use the [HOST_GUIDE.md](./HOST_GUIDE.md) to prepare and lead.
-5. When you are ready to think about the longer plan, read [CANONICAL_ARC.md](./CANONICAL_ARC.md) and browse the [Year 1 session index](./sessions/YEAR_1_INDEX.md).
+5. When you are ready to think about the longer plan, read [CANONICAL_ARC.md](./CANONICAL_ARC.md).
 
 There is no required reading before the first session. Pick a passage, open a Bible, and begin.
 
@@ -51,17 +51,14 @@ There is no required reading before the first session. Pick a passage, open a Bi
 | [BEREAN_AT_THE_TABLE.md](./BEREAN_AT_THE_TABLE.md) | How and when to bring the Berean Tool to the family table |
 | [GUEST_FAMILY_GUIDE.md](./GUEST_FAMILY_GUIDE.md) | How to invite and host another family |
 | [SEASONAL_LITURGY.md](./SEASONAL_LITURGY.md) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
-| [sessions/YEAR_1_INDEX.md](./sessions/YEAR_1_INDEX.md) | Year 1 session index — 25 sessions across Genesis 1–12, Psalms, Mark, and Exodus |
-| [sessions/0001_in_the_beginning.md](./sessions/0001_in_the_beginning.md) | Session 0001 — Genesis 1:1–5 (and 24 more in the Year 1 library) |
 | [liturgies/opening.md](./liturgies/opening.md) | A short opening call to attention and blessing of the meal |
 | [liturgies/reading.md](./liturgies/reading.md) | How Scripture is read at the table |
 | [liturgies/closing.md](./liturgies/closing.md) | A short closing blessing as plates are cleared |
 | [liturgies/seasonal/](./liturgies/seasonal/) | Spring/Summer/Fall/Winter opening and closing overlays for weekly sessions |
-| [schemas/session.schema.md](./schemas/session.schema.md) | Documentation-only data shape for a session |
 
 ---
 
-## How this module relates to the rest of Covenant OS
+## How this module relates to the rest of CovenantOS
 
 - **01 Foundational Layer** supplies the covenantal "who God is" that the *Live* movement points to every week.
 - **02 Diagnostic Layer** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.

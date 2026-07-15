@@ -1,8 +1,6 @@
 # Introduction to CovenantOS
 
-**Status:** Draft  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
 
 ---
 
@@ -43,7 +41,7 @@ The practical reasons are just as compelling:
 3. **Different velocities.** Formation content matures slowly and thoughtfully. Operational software ships fast. Mixing them creates friction in both directions.
 4. **Standalone value.** CovenantOS is worth using without any homestead, market, or plumbing context. It deserves to stand on its own.
 
-CovenantOS content is being migrated from PlumbLineOS, where a `covenant_os/` directory grew organically. See [`MIGRATION_FROM_PLUMBLINEOS.md`](../MIGRATION_FROM_PLUMBLINEOS.md) for the full migration plan.
+CovenantOS content originated in PlumbLineOS, where a `covenant_os/` directory grew organically. See [`MIGRATION_FROM_PLUMBLINEOS.md`](../MIGRATION_FROM_PLUMBLINEOS.md) for the migration history and transitional ledger.
 
 ---
 
@@ -57,7 +55,7 @@ CovenantOS content is being migrated from PlumbLineOS, where a `covenant_os/` di
 5. Formation Layer     — embodied practices (Come to the Table; Harvest and Hymn)
 ```
 
-Each layer builds on the layers below it. Lower layers are stable and do not depend on higher layers. The full architecture is described in [`docs/ARCHITECTURE.md`](ARCHITECTURE.md).
+Each layer builds on the layers below it. Lower layers are stable and do not depend on higher layers. The full ownership and boundary model is described in [`docs/ARCHITECTURE.md`](ARCHITECTURE.md).
 
 ---
 
@@ -65,5 +63,9 @@ Each layer builds on the layers below it. Lower layers are stable and do not dep
 
 - **`covenant_os/`** — the markdown-first content tree for all five layers. Start here to read or contribute formation content.
 - **`lib/`** — the Flutter app that presents the content. Feature-first structure mirroring the 5-layer architecture.
-- **`docs/`** — architecture, integration, and Supabase documentation.
-- **`MIGRATION_FROM_PLUMBLINEOS.md`** — describes what is being moved from PlumbLineOS and when.
+- **`docs/ARCHITECTURE.md`** — canonical ownership boundaries, runtime responsibilities, and handoff behavior.
+- **`docs/INTEGRATION_WITH_COMMUNITY_OS.md`** — canonical CommunityOS integration contract.
+- **`docs/SUPABASE.md`** — canonical shared-project and data-boundary rules.
+- **`MIGRATION_FROM_PLUMBLINEOS.md`** — migration history and transitional plan from PlumbLineOS.
+
+If this introduction conflicts with the architecture docs above, the architecture docs are authoritative.

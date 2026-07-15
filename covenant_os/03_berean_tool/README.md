@@ -9,7 +9,7 @@ The Berean Tool helps people understand the philosophy behind various teachings 
 ## Navigation
 
 - How to use it: [how_to_use.md](./how_to_use.md) — start here for the interactive guide
-- Architecture context: [../ARCHITECTURE.md](../ARCHITECTURE.md)
+- Architecture context: [../../docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md)
 - System design: [./system_design.md](./system_design.md)
 - Output template: [./berean_profile_template.md](./berean_profile_template.md)
 - Worked example: [./sample_profiles/composite_example.md](./sample_profiles/composite_example.md)

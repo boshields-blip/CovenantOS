@@ -1,18 +1,45 @@
 # Architecture
 
-**Status:** Draft  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
 
 ---
 
 ## Overview
 
-CovenantOS is structured around five discrete layers, each building on the one below it. The layers form a dependency hierarchy: lower layers are foundational and do not depend on higher layers, while higher layers may draw on any layer below them. This structure ensures that core formation principles remain stable and independent, even as practices and tools evolve in the upper layers.
+CovenantOS is a standalone philosophical and formational product structured around five discrete layers, each building on the one below it. The layers form a dependency hierarchy: lower layers are foundational and do not depend on higher layers, while higher layers may draw on any layer below them. This structure keeps core formation principles stable while allowing practices, language, and presentation flows to evolve without blurring product boundaries.
 
 ---
 
-## The 5 Layers
+## Canonical source-of-truth map
+
+Use the following authority order when architecture language overlaps:
+
+| Document | Authority | Use |
+|---|---|---|
+| `docs/ARCHITECTURE.md` | Canonical | Ownership boundaries, layer rules, runtime responsibilities, and handoff behavior |
+| `docs/INTEGRATION_WITH_COMMUNITY_OS.md` | Canonical | CommunityOS integration contract and fallback behavior |
+| `docs/SUPABASE.md` | Canonical | Shared-project data boundary, naming rules, and credential posture |
+| `MIGRATION_FROM_PLUMBLINEOS.md` | Transitional | Migration ledger and phase history; not the steady-state source of truth |
+| `docs/PR3_PLUMBLINEOS_CUTOVER.md` | Transitional | PlumbLineOS tombstone/redirect checklist during cutover |
+| `README.md` and `docs/INTRODUCTION.md` | Orientation | Entry points and summaries; defer to canonical docs if wording diverges |
+
+---
+
+## Ownership and boundary matrix
+
+| Domain / capability | Owned by CovenantOS | Explicitly not owned by CovenantOS | Boundary / handoff contract |
+|---|---|---|---|
+| 5-layer formation architecture | Yes — `covenant_os/` and matching Flutter features | Trade workflows, homestead operations, commerce | Lower layers must not reference higher layers |
+| Covenant onboarding, formation runtime, and group/forum flows | Yes — `lib/features/covenant_onboarding/`, `formation_layer/`, `covenant_forum/` | TradeCore onboarding, CommunityOS Academy runtime | CovenantOS owns covenant invite acceptance and covenant write paths |
+| CommunityOS Academy intro framing | No — CommunityOS owns Academy tracks and intro card lifecycle | CovenantOS does not own track schemas, permissions, or Academy business logic | CommunityOS may optionally consume a CovenantOS `frameOverride`; fallback is the default Academy intro |
+| PlumbLineOS covenant route cutover | No — PlumbLineOS owns TradeCore routes and tombstones | CovenantOS does not own TradeCore redirects after handoff | PlumbLineOS must tombstone old covenant routes and deep link to CovenantOS without writing data |
+| Shared auth / shared Supabase project with CommunityOS | CovenantOS owns its own tables, policies, and migrations in the shared project | CovenantOS does not own CommunityOS tables or shared-project internals beyond covenant scope | Shared identity is allowed; application-layer joins or reverse dependencies are not |
+| TradeCore plumbing / HVAC domain | No | PlumbLineOS owns it | Redirect users to PlumbLineOS for operational trade work |
+| Homestead / market / wholesale / MeshCore domain | No | CommunityOS owns it | Redirect users to CommunityOS for operational homestead or commerce work |
+
+---
+
+## The 5 layers
 
 ### Layer 1 — Foundational Layer
 
@@ -85,7 +112,7 @@ The Formation Layer draws on all four layers below it and is the only layer perm
 
 ## Layer dependency diagram
 
-```
+```text
 Layer 5 — Formation Layer
     ↓ may reference Layers 1–4
 
@@ -108,29 +135,57 @@ Layer 1 — Foundational Layer
 
 ## Flutter app architecture
 
-The `lib/features/` directory mirrors the layer structure:
+The `lib/features/` directory mirrors the layer structure and adds limited cross-cutting surfaces:
 
-| Feature directory | Corresponding layer |
+| Feature directory | Role |
 |---|---|
 | `lib/features/berean_tool/` | Layer 3 — Berean Tool |
 | `lib/features/language_module/` | Layer 4 — Language Module |
 | `lib/features/formation_layer/` | Layer 5 — Formation Layer |
-| `lib/features/covenant_forum/` | Cross-cutting — community/forum surfaces for formation practices |
+| `lib/features/covenant_onboarding/` | CovenantOS-specific onboarding and invite acceptance |
+| `lib/features/covenant_forum/` | Cross-cutting community/forum surfaces that support formation practices |
 
-The same 5-layer separation rule applies to Dart code: lower-layer feature packages must not import from higher-layer feature packages.
+The same 5-layer separation rule applies to Dart code: lower-layer feature packages must not import from higher-layer feature packages. Cross-cutting surfaces must not create backdoor upward dependencies.
 
 ---
 
-## Optional integration with CommunityOS
+## Boundary operating model
 
-CovenantOS may be optionally surfaced inside `boshields-blip/CommunityOS` via a `frameOverride` hook on Homestead Academy tracks. The relationship is strictly **one-way**:
+### What CovenantOS owns
 
-- **CommunityOS** optionally imports a Covenant formation frame and displays it as an overlay on Homestead Academy track intros.
-- **CovenantOS** has no knowledge of CommunityOS, Homestead OS, Market OS, or Wholesale OS.
+- The formational content tree under `covenant_os/`
+- CovenantOS-specific presentation, onboarding, and formation runtime in `lib/`
+- Covenant-specific tables and migrations in `supabase/migrations/`
+- Covenant invite acceptance, covenant entitlements, and covenant formation records
 
-The hook works as follows: CommunityOS defines a `frameOverride` contract on each Academy track. When a CovenantOS formation frame is available and the user has opted into it, the default intro card is replaced by a Covenant-flavored card. No schema changes are required in either repository; the override is a pure content/presentation overlay.
+### What CovenantOS does not own
 
-See [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](INTEGRATION_WITH_COMMUNITY_OS.md) for full integration details.
+- PlumbLineOS trade workflows, trade routes, or commercial plumbing / HVAC operations
+- CommunityOS homestead, market, wholesale, MeshCore, or Academy business logic
+- Cross-repo reverse imports, shared app-layer models, or shared routing ownership
+
+### Boundary behavior
+
+#### CommunityOS handoff
+
+- CommunityOS owns the Academy track and intro-card lifecycle.
+- CovenantOS may supply optional formation framing through the `frameOverride` contract.
+- If CovenantOS content is unavailable, disabled, or invalid, CommunityOS falls back to its default Academy intro card.
+- The integration is presentation/content-only: no cross-repo write path, no schema coupling, and no reverse dependency from CovenantOS into CommunityOS.
+
+#### PlumbLineOS handoff
+
+- PlumbLineOS must tombstone legacy covenant routes after cutover.
+- Tombstones may deep link to CovenantOS when a launch target is available.
+- If a deep link is unavailable, the tombstone should show an informative redirect message and stop.
+- Tombstones must not write data, call covenant RPCs, or preserve competing TradeCore write paths.
+
+#### Shared data boundary
+
+- CovenantOS and CommunityOS may share a Supabase project in production.
+- The shared project enables shared identity, not shared application ownership.
+- CovenantOS tables stay covenant-prefixed and application behavior must not rely on cross-product joins or reverse imports.
+- PlumbLineOS remains on a separate Supabase project.
 
 ---
 
@@ -138,9 +193,9 @@ See [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](INTEGRATION_WITH_COMMUNITY_OS.md) 
 
 The `covenant_os/` directory contains the markdown-first content for all five layers:
 
-```
+```text
 covenant_os/
-├── README.md                            — tree overview and navigation
+├── README.md                            — content tree overview and navigation
 ├── 01_foundational_layer/README.md      — first principles and frame
 ├── 02_diagnostic_engine/README.md       — beliefs, contradictions, patterns
 ├── 03_berean_tool/README.md             — scripture/text examination
@@ -155,4 +210,4 @@ covenant_os/
 
 ## Supabase
 
-CovenantOS shares a Supabase project with CommunityOS in production. PlumbLineOS uses its own separate Supabase project. See [`docs/SUPABASE.md`](SUPABASE.md) for details.
+CovenantOS shares a Supabase project with CommunityOS in production, while PlumbLineOS uses a separate project. See [`docs/SUPABASE.md`](SUPABASE.md) for data-boundary details.
