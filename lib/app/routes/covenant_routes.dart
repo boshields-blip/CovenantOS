@@ -44,30 +44,46 @@ abstract final class CovenantRoutePaths {
 ///
 /// Deep links arrive as `/covenant/accept-invite?token=<TOKEN>`. The
 /// [AcceptInviteScreen] reads the `token` query parameter and calls
-/// [InviteRepository.redeemInvite] to redeem the invite, then refreshes
+/// `InviteRepository.redeemInvite` to redeem the invite, then refreshes
 /// the session and navigates to `/covenant/onboarding`.
-GoRouter buildCovenantRouter() {
-  final entitlementService = const EntitlementService();
+String? resolveCovenantRedirect({
+  required bool isConfigured,
+  required bool hasSession,
+  required bool hasCovenantEntitlement,
+}) {
+  if (!isConfigured) return null;
+  if (!hasSession || !hasCovenantEntitlement) {
+    return CovenantRoutePaths.acceptInvite;
+  }
+  return null;
+}
+
+GoRouter buildCovenantRouter({
+  String initialLocation = CovenantRoutePaths.covenant,
+  bool? isConfiguredOverride,
+  bool? hasSessionOverride,
+  bool? hasCovenantEntitlementOverride,
+}) {
+  const entitlementService = EntitlementService();
 
   String? guardCovenant(BuildContext context, GoRouterState state) {
-    // When Supabase is not configured (e.g. tests, demo mode), allow all
-    // routes through without an entitlement check.
-    if (!AppConfig.isConfigured) return null;
+    final isConfigured = isConfiguredOverride ?? AppConfig.isConfigured;
+    final hasSession = hasSessionOverride ??
+        Supabase.instance.client.auth.currentSession != null;
 
-    final session = Supabase.instance.client.auth.currentSession;
-    if (session == null) {
-      // Not authenticated — bounce to accept-invite
-      return CovenantRoutePaths.acceptInvite;
-    }
-    if (!entitlementService.hasCovenant()) {
-      // Authenticated but no covenant entitlement — bounce to accept-invite
-      return CovenantRoutePaths.acceptInvite;
-    }
-    return null; // access granted
+    final hasCovenantEntitlement = hasSession
+        ? (hasCovenantEntitlementOverride ?? entitlementService.hasCovenant())
+        : false;
+
+    return resolveCovenantRedirect(
+      isConfigured: isConfigured,
+      hasSession: hasSession,
+      hasCovenantEntitlement: hasCovenantEntitlement,
+    );
   }
 
   return GoRouter(
-    initialLocation: CovenantRoutePaths.covenant,
+    initialLocation: initialLocation,
     routes: [
       GoRoute(
         path: CovenantRoutePaths.root,

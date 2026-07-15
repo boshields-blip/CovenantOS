@@ -43,7 +43,7 @@ class InviteRepository {
   /// On success, the backend grants the `os.covenant` entitlement to the
   /// calling user's Identity Spine record. The caller should refresh the
   /// auth session after a successful redemption to pick up the new
-  /// entitlement in [currentUser.appMetadata].
+  /// entitlement in the current user's `appMetadata`.
   Future<InviteRedemptionResult> redeemInvite(String token) async {
     if (!AppConfig.isConfigured) {
       return const InviteRedemptionResult(
@@ -91,7 +91,7 @@ class InviteRepository {
   }
 
   /// Refreshes the current auth session so that newly-granted entitlements
-  /// appear in [currentUser.appMetadata] without requiring a sign-out.
+  /// appear in the current user's `appMetadata` without requiring a sign-out.
   Future<void> refreshSession() async {
     if (!AppConfig.isConfigured) return;
     await SupabaseService.client.auth.refreshSession();

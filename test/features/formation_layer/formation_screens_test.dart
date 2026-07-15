@@ -1,7 +1,7 @@
+import 'package:covenant_os/features/berean_tool/presentation/screens/berean_home_screen.dart';
 import 'package:covenant_os/features/formation_layer/presentation/screens/come_to_the_table_screen.dart';
 import 'package:covenant_os/features/formation_layer/presentation/screens/formation_home_screen.dart';
 import 'package:covenant_os/features/formation_layer/presentation/screens/harvest_and_hymn_screen.dart';
-import 'package:covenant_os/features/berean_tool/presentation/screens/berean_home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

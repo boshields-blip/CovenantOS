@@ -7,7 +7,7 @@ import '../../data/repositories/invite_repository.dart';
 /// Screen presented to a user who arrives via a covenant invite link.
 ///
 /// The invite token is typically extracted from the deep-link URL by
-/// [CovenantRouter] and passed as a query parameter.
+/// `buildCovenantRouter()` and passed as a query parameter.
 ///
 /// ## Guard behaviour
 ///

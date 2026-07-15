@@ -71,11 +71,13 @@ class _FormationHomeScreenState extends State<FormationHomeScreen> {
               style: Theme.of(context).textTheme.titleMedium,
             ),
             const SizedBox(height: 8),
-            Expanded(child: _GroupList(
-              groups: _groups,
-              errorMessage: _errorMessage,
-              onRefresh: _loadGroups,
-            )),
+            Expanded(
+              child: _GroupList(
+                groups: _groups,
+                errorMessage: _errorMessage,
+                onRefresh: _loadGroups,
+              ),
+            ),
           ],
         ),
       ),
@@ -84,7 +86,7 @@ class _FormationHomeScreenState extends State<FormationHomeScreen> {
 }
 
 class _PracticeCard extends StatelessWidget {
-  const _PracticeCard({super.key,
+  const _PracticeCard({
     required this.title,
     required this.subtitle,
     required this.onTap,
@@ -108,7 +110,7 @@ class _PracticeCard extends StatelessWidget {
 }
 
 class _GroupList extends StatelessWidget {
-  const _GroupList({super.key,
+  const _GroupList({
     required this.groups,
     required this.errorMessage,
     required this.onRefresh,

@@ -72,7 +72,6 @@ class CovenantForumHomeScreen extends StatelessWidget {
 
 class _ForumPrinciple extends StatelessWidget {
   const _ForumPrinciple({
-    super.key,
     required this.label,
     required this.description,
   });

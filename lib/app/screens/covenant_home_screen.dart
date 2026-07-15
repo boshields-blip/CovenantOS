@@ -64,7 +64,7 @@ class CovenantHomeScreen extends StatelessWidget {
 }
 
 class _NavCard extends StatelessWidget {
-  const _NavCard({super.key,
+  const _NavCard({
     required this.title,
     required this.subtitle,
     required this.icon,

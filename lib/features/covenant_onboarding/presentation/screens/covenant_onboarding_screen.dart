@@ -5,7 +5,7 @@ import 'package:go_router/go_router.dart';
 ///
 /// Walks the new CovenantOS member through a brief orientation before
 /// sending them to the main formation home. This screen should only be
-/// reached after a successful [AcceptInviteScreen] redemption — the router
+/// reached after a successful `AcceptInviteScreen` redemption — the router
 /// guards this route behind the `os.covenant` entitlement check.
 class CovenantOnboardingScreen extends StatelessWidget {
   const CovenantOnboardingScreen({super.key});
@@ -30,27 +30,27 @@ class CovenantOnboardingScreen extends StatelessWidget {
               'Each layer builds on the ones below it.',
             ),
             const SizedBox(height: 20),
-            _LayerCard(
+            const _LayerCard(
               number: '1',
               title: 'Foundational Layer',
               description: 'First principles and the governing frame.',
             ),
-            _LayerCard(
+            const _LayerCard(
               number: '2',
               title: 'Diagnostic Engine',
               description: 'Surface beliefs, contradictions, and patterns.',
             ),
-            _LayerCard(
+            const _LayerCard(
               number: '3',
               title: 'Berean Tool',
               description: 'Scripture and text examination.',
             ),
-            _LayerCard(
+            const _LayerCard(
               number: '4',
               title: 'Language Module',
               description: 'Covenantal vocabulary and formation language.',
             ),
-            _LayerCard(
+            const _LayerCard(
               number: '5',
               title: 'Formation Layer',
               description:
@@ -69,7 +69,7 @@ class CovenantOnboardingScreen extends StatelessWidget {
 }
 
 class _LayerCard extends StatelessWidget {
-  const _LayerCard({super.key,
+  const _LayerCard({
     required this.number,
     required this.title,
     required this.description,

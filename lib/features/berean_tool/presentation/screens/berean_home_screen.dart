@@ -66,7 +66,7 @@ class BereanHomeScreen extends StatelessWidget {
 }
 
 class _MethodStep extends StatelessWidget {
-  const _MethodStep({super.key, required this.label, required this.description});
+  const _MethodStep({required this.label, required this.description});
 
   final String label;
   final String description;
