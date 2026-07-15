@@ -5,11 +5,13 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../core/config/app_config.dart';
 import '../../core/services/entitlement_service.dart';
 import '../../features/berean_tool/presentation/screens/berean_home_screen.dart';
+import '../../features/covenant_forum/presentation/screens/covenant_forum_home_screen.dart';
 import '../../features/covenant_onboarding/presentation/screens/accept_invite_screen.dart';
 import '../../features/covenant_onboarding/presentation/screens/covenant_onboarding_screen.dart';
 import '../../features/formation_layer/presentation/screens/come_to_the_table_screen.dart';
 import '../../features/formation_layer/presentation/screens/formation_home_screen.dart';
 import '../../features/formation_layer/presentation/screens/harvest_and_hymn_screen.dart';
+import '../../features/language_module/presentation/screens/language_module_home_screen.dart';
 import '../screens/covenant_home_screen.dart';
 
 /// Route paths used throughout the application.
@@ -22,6 +24,8 @@ abstract final class CovenantRoutePaths {
   static const String comeToTheTable = '/covenant/formation/come-to-the-table';
   static const String harvestAndHymn = '/covenant/formation/harvest-and-hymn';
   static const String berean = '/covenant/berean';
+  static const String language = '/covenant/language';
+  static const String forum = '/covenant/forum';
 }
 
 /// Builds the [GoRouter] for CovenantOS.
@@ -116,6 +120,39 @@ GoRouter buildCovenantRouter() {
         redirect: guardCovenant,
         builder: (context, state) => const BereanHomeScreen(),
       ),
+
+      // ── Language Module ────────────────────────────────────────────────
+      GoRoute(
+        path: CovenantRoutePaths.language,
+        redirect: guardCovenant,
+        builder: (context, state) => const LanguageModuleHomeScreen(),
+      ),
+
+      // ── Covenant Forum ─────────────────────────────────────────────────
+      GoRoute(
+        path: CovenantRoutePaths.forum,
+        redirect: guardCovenant,
+        builder: (context, state) => const CovenantForumHomeScreen(),
+      ),
     ],
+    errorBuilder: (context, state) => Scaffold(
+      appBar: AppBar(title: const Text('Page Not Found')),
+      body: Center(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            const Text(
+              'This page does not exist.',
+              style: TextStyle(fontSize: 16),
+            ),
+            const SizedBox(height: 16),
+            TextButton(
+              onPressed: () => context.go(CovenantRoutePaths.covenant),
+              child: const Text('Go to CovenantOS Home'),
+            ),
+          ],
+        ),
+      ),
+    ),
   );
 }
