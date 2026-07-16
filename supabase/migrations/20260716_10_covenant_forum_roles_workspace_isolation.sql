@@ -77,10 +77,10 @@ CREATE POLICY covenant_forum_roles_write_workspace_admin ON covenant_forum_roles
        WHERE user_id = auth.uid()
     )
     AND EXISTS (
-      SELECT 1 FROM covenant_forum_roles
-       WHERE user_id = auth.uid()
-         AND workspace_id = covenant_forum_roles.workspace_id
-         AND role = 'admin'
+      SELECT 1 FROM covenant_forum_roles r2
+       WHERE r2.user_id = auth.uid()
+         AND r2.workspace_id = covenant_forum_roles.workspace_id
+         AND r2.role = 'admin'
     )
   )
   WITH CHECK (
@@ -90,10 +90,10 @@ CREATE POLICY covenant_forum_roles_write_workspace_admin ON covenant_forum_roles
        WHERE user_id = auth.uid()
     )
     AND EXISTS (
-      SELECT 1 FROM covenant_forum_roles
-       WHERE user_id = auth.uid()
-         AND workspace_id = covenant_forum_roles.workspace_id
-         AND role = 'admin'
+      SELECT 1 FROM covenant_forum_roles r2
+       WHERE r2.user_id = auth.uid()
+         AND r2.workspace_id = covenant_forum_roles.workspace_id
+         AND r2.role = 'admin'
     )
   );
 
