@@ -1,22 +1,18 @@
 # Migration from PlumbLineOS
 
-**Status:** Slice A Complete  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-07-10
+**Status:** Transitional | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
 
 ---
 
 ## Overview
 
-CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covenant_os/` directory currently lives at the repository root. This document describes the migration plan — what moves, where it goes, and what remains behind.
+CovenantOS was separated from `boshields-blip/PlumbLineOS`, where a `covenant_os/` directory originally lived at the repository root. This document is the migration ledger: it records what moved, what remains in transition, and what handoff work still belongs to PlumbLineOS.
 
-**Phase 1 (scaffold)** created the CovenantOS repository structure with fresh placeholder content.  
-**Phase 2 / Slice A (this PR)** establishes the Covenant formation runtime vertical in CovenantOS.  
-**Phase 3 (PlumbLineOS PR3)** will tombstone and redirect the covenant paths in TradeCore.
+**Authority note:** This document is transitional. For steady-state ownership and runtime boundaries, use [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) and [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](docs/INTEGRATION_WITH_COMMUNITY_OS.md).
 
 ---
 
-## Slice A — What is now owned by CovenantOS
+## What is now owned by CovenantOS
 
 | Capability | Location | Status |
 |---|---|---|
@@ -33,7 +29,7 @@ CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covena
 | Berean Tool home screen (stub) | `lib/features/berean_tool/` | ✅ Stub |
 | GoRouter route wiring | `lib/app/routes/covenant_routes.dart` | ✅ Done |
 | Supabase migrations (4 tables) | `supabase/migrations/` | ✅ Done |
-| PlumbLineOS PR3 cutover guide | `docs/PR3_PLUMBLINEOS_CUTOVER.md` | ✅ Done |
+| PlumbLineOS PR3 cutover guide | `docs/PR3_PLUMBLINEOS_CUTOVER.md` | ✅ Documented |
 
 ---
 
@@ -58,7 +54,7 @@ CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covena
 - Did **not** touch PlumbLineOS
 - Established the 5-layer `covenant_os/` tree, Flutter app skeleton, docs, and CI
 
-### Phase 2 — Slice A: formation runtime (this PR — complete)
+### Phase 2 — Slice A: formation runtime (complete)
 - Core infrastructure: Supabase service, config, entitlement service
 - Covenant formation vertical: formation groups, session records, Come to the Table, Harvest and Hymn
 - Onboarding/invite acceptance flow
@@ -67,7 +63,7 @@ CovenantOS is being separated from `boshields-blip/PlumbLineOS`, where a `covena
 - Supabase migrations for Slice A tables
 - PlumbLineOS PR3 cutover documentation
 
-### Phase 3 — PlumbLineOS tombstone (next PR: PlumbLineOS PR3)
+### Phase 3 — PlumbLineOS tombstone (planned in PlumbLineOS)
 - Tombstone /covenant/** routes in TradeCore
 - Remove covenant startup coupling from TradeCore main.dart
 - Remove WeeklyFormationSummaryCard import from Weekly Ops
@@ -102,5 +98,5 @@ CovenantOS is purely formational and philosophical. Nothing operational, commerc
 
 ## Related repositories
 
-- `boshields-blip/PlumbLineOS` — source of the covenant content being migrated
+- `boshields-blip/PlumbLineOS` — source repository for migrated covenant content and owner of the remaining tombstone work
 - `boshields-blip/CommunityOS` — optional consumer of CovenantOS via the `frameOverride` hook

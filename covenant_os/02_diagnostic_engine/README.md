@@ -1,17 +1,17 @@
 # Diagnostic Engine
 
-The diagnostic engine is the analytical core of Covenant OS.
+The diagnostic engine is the analytical core of CovenantOS.
 
-- Root architecture: [../ARCHITECTURE.md](../ARCHITECTURE.md)
+- Root architecture: [../../docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md)
 - Foundational contrast: [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md)
 - Category files: [./categories/01_metaphysics.md](./categories/01_metaphysics.md), [./categories/02_epistemology.md](./categories/02_epistemology.md), [./categories/03_anthropology.md](./categories/03_anthropology.md), [./categories/04_ethics.md](./categories/04_ethics.md), [./categories/05_social_political.md](./categories/05_social_political.md), [./categories/06_identity_meaning.md](./categories/06_identity_meaning.md), [./categories/07_eschatology.md](./categories/07_eschatology.md)
 - Philosophy modules: [./philosophy_modules/README.md](./philosophy_modules/README.md)
 - Western diagnostic map: [./western_christianity_diagnostic_map.md](./western_christianity_diagnostic_map.md)
-- Schemas: [./schemas/philosophy_module.schema.json](./schemas/philosophy_module.schema.json), [./schemas/diagnostic_profile.schema.json](./schemas/diagnostic_profile.schema.json)
+- Planned schema artifacts: philosophy module and diagnostic profile schemas will be documented alongside this layer as the runtime surface expands.
 
 ## Why the engine is modular
 
-Rival philosophical systems are rarely absorbed as one neat package. People inherit pieces: an anthropology from therapeutic culture, an epistemology from rationalism, an eschatology from progressivism, and an ethic from consumer logic. The modular structure lets Covenant OS trace those pieces without flattening them into a single label.
+Rival philosophical systems are rarely absorbed as one neat package. People inherit pieces: an anthropology from therapeutic culture, an epistemology from rationalism, an eschatology from progressivism, and an ethic from consumer logic. The modular structure lets CovenantOS trace those pieces without flattening them into a single label.
 
 ## Why the engine is categorical
 
@@ -25,7 +25,7 @@ The engine uses seven recurring categories because nearly every worldview answer
 6. Identity/Meaning
 7. Eschatology
 
-This lets Covenant OS compare very different systems on shared terrain.
+This lets CovenantOS compare very different systems on shared terrain.
 
 ## Why the engine is contrastive
 
@@ -49,7 +49,7 @@ The contrast engine is the interpretive act that compares:
 - the rival philosophies that appear to be shaping the subject,
 - and the covenantal alternative.
 
-In a future implementation, this layer would generate structured diagnostic outputs. In this scaffold it is expressed through the markdown analysis and JSON schemas.
+The current implementation expresses this layer primarily through markdown analysis and JSON schemas, with additional runtime support able to grow without changing the ownership boundary.
 
 ## Posture of use
 

@@ -1,8 +1,6 @@
 # Supabase
 
-**Status:** Draft  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-06-12
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
 
 ---
 
@@ -10,11 +8,13 @@
 
 CovenantOS and CommunityOS share a single Supabase project in production. This means:
 
-- Users have a unified identity across both tools (one auth account works in CovenantOS and in CommunityOS's Homestead Academy, Market OS, and Wholesale OS)
-- Row-level security (RLS) policies are defined per-table and enforce product-level isolation even within the shared project
-- Migrations from both repositories land in the same database, and naming conventions must avoid collisions
+- Users can have a unified identity across both tools
+- Row-level security (RLS) is enforced per table
+- Migrations from both repositories land in the same database, so naming must remain product-specific
 
-**PlumbLineOS uses a separate Supabase project.** TradeCore (commercial plumbing/HVAC) clients share a database with each other but not with CovenantOS or CommunityOS users.
+**PlumbLineOS uses a separate Supabase project.** TradeCore (commercial plumbing/HVAC) data does not share a project with CovenantOS or CommunityOS.
+
+The shared Supabase project is a deployment detail, not a license to blur product ownership. Shared identity is allowed; reverse imports, cross-product write paths, and application-layer coupling are not.
 
 ---
 
@@ -24,20 +24,22 @@ Do not add Supabase credentials, API keys, service role secrets, or any live env
 
 ---
 
-## Migrations layout
+## Current migrations layout
 
 Migrations live in `supabase/migrations/`. Each migration file follows the naming convention:
 
-```
+```text
 YYYYMMDD_NN_short_description.sql
 ```
 
-For example:
-```
+Current migrations:
+
+```text
 supabase/migrations/
-├── 20260801_01_covenant_formation_groups.sql
-├── 20260801_02_berean_tool_sessions.sql
-└── ...
+├── 20260710_01_covenant_formation_groups.sql
+├── 20260710_02_covenant_formation_records.sql
+├── 20260710_03_covenant_workspace_members.sql
+└── 20260710_04_covenant_berean_sessions.sql
 ```
 
 Migrations are applied in lexicographic order. Keep migration files small and focused — one concern per file.
@@ -47,22 +49,19 @@ Migrations are applied in lexicographic order. Keep migration files small and fo
 ## Schema conventions
 
 - All CovenantOS tables are prefixed with `covenant_` to avoid collisions with CommunityOS tables in the shared project
-- Row-level security is enabled on all tables
-- Soft deletes (via `deleted_at` timestamp) are preferred over hard deletes for formation content
-- Schema work has not yet begun; this file is a placeholder
+- Row-level security is enabled on all CovenantOS tables
+- Product boundaries are enforced in application logic and policy design, even inside the shared project
+- Prefer additive, focused migrations rather than large multi-concern changes
 
 ---
 
-## Upcoming schema work
-
-The following tables are anticipated but not yet designed or migrated:
+## Current CovenantOS schema surface
 
 | Table | Purpose |
 |---|---|
 | `covenant_formation_groups` | Groups of users engaged in formation practices together |
-| `covenant_berean_sessions` | Individual or group scripture/text examination sessions |
-| `covenant_diagnostic_entries` | Logged belief diagnostics and pattern observations |
-| `covenant_language_terms` | Community-defined covenantal vocabulary entries |
 | `covenant_formation_records` | Logs of Come to the Table and Harvest and Hymn sessions |
+| `covenant_workspace_members` | Membership and access for covenant workspaces |
+| `covenant_berean_sessions` | Individual or group scripture/text examination sessions |
 
-Schema design will begin in Phase 2 after content migration from PlumbLineOS is complete.
+Future covenant tables may be added as the Diagnostic Engine and Language Module gain runtime support, but those additions must preserve the same product-boundary rules.

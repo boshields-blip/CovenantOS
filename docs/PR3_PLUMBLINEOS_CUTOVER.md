@@ -1,19 +1,22 @@
 # PlumbLineOS PR3 — Covenant Tombstone / Cutover Actions
 
-**Status:** Pending (to be executed after CovenantOS PR2 merges)  
-**Owner:** @boshields-blip  
-**Last updated:** 2026-07-10
+**Status:** Transitional | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
 
 ---
 
 ## Purpose
 
 This document describes the exact actions that PlumbLineOS PR3 must take to
-tombstone the Covenant formation vertical after this PR (CovenantOS PR2) merges.
+tombstone the Covenant formation vertical after CovenantOS runtime ownership has
+moved into this repository.
 
 CovenantOS now owns Covenant formation runtime. PlumbLineOS PR3 completes the
 cutover by removing or redirecting the Covenant paths from TradeCore so that
 there are no competing write paths.
+
+**Authority note:** This document is a transitional handoff checklist for
+PlumbLineOS. For CovenantOS steady-state ownership, use
+[`docs/ARCHITECTURE.md`](ARCHITECTURE.md).
 
 ---
 
@@ -26,6 +29,8 @@ there are no competing write paths.
   - Shows a brief message: *"Covenant formation has moved to CovenantOS."*
   - Provides a deep link or navigation path to CovenantOS (if deep-link
     infrastructure is available).
+  - Falls back to a non-destructive informational screen if no deep link is
+    available.
   - **Does not** write any data or call any RPC.
 
 - [ ] Remove the `...covenantRoutes` spread (or equivalent) from
@@ -112,9 +117,9 @@ ships:
 |---|---|---|
 | `redeem_lane_invite` RPC | PlumbLineOS migrations | Must accept `p_lane = 'covenant'` and write to `covenant_workspace_members` |
 | `os.covenant` entitlement grant | PlumbLineOS `invite-user` function | Must be transitioning to shared-project function before PR3 removes the TradeCore path |
-| `covenant_formation_groups` table | CovenantOS migrations (this PR) | Must be present in shared Supabase project |
-| `covenant_formation_records` table | CovenantOS migrations (this PR) | Must be present in shared Supabase project |
-| `covenant_workspace_members` table | CovenantOS migrations (this PR) | Must be present in shared Supabase project |
+| `covenant_formation_groups` table | CovenantOS migrations | Must be present in shared Supabase project |
+| `covenant_formation_records` table | CovenantOS migrations | Must be present in shared Supabase project |
+| `covenant_workspace_members` table | CovenantOS migrations | Must be present in shared Supabase project |
 
 ---
 
@@ -135,4 +140,5 @@ These items are required but not blocked on PR3:
 ## Related
 
 - [CovenantOS MIGRATION_FROM_PLUMBLINEOS.md](../MIGRATION_FROM_PLUMBLINEOS.md)
+- [CovenantOS Architecture](./ARCHITECTURE.md)
 - [Separation plan audit](https://github.com/boshields-blip/PlumbLineOS) (prior conversation context)
