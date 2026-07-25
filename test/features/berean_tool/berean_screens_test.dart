@@ -70,11 +70,9 @@ void main() {
       await tester.pumpWidget(_wrap(const BereanSessionFormScreen()));
       await tester.pumpAndSettle();
 
-      await tester.scrollUntilVisible(
-        find.text('Save Session'),
-        200,
-      );
-      await tester.tap(find.text('Save Session'));
+      final saveButton = find.widgetWithText(ElevatedButton, 'Save Session');
+      await tester.ensureVisible(saveButton);
+      await tester.tap(saveButton);
       await tester.pumpAndSettle();
 
       expect(find.text('Passage is required.'), findsOneWidget);

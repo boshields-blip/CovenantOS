@@ -75,11 +75,9 @@ void main() {
       await tester.pumpWidget(_wrap(const ForumPostFormScreen()));
       await tester.pumpAndSettle();
 
-      await tester.scrollUntilVisible(
-        find.text('Publish Post'),
-        200,
-      );
-      await tester.tap(find.text('Publish Post'));
+      final publishButton = find.widgetWithText(ElevatedButton, 'Publish Post');
+      await tester.ensureVisible(publishButton);
+      await tester.tap(publishButton);
       await tester.pumpAndSettle();
 
       expect(find.text('Title is required.'), findsOneWidget);
