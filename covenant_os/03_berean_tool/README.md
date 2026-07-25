@@ -1,5 +1,9 @@
 # Berean Tool
 
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-25
+
+---
+
 The Berean Tool helps people understand the philosophy behind various teachings — not to evaluate teachers as suspects, but to understand the formative streams that have shaped them and to engage them with greater clarity, charity, and discernment.
 
 > **This is a clarity tool, not a weapon.**

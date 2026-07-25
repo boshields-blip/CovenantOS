@@ -1,5 +1,9 @@
 # Language Module
 
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-25
+
+---
+
 The language module exists because language is the operating system of the imagination. People often inherit philosophy through phrases, metaphors, pronouns, and speech habits long before they can identify it in formal doctrine.
 
 - Architecture context: [../../docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md)

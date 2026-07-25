@@ -6,8 +6,9 @@ import 'package:flutter_test/flutter_test.dart';
 // ---------------------------------------------------------------------------
 // Widget tests for LanguageModuleHomeScreen and CovenantForumHomeScreen.
 //
-// These are Slice A stub screens; tests verify that the navigation entry
-// points render without error and display their orientating content.
+// Both screens now have full navigation entry points rather than stubs.
+// These tests verify that the orientation content and navigation buttons
+// render correctly.
 // ---------------------------------------------------------------------------
 
 Widget _wrap(Widget child) {
@@ -33,9 +34,10 @@ void main() {
       expect(find.text('Form'), findsOneWidget);
     });
 
-    testWidgets('renders next-slice notice', (tester) async {
+    testWidgets('renders Browse Glossary button instead of stub notice',
+        (tester) async {
       await tester.pumpWidget(_wrap(const LanguageModuleHomeScreen()));
-      expect(find.textContaining('coming in next slice'), findsOneWidget);
+      expect(find.text('Browse Glossary'), findsOneWidget);
     });
   });
 
@@ -57,9 +59,10 @@ void main() {
       expect(find.text('Covenant-held'), findsOneWidget);
     });
 
-    testWidgets('renders next-slice notice', (tester) async {
+    testWidgets('renders Enter Forum button instead of stub notice',
+        (tester) async {
       await tester.pumpWidget(_wrap(const CovenantForumHomeScreen()));
-      expect(find.textContaining('coming in next slice'), findsOneWidget);
+      expect(find.text('Enter Forum'), findsOneWidget);
     });
   });
 }

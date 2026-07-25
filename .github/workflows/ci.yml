@@ -21,6 +21,9 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
+      - name: Check layer dependency directions
+        run: dart tool/check_layer_deps.dart
+
       - name: Analyze
         run: flutter analyze
 

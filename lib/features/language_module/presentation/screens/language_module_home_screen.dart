@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 
 /// Entry screen for the Language Module — covenantal vocabulary and formation
 /// language.
@@ -7,12 +8,9 @@ import 'package:flutter/material.dart';
 /// Layer (L1) and informed by the Diagnostic Engine (L2) and Berean Tool (L3).
 /// It does not reference the Formation Layer (L5).
 ///
-/// Full glossary management (term CRUD, usage notes, cross-references) is
-/// planned for a subsequent slice. This screen provides the Slice A navigation
-/// entry point and a concise orientation to the module's purpose.
-///
-/// TODO(next-slice): Add GlossaryTerm model, LanguageRepository, and term
-/// browsing/search screens. Tracking: CovenantOS Slice B.
+/// The glossary is sourced from the content tree at
+/// [covenant_os/04_language_module/worldly_vs_covenantal_dictionary.md] and
+/// is browsable in [GlossaryListScreen].
 class LanguageModuleHomeScreen extends StatelessWidget {
   const LanguageModuleHomeScreen({super.key});
 
@@ -20,46 +18,45 @@ class LanguageModuleHomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Language Module')),
-      body: const Padding(
-        padding: EdgeInsets.all(24),
+      body: Padding(
+        padding: const EdgeInsets.all(24),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
+            const Text(
               'Covenantal Vocabulary',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 16),
-            Text(
+            const SizedBox(height: 16),
+            const Text(
               'The Language Module builds a shared vocabulary for formation. '
               'Language is not neutral — the words a community uses to describe '
               'reality shape how it understands and practices covenant.',
             ),
-            SizedBox(height: 24),
-            _LanguagePrinciple(
+            const SizedBox(height: 24),
+            const _LanguagePrinciple(
               label: 'Ground',
               description:
                   'Every term is grounded in the Foundational Layer '
                   'before it is elaborated here.',
             ),
-            _LanguagePrinciple(
+            const _LanguagePrinciple(
               label: 'Examine',
               description:
                   'Terms are tested against the Berean Tool — does the '
                   'word match what the primary sources actually say?',
             ),
-            _LanguagePrinciple(
+            const _LanguagePrinciple(
               label: 'Form',
               description:
                   'Language that reinforces healthy formation is named '
                   'and modelled. Language that undermines it is identified.',
             ),
-            SizedBox(height: 32),
-            Center(
-              child: Text(
-                'Glossary and term management coming in next slice.',
-                style: TextStyle(fontStyle: FontStyle.italic),
-              ),
+            const SizedBox(height: 32),
+            FilledButton.icon(
+              onPressed: () => context.push('/covenant/language/glossary'),
+              icon: const Icon(Icons.book),
+              label: const Text('Browse Glossary'),
             ),
           ],
         ),
