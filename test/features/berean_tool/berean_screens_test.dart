@@ -70,6 +70,10 @@ void main() {
       await tester.pumpWidget(_wrap(const BereanSessionFormScreen()));
       await tester.pumpAndSettle();
 
+      await tester.scrollUntilVisible(
+        find.text('Save Session'),
+        200,
+      );
       await tester.tap(find.text('Save Session'));
       await tester.pumpAndSettle();
 

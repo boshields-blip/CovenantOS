@@ -75,6 +75,10 @@ void main() {
       await tester.pumpWidget(_wrap(const ForumPostFormScreen()));
       await tester.pumpAndSettle();
 
+      await tester.scrollUntilVisible(
+        find.text('Publish Post'),
+        200,
+      );
       await tester.tap(find.text('Publish Post'));
       await tester.pumpAndSettle();
 

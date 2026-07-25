@@ -81,7 +81,9 @@ GoRouter buildCovenantRouter({
   String? guardCovenant(BuildContext context, GoRouterState state) {
     final isConfigured = isConfiguredOverride ?? AppConfig.isConfigured;
     final hasSession = hasSessionOverride ??
-        Supabase.instance.client.auth.currentSession != null;
+        (isConfigured
+            ? Supabase.instance.client.auth.currentSession != null
+            : false);
 
     final hasCovenantEntitlement = hasSession
         ? (hasCovenantEntitlementOverride ?? entitlementService.hasCovenant())
