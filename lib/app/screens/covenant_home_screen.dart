@@ -4,9 +4,8 @@ import 'package:go_router/go_router.dart';
 /// CovenantOS home screen — the top-level entry point for authenticated users
 /// with the `os.covenant` entitlement.
 ///
-/// Surfaces navigation tiles for each active feature in Slice A:
-/// Formation Layer, Berean Tool (stub), Language Module (stub),
-/// and Covenant Forum (stub).
+/// Surfaces navigation tiles for each active feature: Formation Layer, Berean
+/// Tool, Language Module, and Covenant Forum.
 class CovenantHomeScreen extends StatelessWidget {
   const CovenantHomeScreen({super.key});
 
@@ -39,7 +38,7 @@ class CovenantHomeScreen extends StatelessWidget {
             ),
             const SizedBox(height: 24),
             Text(
-              'Coming soon',
+              'Language & Community',
               style: Theme.of(context).textTheme.labelLarge,
             ),
             const SizedBox(height: 8),

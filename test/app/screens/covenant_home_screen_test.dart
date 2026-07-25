@@ -59,9 +59,9 @@ void main() {
       expect(find.text('Formation'), findsOneWidget);
     });
 
-    testWidgets('renders Coming soon section label', (tester) async {
+    testWidgets('renders Language & Community section label', (tester) async {
       await tester.pumpWidget(_wrap(const CovenantHomeScreen()));
-      expect(find.text('Coming soon'), findsOneWidget);
+      expect(find.text('Language & Community'), findsOneWidget);
     });
   });
 }

@@ -26,9 +26,12 @@ CovenantOS was separated from `boshields-blip/PlumbLineOS`, where a `covenant_os
 | Come to the Table screen | `lib/features/formation_layer/` | ✅ Done |
 | Harvest and Hymn screen | `lib/features/formation_layer/` | ✅ Done |
 | Formation home screen | `lib/features/formation_layer/` | ✅ Done |
-| Berean Tool home screen (stub) | `lib/features/berean_tool/` | ✅ Stub |
+| Berean Tool model + repository + session screens | `lib/features/berean_tool/` | ✅ Done |
+| Language Module glossary model + static browser | `lib/features/language_module/` | ✅ Done |
+| Covenant Forum post/reply models + repository + screens | `lib/features/covenant_forum/` | ✅ Done |
 | GoRouter route wiring | `lib/app/routes/covenant_routes.dart` | ✅ Done |
-| Supabase migrations (4 tables) | `supabase/migrations/` | ✅ Done |
+| Supabase migrations (10 tables / RPCs) | `supabase/migrations/` | ✅ Done |
+| layer dependency governance script | `tool/check_layer_deps.dart` | ✅ Done |
 | PlumbLineOS PR3 cutover guide | `docs/PR3_PLUMBLINEOS_CUTOVER.md` | ✅ Documented |
 
 ---
@@ -61,6 +64,14 @@ CovenantOS was separated from `boshields-blip/PlumbLineOS`, where a `covenant_os
 - Berean Tool stub entry screen
 - GoRouter route wiring with entitlement guard
 - Supabase migrations for Slice A tables
+
+### Phase 2 — Slice B: Berean Tool + Language Module + Forum runtime (complete)
+- Full BereanSession model, repository, and session screens (list + form)
+- Language Module static glossary browser (GlossaryTerm model + glossary data)
+- Covenant Forum post/reply models, repository, and screens (post list + post detail with replies)
+- Extended Supabase migrations: forum tables, invite tables, teaching shares, forum role workspace isolation
+- Layer dependency governance script (`tool/check_layer_deps.dart`)
+- Expanded test coverage: berean, language module, and forum feature tests
 - PlumbLineOS PR3 cutover documentation
 
 ### Phase 3 — PlumbLineOS tombstone (planned in PlumbLineOS)
@@ -70,11 +81,10 @@ CovenantOS was separated from `boshields-blip/PlumbLineOS`, where a `covenant_os
 - Remove covenant lane from invite-user edge function
 - See `docs/PR3_PLUMBLINEOS_CUTOVER.md` for the full checklist
 
-### Phase 4 — Slice B: Berean Tool + Language Module (future)
-- Full BereanSession model, repository, and session screens
-- Language Module glossary and term management
-- Covenant Forum screens
-- Additional Supabase migrations
+### Phase 4 — Diagnostic Engine runtime (future)
+- Diagnostic category browser surfacing the 7-category engine content
+- Philosophy module viewer (expressive individualism, therapeutic anthropology, etc.)
+- Diagnostic profile creation and storage
 
 ### Phase 5 — PlumbLineOS cleanup (future)
 - Delete `lib/features/covenant_os/` from PlumbLineOS after tombstone window

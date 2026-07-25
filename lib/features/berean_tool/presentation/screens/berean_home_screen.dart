@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 
 /// Entry screen for the Berean Tool — scripture and text examination.
 ///
@@ -7,9 +8,8 @@ import 'package:flutter/material.dart';
 /// cross-reference tools, and group examination formats. It is named after the
 /// Bereans of Acts 17 who examined the scriptures daily.
 ///
-/// Full Berean Tool sessions (BereanSession model, repository, and session
-/// detail screen) are planned for a subsequent slice. This screen provides
-/// the Slice A navigation entry point.
+/// This screen explains the OIA method and navigates to the session list and
+/// session creation form.
 class BereanHomeScreen extends StatelessWidget {
   const BereanHomeScreen({super.key});
 
@@ -17,46 +17,51 @@ class BereanHomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Berean Tool')),
-      body: const Padding(
-        padding: EdgeInsets.all(24),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(24),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
+            const Text(
               'Scripture and Text Examination',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 16),
-            Text(
+            const SizedBox(height: 16),
+            const Text(
               'The Berean Tool provides structured frameworks for engaging '
               'primary sources — primarily scripture, but also other formative '
               'texts. The method slows reading down to notice what a text '
               'actually says before drawing conclusions.',
             ),
-            SizedBox(height: 24),
-            _MethodStep(
+            const SizedBox(height: 24),
+            const _MethodStep(
               label: 'Observe',
               description: 'What does the text actually say? '
                   'Name only what is present — no interpretation yet.',
             ),
-            _MethodStep(
+            const _MethodStep(
               label: 'Interpret',
               description:
                   'What does the text mean in its original context? '
                   'What do other passages say about the same subject?',
             ),
-            _MethodStep(
+            const _MethodStep(
               label: 'Apply',
               description:
                   'How does this text form us? What claim does it make '
                   'on our lives?',
             ),
-            SizedBox(height: 32),
-            Center(
-              child: Text(
-                'Session management coming in next slice.',
-                style: TextStyle(fontStyle: FontStyle.italic),
-              ),
+            const SizedBox(height: 32),
+            FilledButton.icon(
+              onPressed: () => context.push('/covenant/berean/sessions/new'),
+              icon: const Icon(Icons.add),
+              label: const Text('Start New Session'),
+            ),
+            const SizedBox(height: 12),
+            OutlinedButton.icon(
+              onPressed: () => context.push('/covenant/berean/sessions'),
+              icon: const Icon(Icons.list),
+              label: const Text('View My Sessions'),
             ),
           ],
         ),

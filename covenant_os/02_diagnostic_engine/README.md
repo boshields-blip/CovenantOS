@@ -1,5 +1,9 @@
 # Diagnostic Engine
 
+**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-25
+
+---
+
 The diagnostic engine is the analytical core of CovenantOS.
 
 - Root architecture: [../../docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md)

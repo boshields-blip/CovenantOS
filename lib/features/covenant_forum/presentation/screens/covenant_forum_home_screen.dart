@@ -1,18 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 
-/// Entry screen for the Covenant Forum — community discussion and formation
-/// dialogue.
+/// Entry screen for the Covenant Forum.
 ///
-/// The Covenant Forum surfaces shared formation dialogue across groups.
-/// It is a cross-cutting surface: it may reference any of the five formation
-/// layers but is not itself a numbered layer.
+/// Presents a brief orientation and navigates to `ForumPostListScreen` where
+/// community posts and discussions are listed. The forum is formation-first:
+/// threads are anchored to practices, Berean sessions, or covenantal language
+/// — not free-form chat.
 ///
-/// Full forum thread management (posts, replies, group-scoped threads) is
-/// planned for a subsequent slice. This screen provides the Slice A navigation
-/// entry point and a concise orientation to the forum's purpose.
-///
-/// TODO(next-slice): Add ForumThread model, ForumRepository, and thread
-/// listing/reply screens. Tracking: CovenantOS Slice B.
+/// This screen is the navigation hub; the actual post list lives at
+/// `/covenant/forum/posts`.
 class CovenantForumHomeScreen extends StatelessWidget {
   const CovenantForumHomeScreen({super.key});
 
@@ -20,48 +17,47 @@ class CovenantForumHomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Covenant Forum')),
-      body: const Padding(
-        padding: EdgeInsets.all(24),
+      body: Padding(
+        padding: const EdgeInsets.all(24),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
+            const Text(
               'Community Formation Dialogue',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 16),
-            Text(
+            const SizedBox(height: 16),
+            const Text(
               'The Covenant Forum is a space for formation groups to share '
               'reflections, raise questions, and dialogue around shared texts '
               'and practices. It extends the formation work beyond scheduled '
               'gatherings into ongoing community.',
             ),
-            SizedBox(height: 24),
-            _ForumPrinciple(
+            const SizedBox(height: 24),
+            const _ForumPrinciple(
               label: 'Formation-first',
               description:
                   'Threads are anchored to formation practices, Berean '
                   'Tool sessions, or shared covenantal language — not free-form '
                   'chat.',
             ),
-            _ForumPrinciple(
+            const _ForumPrinciple(
               label: 'Group-scoped',
               description:
                   'Threads belong to a formation group. Only members of '
                   'the group see its threads by default.',
             ),
-            _ForumPrinciple(
+            const _ForumPrinciple(
               label: 'Covenant-held',
               description:
                   'Dialogue is held by the covenant, not by algorithm. '
                   'There are no likes, no feeds, no engagement loops.',
             ),
-            SizedBox(height: 32),
-            Center(
-              child: Text(
-                'Forum thread management coming in next slice.',
-                style: TextStyle(fontStyle: FontStyle.italic),
-              ),
+            const SizedBox(height: 32),
+            FilledButton.icon(
+              onPressed: () => context.push('/covenant/forum/posts'),
+              icon: const Icon(Icons.forum),
+              label: const Text('Enter Forum'),
             ),
           ],
         ),
