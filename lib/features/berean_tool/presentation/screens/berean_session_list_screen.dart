@@ -5,7 +5,7 @@ import '../../data/repositories/berean_repository.dart';
 import '../../domain/models/berean_session.dart';
 
 /// Lists the current user's Berean Tool sessions and provides a
-/// "New Session" entry point to [BereanSessionFormScreen].
+/// "New Session" entry point to `BereanSessionFormScreen`.
 ///
 /// In offline/demo mode (no Supabase env vars) the list is empty and the
 /// "New Session" button is still navigable so the form can be tested.

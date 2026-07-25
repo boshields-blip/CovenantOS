@@ -142,7 +142,7 @@ const List<GlossaryTerm> glossaryTerms = [
     covenantAlternative: 'Our people are members of a covenant community',
   ),
   GlossaryTerm(
-    worldlyPhrase: "I need authenticity, not authority",
+    worldlyPhrase: 'I need authenticity, not authority',
     philosophicalRoot: 'Expressive individualism',
     covenantAlternative: 'I need truthful authority and honest fellowship',
   ),

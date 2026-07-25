@@ -3,7 +3,7 @@ import 'package:go_router/go_router.dart';
 
 /// Entry screen for the Covenant Forum.
 ///
-/// Presents a brief orientation and navigates to [ForumPostListScreen] where
+/// Presents a brief orientation and navigates to `ForumPostListScreen` where
 /// community posts and discussions are listed. The forum is formation-first:
 /// threads are anchored to practices, Berean sessions, or covenantal language
 /// — not free-form chat.

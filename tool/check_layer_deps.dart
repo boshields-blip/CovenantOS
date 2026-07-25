@@ -18,6 +18,7 @@
 ///   dart tool/check_layer_deps.dart
 ///
 /// Exits with code 1 if violations are found, 0 if the check passes.
+library check_layer_deps;
 
 import 'dart:io';
 
@@ -39,7 +40,7 @@ void main() {
   );
 
   if (violations.isEmpty) {
-    print('✓ Layer dependency check passed — no upward references found.');
+    stdout.writeln('✓ Layer dependency check passed — no upward references found.');
     exit(0);
   }
 

@@ -7,7 +7,7 @@ import '../../domain/models/berean_session.dart';
 /// Data access for Berean Tool scripture/text examination sessions.
 ///
 /// Queries are workspace-scoped via Supabase RLS — the backend enforces the
-/// `covenant_workspace_members` check. The [workspaceId] parameter on write
+/// `covenant_workspace_members` check. The `workspaceId` parameter on write
 /// methods makes the intent explicit in client code as well.
 ///
 /// When [AppConfig.isConfigured] is false (no Supabase env vars), all read

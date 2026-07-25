@@ -10,7 +10,7 @@ import 'package:go_router/go_router.dart';
 ///
 /// The glossary is sourced from the content tree at
 /// [covenant_os/04_language_module/worldly_vs_covenantal_dictionary.md] and
-/// is browsable in [GlossaryListScreen].
+/// is browsable in `GlossaryListScreen`.
 class LanguageModuleHomeScreen extends StatelessWidget {
   const LanguageModuleHomeScreen({super.key});
 

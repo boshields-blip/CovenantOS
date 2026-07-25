@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../data/repositories/forum_repository.dart';
 import '../../domain/models/forum_post.dart';
