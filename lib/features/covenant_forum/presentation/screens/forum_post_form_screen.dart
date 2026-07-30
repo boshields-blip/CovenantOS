@@ -72,9 +72,11 @@ class _ForumPostFormScreenState extends State<ForumPostFormScreen> {
       appBar: AppBar(title: const Text('New Post')),
       body: Form(
         key: _formKey,
-        child: ListView(
+        child: SingleChildScrollView(
           padding: const EdgeInsets.all(24),
-          children: [
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
             Text('Type', style: Theme.of(context).textTheme.titleSmall),
             const SizedBox(height: 8),
             SegmentedButton<String>(
@@ -141,6 +143,7 @@ class _ForumPostFormScreenState extends State<ForumPostFormScreen> {
                   : const Text('Publish Post'),
             ),
           ],
+        ),
         ),
       ),
     );
