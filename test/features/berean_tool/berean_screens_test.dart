@@ -70,7 +70,7 @@ void main() {
       await tester.pumpWidget(_wrap(const BereanSessionFormScreen()));
       await tester.pumpAndSettle();
 
-      final saveButton = find.widgetWithText(ElevatedButton, 'Save Session');
+      final saveButton = find.widgetWithText(FilledButton, 'Save Session');
       await tester.ensureVisible(saveButton);
       await tester.tap(saveButton);
       await tester.pumpAndSettle();

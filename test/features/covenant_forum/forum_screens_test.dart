@@ -75,7 +75,7 @@ void main() {
       await tester.pumpWidget(_wrap(const ForumPostFormScreen()));
       await tester.pumpAndSettle();
 
-      final publishButton = find.widgetWithText(ElevatedButton, 'Publish Post');
+      final publishButton = find.widgetWithText(FilledButton, 'Publish Post');
       await tester.ensureVisible(publishButton);
       await tester.tap(publishButton);
       await tester.pumpAndSettle();
