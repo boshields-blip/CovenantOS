@@ -81,9 +81,11 @@ class _BereanSessionFormScreenState extends State<BereanSessionFormScreen> {
       appBar: AppBar(title: const Text('New Examination Session')),
       body: Form(
         key: _formKey,
-        child: ListView(
+        child: SingleChildScrollView(
           padding: const EdgeInsets.all(24),
-          children: [
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
             _fieldHeader(context, 'Passage'),
             const SizedBox(height: 4),
             TextFormField(
@@ -159,6 +161,7 @@ class _BereanSessionFormScreenState extends State<BereanSessionFormScreen> {
                   : const Text('Save Session'),
             ),
           ],
+        ),
         ),
       ),
     );
