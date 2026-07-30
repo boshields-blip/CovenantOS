@@ -40,11 +40,14 @@ jobs:
       - name: Run tests
         run: flutter test
 
-      - name: Build web
-        run: flutter build web --release --base-href "/"
+      - name: Build web (verbose)
+        run: flutter build web --release --base-href "/" --verbose
 
       - name: Verify build output
-        run: ls -la build/web && test -f build/web/index.html
+        run: |
+          echo "--- build/web contents ---"
+          ls -la build/web || echo "build/web directory not found"
+          test -f build/web/index.html || (echo "index.html missing!" && exit 1)
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
