@@ -40,6 +40,9 @@ jobs:
       - name: Build web
         run: flutter build web --release --base-href "/"
 
+      - name: Verify build output
+        run: ls -la build/web && test -f build/web/index.html
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
