@@ -41,7 +41,7 @@ jobs:
         run: flutter test
 
       - name: Build web
-        run: flutter build web --release --base-href "/"
+        run: flutter build web --release --base-href "/CovenantOS/"
 
       - name: Add .nojekyll
         run: touch build/web/.nojekyll
