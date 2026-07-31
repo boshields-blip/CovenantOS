@@ -1,0 +1,157 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BereanProfile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "subject",
+    "identified_influences",
+    "per_category_analysis",
+    "common_drifts_identified",
+    "covenantal_contrasts",
+    "formation_recommendations",
+    "what_you_can_receive"
+  ],
+  "properties": {
+    "subject": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "tradition"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "tradition": {
+          "type": "string",
+          "minLength": 1
+        },
+        "education_summary": {
+          "type": "string"
+        },
+        "corpus_summary": {
+          "type": "string"
+        }
+      }
+    },
+    "identified_influences": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "per_category_analysis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "metaphysics",
+        "epistemology",
+        "anthropology",
+        "ethics",
+        "social_political",
+        "identity_meaning",
+        "eschatology"
+      ],
+      "properties": {
+        "metaphysics": {
+          "$ref": "#/definitions/category"
+        },
+        "epistemology": {
+          "$ref": "#/definitions/category"
+        },
+        "anthropology": {
+          "$ref": "#/definitions/category"
+        },
+        "ethics": {
+          "$ref": "#/definitions/category"
+        },
+        "social_political": {
+          "$ref": "#/definitions/category"
+        },
+        "identity_meaning": {
+          "$ref": "#/definitions/category"
+        },
+        "eschatology": {
+          "$ref": "#/definitions/category"
+        }
+      }
+    },
+    "common_drifts_identified": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "covenantal_contrasts": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "formation_recommendations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "what_you_can_receive": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Genuine goods and trustworthy wisdom the reader can receive from this teacher. Always required."
+    },
+    "self_assessment_mode": {
+      "type": "boolean",
+      "description": "When true, the profile is a first-person self-assessment rather than analysis of an external teacher.",
+      "default": false
+    }
+  },
+  "definitions": {
+    "category": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "strengths_observed",
+        "observed_pattern",
+        "likely_influences",
+        "common_western_drift",
+        "covenantal_contrast"
+      ],
+      "properties": {
+        "observed_pattern": {
+          "type": "string",
+          "minLength": 1
+        },
+        "likely_influences": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "common_western_drift": {
+          "type": "string",
+          "minLength": 1
+        },
+        "covenantal_contrast": {
+          "type": "string",
+          "minLength": 1
+        },
+        "strengths_observed": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Genuine goods, faithful instincts, and real contributions observed in this category. Must be named before drifts."
+        }
+      }
+    }
+  }
+}
