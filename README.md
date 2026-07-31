@@ -78,3 +78,29 @@ This repository still contains the legacy `covenant_os/` content tree, Flutter c
 ## License
 
 Apache 2.0 — see [`LICENSE`](LICENSE).
+
+## Development
+
+CovenantOS 2.0 is a static SvelteKit web application.
+
+### Prerequisites
+- Node.js 18+
+
+### Install
+```bash
+npm install
+```
+
+### Dev server
+```bash
+npm run dev
+```
+
+### Build
+```bash
+npm run build
+```
+
+The build output lands in `build/`. Deploy to any static host (Netlify, GitHub Pages, Vercel static).
+
+See `docs/WEB_ARCHITECTURE.md` for the full architecture specification.

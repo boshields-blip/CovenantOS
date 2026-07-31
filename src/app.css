@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .prose {
+    max-width: 720px;
+    line-height: 1.8;
+    font-size: 1.125rem;
+  }
+}
+
+@layer components {
+  .hebrew-token {
+    font-family: 'Noto Serif Hebrew', serif;
+    direction: rtl;
+    unicode-bidi: embed;
+  }
+
+  .pull-quote {
+    border-left: 3px solid #8b6914;
+    padding-left: 1.5rem;
+    font-style: italic;
+    color: #5a6b7a;
+  }
+
+  .reflective-prompt {
+    background: rgba(139, 105, 20, 0.08);
+    border-radius: 4px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+  }
+}
