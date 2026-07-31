@@ -1,0 +1,10 @@
+{
+  "name": "CovenantOS",
+  "short_name": "CovenantOS",
+  "description": "A covenantal atlas for formation in imagination, household, and public life.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EDD6",
+  "theme_color": "#2C2417",
+  "icons": []
+}
