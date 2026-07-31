@@ -1,7 +1,9 @@
 <script>
+  import { onMount } from 'svelte';
   import ContentLayout from '$lib/ContentLayout.svelte';
   import walk from '../../../../../content/data/diagnostic_walk.json';
 
+  const storageKey = 'diagnostic_walk_reflections';
   const categories = walk.categories;
   const totalCategories = categories.length;
   const availablePhilosophySlugs = new Set([
@@ -39,10 +41,18 @@
   }
 
   function updateReflection(id, value) {
-    reflections = {
+    const next = {
       ...reflections,
       [id]: value
     };
+
+    reflections = next;
+
+    if (typeof localStorage === 'undefined') {
+      return;
+    }
+
+    localStorage.setItem(storageKey, JSON.stringify(next));
   }
 
   function previousCategory() {
@@ -59,7 +69,27 @@
 
   function clearReflections() {
     reflections = {};
+
+    if (typeof localStorage === 'undefined') {
+      return;
+    }
+
+    localStorage.removeItem(storageKey);
   }
+
+  onMount(() => {
+    const saved = localStorage.getItem(storageKey);
+
+    if (!saved) {
+      return;
+    }
+
+    try {
+      reflections = JSON.parse(saved);
+    } catch {
+      localStorage.removeItem(storageKey);
+    }
+  });
 
   $: currentCategory = categories[currentIndex];
 </script>
@@ -76,6 +106,9 @@
       <div class="space-y-3">
         <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ochre">
           {formatStep(currentIndex)} / {formatStep(totalCategories)}
+        </p>
+        <p class="text-sm text-slate-covenant">
+          Your reflections are saved only on this device. Nothing is sent anywhere.
         </p>
         <h1 class="font-serif-display text-2xl italic text-charcoal">
           {currentCategory.central_question}
