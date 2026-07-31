@@ -1,0 +1,14 @@
+<script>
+  import ContentLayout from '$lib/ContentLayout.svelte';
+  import Content from '../../../../../../modules/01_the_word/02_diagnostic_engine/philosophy_modules/therapeutic_anthropology.md';
+</script>
+
+<ContentLayout
+  title="Therapeutic Anthropology"
+  module="The Word"
+  moduleHref="/the-word/diagnostic-engine/philosophy-modules"
+  prevHref="/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism"
+  prevLabel="Technocratic Rationalism"
+>
+  <Content />
+</ContentLayout>
