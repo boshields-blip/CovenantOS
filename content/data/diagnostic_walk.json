@@ -1,0 +1,137 @@
+{
+  "categories": [
+    {
+      "id": "metaphysics",
+      "title": "Metaphysics",
+      "central_question": "What is ultimately real, and what kind of world are we living in?",
+      "diagnostic_questions": [
+        "Is reality treated as creation, machine, market, narrative contest, or raw material?",
+        "Is the world received as meaningful gift or handled as neutral stuff?",
+        "Are limits interpreted as creaturely wisdom or as barriers to self-design?",
+        "Does the subject speak as though institutions or systems are more real than persons and covenant bonds?"
+      ],
+      "covenantal_contrast": "Reality is created, ordered, relational, and held together in Christ. The world is not self-explaining, spiritually empty, or morally neutral; it is a meaningful creation in which creaturely limits are gifts, not merely constraints.",
+      "rival_philosophies": [
+        "Materialism",
+        "Progressivist utopianism",
+        "Technocratic rationalism",
+        "Postmodernism"
+      ],
+      "reflection_prompt": "Is the world received as meaningful gift or handled as neutral stuff?"
+    },
+    {
+      "id": "epistemology",
+      "title": "Epistemology",
+      "central_question": "How is truth known, trusted, and tested?",
+      "diagnostic_questions": [
+        "Does the subject appeal first to revelation, tradition, communal wisdom, experience, expertise, or private certainty?",
+        "Is truth treated as something to obey or only something to analyze?",
+        "Are feelings granted authority that should belong to revelation and faithful discernment?",
+        "Is skepticism used as a tool for humility or as a solvent against covenantal confidence?"
+      ],
+      "covenantal_contrast": "Truth is known through God’s self-disclosure, received in faith, tested in community, confirmed in obedience, and remembered through Scripture and the apostolic witness. Reason, experience, and expertise are real gifts, but they are not sovereign.",
+      "rival_philosophies": [
+        "Rationalism",
+        "Postmodernism",
+        "Therapeutic anthropology",
+        "Technocratic rationalism"
+      ],
+      "reflection_prompt": "Is truth treated as something to obey or only something to analyze?"
+    },
+    {
+      "id": "anthropology",
+      "title": "Anthropology",
+      "central_question": "What is a human being, and what is human life for?",
+      "diagnostic_questions": [
+        "Is the person understood as received creature, sovereign self, wounded psyche, market chooser, or political unit?",
+        "Are human beings called to communion and stewardship, or mainly to self-discovery and self-protection?",
+        "How are dependence, discipline, and obligation described?",
+        "Does the subject speak of identity as gift or project?"
+      ],
+      "covenantal_contrast": "Human beings are image-bearers formed for communion with God, life with neighbor, stewardship in creation, and growth into mature covenant fidelity. They are dignified, fallen, redeemable, and accountable.",
+      "rival_philosophies": [
+        "Expressive individualism",
+        "Therapeutic anthropology",
+        "Materialism",
+        "Consumerism"
+      ],
+      "reflection_prompt": "Does the subject speak of identity as gift or project?"
+    },
+    {
+      "id": "ethics",
+      "title": "Ethics",
+      "central_question": "What is the good, and how should one live?",
+      "diagnostic_questions": [
+        "Is goodness framed as holiness, happiness, efficiency, authenticity, harm reduction, or social approval?",
+        "Are commands seen as life-giving boundaries or oppressive restrictions?",
+        "Is sacrifice honored or viewed as a failure of self-care?",
+        "Does the subject assume that what feels healing is therefore morally right?"
+      ],
+      "covenantal_contrast": "The good is faithful conformity to God’s character and commands as fulfilled in Christ. Ethics includes love, justice, mercy, truthfulness, holiness, repentance, and covenant loyalty, not merely emotional safety or visible success.",
+      "rival_philosophies": [
+        "Consumerism",
+        "Therapeutic anthropology",
+        "Technocratic rationalism",
+        "Postmodernism"
+      ],
+      "reflection_prompt": "Are commands seen as life-giving boundaries or oppressive restrictions?"
+    },
+    {
+      "id": "social_political",
+      "title": "Social/Political",
+      "central_question": "How should life together be ordered, and where does authority belong?",
+      "diagnostic_questions": [
+        "Is society imagined as covenant, contract, brand, bureaucracy, or movement?",
+        "Are institutions treated as servants of people or as living agents with their own destiny?",
+        "Is authority personal, accountable, and limited, or abstract, managerial, and disembodied?",
+        "Are local obligations valued, or displaced by platform-scale systems and narratives?"
+      ],
+      "covenantal_contrast": "Shared life is ordered under God through accountable relationships, embodied communities, and limited authorities. Family, congregation, neighborhood, vocation, and civil structures are real but not ultimate.",
+      "rival_philosophies": [
+        "Liberal individualism",
+        "Technocratic rationalism",
+        "Progressivist utopianism",
+        "Consumerism"
+      ],
+      "reflection_prompt": "Are local obligations valued, or displaced by platform-scale systems and narratives?"
+    },
+    {
+      "id": "identity_meaning",
+      "title": "Identity/Meaning",
+      "central_question": "Who am I, what gives life meaning, and how is belonging secured?",
+      "diagnostic_questions": [
+        "Is identity received, negotiated, performed, narrated, or purchased?",
+        "Is belonging covenantal, familial, ecclesial, professional, ideological, or aesthetic?",
+        "What kinds of speech are used: calling, branding, authenticity, platform, impact, journey?",
+        "Does meaning arise from God’s story or from personal fulfillment and recognition?"
+      ],
+      "covenantal_contrast": "Identity is received from God within a covenant people and clarified through vocation, holiness, memory, and hope. Meaning is not invented from within the self but discovered in faithful participation in God’s purposes.",
+      "rival_philosophies": [
+        "Expressive individualism",
+        "Consumerism",
+        "Therapeutic anthropology",
+        "Postmodernism"
+      ],
+      "reflection_prompt": "Does meaning arise from God’s story or from personal fulfillment and recognition?"
+    },
+    {
+      "id": "eschatology",
+      "title": "Eschatology",
+      "central_question": "Where is history going, and what future governs present action?",
+      "diagnostic_questions": [
+        "Is hope placed in God’s renewal, institutional reform, technological advance, personal healing, or civilizational progress?",
+        "Does the subject imagine salvation as escape, achievement, optimization, or resurrection?",
+        "Is suffering interpreted only as interruption, or also as a site of faithfulness?",
+        "What future story makes present sacrifices intelligible?"
+      ],
+      "covenantal_contrast": "History is moving toward the judgment and renewal of all things in Christ. Christian hope is resurrectional, covenantal, and patient. It empowers faithful labor now without confusing present systems with final redemption.",
+      "rival_philosophies": [
+        "Progressivist utopianism",
+        "Consumerism",
+        "Materialism",
+        "Therapeutic anthropology"
+      ],
+      "reflection_prompt": "What future story makes present sacrifices intelligible?"
+    }
+  ]
+}

@@ -104,3 +104,14 @@ Only the markdown-first philosophical and formational content transfers into the
 | `modules/03_the_compact/` | Local market and social fabric | Complete | Authored in `modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md` — covenantal trade, honest weights, local business, gleaning economy, Piedmont SC context. |
 | `modules/03_the_compact/` | Hebraic word studies | Complete | Authored in `modules/03_the_compact/HEBRAIC_WORD_STUDIES.md` — six word studies: *berith*, *am*, *mishpat*, *sha'ar*, *edah*, *tzedek*. |
 | `modules/03_the_compact/` | Formation questions (capstone) | Complete | Authored in `modules/03_the_compact/FORMATION_QUESTIONS.md` — capstone questions across all three modules with closing reflection. |
+---
+
+## Web Architecture Artifacts
+
+| Artifact | Status | Notes |
+|---|---|---|
+| `docs/WEB_ARCHITECTURE.md` | Complete | Canonical interactive web architecture document for the static build. |
+| `docs/ROUTE_MATRIX.md` | Complete | Complete route/content matrix for all three modules and reference routes. |
+| `content/data/diagnostic_walk.json` | Complete | Canonical structured content pack for the Diagnostic Engine Walk tool. |
+| `content/data/compact_builder.json` | Complete | Canonical structured content pack for the Compact Builder / Formation Questions tool. |
+
