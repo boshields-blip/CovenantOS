@@ -17,6 +17,17 @@
     { label: 'Dispose', x: 480, y: 230 }
   ];
 
+  const householdArrows = [
+    'M291 94 L384 148',
+    'M415 214 L415 296',
+    'M384 362 L291 416',
+    'M229 416 L136 362',
+    'M105 296 L105 214',
+    'M136 148 L229 94'
+  ];
+
+  const consumerArrows = ['M136 230 L174 230', 'M266 230 L304 230', 'M396 230 L434 230'];
+
   let showConsumerEconomy = false;
 </script>
 
@@ -88,14 +99,16 @@
               </marker>
             </defs>
 
-            <path
-              d="M130 230 H180 M260 230 H310 M390 230 H440"
-              fill="none"
-              stroke="#8B6914"
-              stroke-width="4"
-              stroke-linecap="round"
-              marker-end="url(#consumer-arrow)"
-            />
+            {#each consumerArrows as arrow}
+              <path
+                d={arrow}
+                fill="none"
+                stroke="#8B6914"
+                stroke-width="4"
+                stroke-linecap="round"
+                marker-end="url(#consumer-arrow)"
+              />
+            {/each}
 
             {#each consumerNodes as node}
               <g transform={`translate(${node.x}, ${node.y})`}>
@@ -137,7 +150,16 @@
               stroke-dasharray="180 24"
               class="flow-ring"
             />
-            <path d="M260 67 L276 82" fill="none" stroke="#8B6914" stroke-width="4" marker-end="url(#household-arrow)" />
+            {#each householdArrows as arrow}
+              <path
+                d={arrow}
+                fill="none"
+                stroke="#8B6914"
+                stroke-width="4"
+                stroke-linecap="round"
+                marker-end="url(#household-arrow)"
+              />
+            {/each}
 
             {#each householdNodes as node}
               <g transform={`translate(${node.x}, ${node.y})`}>
