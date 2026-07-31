@@ -31,3 +31,128 @@
     margin: 2rem 0;
   }
 }
+
+/* Covenant prose — used by ContentLayout */
+.prose-covenant {
+  max-width: 72ch;
+  line-height: 1.8;
+  font-size: 1.125rem;
+}
+
+.prose-covenant h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #2C2417;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.prose-covenant h2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2C2417;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.prose-covenant h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #2C2417;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-covenant p {
+  margin-bottom: 1.25rem;
+  color: #2C2417;
+}
+
+.prose-covenant a {
+  color: #8B6914;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose-covenant a:hover {
+  color: #2C2417;
+}
+
+.prose-covenant ul, .prose-covenant ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.prose-covenant li {
+  margin-bottom: 0.5rem;
+}
+
+.prose-covenant blockquote {
+  border-left: 3px solid #8B6914;
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: #5A6B7A;
+  margin: 1.5rem 0;
+}
+
+.prose-covenant table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.prose-covenant th {
+  background: rgba(139, 105, 20, 0.08);
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.75rem 1rem;
+  border-bottom: 2px solid #8B6914;
+  color: #2C2417;
+}
+
+.prose-covenant td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid rgba(139, 105, 20, 0.15);
+  vertical-align: top;
+  color: #2C2417;
+}
+
+.prose-covenant tr:last-child td {
+  border-bottom: none;
+}
+
+.prose-covenant code {
+  background: rgba(139, 105, 20, 0.08);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.prose-covenant pre {
+  background: rgba(44, 36, 23, 0.05);
+  padding: 1.25rem;
+  border-radius: 4px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.prose-covenant hr {
+  border: none;
+  border-top: 1px solid rgba(139, 105, 20, 0.2);
+  margin: 2.5rem 0;
+}
+
+.prose-covenant strong {
+  font-weight: 600;
+  color: #2C2417;
+}
+
+.prose-covenant em {
+  font-style: italic;
+  color: #5A6B7A;
+}
