@@ -1,104 +1,53 @@
 # CovenantOS
 
-> **A 5-layer philosophical formation tool** — not operational software for trades, homesteads, markets, or commerce.
+> **A static, interactive web experience for covenantal formation** — no backend, no accounts, no forum, no membership.
 
-**Status:** Active  
-**Owner:** @boshields-blip  
-**Stack:** Flutter / Dart · Markdown content layers · Supabase
+**Status:** Draft | **Owner:** @boshields-blip | **Shape:** Markdown-first content · Interactive web-first architecture · Static delivery
 
 ---
 
-## What is CovenantOS?
+## CovenantOS 2.0
 
-CovenantOS is a formational and philosophical tool designed to help individuals and communities examine beliefs, identify contradictions, engage scripture, and grow in covenantal language and practice. It is emphatically **not** a trade management system, a homestead inventory tracker, or a market platform — those concerns belong to PlumbLineOS and CommunityOS.
+CovenantOS is being reshaped into a guided covenantal atlas: a static, interactive web experience that helps people re-see life through a Hebraic frame. It is embodied, relational, land-aware, and household-centered. The experience is designed to form imagination first, then household life, then public life.
 
----
-
-## Intended users
-
-- Individuals working through belief formation and spiritual diagnostics
-- Communities using covenantal language and liturgical practices
-- Facilitators of the "Come to the Table" and "Harvest and Hymn" formation practices
-- Homestead Academy participants who opt into an optional CovenantOS frame inside CommunityOS
+There is no backend in the target architecture. There are no accounts, no memberships, no forum surfaces, and no Supabase-dependent runtime in the intended CovenantOS 2.0 experience.
 
 ---
 
-## Canonical architecture documents
+## The three modules
 
-Use these documents as the source of truth for repository ownership and boundaries:
+| Module | Purpose | Tone |
+|---|---|---|
+| **The Word** | Hebraic thought environment built from the existing 5-layer CovenantOS philosophy | Scripture is a land, not a library. You walk in it. |
+| **The Household** | Oikonomia — household stewardship, agrarian rhythms, and relational economics | Economics is relational, not transactional. The household is the first school. |
+| **The Compact** | Political anthropology, covenantal order, subsidiarity, and commons | Political life is relational, not institutional. The compact flows from the household. |
 
-- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — canonical architecture, ownership boundaries, and handoff behavior
-- [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](docs/INTEGRATION_WITH_COMMUNITY_OS.md) — canonical CommunityOS integration contract
-- [`docs/SUPABASE.md`](docs/SUPABASE.md) — canonical data and shared-project boundary rules
-- [`MIGRATION_FROM_PLUMBLINEOS.md`](MIGRATION_FROM_PLUMBLINEOS.md) — transitional migration ledger
-- [`docs/PR3_PLUMBLINEOS_CUTOVER.md`](docs/PR3_PLUMBLINEOS_CUTOVER.md) — transitional PlumbLineOS tombstone and redirect checklist
-
-If an orientation document conflicts with the architecture docs above, the architecture docs win.
-
----
-
-## The 5 layers
-
-| # | Layer | Purpose |
-|---|-------|---------|
-| 1 | **Foundational Layer** | First principles and frame — the bedrock assumptions that orient all other layers |
-| 2 | **Diagnostic Engine** | Surfaces beliefs, contradictions, and patterns in an individual's or group's formation |
-| 3 | **Berean Tool** | Scripture and text examination tool — structured engagement with primary sources |
-| 4 | **Language Module** | Terminology and formation language — building a shared covenantal vocabulary |
-| 5 | **Formation Layer** | Embodied practices including "Come to the Table" and "Harvest and Hymn" |
-
-Lower layers do not reference higher layers. Layer 1 content does not depend on Layer 5 implementations. Downward references are fine; upward references are not allowed. See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full dependency and ownership model.
-
----
-
-## Repository boundaries
-
-### CovenantOS owns
-
-- The 5-layer content tree under `covenant_os/`
-- Flutter presentation and workflow code under `lib/` for CovenantOS users
-- Covenant formation runtime, onboarding, forum, and formation records
-- Covenant-specific Supabase tables, policies, and migrations
-
-### CovenantOS does not own
-
-- TradeCore / commercial plumbing and HVAC operations — PlumbLineOS
-- Homestead, market, wholesale, MeshCore, and non-covenant Academy operations — CommunityOS
-- CommunityOS Academy schemas or runtime logic
-- PlumbLineOS tombstone routes beyond the redirect contract documented here
-
----
-
-## Relationship to CommunityOS (`frameOverride`)
-
-CovenantOS is its own product with its own users and release cadence. CommunityOS may optionally consume CovenantOS formation framing through a `frameOverride` hook on Homestead Academy tracks.
-
-The relationship is **one-way**:
-
-- CommunityOS is the consumer of an optional CovenantOS-owned presentation contract.
-- CovenantOS does **not** import from or depend on CommunityOS internals.
-- If the override is unavailable, disabled, or fails validation, CommunityOS falls back to its default Academy intro card.
-
-See [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](docs/INTEGRATION_WITH_COMMUNITY_OS.md) for the full contract.
-
----
-
-## Related repositories
-
-| Repo | Purpose |
-|------|---------|
-| `boshields-blip/CommunityOS` | Homestead OS, Market OS, Wholesale OS, MeshCore, and optional consumption of CovenantOS framing |
-| `boshields-blip/PlumbLineOS` | TradeCore — commercial plumbing/HVAC OS and the source repository for migrated covenant content |
-
----
-
-## Getting started
-
-```bash
-flutter pub get
-flutter analyze
-flutter test
+```text
+The Word → forms imagination
+    ↓
+The Household → households form communities
+    ↓
+The Compact
 ```
+
+---
+
+## Design posture
+
+- **Hebraic in root** — walking over abstract thinking, practices over abstractions, household over isolated individualism, land over placeless digitalism, covenant over contract
+- **Static and interactive** — content is delivered without accounts or server-side state, but the experience still guides, reveals, compares, and invites reflection
+- **Content-first** — markdown and structured content drive the product; interface serves the content rather than competing with it
+- **Module-sequenced** — The Word forms the imagination that makes household stewardship possible; households then form the conditions for covenantal public life
+
+---
+
+## Repository documents
+
+- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — three-module target architecture
+- [`docs/DESIGN_PRINCIPLES.md`](docs/DESIGN_PRINCIPLES.md) — design language and product posture
+- [`docs/CONTENT_TRANSFER.md`](docs/CONTENT_TRANSFER.md) — canonical content transfer tracker
+- [`MIGRATION_FROM_PLUMBLINEOS.md`](MIGRATION_FROM_PLUMBLINEOS.md) — transfer plan and status ledger
+- [`archive/README.md`](archive/README.md) — legacy Flutter/Supabase architecture documents kept for reference only
 
 ---
 
@@ -106,27 +55,23 @@ flutter test
 
 ```text
 CovenantOS/
-├── covenant_os/                # 5-layer formational content (markdown-first)
-│   ├── 01_foundational_layer/
-│   ├── 02_diagnostic_engine/
-│   ├── 03_berean_tool/
-│   ├── 04_language_module/
-│   └── 05_formation_layer/
-├── docs/                       # Canonical architecture, integration, and migration docs
-├── lib/                        # Flutter app (feature-first)
-│   ├── app/
-│   ├── core/
-│   └── features/
-│       ├── berean_tool/
-│       ├── covenant_forum/
-│       ├── covenant_onboarding/
-│       ├── formation_layer/
-│       └── language_module/
-├── supabase/
-│   ├── migrations/
-│   └── README.md
-└── test/
+├── modules/
+│   ├── 01_the_word/
+│   ├── 02_the_household/
+│   └── 03_the_compact/
+├── covenant_os/              # existing 5-layer content retained until transfer is complete
+├── docs/                     # active architecture, principles, and transfer docs
+├── archive/                  # historical Flutter/Supabase docs retained for reference
+├── lib/                      # legacy Flutter code retained during transition; not the target architecture
+├── supabase/                 # legacy migration history retained during transition; not part of CovenantOS 2.0
+└── web/
 ```
+
+---
+
+## Transition note
+
+This repository still contains the legacy `covenant_os/` content tree, Flutter code under `lib/`, and Supabase migration history under `supabase/`. Those assets remain in place until content transfer and later cleanup are complete, but they are no longer the target architecture described by the active documentation.
 
 ---
 

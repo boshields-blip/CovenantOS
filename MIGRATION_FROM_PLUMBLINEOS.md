@@ -1,112 +1,76 @@
-# Migration from PlumbLineOS
+# Content Transfer Plan from PlumbLineOS
 
-**Status:** Transitional | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
-
----
-
-## Overview
-
-CovenantOS was separated from `boshields-blip/PlumbLineOS`, where a `covenant_os/` directory originally lived at the repository root. This document is the migration ledger: it records what moved, what remains in transition, and what handoff work still belongs to PlumbLineOS.
-
-**Authority note:** This document is transitional. For steady-state ownership and runtime boundaries, use [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) and [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](docs/INTEGRATION_WITH_COMMUNITY_OS.md).
+**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-07-31
 
 ---
 
-## What is now owned by CovenantOS
+## Purpose
 
-| Capability | Location | Status |
+This document replaces the earlier runtime migration ledger with a content transfer plan for CovenantOS 2.0. The goal is to move the philosophical and study content that originated in PlumbLineOS into the new module architecture while explicitly leaving behind backend, forum, membership, and legacy Flutter runtime concerns.
+
+---
+
+## Transfer rules
+
+1. **All existing 5-layer content transfers into The Word.**
+2. **The Household and The Compact are net-new modules.**
+3. **No Supabase schemas, Flutter feature code, forum code, membership flows, onboarding flows, or formation-group runtime transfers into the target architecture.**
+4. **The existing `covenant_os/` tree remains in place until content transfer is complete.**
+
+---
+
+## What transfers into `modules/01_the_word/`
+
+| Legacy content piece | Current location in CovenantOS | Target location in CovenantOS 2.0 | Status | Notes |
+|---|---|---|---|---|
+| Foundational Layer overview and first principles | `covenant_os/01_foundational_layer/` | `modules/01_the_word/01_foundational_layer/` | Planned | Preserves the bedrock philosophical frame |
+| Diagnostic Engine categories and philosophy modules | `covenant_os/02_diagnostic_engine/` | `modules/01_the_word/02_diagnostic_engine/` | Planned | Includes seven categories and rival-philosophy diagnostics |
+| Berean Tool guides, profiles, and schemas | `covenant_os/03_berean_tool/` | `modules/01_the_word/03_berean_tool/` | Planned | Keeps scripture/text examination under The Word |
+| Language Module studies and dictionaries | `covenant_os/04_language_module/` | `modules/01_the_word/04_language_module/` | Planned | Carries forward Hebraic language and imagination work |
+| Formation Layer practices and subcontent | `covenant_os/05_formation_layer/` | `modules/01_the_word/05_formation_layer/` | Planned | Includes Come to the Table and Harvest and Hymn |
+
+---
+
+## Net-new module work
+
+| Module | Status | Scope |
 |---|---|---|
-| App config / env var abstraction | `lib/core/config/app_config.dart` | ✅ Done |
-| Supabase service wrapper | `lib/core/services/supabase_service.dart` | ✅ Done |
-| `os.covenant` entitlement guard | `lib/core/services/entitlement_service.dart` | ✅ Done |
-| Invite acceptance (redeem lane invite) | `lib/features/covenant_onboarding/` | ✅ Done |
-| Post-acceptance onboarding screen | `lib/features/covenant_onboarding/` | ✅ Done |
-| Formation groups model + repository | `lib/features/formation_layer/` | ✅ Done |
-| Formation records model + repository | `lib/features/formation_layer/` | ✅ Done |
-| Come to the Table screen | `lib/features/formation_layer/` | ✅ Done |
-| Harvest and Hymn screen | `lib/features/formation_layer/` | ✅ Done |
-| Formation home screen | `lib/features/formation_layer/` | ✅ Done |
-| Berean Tool model + repository + session screens | `lib/features/berean_tool/` | ✅ Done |
-| Language Module glossary model + static browser | `lib/features/language_module/` | ✅ Done |
-| Covenant Forum post/reply models + repository + screens | `lib/features/covenant_forum/` | ✅ Done |
-| GoRouter route wiring | `lib/app/routes/covenant_routes.dart` | ✅ Done |
-| Supabase migrations (10 tables / RPCs) | `supabase/migrations/` | ✅ Done |
-| layer dependency governance script | `tool/check_layer_deps.dart` | ✅ Done |
-| PlumbLineOS PR3 cutover guide | `docs/PR3_PLUMBLINEOS_CUTOVER.md` | ✅ Documented |
+| `modules/02_the_household/` | Planned | Oikonomia, household flow, agrarian rhythms, household economy vs. consumer economy, land and place |
+| `modules/03_the_compact/` | Planned | Covenant vs. contract, subsidiarity, commons, local market life, peoplehood vs. consumer identity |
 
 ---
 
-## Migration map
+## What does **not** transfer
 
-| Source in PlumbLineOS | Destination in CovenantOS | Mode |
+| Legacy asset type | Reason it does not transfer |
+|---|---|
+| Supabase migrations and schema files | CovenantOS 2.0 has no backend target architecture |
+| Forum runtime code and discussion models | There is no forum in the new product |
+| Membership, onboarding, invites, and account flows | There are no accounts or memberships in the target experience |
+| Flutter feature code under `lib/` | Legacy implementation is retained only until later cleanup |
+| Formation-group schemas and runtime records | Group persistence is not part of the static interactive target |
+
+---
+
+## Status tracker
+
+| Work item | Status | Notes |
 |---|---|---|
-| `covenant_os/` (root tree, all 5 layers) | `covenant_os/` (preserve 5-layer structure) | move (Phase 3+) |
-| `covenant_os/ARCHITECTURE.md` | `docs/ARCHITECTURE.md` | move + merge (done in Phase 1) |
-| `covenant_os/INTRODUCTION.md` | `docs/INTRODUCTION.md` | move + merge (done in Phase 1) |
-| `lib/features/covenant_os/` | distribute into `lib/features/` | move + reorganize (Slice A started) |
-| Any covenant routes in `lib/app/routes/homestead_routes.dart` | `lib/app/routes/covenant_routes.dart` | move (Slice A done; PlumbLineOS tombstone in PR3) |
-| Forum / formation group screens | matching feature dirs | move (Slice B+) |
-| Supabase migrations matching `*covenant*`, `*formation*`, `*berean*` | `supabase/migrations/` | Slice A migrations added; full move in Slice B+ |
+| Rewrite repository architecture docs around three modules | Done | `README.md`, `docs/ARCHITECTURE.md`, and design docs now describe CovenantOS 2.0 |
+| Scaffold `modules/01_the_word/` and its five sublayers | Done | Placeholder READMEs created for each layer |
+| Scaffold `modules/02_the_household/` | Done | Placeholder README created for net-new content |
+| Scaffold `modules/03_the_compact/` | Done | Placeholder README created for net-new content |
+| Build canonical transfer tracker | Done | See `docs/CONTENT_TRANSFER.md` |
+| Transfer Foundational Layer content | Planned | Existing content remains in `covenant_os/` until moved |
+| Transfer Diagnostic Engine content | Planned | Existing content remains in `covenant_os/` until moved |
+| Transfer Berean Tool content | Planned | Existing content remains in `covenant_os/` until moved |
+| Transfer Language Module content | Planned | Existing content remains in `covenant_os/` until moved |
+| Transfer Formation Layer content | Planned | Existing content remains in `covenant_os/` until moved |
+| Author The Household content | Planned | Entire module is net-new |
+| Author The Compact content | Planned | Entire module is net-new |
 
 ---
 
-## Phase boundaries
+## Canonical tracking note
 
-### Phase 1 — Scaffold (complete)
-- Created the CovenantOS repository structure with fresh placeholder content
-- Did **not** touch PlumbLineOS
-- Established the 5-layer `covenant_os/` tree, Flutter app skeleton, docs, and CI
-
-### Phase 2 — Slice A: formation runtime (complete)
-- Core infrastructure: Supabase service, config, entitlement service
-- Covenant formation vertical: formation groups, session records, Come to the Table, Harvest and Hymn
-- Onboarding/invite acceptance flow
-- Berean Tool stub entry screen
-- GoRouter route wiring with entitlement guard
-- Supabase migrations for Slice A tables
-
-### Phase 2 — Slice B: Berean Tool + Language Module + Forum runtime (complete)
-- Full BereanSession model, repository, and session screens (list + form)
-- Language Module static glossary browser (GlossaryTerm model + glossary data)
-- Covenant Forum post/reply models, repository, and screens (post list + post detail with replies)
-- Extended Supabase migrations: forum tables, invite tables, teaching shares, forum role workspace isolation
-- Layer dependency governance script (`tool/check_layer_deps.dart`)
-- Expanded test coverage: berean, language module, and forum feature tests
-- PlumbLineOS PR3 cutover documentation
-
-### Phase 3 — PlumbLineOS tombstone (planned in PlumbLineOS)
-- Tombstone /covenant/** routes in TradeCore
-- Remove covenant startup coupling from TradeCore main.dart
-- Remove WeeklyFormationSummaryCard import from Weekly Ops
-- Remove covenant lane from invite-user edge function
-- See `docs/PR3_PLUMBLINEOS_CUTOVER.md` for the full checklist
-
-### Phase 4 — Diagnostic Engine runtime (future)
-- Diagnostic category browser surfacing the 7-category engine content
-- Philosophy module viewer (expressive individualism, therapeutic anthropology, etc.)
-- Diagnostic profile creation and storage
-
-### Phase 5 — PlumbLineOS cleanup (future)
-- Delete `lib/features/covenant_os/` from PlumbLineOS after tombstone window
-- Delete `covenant_os/` root tree from PlumbLineOS after tombstone window
-
----
-
-## What does NOT move here
-
-| Work | Destination |
-|------|-------------|
-| Homestead OS, Market OS, Wholesale OS | `boshields-blip/CommunityOS` |
-| Commercial plumbing/HVAC (TradeCore) | Stays in `boshields-blip/PlumbLineOS` |
-| MeshCore app layer | `boshields-blip/CommunityOS` |
-| LocationOS / GPS (fleet context) | Stays in `boshields-blip/PlumbLineOS` |
-| LocationOS / GPS (farm/trail context) | `boshields-blip/CommunityOS` |
-
-CovenantOS is purely formational and philosophical. Nothing operational, commercial, or homestead-operational belongs here.
-
----
-
-## Related repositories
-
-- `boshields-blip/PlumbLineOS` — source repository for migrated covenant content and owner of the remaining tombstone work
-- `boshields-blip/CommunityOS` — optional consumer of CovenantOS via the `frameOverride` hook
+Use [`docs/CONTENT_TRANSFER.md`](docs/CONTENT_TRANSFER.md) as the canonical file-level transfer tracker. This document is the higher-level plan and status ledger for the move away from the PlumbLineOS-era architecture.
