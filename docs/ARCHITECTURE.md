@@ -1,213 +1,111 @@
 # Architecture
 
-**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-15
+**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-07-31
 
 ---
 
 ## Overview
 
-CovenantOS is a standalone philosophical and formational product structured around five discrete layers, each building on the one below it. The layers form a dependency hierarchy: lower layers are foundational and do not depend on higher layers, while higher layers may draw on any layer below them. This structure keeps core formation principles stable while allowing practices, language, and presentation flows to evolve without blurring product boundaries.
+CovenantOS 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
+
+The target architecture has no backend, no accounts, no forum, no memberships, and no Supabase runtime dependency. Existing Flutter code, legacy content locations, and migration artifacts remain in this repository only as transitional assets until the new content structure is fully established.
 
 ---
 
-## Canonical source-of-truth map
+## Module structure
 
-Use the following authority order when architecture language overlaps:
+### Module 1 — The Word
 
-| Document | Authority | Use |
-|---|---|---|
-| `docs/ARCHITECTURE.md` | Canonical | Ownership boundaries, layer rules, runtime responsibilities, and handoff behavior |
-| `docs/INTEGRATION_WITH_COMMUNITY_OS.md` | Canonical | CommunityOS integration contract and fallback behavior |
-| `docs/SUPABASE.md` | Canonical | Shared-project data boundary, naming rules, and credential posture |
-| `MIGRATION_FROM_PLUMBLINEOS.md` | Transitional | Migration ledger and phase history; not the steady-state source of truth |
-| `docs/PR3_PLUMBLINEOS_CUTOVER.md` | Transitional | PlumbLineOS tombstone/redirect checklist during cutover |
-| `README.md` and `docs/INTRODUCTION.md` | Orientation | Entry points and summaries; defer to canonical docs if wording diverges |
+The Word is the Hebraic thinking environment for CovenantOS. It absorbs the existing 5-layer philosophy and study tools: the Foundational Layer, Diagnostic Engine, Berean Tool, Language Module, and Formation Layer. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
 
----
+Primary content in this module includes:
+- Foundational covenantal philosophy and first principles
+- Diagnostic frames for rival philosophies and contradictions
+- Berean examination tools for teachers, traditions, and self
+- Hebraic word studies and language formation
+- Embodied practices such as Come to the Table, Harvest and Hymn, domain lenses, and Patristic Voices
 
-## Ownership and boundary matrix
-
-| Domain / capability | Owned by CovenantOS | Explicitly not owned by CovenantOS | Boundary / handoff contract |
-|---|---|---|---|
-| 5-layer formation architecture | Yes — `covenant_os/` and matching Flutter features | Trade workflows, homestead operations, commerce | Lower layers must not reference higher layers |
-| Covenant onboarding, formation runtime, and group/forum flows | Yes — `lib/features/covenant_onboarding/`, `formation_layer/`, `covenant_forum/` | TradeCore onboarding, CommunityOS Academy runtime | CovenantOS owns covenant invite acceptance and covenant write paths |
-| CommunityOS Academy intro framing | No — CommunityOS owns Academy tracks and intro card lifecycle | CovenantOS does not own track schemas, permissions, or Academy business logic | CommunityOS may optionally consume a CovenantOS `frameOverride`; fallback is the default Academy intro |
-| PlumbLineOS covenant route cutover | No — PlumbLineOS owns TradeCore routes and tombstones | CovenantOS does not own TradeCore redirects after handoff | PlumbLineOS must tombstone old covenant routes and deep link to CovenantOS without writing data |
-| Shared auth / shared Supabase project with CommunityOS | CovenantOS owns its own tables, policies, and migrations in the shared project | CovenantOS does not own CommunityOS tables or shared-project internals beyond covenant scope | Shared identity is allowed; application-layer joins or reverse dependencies are not |
-| TradeCore plumbing / HVAC domain | No | PlumbLineOS owns it | Redirect users to PlumbLineOS for operational trade work |
-| Homestead / market / wholesale / MeshCore domain | No | CommunityOS owns it | Redirect users to CommunityOS for operational homestead or commerce work |
+**Tone:** Scripture is a land, not a library. You walk in it.
 
 ---
 
-## The 5 layers
+### Module 2 — The Household
 
-### Layer 1 — Foundational Layer
+The Household is the oikonomia module: household stewardship as the center of life. It reframes economics away from abstract transactions and back toward the relational life of work, craft, land, hospitality, trade, and community. This module is net-new and does not have a direct equivalent in the legacy CovenantOS structure.
 
-The Foundational Layer contains the first principles and operating frame of CovenantOS. It defines the core assumptions about personhood, covenant, formation, and community that orient everything else in the system.
+Primary content in this module includes:
+- Household flow models (work → craft → garden → hospitality → trade → community)
+- Oikonomia word study and household economy framing
+- Household economy vs. consumer economy contrasts
+- Agrarian rhythms, seasons, soil, cycles, inheritance, and place
+- Guided reflection on stewardship inside actual households and neighborhoods
 
-Content in this layer includes:
-- The philosophical and theological first principles that ground the entire framework
-- Definitions of key terms at their most fundamental level (before elaboration in the Language Module)
-- The governing frame for how CovenantOS understands formation, community, and covenant
-
-**Rule:** The Foundational Layer does not reference any other layer. It is the bedrock. All other layers may reference it.
-
----
-
-### Layer 2 — Diagnostic Engine
-
-The Diagnostic Engine surfaces beliefs, contradictions, and patterns in an individual's or group's formation journey. It provides structured tools for examining what someone actually believes versus what they say they believe, and for identifying where formation is fragile or incomplete.
-
-Content in this layer includes:
-- Diagnostic frameworks and rubrics
-- Belief-mapping structures (e.g., "stated belief" vs. "revealed belief" patterns)
-- Contradiction identification tools
-- Pattern recognition prompts and templates
-
-The Diagnostic Engine draws on the Foundational Layer's first principles to establish what counts as a contradiction or a healthy pattern. It does not reference the Berean Tool, Language Module, or Formation Layer.
+**Tone:** Economics is relational, not transactional. The household is the first school.
 
 ---
 
-### Layer 3 — Berean Tool
+### Module 3 — The Compact
 
-The Berean Tool is a scripture and text examination tool. Named after the Bereans of Acts 17 who examined the scriptures daily to verify what they were taught, this layer provides structured approaches to engaging primary sources — chiefly scripture, but also other formative texts.
+The Compact is the political anthropology module. It helps users understand how people organize themselves covenantally: through subsidiarity, shared stewardship, commons, local market life, and peoplehood. This module is also net-new and grows from the imagination formed in The Word and the household patterns formed in The Household.
 
-Content in this layer includes:
-- Scripture examination templates and frameworks
-- Text study structures (observation, interpretation, application)
-- Cross-reference and comparison tools
-- Guidance for examining sources in light of the Foundational Layer's principles
+Primary content in this module includes:
+- Covenant vs. contract distinctions
+- Subsidiarity across local, regional, and civil layers
+- Commons and shared stewardship
+- Local market and social-fabric reflection
+- Peoplehood vs. consumer identity
 
-The Berean Tool draws on Layers 1–2. It does not reference the Language Module or Formation Layer.
-
----
-
-### Layer 4 — Language Module
-
-The Language Module builds a shared covenantal vocabulary and formation language. Language is not neutral; the words a community uses to describe reality shape how it understands and practices covenant. This layer works to establish precise, formative language that is grounded in the Foundational Layer and informed by the Diagnostic Engine and Berean Tool.
-
-Content in this layer includes:
-- Glossary of covenantal terms with definitions and usage notes
-- Formation language guides (how to speak about persons, community, failure, restoration)
-- Terminology for the practices described in the Formation Layer
-- Language patterns that reinforce healthy formation and language patterns that undermine it
-
-The Language Module draws on Layers 1–3. It does not reference the Formation Layer.
+**Tone:** Political life is relational, not institutional. The compact flows from the household.
 
 ---
 
-### Layer 5 — Formation Layer
-
-The Formation Layer contains the embodied practices through which the principles, diagnostics, tools, and language of the lower layers are lived out in community. Formation is not merely intellectual — it is practiced, repeated, and embodied.
-
-Content in this layer includes:
-- **Come to the Table** — a liturgical and relational practice for community gathering, examination, and recommitment
-- **Harvest and Hymn** — a seasonal practice that connects the rhythms of creation with the rhythms of formation
-- Practice guides, facilitator notes, and community rhythms
-- Templates for formation group sessions
-
-The Formation Layer draws on all four layers below it and is the only layer permitted to reference all others.
-
----
-
-## Layer dependency diagram
+## Module dependency diagram
 
 ```text
-Layer 5 — Formation Layer
-    ↓ may reference Layers 1–4
-
-Layer 4 — Language Module
-    ↓ may reference Layers 1–3
-
-Layer 3 — Berean Tool
-    ↓ may reference Layers 1–2
-
-Layer 2 — Diagnostic Engine
-    ↓ may reference Layer 1
-
-Layer 1 — Foundational Layer
-    (no references to other layers)
+The Word
+    ↓ forms imagination
+The Household
+    ↓ households form communities
+The Compact
 ```
 
-**Rule:** Upward references are not allowed. A lower layer must never import from, link to, or depend on a higher layer.
+**Rule:** The sequence is deliberate. CovenantOS does not begin with institutional life or abstract politics. Imagination is formed by The Word, that imagination is embodied in The Household, and only then does The Compact emerge with coherence.
 
 ---
 
-## Flutter app architecture
+## Design principles
 
-The `lib/features/` directory mirrors the layer structure and adds limited cross-cutting surfaces:
+- **Hebraic cognition** — walking over detached analysis; practices over abstractions; household over atomized individualism; land over placelessness; covenant over contract
+- **No-backend architecture** — the target system depends on no accounts, forum, membership, or server-managed application state
+- **Interactive web-first** — the experience is guided and participatory, but the interaction serves reflection rather than feeds, alerts, or social features
+- **Static content-first** — markdown and structured content are the primary source material; interface is secondary and interpretive
 
-| Feature directory | Role |
-|---|---|
-| `lib/features/berean_tool/` | Layer 3 — Berean Tool |
-| `lib/features/language_module/` | Layer 4 — Language Module |
-| `lib/features/formation_layer/` | Layer 5 — Formation Layer |
-| `lib/features/covenant_onboarding/` | CovenantOS-specific onboarding and invite acceptance |
-| `lib/features/covenant_forum/` | Cross-cutting community/forum surfaces that support formation practices |
-
-The same 5-layer separation rule applies to Dart code: lower-layer feature packages must not import from higher-layer feature packages. Cross-cutting surfaces must not create backdoor upward dependencies.
+See [`docs/DESIGN_PRINCIPLES.md`](DESIGN_PRINCIPLES.md) for the fuller rationale.
 
 ---
 
-## Boundary operating model
+## Content philosophy
 
-### What CovenantOS owns
+CovenantOS 2.0 is governed by three content convictions:
 
-- The formational content tree under `covenant_os/`
-- CovenantOS-specific presentation, onboarding, and formation runtime in `lib/`
-- Covenant-specific tables and migrations in `supabase/migrations/`
-- Covenant invite acceptance, covenant entitlements, and covenant formation records
-
-### What CovenantOS does not own
-
-- PlumbLineOS trade workflows, trade routes, or commercial plumbing / HVAC operations
-- CommunityOS homestead, market, wholesale, MeshCore, or Academy business logic
-- Cross-repo reverse imports, shared app-layer models, or shared routing ownership
-
-### Boundary behavior
-
-#### CommunityOS handoff
-
-- CommunityOS owns the Academy track and intro-card lifecycle.
-- CovenantOS may supply optional formation framing through the `frameOverride` contract.
-- If CovenantOS content is unavailable, disabled, or invalid, CommunityOS falls back to its default Academy intro card.
-- The integration is presentation/content-only: no cross-repo write path, no schema coupling, and no reverse dependency from CovenantOS into CommunityOS.
-
-#### PlumbLineOS handoff
-
-- PlumbLineOS must tombstone legacy covenant routes after cutover.
-- Tombstones may deep link to CovenantOS when a launch target is available.
-- If a deep link is unavailable, the tombstone should show an informative redirect message and stop.
-- Tombstones must not write data, call covenant RPCs, or preserve competing TradeCore write paths.
-
-#### Shared data boundary
-
-- CovenantOS and CommunityOS may share a Supabase project in production.
-- The shared project enables shared identity, not shared application ownership.
-- CovenantOS tables stay covenant-prefixed and application behavior must not rely on cross-product joins or reverse imports.
-- PlumbLineOS remains on a separate Supabase project.
+- **Walking, not merely studying** — scripture is encountered as terrain to inhabit, not only as information to catalog
+- **Relational, not transactional** — households, communities, and political life are understood through stewardship and covenantal obligation rather than market logic alone
+- **Covenantal, not contractual** — the deepest social grammar is promise, fidelity, inheritance, and belonging, not mere negotiated exchange
 
 ---
 
-## Content layer (`covenant_os/` tree)
+## Active repository surfaces
 
-The `covenant_os/` directory contains the markdown-first content for all five layers:
+The target architecture is expressed primarily through:
 
-```text
-covenant_os/
-├── README.md                            — content tree overview and navigation
-├── 01_foundational_layer/README.md      — first principles and frame
-├── 02_diagnostic_engine/README.md       — beliefs, contradictions, patterns
-├── 03_berean_tool/README.md             — scripture/text examination
-├── 04_language_module/README.md         — covenantal terminology
-└── 05_formation_layer/
-    ├── README.md                        — formation practices overview
-    ├── come_to_the_table/README.md      — Come to the Table practice
-    └── harvest_and_hymn/README.md       — Harvest and Hymn practice
-```
+- `modules/` — the new module-oriented content scaffold
+- `docs/ARCHITECTURE.md` — this target architecture document
+- `docs/DESIGN_PRINCIPLES.md` — design-language and sequencing rationale
+- `docs/CONTENT_TRANSFER.md` — canonical mapping from legacy content into The Word and net-new work for the other modules
 
----
+Transitional assets that remain in place but are not the target architecture:
 
-## Supabase
-
-CovenantOS shares a Supabase project with CommunityOS in production, while PlumbLineOS uses a separate project. See [`docs/SUPABASE.md`](SUPABASE.md) for data-boundary details.
+- `covenant_os/` — existing 5-layer markdown tree retained until transfer is complete
+- `lib/` — legacy Flutter implementation retained during transition
+- `supabase/` — legacy backend migrations retained during transition
+- `archive/` — historical architecture documents preserved for reference only
