@@ -129,7 +129,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 | `/the-compact/peoplehood` | `modules/03_the_compact/PEOPLEHOOD.md` | page |
 | `/the-compact/local-market-and-social-fabric` | `modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md` | page |
 | `/the-compact/hebraic-word-studies` | `modules/03_the_compact/HEBRAIC_WORD_STUDIES.md` | page |
-| `/the-compact/formation-questions` | `content/data/compact_builder.json` | tool |
+| `/the-compact/formation-questions` | `modules/03_the_compact/FORMATION_QUESTIONS.md` | tool |
 
 ---
 

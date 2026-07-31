@@ -108,4 +108,4 @@ This matrix is the canonical route-to-content map for the static web build. Refe
 | `/the-compact/peoplehood` | `modules/03_the_compact/PEOPLEHOOD.md` | Peoplehood | content-page | Peoplehood and belonging page. |
 | `/the-compact/local-market-and-social-fabric` | `modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md` | Local Market and Social Fabric | content-page | Local trade and social fabric page. |
 | `/the-compact/hebraic-word-studies` | `modules/03_the_compact/HEBRAIC_WORD_STUDIES.md` | Hebraic Word Studies | content-page | Word-study page using inline Hebrew word cards. |
-| `/the-compact/formation-questions` | `content/data/compact_builder.json` | Compact Builder | tool | Local-only reflection and print/export tool sourced from the capstone formation questions. |
+| `/the-compact/formation-questions` | `modules/03_the_compact/FORMATION_QUESTIONS.md` | Compact Builder | tool | Local-only reflection and print/export tool sourced from the capstone formation questions and structured by `content/data/compact_builder.json`. |
