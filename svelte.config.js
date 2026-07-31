@@ -6,7 +6,7 @@ const config = {
 	extensions: ['.svelte', '.md'],
 	preprocess: [
 		mdsvex({
-			extensions: ['.svelte', '.md']
+			extensions: ['.md']
 		})
 	],
 	kit: {
