@@ -1,6 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
-  import Content from '../../../../../modules/01_the_word/04_language_module/README.md';
+  import Content from '../../../../modules/01_the_word/04_language_module/README.md';
 </script>
 
 <ContentLayout
