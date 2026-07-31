@@ -7,25 +7,20 @@ on:
     branches: [main]
 
 jobs:
-  build-and-test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          channel: stable
+          node-version: 20
+          cache: npm
 
       - name: Install dependencies
-        run: flutter pub get
+        run: npm ci
 
-      - name: Check layer dependency directions
-        run: dart tool/check_layer_deps.dart
-
-      - name: Analyze
-        run: flutter analyze
-
-      - name: Run tests
-        run: flutter test
+      - name: Build site
+        run: npm run build
