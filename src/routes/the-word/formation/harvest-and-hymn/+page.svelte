@@ -1,0 +1,18 @@
+<script>
+  import ContentLayout from '$lib/ContentLayout.svelte';
+  import FormationSubnav from '$lib/FormationSubnav.svelte';
+  import Content from '../../../../../modules/01_the_word/05_formation_layer/harvest_and_hymn/README.md';
+</script>
+
+<ContentLayout
+  title="Harvest & Hymn"
+  module="The Word"
+  moduleHref="/the-word/formation"
+  prevHref="/the-word/formation/come-to-the-table/liturgies/seasonal/winter"
+  prevLabel="Winter Seasonal Overlay"
+  nextHref="/the-word/formation/harvest-and-hymn/philosophy"
+  nextLabel="Philosophy"
+>
+  <FormationSubnav activeHref="/the-word/formation/harvest-and-hymn" />
+  <Content />
+</ContentLayout>
