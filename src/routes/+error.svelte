@@ -1,16 +1,25 @@
+<script>
+  import { page } from '$app/stores';
+</script>
+
 <svelte:head>
-  <title>Not Found | CovenantOS</title>
+  <title>Page not found | CovenantOS</title>
 </svelte:head>
 
-<div class="flex min-h-screen items-center justify-center bg-parchment px-6 py-16 text-charcoal">
-  <div class="max-w-xl text-center">
-    <h1 class="font-serif-display text-3xl font-semibold text-charcoal">This path isn't here</h1>
-    <p class="mt-4 text-base text-slate-covenant">
+<div class="min-h-screen bg-parchment flex flex-col items-center justify-center px-6 text-center">
+  <div class="max-w-lg">
+    <p class="text-sm font-semibold uppercase tracking-[0.2em] text-ochre mb-4">
+      {$page.status}
+    </p>
+    <h1 class="font-serif-display text-3xl font-bold text-charcoal mb-4">
+      This path isn't here
+    </h1>
+    <p class="text-slate-covenant text-lg mb-8">
       You may have followed a link that doesn't exist yet, or mistyped a path.
     </p>
     <a
       href="/"
-      class="mt-8 inline-flex text-base font-semibold text-ochre no-underline transition-colors duration-300 hover:text-charcoal"
+      class="inline-block border border-ochre text-ochre px-6 py-3 text-sm font-semibold rounded-sm no-underline hover:bg-ochre hover:text-parchment transition-colors duration-300"
     >
       Return to the Covenant Map →
     </a>
