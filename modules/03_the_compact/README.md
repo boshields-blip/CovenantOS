@@ -4,6 +4,70 @@
 
 ---
 
-The Compact is the political anthropology module for CovenantOS 2.0. It explores covenant, subsidiarity, commons, local market life, and peoplehood as the public outworking of rightly ordered households.
+The Compact is CovenantOS's political anthropology module. It asks the oldest public question: *how do communities govern themselves, order their shared life, and understand authority?* The answer here is not partisan — it is covenantal. Communities precede governments. Households covenant together before institutions are built. Authority is personal, local, and accountable before it is procedural, distant, and abstract.
 
-This is a placeholder for net-new content to be authored in the CovenantOS 2.0 architecture.
+## What The Compact is — and is not
+
+The Compact is **not** partisan politics. It does not align with any party, movement, or ideology. It is political *anthropology* — the examination of what political life is *for* and what ordering God designed for human community.
+
+The core diagnosis:
+
+> The modern world imagines that individuals form contracts with institutions, and that the state or market is the primary unit of social order. The covenantal alternative imagines that households covenant with one another to form communities, communities form the commons, and civil authority is accountable to both God and the people it serves — not the other way around.
+
+The deepest fault line in Western political life is not left vs. right. It is **covenant vs. contract** — the difference between a community built on shared obligation, shared life, and faithfulness before God, and an arrangement built on negotiated terms, mutual self-interest, and consent alone.
+
+## How this module flows from The Household
+
+The Household showed that the household is the original economic and relational unit — that *oikonomia* is the ordering of home, land, and neighbor before it is the theory of markets.
+
+The Compact now shows what happens when households reach outward toward one another. Communities are not collections of individuals. They are networks of households, covenanting to share a commons, hold common obligations, and order public life together. The Household is the foundation; The Compact is the outworking.
+
+See [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md) for how the household's productive surplus moves outward into the community — The Compact is the covenantal context in which that movement happens.
+
+## Sequence in CovenantOS
+
+```text
+The Word → forms imagination
+    ↓
+The Household → households form communities
+    ↓
+The Compact → communities require a covenantal ordering of shared life
+```
+
+- Upstream formation frame: [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)
+- The diagnoses that this module answers: [expressive_individualism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/expressive_individualism.md), [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md), [progressivist_utopianism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/progressivist_utopianism.md)
+- Upstream household module: [modules/02_the_household/README.md](../02_the_household/README.md)
+
+## Tone and posture
+
+This module is covenantal, local, embodied, and place-based. Authority is personal and accountable — it belongs to people you know by name, not to abstract institutions or managerial processes. Community emerges from shared life and shared obligation, not from institutional design.
+
+The posture is slow, patient, and particular. Not revolutionary and not reactionary. The invitation is faithful presence in the specific place where you actually live — this neighborhood, this congregation, this market, this watershed.
+
+In the Piedmont of South Carolina, this is not abstract. Local farmers markets, small farms selling direct, skilled tradespeople known by name, and congregations with genuine mutual accountability are already forming. The Compact is a framework for naming what is happening and walking further into it.
+
+## Directory map
+
+```text
+modules/03_the_compact/
+├── README.md
+├── COVENANT_VS_CONTRACT.md
+├── SUBSIDIARITY.md
+├── COMMONS_AND_SHARED_LIFE.md
+├── PEOPLEHOOD.md
+├── LOCAL_MARKET_AND_SOCIAL_FABRIC.md
+├── HEBRAIC_WORD_STUDIES.md
+└── FORMATION_QUESTIONS.md
+```
+
+## How to read this module
+
+A suggested path:
+
+1. Begin with [COVENANT_VS_CONTRACT.md](./COVENANT_VS_CONTRACT.md) — the foundational distinction that makes everything else legible
+2. Move to [SUBSIDIARITY.md](./SUBSIDIARITY.md) — how authority is rightly ordered from household outward
+3. Read [COMMONS_AND_SHARED_LIFE.md](./COMMONS_AND_SHARED_LIFE.md) — the shared spaces and obligations that make a community more than a collection of households
+4. Work through [PEOPLEHOOD.md](./PEOPLEHOOD.md) — what it means to belong to a people, not merely a market segment or a political tribe
+5. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](./LOCAL_MARKET_AND_SOCIAL_FABRIC.md) — how trade, rightly ordered, builds rather than dissolves community
+6. Use [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md) as a repeatable formation tool, returning to it often
+7. Close with [FORMATION_QUESTIONS.md](./FORMATION_QUESTIONS.md) — the capstone questions across all three CovenantOS modules

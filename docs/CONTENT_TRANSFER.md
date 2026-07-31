@@ -96,7 +96,11 @@ Only the markdown-first philosophical and formational content transfers into the
 | `modules/02_the_household/` | Oikonomia word study | Complete | Authored in `modules/02_the_household/OIKONOMIA.md` with scripture range and covenantal recovery. |
 | `modules/02_the_household/` | Household economy vs. consumer economy | Complete | Authored in `modules/02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md` with side-by-side diagnostic table. |
 | `modules/02_the_household/` | Agrarian rhythms, soil, seasons, and inheritance | Complete | Authored in `AGRARIAN_RHYTHMS.md`, `LAND_AND_INHERITANCE.md`, and `HEBRAIC_WORD_STUDIES.md` for seasonal and land theology formation. |
-| `modules/03_the_compact/` | Covenant vs. contract | Planned | Foundational political distinction |
-| `modules/03_the_compact/` | Subsidiarity | Planned | Local → regional → civil ordering |
-| `modules/03_the_compact/` | Commons and shared stewardship | Planned | Shared places, responsibilities, and social fabric |
-| `modules/03_the_compact/` | Peoplehood vs. consumer identity | Planned | Diagnose modern political fragmentation |
+| `modules/03_the_compact/` | Module README | Complete | Authored in `modules/03_the_compact/README.md` with module overview, covenant vs. contract intro, sequence diagram, directory map, and tone statement. |
+| `modules/03_the_compact/` | Covenant vs. contract | Complete | Authored in `modules/03_the_compact/COVENANT_VS_CONTRACT.md` — full comparison table, *berith* roots, social contract critique, and covenantal alternative. |
+| `modules/03_the_compact/` | Subsidiarity | Complete | Authored in `modules/03_the_compact/SUBSIDIARITY.md` — principle, Mosaic model (Exodus 18), modern inversion, formative damage, and practical application. |
+| `modules/03_the_compact/` | Commons and shared stewardship | Complete | Authored in `modules/03_the_compact/COMMONS_AND_SHARED_LIFE.md` — Hebraic commons, gleaning, enclosure, digital enclosure, and local recovery. |
+| `modules/03_the_compact/` | Peoplehood vs. consumer identity | Complete | Authored in `modules/03_the_compact/PEOPLEHOOD.md` — *am*, shared memory/land/practice/future, contrast with consumer/tribal/civic identity, church as covenant people. |
+| `modules/03_the_compact/` | Local market and social fabric | Complete | Authored in `modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md` — covenantal trade, honest weights, local business, gleaning economy, Piedmont SC context. |
+| `modules/03_the_compact/` | Hebraic word studies | Complete | Authored in `modules/03_the_compact/HEBRAIC_WORD_STUDIES.md` — six word studies: *berith*, *am*, *mishpat*, *sha'ar*, *edah*, *tzedek*. |
+| `modules/03_the_compact/` | Formation questions (capstone) | Complete | Authored in `modules/03_the_compact/FORMATION_QUESTIONS.md` — capstone questions across all three modules with closing reflection. |
