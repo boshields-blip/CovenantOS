@@ -92,10 +92,10 @@ Only the markdown-first philosophical and formational content transfers into the
 
 | Module | Content area | Status | Notes |
 |---|---|---|---|
-| `modules/02_the_household/` | Household flow model | Planned | Work → craft → garden → hospitality → trade → community |
-| `modules/02_the_household/` | Oikonomia word study | Planned | Recover household stewardship as the center of economic thought |
-| `modules/02_the_household/` | Household economy vs. consumer economy | Planned | Contrast relational stewardship with transactional consumption |
-| `modules/02_the_household/` | Agrarian rhythms, soil, seasons, and inheritance | Planned | Emphasize land, place, and cyclical stewardship |
+| `modules/02_the_household/` | Household flow model | Complete | Authored in `modules/02_the_household/HOUSEHOLD_FLOW_MODEL.md` with circular land→community flow and renewal logic. |
+| `modules/02_the_household/` | Oikonomia word study | Complete | Authored in `modules/02_the_household/OIKONOMIA.md` with scripture range and covenantal recovery. |
+| `modules/02_the_household/` | Household economy vs. consumer economy | Complete | Authored in `modules/02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md` with side-by-side diagnostic table. |
+| `modules/02_the_household/` | Agrarian rhythms, soil, seasons, and inheritance | Complete | Authored in `AGRARIAN_RHYTHMS.md`, `LAND_AND_INHERITANCE.md`, and `HEBRAIC_WORD_STUDIES.md` for seasonal and land theology formation. |
 | `modules/03_the_compact/` | Covenant vs. contract | Planned | Foundational political distinction |
 | `modules/03_the_compact/` | Subsidiarity | Planned | Local → regional → civil ordering |
 | `modules/03_the_compact/` | Commons and shared stewardship | Planned | Shared places, responsibilities, and social fabric |
