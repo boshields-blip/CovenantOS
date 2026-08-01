@@ -20,7 +20,7 @@ The repeated commands around honest weights and measures — *"You shall not hav
 
 Trade at its best is a form of mutual provision. The household's productive surplus — its extra harvest, its skilled labor, its craft — becomes provision for other households. The local market is where those surpluses meet. This is not the invisible hand of the market; it is the visible hand of neighbors exchanging what they have made.
 
-For the household economics dimension of this, see [OIKONOMIA.md](../02_the_household/OIKONOMIA.md) and [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md).
+For the household economics dimension of this, see [OIKONOMIA.md](/the-household/oikonomia) and [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model).
 
 ## The local market as a social institution
 
@@ -36,7 +36,7 @@ The Commons can be named here as a real, lived instance of that shared-space and
 
 When markets go to scale — regional, national, global — the relational accountability disappears. This is not primarily a moral failure of individuals; it is a structural consequence of scale.
 
-When you buy from a corporation, the corporation does not know your name. It does not know how the price affects your household. It does not live with the consequences of its supply chain decisions in your community. There is no covenant obligation — only price signals and liability law. The market transaction is purely contractual, and as [COVENANT_VS_CONTRACT.md](./COVENANT_VS_CONTRACT.md) shows, contractual transactions produce contractual obligations only — nothing more, nothing less.
+When you buy from a corporation, the corporation does not know your name. It does not know how the price affects your household. It does not live with the consequences of its supply chain decisions in your community. There is no covenant obligation — only price signals and liability law. The market transaction is purely contractual, and as [COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract) shows, contractual transactions produce contractual obligations only — nothing more, nothing less.
 
 The consequences are visible:
 - The small farm in the Piedmont cannot compete on price with the industrial farm that externalizes its costs onto the land, the watershed, and the laborers

@@ -105,9 +105,9 @@ That does not mean flattery. It means that the analysis takes the teacher's best
 
 In a later implementation, users would:
 
-1. Submit structured inputs using the form defined by [schemas/berean_input.schema.json](./schemas/berean_input.schema.json).
-2. Receive a structured profile output following [schemas/berean_profile.schema.json](./schemas/berean_profile.schema.json).
-3. Review the profile with a group using the reflection questions in [how_to_use.md](./how_to_use.md).
-4. Compare the analysis against the covenantal contrasts in [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md).
+1. Submit structured inputs using the form defined by [schemas/berean_input.schema.json](/the-word/berean-tool/reference/berean-input-schema).
+2. Receive a structured profile output following [schemas/berean_profile.schema.json](/the-word/berean-tool/reference/berean-profile-schema).
+3. Review the profile with a group using the reflection questions in [how_to_use.md](/the-word/berean-tool/how-to-use).
+4. Compare the analysis against the covenantal contrasts in [../01_foundational_layer/covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy).
 
 The system should always frame its results as provisional, charitable, and open to correction.

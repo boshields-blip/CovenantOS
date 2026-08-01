@@ -16,7 +16,7 @@ The session files in `sessions/` are designed so that a host can prepare in a si
 
 1. **Read the session file once.** Note the passage reference, the author, the Know slot category, the notice prompts, and the live invitation.
 2. **Open your Bible to the passage.** Read it once to yourself. You do not need to understand it fully before the session — your job is to read it aloud, not to explain it.
-3. **Choose the Know slot point.** The session file will tell you which category is up (author, audience, language, genre, frame, philosophy, or tradition). Read the corresponding entry in [AUTHORS_AND_LANGUAGES.md](./AUTHORS_AND_LANGUAGES.md).
+3. **Choose the Know slot point.** The session file will tell you which category is up (author, audience, language, genre, frame, philosophy, or tradition). Read the corresponding entry in [AUTHORS_AND_LANGUAGES.md](/the-word/formation/come-to-the-table/authors-and-languages).
 4. **Glance at the notice prompts.** Each session file has one prompt per age band. You will not read these aloud — they are cues to help you invite each age naturally in the *Notice* movement.
 5. **Know the live invitation.** You will say this once, near the end. It should be concrete and short enough that you can repeat it without looking at notes.
 
@@ -38,7 +38,7 @@ Reading aloud is a skill, and it improves quickly with practice. A few principle
 
 **Read it twice when young children are present.** The first reading is for the older bands. The second reading allows younger children a second pass, which is often when a single image or word catches.
 
-See [liturgies/reading.md](./liturgies/reading.md) for more guidance.
+See [liturgies/reading.md](/the-word/formation/come-to-the-table/liturgies/reading) for more guidance.
 
 ---
 
@@ -110,7 +110,7 @@ The simplest prompt for a young child is: *"[Name], what's a word you heard?"* A
 
 ## How to close
 
-The closing blessing in [liturgies/closing.md](./liturgies/closing.md) is brief — meant to be said together, if possible. After the blessing, the session is done. The household returns to the rest of the meal or the work of clearing plates.
+The closing blessing in [liturgies/closing.md](/the-word/formation/come-to-the-table/liturgies/closing) is brief — meant to be said together, if possible. After the blessing, the session is done. The household returns to the rest of the meal or the work of clearing plates.
 
 Resist the urge to add a summary or a lesson after the closing. The closing is the closing. Let it end.
 

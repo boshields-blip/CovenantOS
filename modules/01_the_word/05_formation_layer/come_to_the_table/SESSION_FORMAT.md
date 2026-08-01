@@ -17,12 +17,12 @@ Every Come to the Table session follows the same seven-movement shape. The movem
 | # | Movement | Target time | What happens |
 |---|---|---|---|
 | 1 | **Gather** | ~1 min | Everyone is seated. The host names the passage and author in one sentence. Phones are away. |
-| 2 | **Bless the meal** | ~1 min | A short, said-aloud blessing of the food. Children are invited to say it with the host. Use [liturgies/opening.md](./liturgies/opening.md) or your own household blessing. |
-| 3 | **Read** | 1–3 min | The passage is read aloud, slowly, from a real Bible. See [liturgies/reading.md](./liturgies/reading.md) for guidance on how. |
+| 2 | **Bless the meal** | ~1 min | A short, said-aloud blessing of the food. Children are invited to say it with the host. Use [liturgies/opening.md](/the-word/formation/come-to-the-table/liturgies/opening) or your own household blessing. |
+| 3 | **Read** | 1–3 min | The passage is read aloud, slowly, from a real Bible. See [liturgies/reading.md](/the-word/formation/come-to-the-table/liturgies/reading) for guidance on how. |
 | 4 | **Notice** | 2–4 min | "What did you hear?" Round the table: every voice gets one turn before any voice gets a second turn. The youngest band speaks first. |
-| 5 | **Know** | 2–4 min | The host adds one thing about the passage — author, language, setting, or covenantal frame. One thing only. See [AUTHORS_AND_LANGUAGES.md](./AUTHORS_AND_LANGUAGES.md). |
+| 5 | **Know** | 2–4 min | The host adds one thing about the passage — author, language, setting, or covenantal frame. One thing only. See [AUTHORS_AND_LANGUAGES.md](/the-word/formation/come-to-the-table/authors-and-languages). |
 | 6 | **Live** | 2–3 min | "In light of who God is here, how do we live this week?" One concrete, household-sized response is named. |
-| 7 | **Bless and send** | ~1 min | A short closing blessing as plates are cleared. See [liturgies/closing.md](./liturgies/closing.md). |
+| 7 | **Bless and send** | ~1 min | A short closing blessing as plates are cleared. See [liturgies/closing.md](/the-word/formation/come-to-the-table/liturgies/closing). |
 
 ---
 
@@ -36,7 +36,7 @@ If younger children are restless, Gather is the right moment for them to be sett
 
 ### 2. Bless the meal
 
-The blessing is said aloud and said together when possible. It should be short and sayable by a child. If the household has an established blessing, use it. If not, [liturgies/opening.md](./liturgies/opening.md) is available.
+The blessing is said aloud and said together when possible. It should be short and sayable by a child. If the household has an established blessing, use it. If not, [liturgies/opening.md](/the-word/formation/come-to-the-table/liturgies/opening) is available.
 
 The meal blessing is not the same as the passage. It is a recognition that the food itself is a gift from the Creator about whom the passage will speak. The continuity between the blessing and the reading matters.
 
@@ -44,7 +44,7 @@ The meal blessing is not the same as the passage. It is a recognition that the f
 
 The passage is read from a physical Bible when possible. This is an intentional signal: the words belong to a book, the book has a history, the book was carried by people who read it before us.
 
-Read slowly. Pause at the end of a sentence. Read it a second time if young children are present. Older children may read — this is encouraged. See [liturgies/reading.md](./liturgies/reading.md) for more guidance.
+Read slowly. Pause at the end of a sentence. Read it a second time if young children are present. Older children may read — this is encouraged. See [liturgies/reading.md](/the-word/formation/come-to-the-table/liturgies/reading) for more guidance.
 
 Do not quote or paraphrase the passage. Read it. The exact words matter.
 
@@ -63,7 +63,7 @@ The host's job in Notice is:
 - Do not correct or redirect wrong answers — redirect with curiosity.
 - Keep it moving; do not let one voice take the floor.
 
-See [AGE_BANDS.md](./AGE_BANDS.md) for how to invite each age into this movement.
+See [AGE_BANDS.md](/the-word/formation/come-to-the-table/age-bands) for how to invite each age into this movement.
 
 ### 5. Know
 
@@ -86,7 +86,7 @@ The session file's `live_invitation` field is a suggested phrasing. The host may
 
 ### 7. Bless and send
 
-The closing blessing is brief. It marks the end of the session and releases the household into the rest of the evening. It need not be elaborate. See [liturgies/closing.md](./liturgies/closing.md).
+The closing blessing is brief. It marks the end of the session and releases the household into the rest of the evening. It need not be elaborate. See [liturgies/closing.md](/the-word/formation/come-to-the-table/liturgies/closing).
 
 ---
 

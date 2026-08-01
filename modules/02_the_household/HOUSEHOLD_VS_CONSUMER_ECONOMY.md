@@ -30,9 +30,9 @@ That vision can make every relationship transactional. Christian formation is th
 
 For upstream diagnosis, see:
 
-- [consumerism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/consumerism.md)
-- [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md)
-- [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)
+- [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism)
+- [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism)
+- [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
 
 ## The inversion moment (brief history)
 

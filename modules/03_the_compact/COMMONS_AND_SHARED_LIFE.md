@@ -29,13 +29,13 @@ The Hebrew Bible does not use a single word for "the commons," but the concept i
 
 **The gleaning fields** (Leviticus 19:9–10) are perhaps the most striking example. The landowner must leave the corners of the field unharvested, and must not pick up what has fallen in reaping. This surplus belongs to the poor and the stranger. It is not charity — it is covenant law. The field is private property, but its edges belong to the neighborhood. Ruth gleaning in Boaz's field (Ruth 2) is a living image of a local economy where the commons is structured into the practice of harvest itself.
 
-For the household production dimension of this, see [LAND_AND_INHERITANCE.md](../02_the_household/LAND_AND_INHERITANCE.md) and [AGRARIAN_RHYTHMS.md](../02_the_household/AGRARIAN_RHYTHMS.md).
+For the household production dimension of this, see [LAND_AND_INHERITANCE.md](/the-household/land-and-inheritance) and [AGRARIAN_RHYTHMS.md](/the-household/agrarian-rhythms).
 
 **The Sabbath as a commons of time.** The Sabbath belongs to everyone — to the household, to the servant, to the stranger, and to the animals (Exodus 20:8–11). No one may buy or sell on the Sabbath; no one may press another to labor. The Sabbath creates a shared commons of rest and worship that cannot be enclosed by the productive class. The wealthy and the poor share the same day.
 
 **The Jubilee as a resetting of the commons** (Leviticus 25). Every fiftieth year, land returns to its original family allotment. Debts are released. Persons who have sold themselves into indentured service are freed. The Jubilee is a divinely mandated reset of the distribution of the commons — a recognition that over time, accumulation concentrates land and advantage, and that covenant community requires periodic restoration of access.
 
-**The city gates as the commons of justice.** The gate (*sha'ar*) is where disputes were resolved, where commerce was transacted, and where the community held its public life. It is not a government building — it is the threshold of the city, where everyone passes and everyone is known. Justice at the gate is embedded in the community. See the word study in [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md).
+**The city gates as the commons of justice.** The gate (*sha'ar*) is where disputes were resolved, where commerce was transacted, and where the community held its public life. It is not a government building — it is the threshold of the city, where everyone passes and everyone is known. Justice at the gate is embedded in the community. See the word study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies).
 
 ## The commons in agrarian life
 
@@ -43,7 +43,7 @@ In traditional agrarian communities, the commons was not a philosophical concept
 
 **Shared pasture.** In much of England before enclosure, and in many other agricultural societies, common land was grazed by the animals of multiple households according to customary right. The commons was not freely available to all — it was governed by community-held rules about who could graze how many animals and when. This is not the "tragedy of the commons" (the modern economic framing assumes all resource-sharing leads to overuse); it is the sustainable management of shared resources by people who know one another and will continue to live together.
 
-**Shared water and milling.** The well, the millpond, and the millrace were shared infrastructure. A miller in a covenant community was not merely a business; he was a neighbor who held a community obligation to grind grain honestly (see [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](./LOCAL_MARKET_AND_SOCIAL_FABRIC.md) on honest weights and measures).
+**Shared water and milling.** The well, the millpond, and the millrace were shared infrastructure. A miller in a covenant community was not merely a business; he was a neighbor who held a community obligation to grind grain honestly (see [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric) on honest weights and measures).
 
 **Cooperative harvest.** The barn-raising and the cooperative harvest — where neighbors worked each other's fields in rotation — are images of the commons in agrarian practice. Labor itself was a shared resource. You brought your labor to my harvest; I brought mine to yours. No money changed hands; the obligation was personal and relational.
 
@@ -67,7 +67,7 @@ The local newspaper, the town bulletin board, the neighborhood association meeti
 
 The recovery of the digital commons is not solved by new platforms, however better designed. It requires recovering the practices of local, embodied community life that do not require digital mediation: the neighborhood gathering, the market square, the congregation's shared table, the face-to-face conversation between neighbors.
 
-See [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md) for the diagnostic frame on why the tech-platform solution always extends the problem it claims to solve.
+See [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism) for the diagnostic frame on why the tech-platform solution always extends the problem it claims to solve.
 
 ## What a recovered commons looks like locally
 
@@ -86,6 +86,6 @@ None of these require institutional design or program creation. They require hou
 
 The commons is not state ownership or collective management. Persons retain property. Households retain their integrity and their productive independence. The commons is the *relationship between households* — the shared obligations and shared spaces that knit private life into community life.
 
-Collectivism absorbs the household into the collective. The commons *serves* the household by making the community that households need to flourish. This is the distinction that subsidiarity protects. See [SUBSIDIARITY.md](./SUBSIDIARITY.md) for how the levels interact.
+Collectivism absorbs the household into the collective. The commons *serves* the household by making the community that households need to flourish. This is the distinction that subsidiarity protects. See [SUBSIDIARITY.md](/the-compact/subsidiarity) for how the levels interact.
 
-The covenant spirit in which the commons is held is described throughout this module — beginning with [COVENANT_VS_CONTRACT.md](./COVENANT_VS_CONTRACT.md). Subsidiarity determines which level governs which commons. Covenant determines the spirit in which it is held. The commons is the visible form of both working together in daily life.
+The covenant spirit in which the commons is held is described throughout this module — beginning with [COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract). Subsidiarity determines which level governs which commons. Covenant determines the spirit in which it is held. The commons is the visible form of both working together in daily life.

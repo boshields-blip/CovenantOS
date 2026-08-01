@@ -90,6 +90,6 @@ Some families will receive it and set it aside. Some will try it. A few will kee
 
 If a guest family is curious about the practice and wants to learn more, the simplest next step is to invite them again. Multiple shared meals together will explain the practice better than any document can.
 
-If they want a resource to take home, point them to [SESSION_FORMAT.md](./SESSION_FORMAT.md) and [HOST_GUIDE.md](./HOST_GUIDE.md). These two files contain enough to begin.
+If they want a resource to take home, point them to [SESSION_FORMAT.md](/the-word/formation/come-to-the-table/session-format) and [HOST_GUIDE.md](/the-word/formation/come-to-the-table/host-guide). These two files contain enough to begin.
 
 For a family with no background in Scripture, a gentle starting point is the passage you read together that evening — a single text they already know something about because they were present when it was read.

@@ -15,7 +15,7 @@ Modern people are increasingly defined by:
 - **Consumer preferences** — your brand affiliations, purchasing patterns, and lifestyle choices shape your identity and determine which market segments you belong to
 - **Ideological tribe** — your alignment with a set of political or cultural positions defines your community; those who disagree are not neighbors but opponents
 - **Platform affiliation** — which apps you use, which communities you follow, which influencers you trust
-- **Therapeutic identity** — who you are inside, your authentic self, your personal journey — as described in [expressive_individualism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/expressive_individualism.md)
+- **Therapeutic identity** — who you are inside, your authentic self, your personal journey — as described in [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism)
 - **Political citizenship** — a legal status, a passport, a set of rights and obligations granted and enforced by the state
 
 None of these is nothing. But none of them is *peoplehood* in the covenantal sense. They are all either chosen, curated, or granted by an institution. They are held lightly and exchanged easily. They do not bind you to a place or a past. They do not require you to stay when staying is costly.
@@ -38,7 +38,7 @@ Drawing from the Hebraic pattern, a covenant people is constituted by:
 
 **Shared memory and story.** The Passover seder begins: *"We were slaves in Egypt, and YHWH brought us out with a mighty hand."* Every generation says *we* — not "our ancestors." The story is received and inhabited, not merely studied. A people without a shared story is a demographic, not a community.
 
-**Shared land and place.** The Promised Land is not merely a territory — it is a covenantal home. The people are shaped by its soil, its seasons, its boundaries. When Israel is in exile, the loss of land is not merely geographic; it is the disruption of the entire covenantal frame. *"How shall we sing YHWH's song in a foreign land?"* (Psalm 137:4). Place is not incidental to peoplehood; it is part of what makes a people particular. See [LAND_AND_INHERITANCE.md](../02_the_household/LAND_AND_INHERITANCE.md) for how this extends into household life.
+**Shared land and place.** The Promised Land is not merely a territory — it is a covenantal home. The people are shaped by its soil, its seasons, its boundaries. When Israel is in exile, the loss of land is not merely geographic; it is the disruption of the entire covenantal frame. *"How shall we sing YHWH's song in a foreign land?"* (Psalm 137:4). Place is not incidental to peoplehood; it is part of what makes a people particular. See [LAND_AND_INHERITANCE.md](/the-household/land-and-inheritance) for how this extends into household life.
 
 **Shared practices and obligations.** Sabbath, feasts, gleaning laws, honest weights, Jubilee, the city gate as the place of justice — these are the shared practices that form a people across time. A people that does not share practices is dissolving into individual lifestyle preferences.
 
@@ -50,7 +50,7 @@ Drawing from the Hebraic pattern, a covenant people is constituted by:
 
 Consumer identity is chosen, curated, and easily exchanged. You select a brand; when it no longer serves your preferences, you select another. There is no obligation beyond the transaction. No memory binds you. No land roots you. No practice forms you across generations.
 
-This is not a critique of purchasing things. It is a critique of *identity formation through consumption* — of the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [consumerism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/consumerism.md). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
+This is not a critique of purchasing things. It is a critique of *identity formation through consumption* — of the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
 
 ## The contrast with ideological tribe
 
@@ -99,9 +99,9 @@ In the Piedmont of South Carolina, the material conditions for this are present:
 
 ## Connection to The Word and The Household
 
-The Word forms the imagination of a people — giving them the story, the language, the frame, and the practices that shape a community's inner life. See the full formation pathway in [modules/01_the_word/README.md](../01_the_word/README.md).
+The Word forms the imagination of a people — giving them the story, the language, the frame, and the practices that shape a community's inner life. See the full formation pathway in [modules/01_the_word/README.md](/the-word).
 
-The Household is where peoplehood is reproduced generation by generation — where children are formed within a covenant family before they are formed by any institution. See [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md) for how the household's life flows into community.
+The Household is where peoplehood is reproduced generation by generation — where children are formed within a covenant family before they are formed by any institution. See [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model) for how the household's life flows into community.
 
 The Compact — this module — is where households that have been formed by The Word come together to form *am*: a people with a shared commons, a shared public life, and a shared future. The three modules form one arc.
 

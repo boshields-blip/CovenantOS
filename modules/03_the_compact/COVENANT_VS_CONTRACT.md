@@ -37,7 +37,7 @@ God's covenants in Scripture follow a consistent pattern:
 
 Each of these covenants is personal, specific, and embedded in a people in a place. The New Covenant does not dissolve particularity — it expands it to include the nations while remaining rooted in God's faithfulness to His word.
 
-The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md) for the full frame.
+The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy) for the full frame.
 
 ## How contract thinking replaced covenant thinking
 
@@ -57,7 +57,7 @@ The problems with this account are both historical and theological:
 
 **Theologically**, it inverts the order. Creation precedes individual freedom. Community — household, clan, tribe, people — is part of how God made human beings, not a post-hoc agreement among prior individuals. To say that individuals form communities is to say that persons are more basic than relationships. But Scripture says otherwise: "It is not good for man to be alone" (Genesis 2:18) — and that was before the Fall.
 
-For the diagnostic anatomy of these traditions, see [expressive_individualism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/expressive_individualism.md) and [progressivist_utopianism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/progressivist_utopianism.md).
+For the diagnostic anatomy of these traditions, see [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism) and [progressivist_utopianism.md](/the-word/diagnostic-engine/philosophy-modules/progressivist-utopianism).
 
 ## The political consequences of contract thinking
 

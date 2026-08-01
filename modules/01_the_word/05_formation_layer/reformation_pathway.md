@@ -64,8 +64,8 @@ Putting something down leaves a space. If that space is not filled with covenant
 
 This movement draws directly on the governing frame and the language module. Renewing the mind means:
 
-- **Returning to the covenantal contrast.** For each category where you named a drift, sit with the covenantal answer in [covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md) and the category files. Not as information to file, but as a truth to be re-shaped by. Ask: *What would it mean to actually see this way?*
-- **Retraining speech.** Because language is the operating system of the imagination, renewal is partly a matter of words. The [worldly vs. covenantal dictionary](../04_language_module/worldly_vs_covenantal_dictionary.md) is a renewal tool, not just a diagnostic one. When you catch yourself reaching for "build the brand," "protect my peace," or "the right side of history," the covenantal alternative is not merely more accurate — it slowly reforms what you can imagine. Changed speech is not cosmetic; it is catechesis.
+- **Returning to the covenantal contrast.** For each category where you named a drift, sit with the covenantal answer in [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy) and the category files. Not as information to file, but as a truth to be re-shaped by. Ask: *What would it mean to actually see this way?*
+- **Retraining speech.** Because language is the operating system of the imagination, renewal is partly a matter of words. The [worldly vs. covenantal dictionary](/the-word/language-module/worldly-vs-covenantal-dictionary) is a renewal tool, not just a diagnostic one. When you catch yourself reaching for "build the brand," "protect my peace," or "the right side of history," the covenantal alternative is not merely more accurate — it slowly reforms what you can imagine. Changed speech is not cosmetic; it is catechesis.
 - **Recovering memory.** Covenant renewal is historical. It works through Scripture read aloud, through the testimony of the saints, through liturgy that carries the community's memory forward. The mind is renewed less by novelty than by re-inhabiting what was given — the story into which you were baptized.
 - **Re-ordering the imagination Hebraically.** The governing frame is relational, embodied, apostolic, and historical. Renewal moves thought back toward the concrete: bodies, tables, seasons, places, obligations, and names, rather than abstractions floating free of any actual congregation or household.
 
@@ -133,9 +133,9 @@ The way through is the oldest way there is. Put off. Be renewed. Put on. Turn, a
 
 ## Related documents
 
-- [covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md) — the governing frame renewal returns to
-- [The seven diagnostic categories](../02_diagnostic_engine/README.md) — the terrain of putting off
-- [worldly_vs_covenantal_dictionary.md](../04_language_module/worldly_vs_covenantal_dictionary.md) — a renewal tool for speech
+- [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy) — the governing frame renewal returns to
+- [The seven diagnostic categories](/the-word/diagnostic-engine) — the terrain of putting off
+- [worldly_vs_covenantal_dictionary.md](/the-word/language-module/worldly-vs-covenantal-dictionary) — a renewal tool for speech
 - [come_to_the_table/README.md](/the-word/formation/come-to-the-table) — the weekly household practice
 - [harvest_and_hymn/README.md](/the-word/formation/harvest-and-hymn) — the quarterly community gathering
 
