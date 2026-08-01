@@ -188,7 +188,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 - **Source:** [`content/data/compact_builder.json`](../content/data/compact_builder.json)
 - **Form:** localStorage-backed reflection tool organized into the three module sections from `modules/03_the_compact/FORMATION_QUESTIONS.md`.
 - **Interaction:** users can move section by section, save reflection text locally, and trigger client-side print/export views using `export_label` and `print_title` metadata.
-- **Copy rule:** all question text and the closing reflection remain sourced from the canonical formation questions markdown file.
+- **Copy rule:** the capstone question copy is authored in `modules/03_the_compact/FORMATION_QUESTIONS.md` and mirrored in `content/data/compact_builder.json` for the interactive tool; the two sources must stay in sync.
 
 ### E. Hebrew Word Cards
 

@@ -8,6 +8,8 @@ These questions are not a quiz. They are an invitation to walk. Formation is not
 
 Use these questions slowly — one section at a sitting, with a household or a small group that meets regularly. Let silence be productive. Where a question surfaces resistance or difficulty, stay with it rather than moving past it.
 
+The interactive Compact Builder at `/the-compact/formation-questions` uses the structured mirror in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). Keep the question copy and closing reflection synchronized between that data pack and this capstone document when either one changes.
+
 This capstone document draws from all three CovenantOS modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal life viewed from three vantage points.
 
 ---
