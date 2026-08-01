@@ -8,7 +8,7 @@
 
 CovenantOS 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
 
-The target architecture has no backend, no accounts, no forum, no memberships, and no Supabase runtime dependency. Existing Flutter code, legacy content locations, and migration artifacts remain in this repository only as transitional assets until the new content structure is fully established.
+The target architecture has no backend, no accounts, no forum, no memberships, no transactional logic, and no Supabase runtime dependency. Existing Flutter code, legacy content locations, and migration artifacts remain in this repository only as transitional assets until the new content structure is fully established.
 
 ---
 
@@ -84,6 +84,14 @@ See [`docs/DESIGN_PRINCIPLES.md`](DESIGN_PRINCIPLES.md) for the fuller rationale
 
 ---
 
+## Relationship to CommunityOS
+
+CovenantOS explains the why of covenantal household life, honest trade, and shared commons. CommunityOS handles the how of participation in shared spaces and local commerce.
+
+CovenantOS may name Aletheia Farm and The Commons as lived examples inside its content, but market calendars, vendor sign-up, venue booking, accounts, and operational logistics belong in CommunityOS rather than in this repository. If CommunityOS chooses to surface CovenantOS framing through a one-way `frameOverride` hook, CovenantOS still remains a standalone product with no reverse dependency.
+
+---
+
 ## Content philosophy
 
 CovenantOS 2.0 is governed by three content convictions:
@@ -101,6 +109,7 @@ The target architecture is expressed primarily through:
 - `modules/` — the new module-oriented content scaffold
 - `docs/ARCHITECTURE.md` — this target architecture document
 - `docs/DESIGN_PRINCIPLES.md` — design-language and sequencing rationale
+- `docs/INTEGRATION_WITH_COMMUNITY_OS.md` — operational boundary with CommunityOS
 - `docs/CONTENT_TRANSFER.md` — canonical mapping from legacy content into The Word and net-new work for the other modules
 
 Transitional assets that remain in place but are not the target architecture:

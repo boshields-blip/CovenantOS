@@ -26,6 +26,8 @@ When Boaz redeems Ruth's family land in Ruth 4, the transaction happens at the g
 
 The local market — whether a Saturday farmers market in Greenville, South Carolina, or a town square in any agricultural community — has always functioned as a social institution as much as an economic one. You do not only buy food; you see who has survived the winter, who has a new baby, who is struggling with the harvest, and who has learned a new skill. The market is a form of commons — a shared space where private production meets public exchange and both are shaped by community accountability.
 
+The Commons can be named here as a real, lived instance of that shared-space and market logic. CovenantOS names it to make the argument concrete, but vendor coordination, event scheduling, listings, and transactions remain CommunityOS responsibilities.
+
 ## How scale corrupts the market
 
 When markets go to scale — regional, national, global — the relational accountability disappears. This is not primarily a moral failure of individuals; it is a structural consequence of scale.

@@ -10,7 +10,7 @@
 
 CovenantOS is being reshaped into a guided covenantal atlas: a static, interactive web experience that helps people re-see life through a Hebraic frame. It is embodied, relational, land-aware, and household-centered. The experience is designed to form imagination first, then household life, then public life.
 
-There is no backend in the target architecture. There are no accounts, no memberships, no forum surfaces, and no Supabase-dependent runtime in the intended CovenantOS 2.0 experience.
+There is no backend in the target architecture. There are no accounts, no memberships, no forum surfaces, and no Supabase-dependent runtime in the intended CovenantOS 2.0 experience. CovenantOS explains the why of covenantal life; CommunityOS handles the operational how of shared spaces, markets, and participation.
 
 ---
 
@@ -45,6 +45,7 @@ The Compact
 
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — three-module target architecture
 - [`docs/DESIGN_PRINCIPLES.md`](docs/DESIGN_PRINCIPLES.md) — design language and product posture
+- [`docs/INTEGRATION_WITH_COMMUNITY_OS.md`](docs/INTEGRATION_WITH_COMMUNITY_OS.md) — boundary between CovenantOS formation and CommunityOS operations
 - [`docs/CONTENT_TRANSFER.md`](docs/CONTENT_TRANSFER.md) — canonical content transfer tracker
 - [`MIGRATION_FROM_PLUMBLINEOS.md`](MIGRATION_FROM_PLUMBLINEOS.md) — transfer plan and status ledger
 - [`archive/README.md`](archive/README.md) — legacy Flutter/Supabase architecture documents kept for reference only

@@ -49,6 +49,8 @@ The Compact
 
 This module is Hebraic, embodied, agrarian, and practical. As you walk in this, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations added later; they are part of the lived texture of the argument.
 
+Aletheia Farm can be named here as a real, lived instance of this household stewardship. Its operational concerns — venue scheduling, bookings, and event logistics — still belong in CommunityOS rather than in CovenantOS.
+
 This is not nostalgia. It is covenantal recovery.
 
 ## Directory map
