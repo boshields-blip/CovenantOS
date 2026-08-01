@@ -10,8 +10,6 @@
   moduleHref="/the-word/formation"
   prevHref="/the-word/formation/come-to-the-table/liturgies/seasonal/fall"
   prevLabel="Fall Seasonal Overlay"
-  nextHref="/the-word/formation/harvest-and-hymn"
-  nextLabel="Harvest & Hymn"
 >
   <FormationSubnav activeHref="/the-word/formation/come-to-the-table" />
   <Content />

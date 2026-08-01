@@ -1,6 +1,6 @@
 # Authors and Languages — Come to the Table
 
-**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+**Status:** Draft | **Author:** Brandon O'Shields
 
 ---
 

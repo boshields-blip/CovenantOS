@@ -6,6 +6,8 @@
   export let prevLabel = '';
   export let nextHref = '';
   export let nextLabel = '';
+  export let homeHref = '/';
+  export let homeLabel = 'CovenantOS Home';
 </script>
 
 <svelte:head>
@@ -37,7 +39,7 @@
       <slot />
     </article>
 
-    {#if prevHref || nextHref}
+    {#if prevHref || nextHref || homeHref}
       <nav class="mt-16 flex items-center justify-between border-t border-ochre/20 pt-8">
         {#if prevHref}
           <a href={prevHref} class="group flex flex-col no-underline">
@@ -59,6 +61,15 @@
               class="text-sm font-semibold text-charcoal transition-colors group-hover:text-ochre"
             >
               {nextLabel}
+            </span>
+          </a>
+        {:else if homeHref}
+          <a href={homeHref} class="group flex flex-col items-end no-underline">
+            <span class="text-xs text-slate-covenant">Return Home</span>
+            <span
+              class="text-sm font-semibold text-charcoal transition-colors group-hover:text-ochre"
+            >
+              {homeLabel}
             </span>
           </a>
         {/if}
