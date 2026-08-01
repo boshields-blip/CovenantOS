@@ -4,13 +4,13 @@
 
 ---
 
-These questions are not a quiz. They are an invitation to walk. Formation is not achieved by answering correctly; it is grown by returning to the same questions across years and seasons, noticing how your answers change as your life changes.
+These questions are not a quiz. They are an invitation to walk. Formation is not achieved by answering correctly; it is grown by returning to the same questions across years and seasons, noticing how your answers change as your household and community change.
 
-Use these questions slowly — one section at a sitting, with a household or a small group that meets regularly. Let silence be productive. Where a question surfaces resistance or difficulty, stay with it rather than moving past it.
+Use these questions slowly — one section at a sitting, with a household or a small group that meets regularly. Let silence be productive. Where a question surfaces resistance or difficulty, stay there rather than moving on.
 
-The interactive Compact Builder at `/the-compact/formation-questions` uses the structured mirror in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). Keep the question copy and closing reflection synchronized between that data pack and this capstone document when either one changes.
+The interactive Compact Builder at `/the-compact/formation-questions` uses the structured mirror in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). Keep the questions in sync if either source is edited.
 
-This capstone document draws from all three CovenantOS modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal life viewed from three vantage points.
+This capstone document draws from all three CovenantOS modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
 
 ---
 
@@ -20,11 +20,11 @@ The Word is where the imagination is examined and reformed. Before you can walk 
 
 **Diagnostic questions:**
 
-- What philosophies have most shaped how you think about authority, community, and public life? Use the [Diagnostic Engine](../01_the_word/02_diagnostic_engine/README.md) to identify the traditions that have formed you — you did not choose them consciously, but they are shaping your imagination nonetheless. Pay particular attention to what the modules on [expressive individualism](../01_the_word/02_diagnostic_engine/philosophy_modules/expressive_individualism.md), [technocratic rationalism](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md), and [progressivist utopianism](../01_the_word/02_diagnostic_engine/philosophy_modules/progressivist_utopianism.md) name.
+- What philosophies have most shaped how you think about authority, community, and public life? Use the [Diagnostic Engine](/the-word/diagnostic-engine) to identify the traditions that have formed you. Where do you find the covenantal contrast most foreign?
 
-- What language do you use for political life? When you speak about your community, your government, your neighbors, your obligations — do you reach for the language of rights, preferences, tribe, citizenship, covenant, or people? Language shapes imagination. Where does your vocabulary come from?
+- What language do you use for political life? When you speak about your community, your government, your neighbors, your obligations — do you reach for the language of rights, preferences, tribes, or covenant? What would it mean to speak more covenantally about public life?
 
-- What does Scripture say about the kind of community God calls His people to be? Read Leviticus 19 slowly. Read Deuteronomy 6:4–9. Read Acts 2:42–47. Read Micah 6:8. What kind of community do these texts imagine? How far is your current community from that picture — and what accounts for the distance?
+- What does Scripture say about the kind of community God calls His people to be? Read Leviticus 19 slowly. Read Deuteronomy 6:4–9. Read Acts 2:42–47. Read Micah 6:8. What kind of community does this call your household and neighborhood toward?
 
 - Where is your imagination most formed by contract thinking rather than covenantal thinking? Where do you instinctively think: *what am I getting from this? what are my terms? when can I exit?* rather than: *what is my obligation here? what does faithfulness require? how do I stay and repair?*
 
@@ -84,7 +84,7 @@ The Compact is where household formation meets public obligation. These question
 
 **The deepest question:**
 
-- What story does your community tell about itself? Is it a consumer market — a place people chose for cost and convenience and will leave when the calculus changes? An ideological tribe — a group defined by shared political or cultural alignment? A civic unit — a municipality with boundaries and services? Or a covenant people — a community with shared memory, shared land, shared practices, shared future, and shared accountability before God?
+- What story does your community tell about itself? Is it a consumer market — a place people chose for cost and convenience and will leave when the calculus changes? An ideological tribe — a group defined by shared opposition and mutual reinforcement? Or a covenant people — a community with shared memory, shared obligation, shared land, and a shared future before God?
 
 What would have to change for the last answer to be more true?
 
@@ -94,20 +94,20 @@ What would have to change for the last answer to be more true?
 
 The three modules of CovenantOS form one arc:
 
-**The Word** gives the imagination — the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and obligation.
+**The Word** gives the imagination — the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and public life.
 
 **The Household** grounds the imagination in embodied life — in land, season, work, table, inheritance, and the daily practice of stewardship before God and neighbor.
 
-**The Compact** extends that embodied life into public obligation — into the commons, the covenant people, the local market, the right ordering of authority from household to community to region to civil state.
+**The Compact** extends that embodied life into public obligation — into the commons, the covenant people, the local market, the right ordering of authority from household to community to region.
 
-This is not a quick journey. Formation is slow. The habits of the consumer imagination are deep; the covenantal alternative is demanding; the gap between what we know and how we live is real and often discouraging.
+This is not a quick journey. Formation is slow. The habits of the consumer imagination are deep; the covenantal alternative is demanding; the gap between what we know and how we live is real and humbling. These questions are designed to surface that gap, not to shame it. The gap is where formation happens.
 
-The invitation is not to complete a transformation. It is to walk faithfully in the particular place where you actually live — this neighborhood, this congregation, this market, this watershed, these neighbors, these children.
+The invitation is not to complete a transformation. It is to walk faithfully in the particular place where you actually live — this neighborhood, this congregation, this market, this watershed, these neighbors — with the covenantal imagination growing slowly in you and your household.
 
-Faithful presence. Patient rootedness. Covenantal obligation held honestly, including the failures. Repair rather than exit. The slow work of becoming a community that looks, in some small and particular way, like the covenant people the prophets imagined.
+Faithful presence. Patient rootedness. Covenantal obligation held honestly, including the failures. Repair rather than exit. The slow work of becoming a community that looks, in some small and particular way, like the people God is forming for His purposes.
 
 The gate is where you know your neighbor. Start there.
 
 ---
 
-*For further formation, return to [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) in this module and [HEBRAIC_WORD_STUDIES.md](../02_the_household/HEBRAIC_WORD_STUDIES.md) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*
+*For further formation, return to [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) in this module and [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*
