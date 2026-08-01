@@ -9,7 +9,7 @@
   moduleHref="/the-word"
   prevHref="/the-word"
   prevLabel="The Word"
-  nextHref="/the-word/foundational-layer"
+  nextHref="/the-word/the-land-of-the-text"
   nextLabel="Foundational Layer"
 >
   <Content />

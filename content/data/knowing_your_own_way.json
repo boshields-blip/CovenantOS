@@ -1,0 +1,149 @@
+{
+  "storage_key": "knowing_your_own_way_reflections",
+  "export_label": "knowing-your-own-way",
+  "print_title": "Knowing Your Own Way",
+  "intro": "A mirror for your own convictions. Answer honestly, for yourself — this is about tracing your own path, not diagnosing anyone else. Sit with each question before revealing what arises from the land of the text. Your reflections are saved only on this device.",
+  "steps": [
+    {
+      "id": "metaphysics",
+      "kind": "question",
+      "subtitle": "Question 1 — Metaphysics",
+      "title": "What is real?",
+      "why": "What you treat as most real shapes everything else — how you spend your hours, what you trust, what you fear.",
+      "ask": [
+        "When I am not thinking about it, what do I actually treat as the most real thing — money, matter, systems, my own experience, God?",
+        "Do I receive the world as a gift I am given, or as neutral stuff I manage?",
+        "Are limits an insult to overcome, or a wisdom to live within?"
+      ],
+      "land_of_text": "Reality is created, ordered, and held together by a God who speaks and sustains it. The world is not empty matter or a machine; it is a meaningful creation, and its limits are gifts. To be a creature is not a problem to solve but a truth to inhabit.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "epistemology",
+      "kind": "question",
+      "subtitle": "Question 2 — Epistemology",
+      "title": "How do I know what is true?",
+      "why": "Where you go first for truth reveals who your real authority is.",
+      "ask": [
+        "When I need to know what is true, what do I appeal to first — my feelings, expert consensus, my private reasoning, my tradition, Scripture?",
+        "Is truth something I mainly analyze, or something I am willing to obey?",
+        "Do I let my emotions carry an authority that belongs to God's word and to faithful discernment?"
+      ],
+      "land_of_text": "Truth is known through God's self-disclosure, received in trust, tested in community, and confirmed in obedience. Reason, experience, and expertise are real gifts, but none of them is sovereign. Knowing is not merely gathering information; it is rightly ordered attention before God.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "anthropology",
+      "kind": "question",
+      "subtitle": "Question 3 — Anthropology",
+      "title": "What is a person for?",
+      "why": "What you think a human being is determines what you think a good life does.",
+      "ask": [
+        "Do I see myself mainly as a sovereign chooser, a wounded psyche to be soothed, a consumer of experiences, or an image-bearer made for communion and stewardship?",
+        "Do I speak of my identity as something I discover and receive, or something I construct and perform?",
+        "How do I talk about dependence, discipline, and obligation — as burdens, or as the shape of a real life?"
+      ],
+      "land_of_text": "A human being is an image-bearer, formed for communion with God, life with neighbor, and stewardship of creation, growing into mature covenant faithfulness. Dignified, fallen, redeemable, accountable — a creature, not an autonomous self, and not merely a bundle of needs.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "ethics",
+      "kind": "question",
+      "subtitle": "Question 4 — Ethics",
+      "title": "What is the good?",
+      "why": "Everyone lives toward some vision of the good. Naming yours shows you what you are actually serving.",
+      "ask": [
+        "When I call something good, do I mean holy, or happy, or efficient, or authentic, or safe, or approved of?",
+        "Do I experience God's commands as life-giving boundaries or as restrictions to negotiate?",
+        "Is sacrifice something I honor, or something I treat as a failure of self-care? Do I assume that whatever feels healing must therefore be right?"
+      ],
+      "land_of_text": "The good is faithfulness to God's character and commands, fulfilled in Christ — love, justice, mercy, truthfulness, holiness, repentance, and covenant loyalty. Not merely emotional safety or visible success, and not self-expression, but a life bent to the grain of how God made the world.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "social_political",
+      "kind": "question",
+      "subtitle": "Question 5 — Social & Political",
+      "title": "How should we live together?",
+      "why": "Your imagination of community determines whether you can actually belong to one.",
+      "ask": [
+        "Do I imagine the people around me as a covenant, a contract, a brand I chose, a bureaucracy, or a movement?",
+        "Do I treat institutions as servants of people, or as living things with their own destiny?",
+        "Do I value the obligations of my actual place, or have I traded them for platform-scale belonging?"
+      ],
+      "land_of_text": "Shared life is ordered under God through accountable relationships, embodied communities, and limited authorities — household, congregation, neighborhood, vocation. These are real and honorable, but none of them is ultimate. Covenant, not contract, is the deep grammar of life together.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "identity_meaning",
+      "kind": "question",
+      "subtitle": "Question 6 — Identity & Meaning",
+      "title": "Who am I?",
+      "why": "Where you locate the real you determines what you will sacrifice everything else to protect.",
+      "ask": [
+        "Where do I locate my truest self — in my choices, my story, my wounds, my work, my calling?",
+        "Is my belonging covenantal and given, or curated and chosen?",
+        "Does my sense of meaning come from God's story, or from being seen and fulfilled?"
+      ],
+      "land_of_text": "Identity is received before it is performed — given by God, within a covenant people, clarified through vocation, holiness, memory, and hope. Meaning is not invented from within the self but discovered by taking your place in God's story. You are named before you achieve anything.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "eschatology",
+      "kind": "question",
+      "subtitle": "Question 7 — Eschatology",
+      "title": "Where is it all going?",
+      "why": "The future you actually believe in is what makes your present sacrifices make sense — or not.",
+      "ask": [
+        "Where do I really place my hope — in God's renewal, in political or institutional wins, in technological progress, in personal healing, in my legacy?",
+        "Do I imagine salvation as escape, as achievement, as optimization, or as resurrection?",
+        "When I suffer or am disappointed, do I read it only as interruption, or also as a place where faithfulness is forged?"
+      ],
+      "land_of_text": "History is moving toward the judgment and renewal of all things in Christ — not escape from the world but the healing of it. Christian hope is resurrectional, covenantal, and patient. It frees you to labor faithfully now without confusing any present system, victory, or breakthrough with the final thing.",
+      "reflect_prompt": "Where does my own way run with the grain here, and where against it? Where might that instinct have come from?"
+    },
+    {
+      "id": "current_consumerism",
+      "kind": "current",
+      "subtitle": "Cultural current",
+      "title": "Consumerism",
+      "why": "The training to see the whole world through preference, choice, acquisition, and convenience — turning goods, experiences, even people into products for the self.",
+      "ask": [
+        "Do I reach for the language of fit, options, and upgrade when talking about my life?",
+        "Do church, vocation, and relationships get quietly judged by whether they are working for me?",
+        "Do sacrifice, patience, and long obedience strike me as vaguely irrational?"
+      ],
+      "land_of_text": "Persons are not customers and the people of God are not a brand. Goods are received with gratitude, but a life is not built by curation. Meaning comes through faithful belonging, patient love, and stewardship under God — not through endless preference satisfaction.",
+      "reflect_prompt": "Where do I feel this current pulling in me — and what would it look like to be re-anchored?"
+    },
+    {
+      "id": "current_expressive",
+      "kind": "current",
+      "subtitle": "Cultural current",
+      "title": "Expressive individualism",
+      "why": "The belief that the truest thing about you is an inner self that must be discovered, expressed, and validated — and that the highest good is to be authentic to it.",
+      "ask": [
+        "Do I locate the real me inside, in my feelings and desires, and feel that to constrain them is to betray myself?",
+        "Does my identity feel like a project I am authoring and performing rather than a gift I received?",
+        "Do obligations that don't express my inner self start to feel inauthentic, even oppressive?"
+      ],
+      "land_of_text": "Identity is received before it is performed — given by God, within a covenant people. The self is not sovereign and not the source of its own meaning. You become who you are not by expressing an inner core but by taking your place in God's story and being faithful within it.",
+      "reflect_prompt": "Where do I feel this current pulling in me — and what would it look like to be re-anchored?"
+    },
+    {
+      "id": "current_technocratic",
+      "kind": "current",
+      "subtitle": "Cultural current",
+      "title": "Technocratic rationalism",
+      "why": "The assumption that reality is a system to be managed, that truth is what experts and data certify, and that most problems are best solved by more technique and control.",
+      "ask": [
+        "Do I reach for the language of scaling, strategy, optimization, and metrics — even about my soul, my family, or my church?",
+        "Do I trust process and expertise more than embodied wisdom?",
+        "When something is broken, is my first instinct a better system?"
+      ],
+      "land_of_text": "The world is a creation to be stewarded, not a machine to be mastered, and human beings are creatures with real limits that are gifts, not defects. Some of the most important things — love, faithfulness, formation, a shared table — cannot be optimized, only practiced patiently over time. Technique serves covenant life; it cannot replace it.",
+      "reflect_prompt": "Where do I feel this current pulling in me — and what would it look like to be re-anchored?"
+    }
+  ],
+  "closing": "You will not answer these once and be done. Return to them — a question a season, across years — and watch your answers change as your life is reshaped by the world of the text. Where you found your way running against the grain, do not despair and do not merely resolve to try harder. Notice where it came from, and carry it into Living the Covenant, where seeing becomes practice."
+}

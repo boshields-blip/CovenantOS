@@ -47,7 +47,7 @@ The modern world has inverted subsidiarity on nearly every front.
 
 **Platform consolidation.** The digital economy has repeated the pattern of industrial consolidation: what once existed as distributed local institutions — the local bookshop, the local newspaper, the local marketplace, the local forum of public discourse — now runs through a handful of large platforms. These platforms are not neutral infrastructure; they shape attention, surface information, and govern speech according to their own incentive structures. What belongs to the local has been captured by the distant.
 
-**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism).
+**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents).
 
 ## The formative damage
 

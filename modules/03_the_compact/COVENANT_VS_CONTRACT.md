@@ -37,7 +37,7 @@ God's covenants in Scripture follow a consistent pattern:
 
 Each of these covenants is personal, specific, and embedded in a people in a place. The New Covenant does not dissolve particularity — it expands it to include the nations while remaining rooted in God's faithfulness to His word.
 
-The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy) for the full frame.
+The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [covenantal_philosophy.md](/the-word/the-land-of-the-text) for the full frame.
 
 ## How contract thinking replaced covenant thinking
 
@@ -57,7 +57,7 @@ The problems with this account are both historical and theological:
 
 **Theologically**, it inverts the order. Creation precedes individual freedom. Community — household, clan, tribe, people — is part of how God made human beings, not a post-hoc agreement among prior individuals. To say that individuals form communities is to say that persons are more basic than relationships. But Scripture says otherwise: "It is not good for man to be alone" (Genesis 2:18) — and that was before the Fall.
 
-For the diagnostic anatomy of these traditions, see [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism) and [progressivist_utopianism.md](/the-word/diagnostic-engine/philosophy-modules/progressivist-utopianism).
+For the diagnostic anatomy of these traditions, see [expressive_individualism.md](/the-word/knowing-your-own-way/the-cultural-currents) and [progressivist_utopianism.md](/the-word/knowing-your-own-way/the-cultural-currents).
 
 ## The political consequences of contract thinking
 
@@ -98,7 +98,7 @@ For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY
 
 ## See also
 
-- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which the covenant/contract distinction is drawn
+- [Covenantal Philosophy](/the-word/the-land-of-the-text) — the first-principles frame from which the covenant/contract distinction is drawn
 - [Subsidiarity](/the-compact/subsidiarity) — how covenant ordering structures authority from the household outward
 - [Peoplehood](/the-compact/peoplehood) — what it means to be a covenant people rather than a contractual constituency
 - [Oikonomia](/the-household/oikonomia) — where covenant obligation is first learned — in the household economy

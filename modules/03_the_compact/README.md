@@ -34,8 +34,8 @@ The Household → households form communities
 The Compact → communities require a covenantal ordering of shared life
 ```
 
-- Upstream formation frame: [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
-- The diagnoses that this module answers: [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism), [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism), [progressivist_utopianism.md](/the-word/diagnostic-engine/philosophy-modules/progressivist-utopianism)
+- Upstream formation frame: [covenantal_philosophy.md](/the-word/the-land-of-the-text)
+- The diagnoses that this module answers: [expressive_individualism.md](/the-word/knowing-your-own-way/the-cultural-currents), [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents), [progressivist_utopianism.md](/the-word/knowing-your-own-way/the-cultural-currents)
 - Upstream household module: [modules/02_the_household/README.md](/the-household)
 
 ## Tone and posture

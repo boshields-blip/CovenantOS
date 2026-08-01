@@ -1,0 +1,146 @@
+{
+  "storage_key": "streams_shaped_me",
+  "intro": "A map of the major streams of Christian faith, each with its genuine gifts named first, then the blind spots it tends to carry. This is not a scorecard — it is a way to think about the traditions, including your own, with honesty and charity. Start close to home: mark the streams that have shaped you, and read your own first.",
+  "groups": [
+    { "id": "primary", "label": "Primary streams" },
+    { "id": "also-mapped", "label": "Also mapped" },
+    { "id": "anchor", "label": "Where CovenantOS reads from" }
+  ],
+  "traditions": [
+    {
+      "id": "reformed",
+      "name": "Reformed",
+      "group": "primary",
+      "center": "The sovereignty of God over all of life, salvation by grace alone, and a high view of Scripture worked out in careful, systematic theology.",
+      "gifts": "Remarkable theological depth and coherence. A God-centered vision that dignifies all of life as lived before God. Serious engagement with Scripture, and a sense that ideas matter and reality holds together under God.",
+      "blind_spots": "Theological precision can become the main proof of maturity, leaving embodiment and ordinary covenant practice underdeveloped. Debate can crowd out worship and mercy; certainty can harden into combativeness.",
+      "receive": "That God is God over everything, and that thinking carefully about Him is an act of love."
+    },
+    {
+      "id": "baptist",
+      "name": "Baptist",
+      "group": "primary",
+      "center": "A regenerate church of believers, entered by personal faith and believer's baptism; the authority of Scripture and the freedom of the local congregation.",
+      "gifts": "A clear call to personal conversion and discipleship. High regard for Scripture and for the local church as a real, accountable body. Deep commitment to religious liberty and strong lay involvement.",
+      "blind_spots": "The stress on individual decision can slide toward individualism. Congregational independence can weaken the sense of the wider church and historical rootedness; sacraments can be reduced to bare symbols.",
+      "receive": "That faith is personal and must be owned, and that the local congregation is a real covenant community."
+    },
+    {
+      "id": "non-denominational",
+      "name": "Non-denominational evangelical",
+      "group": "primary",
+      "center": "Bible-centered, conversion-focused, culturally adaptive Christianity unbound from formal denominational structures.",
+      "gifts": "Accessibility and evangelistic reach. A genuine hunger to make faith understandable and lived. Flexibility toward people who would never enter an older institution, and a high value on Scripture.",
+      "blind_spots": "Without the ballast of tradition, it can drift with the culture — importing consumer, therapeutic, and corporate assumptions. Novelty can outrank faithfulness, and personality-driven leadership can go unaccountable.",
+      "receive": "That the gospel must be spoken freshly and lived accessibly — and that freshness needs deep roots to stay faithful."
+    },
+    {
+      "id": "pentecostal-charismatic",
+      "name": "Pentecostal & Charismatic",
+      "group": "primary",
+      "center": "The present, active power of the Holy Spirit — gifts, healing, prophecy, and immediate encounter with God.",
+      "gifts": "Expectancy that God acts now. Vibrant, embodied worship. Openness to the Spirit that resists dry, over-intellectualized faith. Care for the whole person, and a faith that reaches the poor and the marginalized.",
+      "blind_spots": "Inner experience can become too authoritative, unmoored from Scripture and the testing of the wider church. Emotional intensity can be mistaken for depth; teaching can tilt toward triumphalism or prosperity.",
+      "receive": "That God is living and active and pours out His Spirit on ordinary people — and that faith is meant to be felt, not only understood."
+    },
+    {
+      "id": "roman-catholic",
+      "name": "Roman Catholic",
+      "group": "primary",
+      "center": "The visible, historic church; the sacraments as real means of grace; the unity of Scripture and tradition under a teaching authority.",
+      "gifts": "A deep sense of the church across time. Sacramental richness that takes the physical world seriously as a vehicle of grace. A vast heritage of worship and social teaching, a serious moral vision, and stability across centuries.",
+      "blind_spots": "The weight of institution and tradition can obscure the immediacy of grace and the accessibility of Scripture. Layers of mediation can distance ordinary believers; size and history bring temptations of power and inertia.",
+      "receive": "That the church is older, larger, and more physical than we imagine — a body across time, not a gathering we invented."
+    },
+    {
+      "id": "eastern-orthodox",
+      "name": "Eastern Orthodox",
+      "group": "primary",
+      "center": "The worship and theology of the ancient undivided church; salvation as union with God (theosis); mystery guarded through liturgy and the Fathers.",
+      "gifts": "A profound sense of transcendence, beauty, and mystery. Continuity with the earliest church. A vision of salvation as transformation and participation in God's life, and deep spiritual disciplines.",
+      "blind_spots": "Reverence for tradition and form can resist needed reform and be hard to enter for outsiders. Emphasis on mystery can under-describe the plain, teachable gospel; ethnic identity can entangle the church.",
+      "receive": "That salvation is union with a holy God, that worship is meant to be beautiful and reverent, and that mystery is not the enemy of truth."
+    },
+    {
+      "id": "anglican",
+      "name": "Anglican",
+      "group": "primary",
+      "center": "A middle way holding together Scripture, tradition, and reason; common prayer; a broad church of catholic and reformed instincts.",
+      "gifts": "The formative power of shared liturgy shaping believers through repeated, beautiful, biblical words. A generous breadth that holds difference within one body. A sacramental yet Word-centered balance.",
+      "blind_spots": "Breadth can become vagueness, and comprehensiveness can slide into reluctance to say anything clearly. Establishment and respectability can dull prophetic edge.",
+      "receive": "That prayer shared in common, repeated over years, forms the soul more deeply than novelty ever can."
+    },
+    {
+      "id": "methodist-wesleyan",
+      "name": "Methodist & Wesleyan",
+      "group": "primary",
+      "center": "Grace that both saves and transforms; the pursuit of holiness of heart and life; faith organized into disciplined community and active mercy.",
+      "gifts": "A warm, personal experience of grace joined to serious discipleship. The genius of small, accountable groups. A strong link between personal holiness and social mercy — care for the poor, the imprisoned, the enslaved.",
+      "blind_spots": "The stress on experience and growth can tip into perfectionism or anxious self-measurement. Activism can outrun theological depth; method can become mere machinery when the fire fades.",
+      "receive": "That grace is meant to transform, not only pardon, and that holiness grows best in small, honest, accountable community."
+    },
+    {
+      "id": "lutheran",
+      "name": "Lutheran",
+      "group": "primary",
+      "center": "Justification by faith alone; the sharp distinction of law and gospel; Christ given in Word and sacrament.",
+      "gifts": "The clearest guarding of grace against every attempt to earn God's favor. A pastoral theology that meets the guilty conscience with pure comfort. A rich sacramental sense, deep hymnody, and a vocation-honoring view of ordinary work.",
+      "blind_spots": "The law-gospel distinction, pressed too hard, can underplay the call to holiness and growth. Assurance can drift toward passivity; confessional strength can turn inward and static.",
+      "receive": "That the gospel is pure gift, that grace cannot be earned, and that ordinary work is a genuine calling before God."
+    },
+    {
+      "id": "anabaptist",
+      "name": "Anabaptist",
+      "group": "primary",
+      "center": "A visible community of committed disciples living the way of Jesus, marked by peace, simplicity, and separation from the coercive powers of the world.",
+      "gifts": "Costly, serious discipleship — following Jesus as a whole way of life. A strong communal ethic of mutual aid and shared life. A clear witness for peace, and integrity between what is confessed and how life is lived.",
+      "blind_spots": "Separation from the world can become withdrawal and cultural isolation. The stress on the community's purity can turn legalistic; suspicion of all worldly power can under-engage legitimate responsibilities.",
+      "receive": "That following Jesus is a concrete way of life lived in community, and that the church is meant to look visibly different from the world."
+    },
+    {
+      "id": "mainline",
+      "name": "Mainline Protestant",
+      "group": "also-mapped",
+      "center": "Historic Protestant denominations marked by liturgical continuity, social conscience, and engagement with the modern world.",
+      "gifts": "A strong witness for justice and the dignity of the vulnerable, often speaking when others were silent. Liturgical and historical rootedness, and a willingness to engage hard questions honestly.",
+      "blind_spots": "Hope can be relocated from God's redemption to social and historical progress. The surrounding culture can reshape the gospel rather than being reshaped by it; decline can breed a survival mindset.",
+      "receive": "That the gospel has public, social weight, and that faith must engage the real questions of its age."
+    },
+    {
+      "id": "holiness",
+      "name": "The Holiness movement",
+      "group": "also-mapped",
+      "center": "A Wesleyan-rooted pursuit of entire sanctification — a heart wholly given to God — and a clean, consecrated life.",
+      "gifts": "A serious, hopeful expectation that God can purify and empower a life. Warm devotion and moral earnestness, and a history of mercy toward the poor and marginalized.",
+      "blind_spots": "The pursuit of purity can become perfectionism, legalism, or anxious introspection. Standards can multiply into external rule-keeping that misses the heart.",
+      "receive": "That God intends real transformation of the heart, and that longing to be wholly His is not naïve but faithful."
+    },
+    {
+      "id": "restorationist",
+      "name": "Restorationist (Stone-Campbell)",
+      "group": "also-mapped",
+      "center": "The recovery of New Testament Christianity — restoring the beliefs and practices of the earliest church, and Christian unity on the Bible alone.",
+      "gifts": "A genuine hunger for the simplicity and pattern of the early church. High regard for Scripture and weekly communion. A sincere heart for the unity of all Christians, refusing sectarian labels.",
+      "blind_spots": "The confidence that one has simply recovered the pure New Testament pattern can blind a tradition to its own assumptions and become its own sectarianism. It can undervalue what the Spirit did between the apostles and now.",
+      "receive": "The longing to recover the early church's pattern and simplicity — a longing the Household-Covenant tradition shares."
+    },
+    {
+      "id": "messianic-jewish",
+      "name": "Messianic Jewish",
+      "group": "also-mapped",
+      "center": "Faith in Jesus (Yeshua) as Messiah lived within Jewish identity, practice, and the feasts, honoring the Hebraic roots of the faith.",
+      "gifts": "A living recovery of the Jewish context of Jesus and the early church. Attention to the feasts, the Sabbath, and the covenant story as one continuous whole. A vivid sense that the gospel grew from the soil of Israel's covenant.",
+      "blind_spots": "Recovery of Jewish practice can tip toward a new legalism, or toward treating observance as a mark of superior faith. Identity questions can become fraught; enthusiasm can outrun careful theology.",
+      "receive": "That Jesus and the early church were thoroughly Jewish, and that reading Scripture in its Hebraic, covenantal context is the native soil of the faith — close to the heart of CovenantOS."
+    },
+    {
+      "id": "household-covenant",
+      "name": "The Household-Covenant Tradition",
+      "group": "anchor",
+      "center": "The household as the primary arena of discipleship, the table as the center of communal life, and covenant as the architecture of reality — mirroring the early church's households gathered around Scripture, shared meals, and mutual responsibility. This is the stream CovenantOS reads from, named openly and held to the same standard as every other.",
+      "gifts": "Deeply relational, with a strong sense of belonging. Embodied discipleship lived in daily life. Hospitality as mission. Scripture practiced at home. Healthy household leadership. The integration of work, land, and faith into one covenant life, formed by table-centered rhythms.",
+      "blind_spots": "Left unwatched, it can turn inward — tables closed rather than opened. It can idealize agrarian and rural life, insulate households, undervalue the broader church and its accountability, lack theological accountability because it is decentralized, and assume every household has equal capacity.",
+      "receive": "A recovery of the household and the table as the ordinary, God-given places of formation — and a reminder that covenant, not contract, is the deep grammar of life with God and neighbor."
+    }
+  ]
+}

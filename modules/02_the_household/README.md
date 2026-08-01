@@ -25,8 +25,8 @@ This module helps households name that inversion, see what was lost, and walk to
 
 For related diagnosis upstream in The Word, see:
 
-- [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism)
-- [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism)
+- [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents)
+- [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents)
 
 ## Sequence in CovenantOS
 
@@ -40,10 +40,10 @@ The Household → households form communities
 The Compact
 ```
 
-- Upstream frame: [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- Upstream frame: [covenantal_philosophy.md](/the-word/the-land-of-the-text)
 - Downstream module: [modules/03_the_compact/README.md](/the-compact)
-- Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](/the-word/formation/come-to-the-table/philosophy)
-- Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/formation/harvest-and-hymn/seasonal-rhythm)
+- Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](/the-word/living-the-covenant/come-to-the-table/philosophy)
+- Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm)
 
 ## Tone and posture
 

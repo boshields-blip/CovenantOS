@@ -1,44 +1,50 @@
 <script>
   const title = 'The Word';
   const openingStatement =
-    'The Word forms the imagination. Before you can live differently, you must see differently.';
+    'Scripture is a land you walk, not a library you reference. The Word roots you in the world the text was written from, so your imagination is reshaped by it.';
   const suggestedEntry = {
     label: 'Suggested starting place →',
-    title: 'Covenantal Philosophy',
-    description: 'Begin with the governing frame that makes the rest of the module legible.',
-    href: '/the-word/foundational-layer/covenantal-philosophy'
+    title: 'The Land of the Text',
+    description: 'Begin by entering the original world the Bible assumes — the ground the rest of the module stands on.',
+    href: '/the-word/the-land-of-the-text'
   };
 
   const stones = [
     {
       number: '01',
-      title: 'Governing Frame',
-      description: 'The covenantal philosophy that supplies the governing frame.',
-      href: '/the-word/foundational-layer'
+      title: 'The Land of the Text',
+      description: 'Enter the original context: the Hebraic mind, the Ancient Near Eastern world, and the one covenant story.',
+      href: '/the-word/the-land-of-the-text'
     },
     {
       number: '02',
-      title: 'Diagnostic Engine',
-      description: 'A seven-category engine for examining rival philosophies and distortions.',
-      href: '/the-word/diagnostic-engine'
+      title: 'The Language of the Land',
+      description: 'Learn to think in the Bible’s own words — concrete, embodied, held in covenant.',
+      href: '/the-word/the-language-of-the-land'
     },
     {
       number: '03',
-      title: 'Berean Tool',
-      description: 'A teacher-and-pastor diagnostic that applies the engine to real-world influences.',
-      href: '/the-word/berean-tool'
+      title: 'Walking the Text',
+      description: 'Read a passage as its first hearers would, inside the world they actually lived in.',
+      href: '/the-word/walking-the-text'
     },
     {
       number: '04',
-      title: 'Language Module',
-      description: 'The bridge that exposes how language carries philosophy and reshapes imagination.',
-      href: '/the-word/language-module'
+      title: 'Knowing Your Own Way',
+      description: 'A mirror for your own convictions: what you believe, and where it came from.',
+      href: '/the-word/knowing-your-own-way'
     },
     {
       number: '05',
-      title: 'Formation',
-      description: 'The re-formation pathway that turns diagnosis into embodied renewal.',
-      href: '/the-word/formation'
+      title: 'The Streams of the Traditions',
+      description: 'Weigh the gifts and blind spots of the Christian traditions, charitably.',
+      href: '/the-word/the-streams-of-the-traditions'
+    },
+    {
+      number: '06',
+      title: 'Living the Covenant',
+      description: 'Where seeing becomes practice — the table, the season, the shared life.',
+      href: '/the-word/living-the-covenant'
     }
   ];
 </script>

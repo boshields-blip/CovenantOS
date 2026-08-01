@@ -6,6 +6,56 @@
   NODE_VERSION = "20"
 
 [[redirects]]
+  from = "/the-word/formation"
+  to = "/the-word/living-the-covenant"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/formation/*"
+  to = "/the-word/living-the-covenant/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/foundational-layer"
+  to = "/the-word/the-land-of-the-text"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/foundational-layer/*"
+  to = "/the-word/the-land-of-the-text"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/diagnostic-engine"
+  to = "/the-word/knowing-your-own-way"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/diagnostic-engine/*"
+  to = "/the-word/knowing-your-own-way"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/berean-tool"
+  to = "/the-word/walking-the-text"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/berean-tool/*"
+  to = "/the-word/walking-the-text"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/language-module"
+  to = "/the-word/the-language-of-the-land"
+  status = 301
+
+[[redirects]]
+  from = "/the-word/language-module/*"
+  to = "/the-word/the-language-of-the-land"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = "404"

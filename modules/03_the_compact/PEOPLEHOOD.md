@@ -15,7 +15,7 @@ Modern people are increasingly defined by:
 - **Consumer preferences** — your brand affiliations, purchasing patterns, and lifestyle choices shape your identity and determine which market segments you belong to
 - **Ideological tribe** — your alignment with a set of political or cultural positions defines your community; those who disagree are not neighbors but opponents
 - **Platform affiliation** — which apps you use, which communities you follow, which influencers you trust
-- **Therapeutic identity** — who you are inside, your authentic self, your personal journey — as described in [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism)
+- **Therapeutic identity** — who you are inside, your authentic self, your personal journey — as described in [expressive_individualism.md](/the-word/knowing-your-own-way/the-cultural-currents)
 - **Political citizenship** — a legal status, a passport, a set of rights and obligations granted and enforced by the state
 
 None of these is nothing. But none of them is *peoplehood* in the covenantal sense. They are all either chosen, curated, or granted by an institution. They are held lightly and exchanged easily. They do not bind you to a place or a past. They do not require you to stay when staying is costly.
@@ -50,7 +50,7 @@ Drawing from the Hebraic pattern, a covenant people is constituted by:
 
 Consumer identity is chosen, curated, and easily exchanged. You select a brand; when it no longer serves your preferences, you select another. There is no obligation beyond the transaction. No memory binds you. No land roots you. No practice forms you across generations.
 
-This is not a critique of purchasing things. It is a critique of *identity formation through consumption* — of the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
+This is not a critique of purchasing things. It is a critique of *identity formation through consumption* — of the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
 
 ## The contrast with ideological tribe
 
@@ -109,5 +109,5 @@ The Compact — this module — is where households that have been formed by The
 
 - [Covenant vs. Contract](/the-compact/covenant-vs-contract) — the philosophical contrast between a covenant people and a contractual constituency
 - [Subsidiarity](/the-compact/subsidiarity) — the authority structure that keeps the covenant people local and accountable
-- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly gathering that practices covenant assembly in embodied, seasonal form
+- [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn) — the quarterly gathering that practices covenant assembly in embodied, seasonal form
 - [Hebraic Word Studies — The Compact](/the-compact/hebraic-word-studies) — the am, edah, and berith word studies that give peoplehood its Hebraic depth

@@ -30,9 +30,9 @@ That vision can make every relationship transactional. Christian formation is th
 
 For upstream diagnosis, see:
 
-- [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism)
-- [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism)
-- [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents)
+- [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents)
+- [covenantal_philosophy.md](/the-word/the-land-of-the-text)
 
 ## The inversion moment (brief history)
 
@@ -78,5 +78,5 @@ As you walk in this, reorder one economic habit at a time.
 
 - [Oikonomia](/the-household/oikonomia) — the root recovery of the word and concept that grounds this contrast
 - [Household Flow Model](/the-household/household-flow-model) — the interactive diagram that visualizes the producing household versus the consumer household
-- [Diagnostic Engine — Metaphysics](/the-word/diagnostic-engine/categories/metaphysics) — where the consumer economy's underlying metaphysical assumptions surface
+- [Diagnostic Engine — Metaphysics](/the-word/knowing-your-own-way) — where the consumer economy's underlying metaphysical assumptions surface
 - [Covenant vs. Contract](/the-compact/covenant-vs-contract) — how consumer economy logic and contractual social imagination reinforce each other
