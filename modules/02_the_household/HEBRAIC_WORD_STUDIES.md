@@ -51,4 +51,4 @@ As you walk in this module:
 3. Name one concrete practice shift.
 4. Revisit after one season and record what changed.
 
-For the Greek bridge into this module's central term, see [OIKONOMIA.md](./OIKONOMIA.md).
+For the Greek bridge into this module's central term, see [OIKONOMIA.md](/the-household/oikonomia).

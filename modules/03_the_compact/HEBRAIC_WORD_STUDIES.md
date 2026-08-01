@@ -51,4 +51,4 @@ As you walk in this module:
 3. Name one concrete practice shift — one thing your household or community could do differently to walk more fully in this word.
 4. Revisit after one season and record what changed.
 
-For the full formation questions across all three modules, see [FORMATION_QUESTIONS.md](./FORMATION_QUESTIONS.md). For the word studies anchoring The Household module, see [HEBRAIC_WORD_STUDIES.md](../02_the_household/HEBRAIC_WORD_STUDIES.md).
+For the full formation questions across all three modules, see [FORMATION_QUESTIONS.md](/the-compact/formation-questions). For the word studies anchoring The Household module, see [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies).

@@ -12,7 +12,7 @@ The Greek word *oikonomia* joins *oikos* (household) and *nomos* (ordering, rule
 
 Over time, *oikonomia* became Latin *oeconomia* and then modern "economics." In that translation chain, the household was slowly stripped out. What began as covenantal stewardship of home and land was recast as impersonal market theory.
 
-See [OIKONOMIA.md](./OIKONOMIA.md) for the full recovery study.
+See [OIKONOMIA.md](/the-household/oikonomia) for the full recovery study.
 
 ## The inversion this module diagnoses
 
@@ -25,8 +25,8 @@ This module helps households name that inversion, see what was lost, and walk to
 
 For related diagnosis upstream in The Word, see:
 
-- [consumerism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/consumerism.md)
-- [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md)
+- [consumerism.md](/the-word/diagnostic-engine/philosophy-modules/consumerism)
+- [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism)
 
 ## Sequence in CovenantOS
 
@@ -40,10 +40,10 @@ The Household → households form communities
 The Compact
 ```
 
-- Upstream frame: [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)
-- Downstream module: [modules/03_the_compact/README.md](../03_the_compact/README.md)
-- Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](../01_the_word/05_formation_layer/come_to_the_table/PHILOSOPHY.md)
-- Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](../01_the_word/05_formation_layer/harvest_and_hymn/SEASONAL_RHYTHM.md)
+- Upstream frame: [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- Downstream module: [modules/03_the_compact/README.md](/the-compact)
+- Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](/the-word/formation/come-to-the-table/philosophy)
+- Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/formation/harvest-and-hymn/seasonal-rhythm)
 
 ## Tone and posture
 
@@ -70,10 +70,10 @@ modules/02_the_household/
 
 A suggested path:
 
-1. Start with [OIKONOMIA.md](./OIKONOMIA.md)
-2. Move to [HOUSEHOLD_FLOW_MODEL.md](./HOUSEHOLD_FLOW_MODEL.md)
-3. Read [AGRARIAN_RHYTHMS.md](./AGRARIAN_RHYTHMS.md)
-4. Work through [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](./HOUSEHOLD_VS_CONSUMER_ECONOMY.md)
-5. Anchor land theology in [LAND_AND_INHERITANCE.md](./LAND_AND_INHERITANCE.md)
-6. Use [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md) as a repeatable formation tool
-7. Continue into [The Compact](../03_the_compact/README.md) to follow household formation outward into public life
+1. Start with [OIKONOMIA.md](/the-household/oikonomia)
+2. Move to [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model)
+3. Read [AGRARIAN_RHYTHMS.md](/the-household/agrarian-rhythms)
+4. Work through [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy)
+5. Anchor land theology in [LAND_AND_INHERITANCE.md](/the-household/land-and-inheritance)
+6. Use [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies) as a repeatable formation tool
+7. Continue into [The Compact](/the-compact) to follow household formation outward into public life

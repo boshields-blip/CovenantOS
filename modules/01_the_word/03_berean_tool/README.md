@@ -12,13 +12,13 @@ The Berean Tool helps people understand the philosophy behind various teachings 
 
 ## Navigation
 
-- How to use it: [how_to_use.md](./how_to_use.md) — start here for the interactive guide
+- How to use it: [how_to_use.md](/the-word/berean-tool/how-to-use) — start here for the interactive guide
 - Architecture context: [docs/ARCHITECTURE.md](../../../docs/ARCHITECTURE.md)
-- System design: [./system_design.md](./system_design.md)
-- Output template: [./berean_profile_template.md](./berean_profile_template.md)
-- Worked example: [./sample_profiles/composite_example.md](./sample_profiles/composite_example.md)
-- Tradition map: [./tradition_influence_map.md](./tradition_influence_map.md)
-- Schemas: [./schemas/berean_input.schema.json](./schemas/berean_input.schema.json), [./schemas/berean_profile.schema.json](./schemas/berean_profile.schema.json)
+- System design: [./system_design.md](/the-word/berean-tool/system-design)
+- Output template: [./berean_profile_template.md](/the-word/berean-tool/reference/berean-profile-template)
+- Worked example: [./sample_profiles/composite_example.md](/the-word/berean-tool/sample-profiles/composite-example)
+- Tradition map: [./tradition_influence_map.md](/the-word/berean-tool/tradition-influence-map)
+- Schemas: [./schemas/berean_input.schema.json](/the-word/berean-tool/reference/berean-input-schema), [./schemas/berean_profile.schema.json](/the-word/berean-tool/reference/berean-profile-schema)
 
 ## Purpose
 
@@ -55,4 +55,4 @@ Christians often respond to teachers with either uncritical admiration or instan
 
 ## Worked example
 
-See [sample_profiles/composite_example.md](./sample_profiles/composite_example.md) for a fully worked illustrative profile. Reading this first will show you what a balanced, charitable, strengths-first analysis looks like.
+See [sample_profiles/composite_example.md](/the-word/berean-tool/sample-profiles/composite-example) for a fully worked illustrative profile. Reading this first will show you what a balanced, charitable, strengths-first analysis looks like.

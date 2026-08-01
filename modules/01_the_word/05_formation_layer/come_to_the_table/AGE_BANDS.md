@@ -99,7 +99,7 @@ If the Know slot this session is *Author* or *Audience*, invite the Inventor to 
 If the Know slot is *Philosophy*, invite the Apprentice to name the category before the host explains. Encourage them to use the language of the seven The Word categories (metaphysics, epistemology, anthropology, ethics, social/political, identity/meaning, eschatology).
 
 **Berean Tool integration:**
-The Apprentice stage is where the Berean Tool enters the table. See [BEREAN_AT_THE_TABLE.md](./BEREAN_AT_THE_TABLE.md) for the full treatment, including guardrails, sample script, and how to adapt the tool to a household.
+The Apprentice stage is where the Berean Tool enters the table. See [BEREAN_AT_THE_TABLE.md](/the-word/formation/come-to-the-table/berean-at-the-table) for the full treatment, including guardrails, sample script, and how to adapt the tool to a household.
 
 The Apprentice learns at this stage that loving critique of teaching is not a contradiction of charity — it is a form of it. They learn to ask "what is true here?" before "what is off here?" and to end every conversation with "what can we receive from this?"
 

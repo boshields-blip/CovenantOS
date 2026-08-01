@@ -44,7 +44,7 @@ The goal is not to produce a list of personal failures. It is to notice patterns
 
 **Step 4 — Compare with the covenantal frame**
 
-For each category, read the corresponding covenantal contrast statement in [02_diagnostic_engine/categories](../02_diagnostic_engine/categories/). Ask: *Where does my instinctive answer differ from this covenantal answer? Why?*
+For each category, read the corresponding covenantal contrast statement in [02_diagnostic_engine/categories](/the-word/diagnostic-engine). Ask: *Where does my instinctive answer differ from this covenantal answer? Why?*
 
 **Step 5 — Receive a formation recommendation**
 
@@ -59,10 +59,10 @@ Only after some self-assessment is it productive to apply the tool to teachers, 
 **Steps for teacher analysis:**
 
 1. Gather public information — do not speculate about private motives, character, or sincerity.
-2. Identify the tradition and educational lineage using [tradition_influence_map.md](./tradition_influence_map.md).
+2. Identify the tradition and educational lineage using [tradition_influence_map.md](/the-word/berean-tool/tradition-influence-map).
 3. Work through the seven categories using what you have actually heard or read, not caricatures.
 4. Notice strengths first, then drifts.
-5. Use the [berean_profile_template.md](./berean_profile_template.md) to write up your analysis in a structured, balanced way.
+5. Use the [berean_profile_template.md](/the-word/berean-tool/reference/berean-profile-template) to write up your analysis in a structured, balanced way.
 6. End with "What can I receive from this teacher?" rather than a verdict.
 
 ---
@@ -105,7 +105,7 @@ The Berean Tool works well for slow group conversations. Suggested format for a 
 
 1. **Open (10 minutes):** Each person names one tradition or teacher that significantly shaped them, and something they genuinely appreciate about that influence.
 2. **Category focus (20 minutes):** Choose one of the seven categories. Read its diagnostic questions aloud. Each person shares: *What was I taught about this? What do I actually believe? Are those the same?*
-3. **Honest comparison (10 minutes):** Read the covenantal answer for that category from [covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md). Ask: *What draws you toward this contrast? What resists it?*
+3. **Honest comparison (10 minutes):** Read the covenantal answer for that category from [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy). Ask: *What draws you toward this contrast? What resists it?*
 4. **Formation invitation (10 minutes):** What one small change in language, practice, or posture would move someone toward a more covenantal pattern in this category?
 5. **Close:** Pray or read a Scripture passage that speaks to the category you studied.
 
@@ -127,12 +127,12 @@ This ordering reflects the conviction that discernment serves formation, and for
 
 ## Related documents
 
-- [berean_profile_template.md](./berean_profile_template.md) — structured template for completing a profile
-- [sample_profiles/composite_example.md](./sample_profiles/composite_example.md) — worked example showing what a complete, charitable profile looks like
-- [tradition_influence_map.md](./tradition_influence_map.md) — positive gifts and typical drifts of major traditions
-- [system_design.md](./system_design.md) — technical and structural design of the tool
-- [../02_diagnostic_engine/categories/](../02_diagnostic_engine/categories/) — detailed treatment of each category
-- [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md) — the covenantal contrast for all seven categories
+- [berean_profile_template.md](/the-word/berean-tool/reference/berean-profile-template) — structured template for completing a profile
+- [sample_profiles/composite_example.md](/the-word/berean-tool/sample-profiles/composite-example) — worked example showing what a complete, charitable profile looks like
+- [tradition_influence_map.md](/the-word/berean-tool/tradition-influence-map) — positive gifts and typical drifts of major traditions
+- [system_design.md](/the-word/berean-tool/system-design) — technical and structural design of the tool
+- [../02_diagnostic_engine/categories/](/the-word/diagnostic-engine) — detailed treatment of each category
+- [../01_foundational_layer/covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy) — the covenantal contrast for all seven categories
 
 ## See also
 

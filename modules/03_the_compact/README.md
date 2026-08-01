@@ -22,7 +22,7 @@ The Household showed that the household is the original economic and relational 
 
 The Compact now shows what happens when households reach outward toward one another. Communities are not collections of individuals. They are networks of households, covenanting to share a commons, hold common obligations, and order public life together. The Household is the foundation; The Compact is the outworking.
 
-See [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md) for how the household's productive surplus moves outward into the community — The Compact is the covenantal context in which that movement happens.
+See [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model) for how the household's productive surplus moves outward into the community — The Compact is the covenantal context in which that movement happens.
 
 ## Sequence in CovenantOS
 
@@ -34,9 +34,9 @@ The Household → households form communities
 The Compact → communities require a covenantal ordering of shared life
 ```
 
-- Upstream formation frame: [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)
-- The diagnoses that this module answers: [expressive_individualism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/expressive_individualism.md), [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md), [progressivist_utopianism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/progressivist_utopianism.md)
-- Upstream household module: [modules/02_the_household/README.md](../02_the_household/README.md)
+- Upstream formation frame: [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- The diagnoses that this module answers: [expressive_individualism.md](/the-word/diagnostic-engine/philosophy-modules/expressive-individualism), [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism), [progressivist_utopianism.md](/the-word/diagnostic-engine/philosophy-modules/progressivist-utopianism)
+- Upstream household module: [modules/02_the_household/README.md](/the-household)
 
 ## Tone and posture
 
@@ -64,10 +64,10 @@ modules/03_the_compact/
 
 A suggested path:
 
-1. Begin with [COVENANT_VS_CONTRACT.md](./COVENANT_VS_CONTRACT.md) — the foundational distinction that makes everything else legible
-2. Move to [SUBSIDIARITY.md](./SUBSIDIARITY.md) — how authority is rightly ordered from household outward
-3. Read [COMMONS_AND_SHARED_LIFE.md](./COMMONS_AND_SHARED_LIFE.md) — the shared spaces and obligations that make a community more than a collection of households
-4. Work through [PEOPLEHOOD.md](./PEOPLEHOOD.md) — what it means to belong to a people, not merely a market segment or a political tribe
-5. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](./LOCAL_MARKET_AND_SOCIAL_FABRIC.md) — how trade, rightly ordered, builds rather than dissolves community
-6. Use [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md) as a repeatable formation tool, returning to it often
-7. Close with [FORMATION_QUESTIONS.md](./FORMATION_QUESTIONS.md) — the capstone questions across all three CovenantOS modules
+1. Begin with [COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract) — the foundational distinction that makes everything else legible
+2. Move to [SUBSIDIARITY.md](/the-compact/subsidiarity) — how authority is rightly ordered from household outward
+3. Read [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life) — the shared spaces and obligations that make a community more than a collection of households
+4. Work through [PEOPLEHOOD.md](/the-compact/peoplehood) — what it means to belong to a people, not merely a market segment or a political tribe
+5. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric) — how trade, rightly ordered, builds rather than dissolves community
+6. Use [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) as a repeatable formation tool, returning to it often
+7. Close with [FORMATION_QUESTIONS.md](/the-compact/formation-questions) — the capstone questions across all three CovenantOS modules

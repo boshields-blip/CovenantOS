@@ -4,7 +4,7 @@
 
 ---
 
-> **Before filling this template:** Read [how_to_use.md](./how_to_use.md) to understand the intended posture. Strengths should be named before drifts — always.
+> **Before filling this template:** Read [how_to_use.md](/the-word/berean-tool/how-to-use) to understand the intended posture. Strengths should be named before drifts — always.
 
 ---
 

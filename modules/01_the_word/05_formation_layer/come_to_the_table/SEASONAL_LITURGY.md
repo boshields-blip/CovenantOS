@@ -13,7 +13,7 @@ The structure does not change by season. What changes seasonally is:
 1. the blessing at meal,
 2. the closing blessing,
 3. an optional seasonal framing for *Live*, and
-4. the thread that ties the weekly household table to the nearby quarterly [Harvest & Hymn](../harvest_and_hymn/README.md) gathering.
+4. the thread that ties the weekly household table to the nearby quarterly [Harvest & Hymn](/the-word/formation/harvest-and-hymn) gathering.
 
 ---
 
@@ -30,9 +30,9 @@ This keeps weekly formation and community worship aligned without complicating t
 
 ## Seasonal files
 
-- [liturgies/seasonal/spring.md](./liturgies/seasonal/spring.md)
-- [liturgies/seasonal/summer.md](./liturgies/seasonal/summer.md)
-- [liturgies/seasonal/fall.md](./liturgies/seasonal/fall.md)
-- [liturgies/seasonal/winter.md](./liturgies/seasonal/winter.md)
+- [liturgies/seasonal/spring.md](/the-word/formation/come-to-the-table/liturgies/seasonal/spring)
+- [liturgies/seasonal/summer.md](/the-word/formation/come-to-the-table/liturgies/seasonal/summer)
+- [liturgies/seasonal/fall.md](/the-word/formation/come-to-the-table/liturgies/seasonal/fall)
+- [liturgies/seasonal/winter.md](/the-word/formation/come-to-the-table/liturgies/seasonal/winter)
 
-Households may use these texts to replace or supplement [liturgies/opening.md](./liturgies/opening.md) and [liturgies/closing.md](./liturgies/closing.md) during the matching season.
+Households may use these texts to replace or supplement [liturgies/opening.md](/the-word/formation/come-to-the-table/liturgies/opening) and [liturgies/closing.md](/the-word/formation/come-to-the-table/liturgies/closing) during the matching season.

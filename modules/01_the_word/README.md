@@ -20,15 +20,15 @@ The Word is organized into five integrated pathways:
 
 ## How to navigate this content tree
 
-- Start with [INTRODUCTION.md](./INTRODUCTION.md) for the recommended first read — what The Word is, why it exists, and how to use it.
+- Start with [INTRODUCTION.md](/the-word/introduction) for the recommended first read — what The Word is, why it exists, and how to use it.
 - See [docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md) for the big-picture technical map, ownership boundaries, and layer rules.
-- Read the governing frame in [01_foundational_layer/covenantal_philosophy.md](./01_foundational_layer/covenantal_philosophy.md).
-- Explore the engine in [02_diagnostic_engine/README.md](./02_diagnostic_engine/README.md).
-- See the teacher-facing application in [03_berean_tool/README.md](./03_berean_tool/README.md).
-- Follow the bridge from diagnosis to imagination in [04_language_module/README.md](./04_language_module/README.md).
-- Note the next-step formation loop in [05_formation_layer/reformation_pathway.md](./05_formation_layer/reformation_pathway.md).
-- Start the first concrete formation practice at [05_formation_layer/come_to_the_table/README.md](./05_formation_layer/come_to_the_table/README.md).
-- Follow the quarterly community expression at [05_formation_layer/harvest_and_hymn/README.md](./05_formation_layer/harvest_and_hymn/README.md).
+- Read the governing frame in [01_foundational_layer/covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy).
+- Explore the engine in [02_diagnostic_engine/README.md](/the-word/diagnostic-engine).
+- See the teacher-facing application in [03_berean_tool/README.md](/the-word/berean-tool).
+- Follow the bridge from diagnosis to imagination in [04_language_module/README.md](/the-word/language-module).
+- Note the next-step formation loop in [05_formation_layer/reformation_pathway.md](/the-word/formation/reformation-pathway).
+- Start the first concrete formation practice at [05_formation_layer/come_to_the_table/README.md](/the-word/formation/come-to-the-table).
+- Follow the quarterly community expression at [05_formation_layer/harvest_and_hymn/README.md](/the-word/formation/harvest-and-hymn).
 
 ## Intended posture
 

@@ -32,11 +32,11 @@ It is also designed to be hospitable outward: a format portable enough to share 
 
 ## How to start
 
-1. Read [SESSION_FORMAT.md](./SESSION_FORMAT.md) — the canonical seven-movement liturgy of one weekly meal.
-2. Read [AGE_BANDS.md](./AGE_BANDS.md) — how to invite each age into the same passage.
-3. Run the first session using the pattern in [SESSION_FORMAT.md](./SESSION_FORMAT.md).
-4. Use the [HOST_GUIDE.md](./HOST_GUIDE.md) to prepare and lead.
-5. When you are ready to think about the longer plan, read [CANONICAL_ARC.md](./CANONICAL_ARC.md).
+1. Read [SESSION_FORMAT.md](/the-word/formation/come-to-the-table/session-format) — the canonical seven-movement liturgy of one weekly meal.
+2. Read [AGE_BANDS.md](/the-word/formation/come-to-the-table/age-bands) — how to invite each age into the same passage.
+3. Run the first session using the pattern in [SESSION_FORMAT.md](/the-word/formation/come-to-the-table/session-format).
+4. Use the [HOST_GUIDE.md](/the-word/formation/come-to-the-table/host-guide) to prepare and lead.
+5. When you are ready to think about the longer plan, read [CANONICAL_ARC.md](/the-word/formation/come-to-the-table/canonical-arc).
 
 There is no required reading before the first session. Pick a passage, open a Bible, and begin.
 
@@ -46,18 +46,18 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 | File | Purpose |
 |---|---|
-| [PHILOSOPHY.md](./PHILOSOPHY.md) | Why the family table; covenantal anthropology of shared meals |
-| [SESSION_FORMAT.md](./SESSION_FORMAT.md) | The canonical seven-movement session liturgy |
-| [AGE_BANDS.md](./AGE_BANDS.md) | How to engage each age at the same table |
-| [AUTHORS_AND_LANGUAGES.md](./AUTHORS_AND_LANGUAGES.md) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
-| [CANONICAL_ARC.md](./CANONICAL_ARC.md) | A four-year, low-pressure arc through the Scriptures |
-| [HOST_GUIDE.md](./HOST_GUIDE.md) | Practical guide for the parent or host leading the table |
-| [BEREAN_AT_THE_TABLE.md](./BEREAN_AT_THE_TABLE.md) | How and when to bring the Berean Tool to the family table |
-| [GUEST_FAMILY_GUIDE.md](./GUEST_FAMILY_GUIDE.md) | How to invite and host another family |
-| [SEASONAL_LITURGY.md](./SEASONAL_LITURGY.md) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
-| [liturgies/opening.md](./liturgies/opening.md) | A short opening call to attention and blessing of the meal |
-| [liturgies/reading.md](./liturgies/reading.md) | How Scripture is read at the table |
-| [liturgies/closing.md](./liturgies/closing.md) | A short closing blessing as plates are cleared |
+| [PHILOSOPHY.md](/the-word/formation/come-to-the-table/philosophy) | Why the family table; covenantal anthropology of shared meals |
+| [SESSION_FORMAT.md](/the-word/formation/come-to-the-table/session-format) | The canonical seven-movement session liturgy |
+| [AGE_BANDS.md](/the-word/formation/come-to-the-table/age-bands) | How to engage each age at the same table |
+| [AUTHORS_AND_LANGUAGES.md](/the-word/formation/come-to-the-table/authors-and-languages) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
+| [CANONICAL_ARC.md](/the-word/formation/come-to-the-table/canonical-arc) | A four-year, low-pressure arc through the Scriptures |
+| [HOST_GUIDE.md](/the-word/formation/come-to-the-table/host-guide) | Practical guide for the parent or host leading the table |
+| [BEREAN_AT_THE_TABLE.md](/the-word/formation/come-to-the-table/berean-at-the-table) | How and when to bring the Berean Tool to the family table |
+| [GUEST_FAMILY_GUIDE.md](/the-word/formation/come-to-the-table/guest-family-guide) | How to invite and host another family |
+| [SEASONAL_LITURGY.md](/the-word/formation/come-to-the-table/seasonal-liturgy) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
+| [liturgies/opening.md](/the-word/formation/come-to-the-table/liturgies/opening) | A short opening call to attention and blessing of the meal |
+| [liturgies/reading.md](/the-word/formation/come-to-the-table/liturgies/reading) | How Scripture is read at the table |
+| [liturgies/closing.md](/the-word/formation/come-to-the-table/liturgies/closing) | A short closing blessing as plates are cleared |
 | [liturgies/seasonal/](./liturgies/seasonal/) | Spring/Summer/Fall/Winter opening and closing overlays for weekly sessions |
 
 ---
@@ -66,14 +66,14 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 - **01 Foundational Layer** supplies the covenantal "who God is" that the *Live* movement points to every week.
 - **02 Diagnostic Layer** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.
-- **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [BEREAN_AT_THE_TABLE.md](./BEREAN_AT_THE_TABLE.md).
+- **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [BEREAN_AT_THE_TABLE.md](/the-word/formation/come-to-the-table/berean-at-the-table).
 - **04 Language Module** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
-- **05 Formation Layer** — this module is the first concrete instance of the communal exercise promised in [reformation_pathway.md](../reformation_pathway.md).
+- **05 Formation Layer** — this module is the first concrete instance of the communal exercise promised in [reformation_pathway.md](/the-word/formation/reformation-pathway).
 
 ---
 
 ## Seasonal & Community
 
-Come to the Table remains the weekly household practice. The seasonal overlay in [SEASONAL_LITURGY.md](./SEASONAL_LITURGY.md) keeps that weekly rhythm aligned with the quarterly community gathering in [../harvest_and_hymn/README.md](../harvest_and_hymn/README.md).
+Come to the Table remains the weekly household practice. The seasonal overlay in [SEASONAL_LITURGY.md](/the-word/formation/come-to-the-table/seasonal-liturgy) keeps that weekly rhythm aligned with the quarterly community gathering in [../harvest_and_hymn/README.md](/the-word/formation/harvest-and-hymn).
 
 Together they form one cadence: weekly at home, quarterly in community.

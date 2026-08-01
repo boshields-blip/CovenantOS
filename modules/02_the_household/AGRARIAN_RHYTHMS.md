@@ -90,7 +90,7 @@ Use seasons intentionally:
 - schedule hospitality around harvest and rest windows
 - review what the land taught this season and what to change next
 
-For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](../01_the_word/05_formation_layer/harvest_and_hymn/SEASONAL_RHYTHM.md).
+For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/formation/harvest-and-hymn/seasonal-rhythm).
 
 ## See also
 

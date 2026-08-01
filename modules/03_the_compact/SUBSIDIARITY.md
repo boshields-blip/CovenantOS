@@ -47,7 +47,7 @@ The modern world has inverted subsidiarity on nearly every front.
 
 **Platform consolidation.** The digital economy has repeated the pattern of industrial consolidation: what once existed as distributed local institutions — the local bookshop, the local newspaper, the local marketplace, the local forum of public discourse — now runs through a handful of large platforms. These platforms are not neutral infrastructure; they shape attention, surface information, and govern speech according to their own incentive structures. What belongs to the local has been captured by the distant.
 
-**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [technocratic_rationalism.md](../01_the_word/02_diagnostic_engine/philosophy_modules/technocratic_rationalism.md).
+**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism).
 
 ## The formative damage
 
@@ -55,7 +55,7 @@ When authority is removed from the local and personal level, the damage is not o
 
 People lose the capacity for self-governance when they are never required to exercise it. Mutual aid networks atrophy when the state provides the safety net and asks nothing in return. The skills of negotiation, repair, and local accountability — skills learned in real community, between people who must live together afterward — disappear when all conflict is routed through distant legal systems.
 
-The Household's productive capacity — its ability to be a real economic and social actor rather than a dependent consumer — is exactly what subsidiarity protects. When the household is expected to be only a consumption unit, and all production, care, and formation are outsourced to institutions, the household loses the covenantal thickness that made it a place of genuine life. For the full household-economy frame, see [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md) and [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](../02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md).
+The Household's productive capacity — its ability to be a real economic and social actor rather than a dependent consumer — is exactly what subsidiarity protects. When the household is expected to be only a consumption unit, and all production, care, and formation are outsourced to institutions, the household loses the covenantal thickness that made it a place of genuine life. For the full household-economy frame, see [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model) and [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy).
 
 ## Subsidiarity in practice
 

@@ -7,11 +7,11 @@
 The language module exists because language is the operating system of the imagination. People often inherit philosophy through phrases, metaphors, pronouns, and speech habits long before they can identify it in formal doctrine.
 
 - Architecture context: [docs/ARCHITECTURE.md](../../../docs/ARCHITECTURE.md)
-- Linguistic foundations: [./linguistic_foundations.md](./linguistic_foundations.md)
-- Dictionary: [./worldly_vs_covenantal_dictionary.md](./worldly_vs_covenantal_dictionary.md)
-- Scanner design: [./linguistic_scanner_design.md](./linguistic_scanner_design.md)
-- Distortions essay: [./two_major_distortions.md](./two_major_distortions.md)
-- Schema: [./schemas/language_diagnostic.schema.json](./schemas/language_diagnostic.schema.json)
+- Linguistic foundations: [./linguistic_foundations.md](/the-word/language-module/linguistic-foundations)
+- Dictionary: [./worldly_vs_covenantal_dictionary.md](/the-word/language-module/worldly-vs-covenantal-dictionary)
+- Scanner design: [./linguistic_scanner_design.md](/the-word/language-module/linguistic-scanner-design)
+- Distortions essay: [./two_major_distortions.md](/the-word/language-module/two-major-distortions)
+- Schema: [./schemas/language_diagnostic.schema.json](/the-word/language-module/reference/language-diagnostic-schema)
 
 ## Purpose
 

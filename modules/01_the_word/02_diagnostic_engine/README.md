@@ -7,11 +7,11 @@
 The diagnostic engine is the analytical core of The Word.
 
 - Root architecture: [docs/ARCHITECTURE.md](../../../docs/ARCHITECTURE.md)
-- Foundational contrast: [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md)
-- Category files: [./categories/01_metaphysics.md](./categories/01_metaphysics.md), [./categories/02_epistemology.md](./categories/02_epistemology.md), [./categories/03_anthropology.md](./categories/03_anthropology.md), [./categories/04_ethics.md](./categories/04_ethics.md), [./categories/05_social_political.md](./categories/05_social_political.md), [./categories/06_identity_meaning.md](./categories/06_identity_meaning.md), [./categories/07_eschatology.md](./categories/07_eschatology.md)
-- Philosophy modules: [./philosophy_modules/README.md](./philosophy_modules/README.md)
-- Western diagnostic map: [./western_christianity_diagnostic_map.md](./western_christianity_diagnostic_map.md)
-- Structured reference for this layer currently lives in the shared [philosophy module template](./philosophy_modules/_template.md) and in the neighboring Berean and Language module schemas, while the diagnostic engine itself remains intentionally markdown-first.
+- Foundational contrast: [../01_foundational_layer/covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- Category files: [./categories/01_metaphysics.md](/the-word/diagnostic-engine/categories/metaphysics), [./categories/02_epistemology.md](/the-word/diagnostic-engine/categories/epistemology), [./categories/03_anthropology.md](/the-word/diagnostic-engine/categories/anthropology), [./categories/04_ethics.md](/the-word/diagnostic-engine/categories/ethics), [./categories/05_social_political.md](/the-word/diagnostic-engine/categories/social-political), [./categories/06_identity_meaning.md](/the-word/diagnostic-engine/categories/identity-meaning), [./categories/07_eschatology.md](/the-word/diagnostic-engine/categories/eschatology)
+- Philosophy modules: [./philosophy_modules/README.md](/the-word/diagnostic-engine/philosophy-modules)
+- Western diagnostic map: [./western_christianity_diagnostic_map.md](/the-word/diagnostic-engine/western-christianity-diagnostic-map)
+- Structured reference for this layer currently lives in the shared [philosophy module template](/the-word/diagnostic-engine/reference/philosophy-module-template) and in the neighboring Berean and Language module schemas, while the diagnostic engine itself remains intentionally markdown-first.
 
 ## Why the engine is modular
 
