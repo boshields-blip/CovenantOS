@@ -13,6 +13,8 @@
   moduleHref="/the-household"
   prevHref="/the-household/land-and-inheritance"
   prevLabel="Land and Inheritance"
+  nextHref="/the-compact"
+  nextLabel="The Compact"
 >
   <div class="space-y-8">
     <header class="space-y-3 border-b border-ochre/20 pb-6">

@@ -41,7 +41,7 @@ The Compact
 ```
 
 - Upstream frame: [covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)
-- Downstream module (forthcoming): [modules/03_the_compact/README.md](../03_the_compact/README.md)
+- Downstream module: [modules/03_the_compact/README.md](../03_the_compact/README.md)
 - Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](../01_the_word/05_formation_layer/come_to_the_table/PHILOSOPHY.md)
 - Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](../01_the_word/05_formation_layer/harvest_and_hymn/SEASONAL_RHYTHM.md)
 
@@ -76,3 +76,4 @@ A suggested path:
 4. Work through [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](./HOUSEHOLD_VS_CONSUMER_ECONOMY.md)
 5. Anchor land theology in [LAND_AND_INHERITANCE.md](./LAND_AND_INHERITANCE.md)
 6. Use [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md) as a repeatable formation tool
+7. Continue into [The Compact](../03_the_compact/README.md) to follow household formation outward into public life
