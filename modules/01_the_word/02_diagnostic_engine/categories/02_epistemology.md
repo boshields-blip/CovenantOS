@@ -31,3 +31,10 @@ Truth is known through God’s self-disclosure, received in faith, tested in com
 - Treating theology as a purely cerebral system rather than a lived obedience.
 - Treating personal authenticity as self-validating truth.
 - Treating scholarly sophistication as spiritually superior to ordinary covenant faithfulness.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which this category's covenantal contrast is drawn
+- [Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — named rival philosophies analyzed through all seven categories
+- [Berean Tool — How to Use](/the-word/berean-tool/how-to-use) — how to apply this category in a structured analysis of a teacher or tradition
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — how diagnostic clarity in this category leads to embodied covenant practice

@@ -70,3 +70,9 @@ Come to the Table is that conviction made concrete. It is formation that is:
 - **Embodied** — the meal is real; the food is eaten; the bodies at the table matter.
 - **Historical** — a household that keeps this table year after year is participating in a very long tradition of God's people reading His word together.
 - **Covenantal** — the table is an implicit declaration that this household belongs to a story given by God, not authored by themselves.
+
+## See also
+
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — the broader three-movement arc the table practice embodies week by week
+- [Oikonomia](/the-household/oikonomia) — the household as the first economic and formational unit
+- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly community gathering that the weekly table prepares households for

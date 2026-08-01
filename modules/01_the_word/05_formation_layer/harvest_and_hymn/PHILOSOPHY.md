@@ -39,3 +39,9 @@ The elder's role is to equip and bless, not dominate the gathering. Teaching is 
 A healthy gathering expects contribution from each household: a dish, a testimony, a song, a poem, a reading, a prayer, or another fitting offering. This keeps the gathering communal, not consumer-driven.
 
 Children are not an afterthought. They bring and participate fully in creative offerings, meal reflection, and shared blessing.
+
+## See also
+
+- [Come to the Table](/the-word/formation/come-to-the-table) — the weekly household practice that the quarterly gathering extends outward
+- [Peoplehood](/the-compact/peoplehood) — the covenant assembly dimension that Harvest & Hymn embodies
+- [Commons and Shared Life](/the-compact/commons-and-shared-life) — the shared-commons logic that a community gathering enacts

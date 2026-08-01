@@ -89,3 +89,8 @@ God works in history, not in timeless abstraction. Memory, inheritance, testimon
 ## Why this matters for the rest of The Word
 
 The foundational layer gives the diagnostic engine its contrast, the Berean Tool its standard, the language module its vocabulary, and the formation layer its direction. Without this layer, diagnosis becomes critique without telos; with it, discernment becomes the beginning of reformation.
+
+## See also
+
+- [Hebraic Word Studies — The Household](/the-household/hebraic-word-studies) — covenantal vocabulary that embodies the philosophy in household life
+- [Hebraic Word Studies — The Compact](/the-compact/hebraic-word-studies) — covenantal vocabulary that embodies the philosophy in public life

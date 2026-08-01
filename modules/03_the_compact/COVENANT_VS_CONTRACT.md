@@ -95,3 +95,10 @@ The practical question is not whether you prefer covenant or contract as a philo
 The answers reveal which imagination has formed you. As your household and community walk in this, the covenant imagination can be re-learned — not as theory, but as practice, obligation, and shared life.
 
 For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy). For the public-life application, see [SUBSIDIARITY.md](/the-compact/subsidiarity) and [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life).
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which the covenant/contract distinction is drawn
+- [Subsidiarity](/the-compact/subsidiarity) — how covenant ordering structures authority from the household outward
+- [Peoplehood](/the-compact/peoplehood) — what it means to be a covenant people rather than a contractual constituency
+- [Oikonomia](/the-household/oikonomia) — where covenant obligation is first learned — in the household economy

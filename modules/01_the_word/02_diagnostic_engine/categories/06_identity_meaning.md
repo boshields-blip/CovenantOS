@@ -31,3 +31,10 @@ Identity is received from God within a covenant people and clarified through voc
 - Rebranding discipleship as self-discovery.
 - Treating calling mainly as personal fulfillment.
 - Equating visibility, platform, or influence with significance.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which this category's covenantal contrast is drawn
+- [Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — named rival philosophies analyzed through all seven categories
+- [Berean Tool — How to Use](/the-word/berean-tool/how-to-use) — how to apply this category in a structured analysis of a teacher or tradition
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — how diagnostic clarity in this category leads to embodied covenant practice

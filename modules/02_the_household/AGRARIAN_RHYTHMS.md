@@ -91,3 +91,9 @@ Use seasons intentionally:
 - review what the land taught this season and what to change next
 
 For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](../01_the_word/05_formation_layer/harvest_and_hymn/SEASONAL_RHYTHM.md).
+
+## See also
+
+- [Oikonomia](/the-household/oikonomia) — the household ordering that agrarian rhythms embody
+- [Land and Inheritance](/the-household/land-and-inheritance) — the multigenerational stewardship that seasonal faithfulness serves
+- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly community gathering that follows the same four-season rhythm
