@@ -1,5 +1,9 @@
 # Workshops — Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 Optional workshops may be offered before or after the canonical gathering format. They are supplementary and should not replace the five liturgical movements.
 
 ## Spring

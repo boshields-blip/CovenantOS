@@ -1,5 +1,9 @@
 # Tradition Influence Map
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 This map names recurring philosophical inheritances associated with major traditions and institutions.
 
 ## Important disclaimer

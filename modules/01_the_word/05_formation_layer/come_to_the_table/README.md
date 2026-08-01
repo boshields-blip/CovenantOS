@@ -1,5 +1,9 @@
 # Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > *A weekly meal, a short passage, and a household learning to know God together.*
 
 **Come to the Table** is the first concrete communal practice under the Formation Layer of The Word. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.

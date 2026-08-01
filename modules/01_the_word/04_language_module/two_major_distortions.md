@@ -1,5 +1,9 @@
 # Two Major Distortions
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 This document treats two especially common language distortions around the word **church**.
 
 ## A. Corporate / Programmatic Personification of "Church"

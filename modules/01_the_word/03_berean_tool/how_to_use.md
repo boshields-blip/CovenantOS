@@ -1,5 +1,9 @@
 # How to Use the Berean Tool
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 The Berean Tool is most useful as a **formation aid and conversation starter**, not as a verdict machine. It helps you name philosophical waters you are swimming in — for yourself, for a tradition, or for a teacher — so that you can compare them with the covenantal frame and respond with humility.
 
 > **Start with yourself.** The most honest and fruitful use of this tool begins not with diagnosing someone else, but with examining your own inherited formation.

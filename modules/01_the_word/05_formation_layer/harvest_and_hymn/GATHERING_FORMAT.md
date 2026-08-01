@@ -1,5 +1,9 @@
 # Gathering Format — Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Canonical quarterly shape
 
 Every Harvest & Hymn gathering follows the same five movements. Structure remains stable; seasonal content changes.

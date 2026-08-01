@@ -1,6 +1,6 @@
 # Diagnostic Engine
 
-**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-25
+**Status:** Active | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
 
 ---
 
@@ -11,7 +11,7 @@ The diagnostic engine is the analytical core of The Word.
 - Category files: [./categories/01_metaphysics.md](./categories/01_metaphysics.md), [./categories/02_epistemology.md](./categories/02_epistemology.md), [./categories/03_anthropology.md](./categories/03_anthropology.md), [./categories/04_ethics.md](./categories/04_ethics.md), [./categories/05_social_political.md](./categories/05_social_political.md), [./categories/06_identity_meaning.md](./categories/06_identity_meaning.md), [./categories/07_eschatology.md](./categories/07_eschatology.md)
 - Philosophy modules: [./philosophy_modules/README.md](./philosophy_modules/README.md)
 - Western diagnostic map: [./western_christianity_diagnostic_map.md](./western_christianity_diagnostic_map.md)
-- Planned schema artifacts: philosophy module and diagnostic profile schemas will be documented alongside this layer as the runtime surface expands.
+- Structured reference for this layer currently lives in the shared [philosophy module template](./philosophy_modules/_template.md) and in the neighboring Berean and Language module schemas, while the diagnostic engine itself remains intentionally markdown-first.
 
 ## Why the engine is modular
 

@@ -1,5 +1,9 @@
 # Ethics
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **What is the good, and how should one live?**

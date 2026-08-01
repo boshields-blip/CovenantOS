@@ -1,5 +1,9 @@
 # The Word
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > A markdown-first content tree for The Word's five-pathway formation architecture.
 
 This directory gathers The Word's pathway content: foundational principles, diagnostic structures, Berean material, language formation, and embodied practices. This content is markdown-first and lives inside the active module structure; the broader repository boundaries are described in the architecture docs.

@@ -1,5 +1,9 @@
 # Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > *A quarterly, seasonal gathering where households come together with food, Scripture, song, and shared offerings.*
 
 **Harvest & Hymn** is a formation module within The Word for **quarterly community gathering**. Where [Come to the Table](../come_to_the_table/README.md) forms a household weekly around Scripture and meal, Harvest & Hymn extends that same rhythm into seasonal shared life.

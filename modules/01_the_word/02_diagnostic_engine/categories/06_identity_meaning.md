@@ -1,5 +1,9 @@
 # Identity and Meaning
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **Who am I, what gives life meaning, and how is belonging secured?**

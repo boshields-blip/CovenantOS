@@ -1,5 +1,9 @@
 # Canonical Arc — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## What this arc is
 
 The canonical arc is a multi-year, low-pressure path through the Scriptures designed for one session per week. At roughly fifty sessions per year, a household following this arc will move through a meaningful portion of the Bible over four years without turning the table into a completion project.

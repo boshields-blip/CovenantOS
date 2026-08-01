@@ -1,5 +1,9 @@
 # Host Guide — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Who this guide is for
 
 This guide is for the parent, guardian, or adult who leads the weekly table practice. You do not need to be a pastor, a theologian, or a trained Bible teacher. You need to be willing to open a Bible, read a short passage, and ask simple questions with patience.

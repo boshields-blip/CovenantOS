@@ -1,5 +1,9 @@
 # Family Preparation — Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 Families prepare for each quarterly gathering through a simple three-part rhythm: worship, homestead work, and reflection.
 
 ## 1. Family worship

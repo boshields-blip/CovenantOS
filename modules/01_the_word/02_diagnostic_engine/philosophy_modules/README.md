@@ -1,5 +1,9 @@
 # Philosophy Modules
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 These modules describe recurring philosophical patterns that commonly shape Western Christian thought and speech.
 
 - Template: [./_template.md](./_template.md)
@@ -10,7 +14,7 @@ These modules describe recurring philosophical patterns that commonly shape West
 - Postmodernism: [./postmodernism.md](./postmodernism.md)
 - Materialism: [./materialism.md](./materialism.md)
 - Progressivist Utopianism: [./progressivist_utopianism.md](./progressivist_utopianism.md)
-- Schema: philosophy module schema reference is still planned and is not yet part of this transferred module tree.
+- Shared structure: [./_template.md](./_template.md) is the canonical shape for each philosophy module and keeps the seven-category analysis consistent across this directory.
 
 ## How to use these modules
 

@@ -1,5 +1,9 @@
 # Elder Guide — Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Role of the elder
 
 The elder equips the gathering but does not dominate it. The community's shared contributions remain central.
