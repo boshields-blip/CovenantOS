@@ -28,6 +28,8 @@ This leads to five governing contrasts:
 
 CovenantOS 2.0 is intentionally static and interactive. It has no accounts, no forum, no membership, no Supabase dependency, and no requirement for server-side persistence in the target architecture. Interaction should deepen reflection without introducing platform behaviors that depend on authentication, moderation, or social feeds.
 
+When a user is ready to move from formation to participation, CovenantOS should point outward to CommunityOS rather than absorbing bookings, listings, account flows, or transactional coordination into this product.
+
 ---
 
 ## Interactive web-first
