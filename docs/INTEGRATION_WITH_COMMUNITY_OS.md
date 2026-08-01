@@ -1,6 +1,6 @@
 # Relationship to CommunityOS
 
-Status: Draft | Owner: @boshields-blip | Last updated: 2026-08-01
+**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-08-01
 
 ---
 
@@ -52,5 +52,5 @@ Collapsing the two systems would pull CovenantOS away from its no-backend, conte
 
 - [`docs/ARCHITECTURE.md`](./ARCHITECTURE.md) — CovenantOS target architecture
 - [`docs/DESIGN_PRINCIPLES.md`](./DESIGN_PRINCIPLES.md) — no-backend and content-first principles
-- [`modules/02_the_household/README.md`](../modules/02_the_household/README.md) — household stewardship, embodied at Aletheia Farm
-- [`modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md`](../modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md) — local trade, embodied at The Commons
+- [`modules/02_the_household/README.md`](/the-household) — household stewardship, embodied at Aletheia Farm
+- [`modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md`](/the-compact/local-market-and-social-fabric) — local trade, embodied at The Commons

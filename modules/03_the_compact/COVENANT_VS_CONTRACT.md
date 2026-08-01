@@ -79,7 +79,7 @@ The covenantal imagination stands the social contract tradition on its head:
 
 **Persons are formed within covenant communities before they can negotiate contracts.** The capacity to make and keep agreements — to be a reliable covenant partner — is itself a formation product. You learn faithfulness in a household before you can practice it in a market.
 
-**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal — not because a procedure granted it.
+**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal — not because a procedure granted it.
 
 **Obligations precede rights.** The covenant establishes obligations first — toward God, toward neighbor, toward the land, toward the stranger. Rights are the protections that correspond to those obligations. The widow has a claim on gleaning fields not because she negotiated for it, but because the covenant obligates landowners to make room for her.
 
@@ -94,4 +94,4 @@ The practical question is not whether you prefer covenant or contract as a philo
 
 The answers reveal which imagination has formed you. As your household and community walk in this, the covenant imagination can be re-learned — not as theory, but as practice, obligation, and shared life.
 
-For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](../02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md). For the public-life application, see [SUBSIDIARITY.md](./SUBSIDIARITY.md) and [COMMONS_AND_SHARED_LIFE.md](./COMMONS_AND_SHARED_LIFE.md).
+For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy). For the public-life application, see [SUBSIDIARITY.md](/the-compact/subsidiarity) and [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life).

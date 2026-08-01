@@ -1,6 +1,6 @@
 # Supabase
 
-**Status:** Active | **Owner:** @boshields-blip | **Last updated:** 2026-07-16
+**Status:** Archived | **Owner:** @boshields-blip | **Last updated:** 2026-07-16
 
 ---
 

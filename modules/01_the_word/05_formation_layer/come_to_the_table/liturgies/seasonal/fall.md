@@ -14,4 +14,4 @@
 
 What thanksgiving offering might your family bring to Harvest & Hymn?
 
-See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/fall.md](../../../harvest_and_hymn/liturgies/fall.md).
+See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/fall.md](/the-word/formation/harvest-and-hymn/liturgies/fall).
