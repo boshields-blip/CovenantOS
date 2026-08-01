@@ -8,7 +8,7 @@
 
 ## What this file is
 
-This file describes how and when to bring the Berean Tool ([modules/01_the_word/03_berean_tool/](../../03_berean_tool/)) to the family table as part of Come to the Table. The Berean Tool is an occasional, structured practice within the weekly table rhythm — not the center of it.
+This file describes how and when to bring the Berean Tool ([modules/01_the_word/03_berean_tool/](/the-word/berean-tool)) to the family table as part of Come to the Table. The Berean Tool is an occasional, structured practice within the weekly table rhythm — not the center of it.
 
 This is an important file. Read it before introducing the Berean Tool at the table.
 
@@ -42,7 +42,7 @@ The Berean Tool at the table is occasional — perhaps once a month, perhaps les
 - During Year 4 of the canonical arc, when the philosophy categories are explicitly in view
 
 **Not good occasions:**
-- When guests are present who are not familiar with the tool or the household's practice (see [GUEST_FAMILY_GUIDE.md](./GUEST_FAMILY_GUIDE.md))
+- When guests are present who are not familiar with the tool or the household's practice (see [GUEST_FAMILY_GUIDE.md](/the-word/formation/come-to-the-table/guest-family-guide))
 - When Little Ones or Image Bearers are at the table and fully present — keep the discussion brief and simple, or defer to after they have left the table
 - When the purpose is to win an argument, confirm an existing opinion, or dismiss someone
 
@@ -50,7 +50,7 @@ The Berean Tool at the table is occasional — perhaps once a month, perhaps les
 
 ## How to use it at the table
 
-The Berean Tool at the table is a simplified version of the full tool described in [03_berean_tool/how_to_use.md](../../03_berean_tool/how_to_use.md). The table version does not produce a full profile. It simply uses the tool's posture and a few of its core questions.
+The Berean Tool at the table is a simplified version of the full tool described in [03_berean_tool/how_to_use.md](/the-word/berean-tool/how-to-use). The table version does not produce a full profile. It simply uses the tool's posture and a few of its core questions.
 
 **A simple table structure:**
 
@@ -85,7 +85,7 @@ The Apprentice who leads a Berean moment at the table should ask, not declare. *
 An adult who demonstrates sophisticated critique without genuine warmth teaches the wrong lesson. The Mentor's role in a Berean conversation is to show that it is possible to say "I have real concerns here" and also "I am grateful for this person's courage, gifts, or faithfulness in these areas."
 
 **No Berean critique of a guest's tradition or teachers at a guest table.**
-See [GUEST_FAMILY_GUIDE.md](./GUEST_FAMILY_GUIDE.md) for the explicit rule here. When another family is at the table, the Berean Tool stays away.
+See [GUEST_FAMILY_GUIDE.md](/the-word/formation/come-to-the-table/guest-family-guide) for the explicit rule here. When another family is at the table, the Berean Tool stays away.
 
 ---
 

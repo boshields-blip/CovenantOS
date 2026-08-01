@@ -14,4 +14,4 @@
 
 How can your household carry this week's table practice into Harvest & Hymn?
 
-See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/summer.md](../../../harvest_and_hymn/liturgies/summer.md).
+See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/summer.md](/the-word/formation/harvest-and-hymn/liturgies/summer).

@@ -14,4 +14,4 @@
 
 What story, prayer, or quiet offering might your family carry to Harvest & Hymn?
 
-See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/winter.md](../../../harvest_and_hymn/liturgies/winter.md).
+See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/winter.md](/the-word/formation/harvest-and-hymn/liturgies/winter).

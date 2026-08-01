@@ -30,7 +30,7 @@ The Word is where the imagination is examined and reformed. Before you can walk 
 
 **A slow practice:**
 
-Before moving on to Section 2, sit with the covenantal philosophy document ([covenantal_philosophy.md](../01_the_word/01_foundational_layer/covenantal_philosophy.md)) and identify one category — Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology — where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.
+Before moving on to Section 2, sit with the covenantal philosophy document ([covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)) and identify one category — Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology — where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.
 
 ---
 
@@ -40,15 +40,15 @@ The Household is where the covenantal imagination becomes embodied. Abstract con
 
 **Economic ordering:**
 
-- Is your household economically ordered around stewardship or consumption? What does your household's budget reveal about your actual priorities — not your stated ones, but the ones your money follows? See [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](../02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md) for the diagnostic framing.
+- Is your household economically ordered around stewardship or consumption? What does your household's budget reveal about your actual priorities — not your stated ones, but the ones your money follows? See [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy) for the diagnostic framing.
 
-- What is your household producing? What are you consuming that you could produce — food, repair, craft, care, formation? This is not a guilt question; it is a capacity question. Where could your household become more of an actor and less of a consumer? See [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md).
+- What is your household producing? What are you consuming that you could produce — food, repair, craft, care, formation? This is not a guilt question; it is a capacity question. Where could your household become more of an actor and less of a consumer? See [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model).
 
-- What does your household's relationship to land, season, and neighbor look like? Are you rooted in a place? Do you know the season you are in — not only meteorologically, but agriculturally, liturgically, relationally? Do you know who lives next to you and what their household needs? See [AGRARIAN_RHYTHMS.md](../02_the_household/AGRARIAN_RHYTHMS.md).
+- What does your household's relationship to land, season, and neighbor look like? Are you rooted in a place? Do you know the season you are in — not only meteorologically, but agriculturally, liturgically, relationally? Do you know who lives next to you and what their household needs? See [AGRARIAN_RHYTHMS.md](/the-household/agrarian-rhythms).
 
 **Inheritance and future:**
 
-- What are you building to pass on? What inheritance — material, relational, spiritual, formational — is your household building for children and grandchildren? Is there a next generation in your household's vision, or is your household organized primarily around the present? See [LAND_AND_INHERITANCE.md](../02_the_household/LAND_AND_INHERITANCE.md).
+- What are you building to pass on? What inheritance — material, relational, spiritual, formational — is your household building for children and grandchildren? Is there a next generation in your household's vision, or is your household organized primarily around the present? See [LAND_AND_INHERITANCE.md](/the-household/land-and-inheritance).
 
 - What practices are you passing along? The practices your children grow up with — the Sabbath rhythm, the shared table, the seasonal feasts, the care for neighbors, the honest trade — become their imagination of what is normal. What practices are you giving them? What practices were given to you that you have let go?
 
@@ -64,7 +64,7 @@ The Compact is where household formation meets public obligation. These question
 
 **Subsidiarity:**
 
-- What decisions are you allowing to be made at too high a level that belong closer to home? Who is deciding how your children are formed? Who is deciding what happens to the land and water in your community? Who is deciding how your neighborhood looks, who lives in it, and what happens there? What would it cost to take those decisions back? See [SUBSIDIARITY.md](./SUBSIDIARITY.md).
+- What decisions are you allowing to be made at too high a level that belong closer to home? Who is deciding how your children are formed? Who is deciding what happens to the land and water in your community? Who is deciding how your neighborhood looks, who lives in it, and what happens there? What would it cost to take those decisions back? See [SUBSIDIARITY.md](/the-compact/subsidiarity).
 
 - Where have you outsourced local responsibility to institutions, programs, or distant authorities — and what would it require to reclaim it? This is not about hostility to institutions; it is about the question of competence and accountability. What does your household and neighborhood know how to do, and what have you been told you need a specialist for?
 
@@ -72,13 +72,13 @@ The Compact is where household formation meets public obligation. These question
 
 - What shared obligations does your local community have that no one is currently holding? The care of the elderly who have no family nearby. The formation of children whose parents are overwhelmed. The mutual aid network that doesn't exist yet. The neighborhood dispute that has never been adjudicated because no one has the standing to do it. What would it mean for your community to take these obligations back?
 
-- What would your neighborhood's commons look like if you took it seriously? What shared spaces, shared practices, and shared obligations are latent in your neighborhood but unactivated? A shared garden, a regular shared meal, a neighborhood repair network, a mutual aid fund — what is waiting to be built? See [COMMONS_AND_SHARED_LIFE.md](./COMMONS_AND_SHARED_LIFE.md).
+- What would your neighborhood's commons look like if you took it seriously? What shared spaces, shared practices, and shared obligations are latent in your neighborhood but unactivated? A shared garden, a regular shared meal, a neighborhood repair network, a mutual aid fund — what is waiting to be built? See [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life).
 
 **Covenant people:**
 
-- What does your congregation look like as a covenant people? Does it have real mutual accountability — not merely pastoral authority, but horizontal covenant obligation between members? Does it share table, practices, and presence beyond the Sunday gathering? What would it need to become more fully a covenant assembly? See [PEOPLEHOOD.md](./PEOPLEHOOD.md) and the *edah* word study in [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md).
+- What does your congregation look like as a covenant people? Does it have real mutual accountability — not merely pastoral authority, but horizontal covenant obligation between members? Does it share table, practices, and presence beyond the Sunday gathering? What would it need to become more fully a covenant assembly? See [PEOPLEHOOD.md](/the-compact/peoplehood) and the *edah* word study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies).
 
-- What local market relationships are you building, and how do you trade? Do you know the name of the person who grew your food? Do you know the tradesperson who serves your household? Do you choose local when you can, not merely for efficiency but for covenant formation? See [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](./LOCAL_MARKET_AND_SOCIAL_FABRIC.md).
+- What local market relationships are you building, and how do you trade? Do you know the name of the person who grew your food? Do you know the tradesperson who serves your household? Do you choose local when you can, not merely for efficiency but for covenant formation? See [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric).
 
 - What would it look like for your neighborhood or community to operate more covenantally? More shared obligation. More mutual aid. More accountability between households. More shared memory and story. More shared practices. Not as a program — as a way of life. Where is one step toward that? Name it specifically: one conversation, one shared meal, one market relationship, one act of mutual aid, one practice of presence.
 
@@ -110,4 +110,4 @@ The gate is where you know your neighbor. Start there.
 
 ---
 
-*For further formation, return to [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md) in this module and [HEBRAIC_WORD_STUDIES.md](../02_the_household/HEBRAIC_WORD_STUDIES.md) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*
+*For further formation, return to [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) in this module and [HEBRAIC_WORD_STUDIES.md](../02_the_household/HEBRAIC_WORD_STUDIES.md) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*

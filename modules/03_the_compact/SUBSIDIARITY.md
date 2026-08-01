@@ -37,7 +37,7 @@ The Mosaic governance structure (Exodus 18) makes this concrete. Moses is judgin
 
 Jethro's counsel is administrative, but it is also covenantal. He advises Moses to establish leaders of thousands, hundreds, fifties, and tens — each level holding cases appropriate to its competence, only the most difficult cases reaching Moses. This is not bureaucracy. It is a covenant people distributing authority so that it remains personal, accessible, and accountable at every level.
 
-The city gates (*sha'ar*) are the Hebraic image of this principle in daily life. See the word study in [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md). The elders at the gate are local, known, embedded in the community whose disputes they adjudicate. Justice at the gate is not abstract: it is the face of your neighbor on one side and the face of the person they wronged on the other.
+The city gates (*sha'ar*) are the Hebraic image of this principle in daily life. See the word study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies). The elders at the gate are local, known, embedded in the community whose disputes they adjudicate. Justice at the gate is not abstract: it is the face of your neighbor on one side and the face of the person they wronged on the other.
 
 ## The inversion in modern life
 

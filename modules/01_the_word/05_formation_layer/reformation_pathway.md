@@ -86,8 +86,8 @@ Putting on happens through:
 - **Covenant habits.** Small, repeated, embodied acts — daily Scripture, honest confession, hospitality, keeping promises, showing up — that train the affections over time. Formation is cumulative. It is the long obedience that consumerism finds unattractive and covenant finds ordinary.
 - **Truthful language in practice.** Not merely knowing the better phrase, but speaking it in real conversation, correspondence, and prayer until it becomes native.
 - **The two anchoring practices of The Word:**
-  - [**Come to the Table**](./come_to_the_table/README.md) — the weekly household practice where provision becomes formation: a passage read aloud, heard, discussed, and prayed, at an actual table, across the whole range of ages. This is where "put on" happens week by week, in the most ordinary and most formative place in a household's life.
-  - [**Harvest & Hymn**](./harvest_and_hymn/README.md) — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony. This is where formation moves outward from the household table into the wider community, under the ordering text of 1 Corinthians 14:26.
+  - [**Come to the Table**](/the-word/formation/come-to-the-table) — the weekly household practice where provision becomes formation: a passage read aloud, heard, discussed, and prayed, at an actual table, across the whole range of ages. This is where "put on" happens week by week, in the most ordinary and most formative place in a household's life.
+  - [**Harvest & Hymn**](/the-word/formation/harvest-and-hymn) — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony. This is where formation moves outward from the household table into the wider community, under the ordering text of 1 Corinthians 14:26.
 
 Putting on is the point where The Word stops being a body of content and becomes a way of life.
 
@@ -136,5 +136,5 @@ The way through is the oldest way there is. Put off. Be renewed. Put on. Turn, a
 - [covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md) — the governing frame renewal returns to
 - [The seven diagnostic categories](../02_diagnostic_engine/README.md) — the terrain of putting off
 - [worldly_vs_covenantal_dictionary.md](../04_language_module/worldly_vs_covenantal_dictionary.md) — a renewal tool for speech
-- [come_to_the_table/README.md](./come_to_the_table/README.md) — the weekly household practice
-- [harvest_and_hymn/README.md](./harvest_and_hymn/README.md) — the quarterly community gathering
+- [come_to_the_table/README.md](/the-word/formation/come-to-the-table) — the weekly household practice
+- [harvest_and_hymn/README.md](/the-word/formation/harvest-and-hymn) — the quarterly community gathering
