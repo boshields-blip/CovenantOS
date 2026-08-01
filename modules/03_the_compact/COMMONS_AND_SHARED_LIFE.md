@@ -67,7 +67,7 @@ The local newspaper, the town bulletin board, the neighborhood association meeti
 
 The recovery of the digital commons is not solved by new platforms, however better designed. It requires recovering the practices of local, embodied community life that do not require digital mediation: the neighborhood gathering, the market square, the congregation's shared table, the face-to-face conversation between neighbors.
 
-See [technocratic_rationalism.md](/the-word/diagnostic-engine/philosophy-modules/technocratic-rationalism) for the diagnostic frame on why the tech-platform solution always extends the problem it claims to solve.
+See [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents) for the diagnostic frame on why the tech-platform solution always extends the problem it claims to solve.
 
 ## What a recovered commons looks like locally
 

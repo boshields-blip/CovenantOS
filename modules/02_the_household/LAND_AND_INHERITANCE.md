@@ -12,7 +12,7 @@ The Hebrew word *eretz* means land, earth, ground. It is one of the most frequen
 
 In the Abrahamic promise, three strands are held together: seed, land, and blessing. Land is not an accessory to covenant life; it is part of the covenant frame itself.
 
-This aligns with the governing architecture in [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy): covenant is embodied in time, people, and place.
+This aligns with the governing architecture in [covenantal_philosophy.md](/the-word/the-land-of-the-text): covenant is embodied in time, people, and place.
 
 ## Promised land theology
 

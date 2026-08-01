@@ -20,7 +20,7 @@ The Word is where the imagination is examined and reformed. Before you can walk 
 
 **Diagnostic questions:**
 
-- What philosophies have most shaped how you think about authority, community, and public life? Use the [Diagnostic Engine](/the-word/diagnostic-engine) to identify the traditions that have formed you. Where do you find the covenantal contrast most foreign?
+- What philosophies have most shaped how you think about authority, community, and public life? Use the [Diagnostic Engine](/the-word/knowing-your-own-way) to identify the traditions that have formed you. Where do you find the covenantal contrast most foreign?
 
 - What language do you use for political life? When you speak about your community, your government, your neighbors, your obligations — do you reach for the language of rights, preferences, tribes, or covenant? What would it mean to speak more covenantally about public life?
 
@@ -30,7 +30,7 @@ The Word is where the imagination is examined and reformed. Before you can walk 
 
 **A slow practice:**
 
-Before moving on to Section 2, sit with the covenantal philosophy document ([covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)) and identify one category — Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology — where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.
+Before moving on to Section 2, sit with the covenantal philosophy document ([covenantal_philosophy.md](/the-word/the-land-of-the-text)) and identify one category — Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology — where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.
 
 ---
 

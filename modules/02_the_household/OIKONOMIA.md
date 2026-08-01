@@ -74,14 +74,14 @@ The Hebraic parallel is *bayit* (house/household). In the Old Testament, househo
 
 That is why *oikonomia* recovery belongs inside a Hebraic frame:
 
-- [covenantal_philosophy.md](/the-word/foundational-layer/covenantal-philosophy)
+- [covenantal_philosophy.md](/the-word/the-land-of-the-text)
 - [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies)
 
 In covenantal thought, household stewardship is not domestic minimalism. It is participation in God's ordering of life.
 
 ## See also
 
-- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the theological frame within which oikonomia sits
+- [Covenantal Philosophy](/the-word/the-land-of-the-text) — the theological frame within which oikonomia sits
 - [Household vs Consumer Economy](/the-household/household-vs-consumer-economy) — the diagnostic contrast between covenantal household ordering and consumer economy inversion
 - [Household Flow Model](/the-household/household-flow-model) — an interactive diagram of the household as a producing, not only consuming, unit
 - [Agrarian Rhythms](/the-household/agrarian-rhythms) — how seasonal and land rhythms give oikonomia its embodied form

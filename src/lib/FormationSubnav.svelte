@@ -2,8 +2,8 @@
   export let activeHref = '';
 
   const links = [
-    { href: '/the-word/formation/come-to-the-table', label: 'Come to the Table' },
-    { href: '/the-word/formation/harvest-and-hymn', label: 'Harvest & Hymn' }
+    { href: '/the-word/living-the-covenant/come-to-the-table', label: 'Come to the Table' },
+    { href: '/the-word/living-the-covenant/harvest-and-hymn', label: 'Harvest & Hymn' }
   ];
 
   function linkClasses(href) {

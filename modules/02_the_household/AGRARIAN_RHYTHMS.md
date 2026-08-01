@@ -90,10 +90,10 @@ Use seasons intentionally:
 - schedule hospitality around harvest and rest windows
 - review what the land taught this season and what to change next
 
-For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/formation/harvest-and-hymn/seasonal-rhythm).
+For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm).
 
 ## See also
 
 - [Oikonomia](/the-household/oikonomia) — the household ordering that agrarian rhythms embody
 - [Land and Inheritance](/the-household/land-and-inheritance) — the multigenerational stewardship that seasonal faithfulness serves
-- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly community gathering that follows the same four-season rhythm
+- [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn) — the quarterly community gathering that follows the same four-season rhythm

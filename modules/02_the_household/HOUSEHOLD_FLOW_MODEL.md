@@ -40,7 +40,7 @@ Food and material goods come through cultivation and care. Even when households 
 
 ## 4) Household Table
 
-The table is where provision becomes formation: gratitude, story, correction, reconciliation, blessing, and shared memory. Consumption is not only caloric intake; it is covenant practice. See [Come to the Table philosophy](/the-word/formation/come-to-the-table/philosophy).
+The table is where provision becomes formation: gratitude, story, correction, reconciliation, blessing, and shared memory. Consumption is not only caloric intake; it is covenant practice. See [Come to the Table philosophy](/the-word/living-the-covenant/come-to-the-table/philosophy).
 
 ## 5) Hospitality
 
