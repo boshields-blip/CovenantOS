@@ -73,3 +73,10 @@ What habits is your household currently training?
 - private accumulation or shared provision?
 
 As you walk in this, reorder one economic habit at a time.
+
+## See also
+
+- [Oikonomia](/the-household/oikonomia) — the root recovery of the word and concept that grounds this contrast
+- [Household Flow Model](/the-household/household-flow-model) — the interactive diagram that visualizes the producing household versus the consumer household
+- [Diagnostic Engine — Metaphysics](/the-word/diagnostic-engine/categories/metaphysics) — where the consumer economy's underlying metaphysical assumptions surface
+- [Covenant vs. Contract](/the-compact/covenant-vs-contract) — how consumer economy logic and contractual social imagination reinforce each other

@@ -31,3 +31,10 @@ The good is faithful conformity to God’s character and commands as fulfilled i
 - Replacing obedience language with vague wellness language.
 - Reducing holiness to niceness.
 - Measuring ministry success more by visible impact than by faithfulness.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which this category's covenantal contrast is drawn
+- [Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — named rival philosophies analyzed through all seven categories
+- [Berean Tool — How to Use](/the-word/berean-tool/how-to-use) — how to apply this category in a structured analysis of a teacher or tradition
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — how diagnostic clarity in this category leads to embodied covenant practice

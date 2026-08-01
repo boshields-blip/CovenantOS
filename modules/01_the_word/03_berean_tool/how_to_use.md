@@ -133,3 +133,9 @@ This ordering reflects the conviction that discernment serves formation, and for
 - [system_design.md](./system_design.md) — technical and structural design of the tool
 - [../02_diagnostic_engine/categories/](../02_diagnostic_engine/categories/) — detailed treatment of each category
 - [../01_foundational_layer/covenantal_philosophy.md](../01_foundational_layer/covenantal_philosophy.md) — the covenantal contrast for all seven categories
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the governing covenantal contrast used in every category of the profile
+- [Diagnostic Engine](/the-word/diagnostic-engine) — the seven-category framework the Berean Tool applies to teachers and traditions
+- [Berean at the Table](/the-word/formation/come-to-the-table/berean-at-the-table) — how to bring the Berean Tool's posture into weekly household table practice

@@ -78,3 +78,11 @@ That is why *oikonomia* recovery belongs inside a Hebraic frame:
 - [HEBRAIC_WORD_STUDIES.md](./HEBRAIC_WORD_STUDIES.md)
 
 In covenantal thought, household stewardship is not domestic minimalism. It is participation in God's ordering of life.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the theological frame within which oikonomia sits
+- [Household vs Consumer Economy](/the-household/household-vs-consumer-economy) — the diagnostic contrast between covenantal household ordering and consumer economy inversion
+- [Household Flow Model](/the-household/household-flow-model) — an interactive diagram of the household as a producing, not only consuming, unit
+- [Agrarian Rhythms](/the-household/agrarian-rhythms) — how seasonal and land rhythms give oikonomia its embodied form
+- [Land and Inheritance](/the-household/land-and-inheritance) — the multigenerational dimension of household stewardship

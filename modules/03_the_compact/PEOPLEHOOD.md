@@ -104,3 +104,10 @@ The Word forms the imagination of a people — giving them the story, the langua
 The Household is where peoplehood is reproduced generation by generation — where children are formed within a covenant family before they are formed by any institution. See [HOUSEHOLD_FLOW_MODEL.md](../02_the_household/HOUSEHOLD_FLOW_MODEL.md) for how the household's life flows into community.
 
 The Compact — this module — is where households that have been formed by The Word come together to form *am*: a people with a shared commons, a shared public life, and a shared future. The three modules form one arc.
+
+## See also
+
+- [Covenant vs. Contract](/the-compact/covenant-vs-contract) — the philosophical contrast between a covenant people and a contractual constituency
+- [Subsidiarity](/the-compact/subsidiarity) — the authority structure that keeps the covenant people local and accountable
+- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly gathering that practices covenant assembly in embodied, seasonal form
+- [Hebraic Word Studies — The Compact](/the-compact/hebraic-word-studies) — the am, edah, and berith word studies that give peoplehood its Hebraic depth

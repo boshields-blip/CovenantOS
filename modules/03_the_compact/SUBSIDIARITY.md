@@ -88,3 +88,10 @@ The household cannot do everything. Some goods — regional water stewardship, c
 Subsidiarity also does not mean that communities close in on themselves and ignore their neighbors. The whole trajectory of Scripture runs toward the nations being gathered in, toward the expanding circle of the covenant people, toward the city of God that includes every tongue and tribe. Subsidiarity without catholicity becomes tribalism. The local matters because it is where covenant life is actually lived — not because it is the only life that matters.
 
 As your community walks in this, the question is not: *how do we become independent of everyone else?* The question is: *what decisions belong here, among us, in this place — and what would it cost us to take them back?*
+
+## See also
+
+- [Covenant vs. Contract](/the-compact/covenant-vs-contract) — the philosophical foundation from which subsidiarity flows
+- [Hebraic Word Studies — The Compact](/the-compact/hebraic-word-studies) — the sha'ar (city gate) and mishpat word studies that give subsidiarity its Hebraic grounding
+- [Commons and Shared Life](/the-compact/commons-and-shared-life) — the shared spaces and obligations that subsidiarity keeps local and accountable
+- [Peoplehood](/the-compact/peoplehood) — the covenant community that subsidiarity protects from being absorbed by distant authority

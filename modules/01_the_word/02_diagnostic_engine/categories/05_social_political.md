@@ -31,3 +31,10 @@ Shared life is ordered under God through accountable relationships, embodied com
 - Talking about "the Church" as though it were a corporate actor apart from actual congregations and saints.
 - Outsourcing discipleship to programs, systems, and centralized structures.
 - Confusing kingdom faithfulness with partisan strategy or institutional success.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which this category's covenantal contrast is drawn
+- [Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — named rival philosophies analyzed through all seven categories
+- [Berean Tool — How to Use](/the-word/berean-tool/how-to-use) — how to apply this category in a structured analysis of a teacher or tradition
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — how diagnostic clarity in this category leads to embodied covenant practice

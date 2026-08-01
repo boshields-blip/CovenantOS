@@ -138,3 +138,12 @@ The way through is the oldest way there is. Put off. Be renewed. Put on. Turn, a
 - [worldly_vs_covenantal_dictionary.md](../04_language_module/worldly_vs_covenantal_dictionary.md) — a renewal tool for speech
 - [come_to_the_table/README.md](/the-word/formation/come-to-the-table) — the weekly household practice
 - [harvest_and_hymn/README.md](/the-word/formation/harvest-and-hymn) — the quarterly community gathering
+
+## See also
+
+- [Diagnostic Engine](/the-word/diagnostic-engine) — the "put off" movement: naming what must be unlearned
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the "return to covenant" frame that renews imagination
+- [Language Module](/the-word/language-module) — the vocabulary dimension of covenant renewal
+- [Come to the Table](/the-word/formation/come-to-the-table) — the weekly household practice where "put on" happens
+- [Harvest & Hymn](/the-word/formation/harvest-and-hymn) — the quarterly community gathering where formation moves outward
+- [Oikonomia](/the-household/oikonomia) — where reformed imagination begins to reorder the household

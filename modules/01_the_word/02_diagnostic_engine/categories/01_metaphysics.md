@@ -31,3 +31,10 @@ Reality is created, ordered, relational, and held together in Christ. The world 
 - Treating the Christian life as mostly "spiritual" while practical life runs on secular assumptions.
 - Imagining the church as an abstract entity detached from actual people, meals, vows, and shared life.
 - Assuming technology, scale, or efficiency can overcome creaturely limits rather than requiring discernment.
+
+## See also
+
+- [Covenantal Philosophy](/the-word/foundational-layer/covenantal-philosophy) — the first-principles frame from which this category's covenantal contrast is drawn
+- [Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — named rival philosophies analyzed through all seven categories
+- [Berean Tool — How to Use](/the-word/berean-tool/how-to-use) — how to apply this category in a structured analysis of a teacher or tradition
+- [Re-formation Pathway](/the-word/formation/reformation-pathway) — how diagnostic clarity in this category leads to embodied covenant practice

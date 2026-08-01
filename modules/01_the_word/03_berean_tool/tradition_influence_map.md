@@ -81,3 +81,8 @@ The table above summarizes both the genuine gifts and the typical formation pres
 **Positive gifts:** This inheritance often produces earnest devotion, moral seriousness, and a genuine love for Christ. It has sent missionaries, supported scholars, and formed many deeply faithful believers.
 
 **Formation pressure:** A privatized discipleship can emerge in which the self — not covenant communion — remains the practical center, even when communal language is used.
+
+## See also
+
+- [Diagnostic Engine — Philosophy Modules](/the-word/diagnostic-engine/philosophy-modules) — deeper analysis of the philosophical patterns that shape each tradition
+- [Berean Profile Template](/the-word/berean-tool/reference/berean-profile-template) — the structured template for applying this map to a specific teacher
