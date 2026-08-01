@@ -1,5 +1,9 @@
 # Covenantal Philosophy
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Purpose
 
 This document defines the governing frame of The Word. It is the governing frame beneath the diagnostic engine, the Berean Tool, the language module, and the formation pathway.

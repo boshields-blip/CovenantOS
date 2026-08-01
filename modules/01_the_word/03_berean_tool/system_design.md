@@ -1,5 +1,9 @@
 # Berean Tool System Design
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > **Guiding principle:** The Berean Tool is a clarity tool, not a weapon.
 
 ## Framing principle

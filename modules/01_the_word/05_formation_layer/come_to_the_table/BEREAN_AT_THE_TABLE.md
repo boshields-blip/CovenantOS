@@ -1,5 +1,9 @@
 # Berean at the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > *Loving critique of teaching is not a contradiction of charity. It is a form of it.*
 
 ## What this file is

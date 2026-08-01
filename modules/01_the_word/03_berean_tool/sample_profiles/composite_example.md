@@ -1,5 +1,9 @@
 # Sample Berean Profile: Composite Illustrative Figure
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > **Note on this document:** This is a worked example using a clearly fictional, composite "type." It does not represent any real person. It is designed to show what a complete, charitable profile can look like when the Berean Tool is used well.
 
 ---

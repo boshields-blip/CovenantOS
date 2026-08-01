@@ -1,5 +1,9 @@
 # Guest Family Guide — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Why this guide exists
 
 Come to the Table is designed to be shared. A household that keeps this practice is, over time, building something worth passing on — and the most natural way to pass it on is to invite another family to the table.

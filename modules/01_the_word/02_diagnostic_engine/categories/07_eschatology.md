@@ -1,5 +1,9 @@
 # Eschatology
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **Where is history going, and what future governs present action?**

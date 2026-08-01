@@ -1,5 +1,9 @@
 # Metaphysics
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **What is ultimately real, and what kind of world are we living in?**

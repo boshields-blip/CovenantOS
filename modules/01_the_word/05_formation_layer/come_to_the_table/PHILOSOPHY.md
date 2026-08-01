@@ -1,5 +1,9 @@
 # Philosophy — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Why the family table
 
 The table is not incidental to formation. It is formative in itself.

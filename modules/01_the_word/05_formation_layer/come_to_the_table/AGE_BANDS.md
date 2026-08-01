@@ -1,5 +1,9 @@
 # Age Bands — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Overview
 
 Come to the Table is designed for the whole household — including those who cannot yet read, those who are just beginning to hold ideas, and those who are ready to engage philosophy. The same passage is heard by all; the host simply opens different doors into it.

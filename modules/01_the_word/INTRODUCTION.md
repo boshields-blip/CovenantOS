@@ -1,6 +1,6 @@
 # Introduction to The Word
 
-**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-07-31
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
 
 ---
 

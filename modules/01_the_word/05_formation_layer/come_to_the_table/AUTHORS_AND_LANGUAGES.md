@@ -1,5 +1,9 @@
 # Authors and Languages — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## The rotating "Know" slot
 
 Movement 5 of every session (*Know*) is a single, brief teaching moment offered by the host. It adds *one thing* about the passage — not a summary, not a commentary, but a small piece of context that helps the table hear the text more truly.

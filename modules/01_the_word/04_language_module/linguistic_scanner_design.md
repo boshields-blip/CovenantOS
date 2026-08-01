@@ -1,5 +1,9 @@
 # Linguistic Scanner Design
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Goal
 
 The scanner detects language habits that reveal philosophical formation, then maps those detections into the seven-category diagnostic engine.

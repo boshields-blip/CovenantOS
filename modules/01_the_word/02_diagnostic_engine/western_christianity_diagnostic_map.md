@@ -1,5 +1,9 @@
 # Western Christianity Diagnostic Map
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 This map summarizes the "big reveal": Western Christians often confess biblical doctrine while living from a mixed philosophical inheritance. The result is not usually outright apostasy, but layered formation — where Christian beliefs are carried in frameworks shaped by rival stories.
 
 ## Category map

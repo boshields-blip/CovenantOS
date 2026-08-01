@@ -1,5 +1,9 @@
 # Session Format — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## The canonical session
 
 Every Come to the Table session follows the same seven-movement shape. The movements are simple enough to hold without notes once the practice is familiar, and short enough that the whole liturgy fits inside a normal meal.

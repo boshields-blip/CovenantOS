@@ -1,5 +1,9 @@
 # Linguistic Foundations
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 This layer explains why language analysis belongs inside The Word at all.
 
 ## 1. English as a Latinized hybrid

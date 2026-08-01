@@ -1,5 +1,9 @@
 # Epistemology
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **How is truth known, trusted, and tested?**

@@ -1,5 +1,9 @@
 # Philosophy — Harvest & Hymn
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Anchoring text
 
 Harvest & Hymn is anchored in **1 Corinthians 14:26**:

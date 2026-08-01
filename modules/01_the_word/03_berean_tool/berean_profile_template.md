@@ -1,5 +1,9 @@
 # Berean Profile Template
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 > **Before filling this template:** Read [how_to_use.md](./how_to_use.md) to understand the intended posture. Strengths should be named before drifts — always.
 
 ---

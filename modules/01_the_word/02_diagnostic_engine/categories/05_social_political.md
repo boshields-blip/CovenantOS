@@ -1,5 +1,9 @@
 # Social/Political
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 ## Central question
 
 **How should life together be ordered, and where does authority belong?**

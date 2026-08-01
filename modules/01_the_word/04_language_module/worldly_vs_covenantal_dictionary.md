@@ -1,5 +1,9 @@
 # Worldly vs Covenantal Dictionary
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 The table below offers diagnostic examples rather than exhaustive replacements. The purpose is to make philosophical roots audible and to supply covenantal alternatives that better fit a relational, embodied, and faithful frame.
 
 | Worldly phrase | Philosophical root | Covenantal alternative |

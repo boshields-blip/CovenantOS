@@ -1,5 +1,9 @@
 # Seasonal Liturgy — Come to the Table
 
+**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+
+---
+
 Come to the Table keeps its canonical weekly seven-movement shape:
 
 **Gather → Bless → Read → Notice → Know → Live → Bless and Send**
