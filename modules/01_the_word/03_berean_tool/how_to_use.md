@@ -1,6 +1,6 @@
 # How to Use the Berean Tool
 
-**Status:** Draft | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+**Status:** Draft | **Author:** Brandon O'Shields
 
 ---
 

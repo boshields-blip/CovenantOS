@@ -1,6 +1,6 @@
 # Language Module
 
-**Status:** Active | **Owner:** @boshields-blip | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
+**Status:** Active | **Author:** Brandon O'Shields
 
 ---
 

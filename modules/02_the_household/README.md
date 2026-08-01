@@ -1,6 +1,6 @@
 # The Household
 
-**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-07-31
+**Status:** Draft | **Author:** Brandon O'Shields
 
 ---
 
