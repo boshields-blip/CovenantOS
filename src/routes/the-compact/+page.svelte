@@ -115,9 +115,17 @@
       </div>
     {/if}
 
-    <header class="space-y-4">
-      <h1 class="font-serif-display text-4xl font-bold text-charcoal">{title}</h1>
-      <p class="max-w-3xl text-xl italic text-slate-covenant">{openingStatement}</p>
+    <header class="flex flex-col gap-6 sm:flex-row sm:items-center">
+      <img
+        src="/images/the-compact-gate-tower.png"
+        alt="A stone city gate and round water tower opening onto the commons."
+        class="w-28 shrink-0 rounded-sm border border-ochre/30 sm:w-36"
+        loading="eager"
+      />
+      <div class="space-y-4">
+        <h1 class="font-serif-display text-4xl font-bold text-charcoal">{title}</h1>
+        <p class="max-w-3xl text-xl italic text-slate-covenant">{openingStatement}</p>
+      </div>
     </header>
 
     <a

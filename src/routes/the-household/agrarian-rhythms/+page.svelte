@@ -12,5 +12,12 @@
   nextHref="/the-household/household-vs-consumer-economy"
   nextLabel="Household vs Consumer Economy"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/seasonal-wheel.png"
+      alt="The agrarian year as one turning wheel — seed, growth, harvest, and rest."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>

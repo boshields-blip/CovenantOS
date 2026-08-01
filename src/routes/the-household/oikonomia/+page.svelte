@@ -10,5 +10,12 @@
   nextHref="/the-household/household-flow-model"
   nextLabel="Household Flow Model"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/baker.png"
+      alt="Floured hands lifting a round loaf from a stone hearth oven — the craftsman's labor becoming the household's provision."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>

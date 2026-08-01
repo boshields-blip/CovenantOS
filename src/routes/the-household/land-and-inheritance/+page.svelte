@@ -12,5 +12,12 @@
   nextHref="/the-household/hebraic-word-studies"
   nextLabel="Hebraic Word Studies"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/land-and-inheritance.png"
+      alt="An old oak on a boundary line at dusk, a stone water tower rising beside a homestead — generational rootedness in a place."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>

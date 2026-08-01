@@ -12,5 +12,12 @@
   nextHref="/the-compact/peoplehood"
   nextLabel="Peoplehood"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/commons-well.png"
+      alt="Neighbors and animals gathering at a shared stone well to draw water — the well as commons."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>

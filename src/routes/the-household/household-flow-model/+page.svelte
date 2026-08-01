@@ -39,6 +39,13 @@
   nextLabel="Agrarian Rhythms"
 >
   <div class="space-y-8">
+    <figure class="lead-figure">
+      <img
+        src="/images/craftsman-hands.png"
+        alt="Weathered hands shaping wood at a workbench — the dignity of skilled, patient work."
+        loading="eager"
+      />
+    </figure>
     <div class="space-y-4">
       <p>
         Household economy is not a productivity pipeline but a covenantal cycle. Land is received as
@@ -60,6 +67,23 @@
         from land, neighbors, and inheritance, training households to buy and discard rather than to
         cultivate and bless.
       </p>
+    </div>
+
+    <div class="figure-row">
+      <figure>
+        <img
+          src="/images/potter.png"
+          alt="Hands at a potter's wheel drawing up a clay vessel — making from the ground itself."
+          loading="lazy"
+        />
+      </figure>
+      <figure>
+        <img
+          src="/images/smith.png"
+          alt="A blacksmith's hands at the anvil — patient force and repair."
+          loading="lazy"
+        />
+      </figure>
     </div>
 
     <section class="flow-model rounded-sm border border-ochre/20 bg-white/55 p-4 sm:p-6">

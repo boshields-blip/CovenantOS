@@ -156,3 +156,45 @@
   font-style: italic;
   color: #5A6B7A;
 }
+
+/* Imagery within covenant prose */
+.prose-covenant figure {
+  margin: 2rem 0;
+}
+
+.prose-covenant img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(139, 105, 20, 0.3);
+  border-radius: 4px;
+}
+
+.prose-covenant .lead-figure {
+  margin: 0 0 2.5rem;
+}
+
+.prose-covenant .inline-figure {
+  max-width: 24rem;
+  margin: 2rem auto;
+}
+
+.prose-covenant .figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.prose-covenant .figure-row figure {
+  flex: 1 1 12rem;
+  margin: 0;
+}
+
+.prose-covenant figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #5A6B7A;
+  text-align: center;
+}

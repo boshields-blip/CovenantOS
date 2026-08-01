@@ -12,5 +12,12 @@
   nextHref="/the-compact/hebraic-word-studies"
   nextLabel="Hebraic Word Studies"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/market-at-the-gate.png"
+      alt="A modest local market of wooden stalls just inside a stone gate — trade as neighbor-love."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>

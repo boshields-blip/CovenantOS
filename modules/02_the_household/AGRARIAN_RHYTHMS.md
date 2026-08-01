@@ -14,11 +14,19 @@ If you walk with soil, weather, animals, and seed long enough, your imagination 
 
 ### Spring — planting in faith
 
+<figure class="inline-figure">
+  <img src="/images/spring-planting.png" alt="Hands casting seed onto freshly turned Piedmont clay at dawn — planting in faith." loading="lazy" />
+</figure>
+
 In spring, you place seed in ground you cannot control. You cannot see harvest yet. This is the season of trust and promise.
 
 Formation disposition: hopeful dependence.
 
 ### Summer — tending in faithfulness
+
+<figure class="inline-figure">
+  <img src="/images/summer-tending.png" alt="A figure kneeling to set a rail into a split-rail fence beside summer pasture — tending in faithfulness." loading="lazy" />
+</figure>
 
 Summer growth is often hidden and incremental. Weeding, watering, watching pasture, mending fences — much of it feels repetitive. This is the season of patient obedience.
 
@@ -26,11 +34,19 @@ Formation disposition: steady faithfulness.
 
 ### Fall — harvesting with gratitude
 
+<figure class="inline-figure">
+  <img src="/images/fall-harvest.png" alt="Bound sheaves and baskets in a stubble field at golden hour, corners left for gleaners — harvesting with gratitude." loading="lazy" />
+</figure>
+
 Fall gathers what was given through a season of labor and mercy. Abundance is received, not self-generated. This is the season of thankfulness and generosity.
 
 Formation disposition: grateful sharing.
 
 ### Winter — resting and mending
+
+<figure class="inline-figure">
+  <img src="/images/winter-mending.png" alt="A quiet winter workshop, tools hung in order and seed saved in jars — resting and mending." loading="lazy" />
+</figure>
 
 Winter slows visible growth. Soil rests. Tools are repaired. Plans are reconsidered. This is the season of remembrance, preparation, and trust in what is unseen.
 

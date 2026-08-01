@@ -24,6 +24,14 @@
       </p>
     </header>
 
+    <figure class="lead-figure">
+      <img
+        src="/images/tool-wall.png"
+        alt="A craftsman's wall of well-kept hand tools hung in order — an image of shamar, keeping what is entrusted."
+        loading="eager"
+      />
+    </figure>
+
     <div class="space-y-5">
       {#each wordStudies as wordStudy}
         <HebrewWordCard

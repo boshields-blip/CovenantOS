@@ -12,5 +12,12 @@
   nextHref="/the-household/land-and-inheritance"
   nextLabel="Land and Inheritance"
 >
+  <figure class="lead-figure">
+    <img
+      src="/images/gleaning.png"
+      alt="A gleaner gathering grain left at the edge of a harvested field — ownership bounded by mercy."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>
