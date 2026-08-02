@@ -8,8 +8,8 @@
   title="Land and Inheritance"
   module="The Household"
   moduleHref="/the-household"
-  prevHref="/the-household/household-vs-consumer-economy"
-  prevLabel="Household vs Consumer Economy"
+  prevHref="/the-household/the-ordered-household"
+  prevLabel="The Ordered Household"
   nextHref="/the-household/hebraic-word-studies"
   nextLabel="Hebraic Word Studies"
 >

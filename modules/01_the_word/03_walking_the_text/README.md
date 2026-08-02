@@ -18,11 +18,15 @@ Walking the text slows that reflex. Before you ask "what does this mean to me," 
 
 ## What this movement gives you
 
-Two things, in order:
+Four things, in order:
 
 1. **[Reading in Context](/the-word/walking-the-text/reading-in-context)** — the handful of questions that reconstruct a passage's world: its genre, its audience, its occasion, the world it assumes, and where it stands in the covenant story.
 
 2. **[The Walk](/the-word/walking-the-text/the-walk)** — a simple, repeatable practice for reading any passage as the first hearers would, with a worked example so you can see it done before you try it yourself.
+
+3. **[To See](/the-word/walking-the-text/to-see)** — the keystone: the same discipline of reading-in-context, extended from texts to persons and to God. One grammar of humble reception; one failure, projection, underneath misreading all three.
+
+4. **[The Two and the One](/the-word/walking-the-text/the-two-and-the-one)** — the hardest case of seeing: male and female. The dyadic image, the polarization named and refused, and domination named as the enemy of sight.
 
 ## The posture
 

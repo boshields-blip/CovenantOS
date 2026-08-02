@@ -11,8 +11,8 @@
   title="Hebraic Word Studies"
   module="The Compact"
   moduleHref="/the-compact"
-  prevHref="/the-compact/local-market-and-social-fabric"
-  prevLabel="Local Market and Social Fabric"
+  prevHref="/the-compact/seeing-the-neighbor"
+  prevLabel="Seeing the Neighbor"
   nextHref="/the-compact/formation-questions"
   nextLabel="Compact Builder"
 >

@@ -72,3 +72,14 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-compact/local-market-and-social-fabric` | `modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md` | Local Market and Social Fabric | content-page | Local trade and social fabric page. |
 | `/the-compact/hebraic-word-studies` | `modules/03_the_compact/HEBRAIC_WORD_STUDIES.md` | Hebraic Word Studies | content-page | Word-study page using inline Hebrew word cards. |
 | `/the-compact/formation-questions` | `modules/03_the_compact/FORMATION_QUESTIONS.md` | Compact Builder | tool | Local-only reflection and print/export tool whose copy is authored in the capstone formation questions and consumed through the structured mirror at `content/data/compact_builder.json`. |
+
+
+## Addendum — the seeing arc (2026-08-01)
+
+| Route | Content Source File | Nav Label | Route Type |
+|---|---|---|---|
+| `/the-word/walking-the-text/to-see` | `modules/01_the_word/03_walking_the_text/TO_SEE.md` | To See | content-page |
+| `/the-word/walking-the-text/the-two-and-the-one` | `modules/01_the_word/03_walking_the_text/THE_TWO_AND_THE_ONE.md` | The Two and the One | content-page |
+| `/the-household/the-household-hollowed` | `modules/02_the_household/THE_HOUSEHOLD_HOLLOWED.md` | The Household Hollowed | content-page |
+| `/the-household/the-ordered-household` | `modules/02_the_household/THE_ORDERED_HOUSEHOLD.md` | The Ordered Household | content-page |
+| `/the-compact/seeing-the-neighbor` | `modules/03_the_compact/SEEING_THE_NEIGHBOR.md` | Seeing the Neighbor | content-page |

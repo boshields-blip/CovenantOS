@@ -46,12 +46,18 @@
     },
     {
       number: '06',
+      title: 'Seeing the Neighbor',
+      description: 'The public form of the covenant discipline of sight: beholding the neighbor, the stranger, and the poor as they are.',
+      href: withBase('/the-compact/seeing-the-neighbor')
+    },
+    {
+      number: '07',
       title: 'Hebraic Word Studies',
       description: 'Return often to the word-study practice as a repeatable formation tool for public life.',
       href: withBase('/the-compact/hebraic-word-studies')
     },
     {
-      number: '07',
+      number: '08',
       title: 'Compact Builder',
       description: 'Close with the capstone formation questions that gather the work of all three modules.',
       href: withBase('/the-compact/formation-questions')

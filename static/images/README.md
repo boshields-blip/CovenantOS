@@ -14,6 +14,17 @@ renders; only that image slot is empty.
 | `the-household-table.png` | The Household emblem + homepage card | 1:1 |
 | `the-compact-gate-tower.png` | The Compact emblem + homepage card | 1:1 |
 
+## The Word movements
+
+| Filename | Placement | Aspect |
+|---|---|---|
+| `the-land-of-the-text.png` | The Word → The Land of the Text | 3:2 |
+| `the-language-of-the-land.png` | The Word → The Language of the Land | 3:2 |
+| `walking-the-text.png` | The Word → Walking the Text | 3:2 |
+| `knowing-your-own-way.png` | The Word → Knowing Your Own Way | 3:2 |
+| `the-streams-of-the-traditions.png` | The Word → The Streams of the Traditions | 3:2 |
+| `living-the-covenant.png` | The Word → Living the Covenant | 3:2 |
+
 ## Agrarian & seasonal
 
 | Filename | Placement | Aspect |

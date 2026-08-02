@@ -40,12 +40,24 @@
     },
     {
       number: '05',
+      title: 'The Household Hollowed',
+      description: 'Name the industrial demolition that displaced both men and women from a shared, productive home.',
+      href: withBase('/the-household/the-household-hollowed')
+    },
+    {
+      number: '06',
+      title: 'The Ordered Household',
+      description: 'Walk toward the recovered vision: presence, mutual honor, shared vocation, and authority that serves.',
+      href: withBase('/the-household/the-ordered-household')
+    },
+    {
+      number: '07',
       title: 'Land and Inheritance',
       description: 'Anchor household life in inheritance, responsibility, and covenantal continuity across generations.',
       href: withBase('/the-household/land-and-inheritance')
     },
     {
-      number: '06',
+      number: '08',
       title: 'Hebraic Word Studies',
       description: 'Use the word-study practice as a repeatable formation tool for household life.',
       href: withBase('/the-household/hebraic-word-studies')

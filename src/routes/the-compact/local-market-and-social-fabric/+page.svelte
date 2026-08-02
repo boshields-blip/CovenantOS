@@ -10,8 +10,8 @@
   moduleHref="/the-compact"
   prevHref="/the-compact/peoplehood"
   prevLabel="Peoplehood"
-  nextHref="/the-compact/hebraic-word-studies"
-  nextLabel="Hebraic Word Studies"
+  nextHref="/the-compact/seeing-the-neighbor"
+  nextLabel="Seeing the Neighbor"
 >
   <figure class="lead-figure">
     <img

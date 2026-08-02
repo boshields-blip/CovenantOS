@@ -51,6 +51,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://covenantos.example.com/the-compact/seeing-the-neighbor</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://covenantos.example.com/the-compact/subsidiarity</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,6 +87,16 @@
   </url>
   <url>
     <loc>https://covenantos.example.com/the-household/oikonomia</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://covenantos.example.com/the-household/the-household-hollowed</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://covenantos.example.com/the-household/the-ordered-household</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -201,7 +216,17 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://covenantos.example.com/the-word/walking-the-text/the-two-and-the-one</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://covenantos.example.com/the-word/walking-the-text/the-walk</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://covenantos.example.com/the-word/walking-the-text/to-see</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>

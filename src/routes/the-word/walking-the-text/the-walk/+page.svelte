@@ -9,8 +9,8 @@
   moduleHref="/the-word"
   prevHref="/the-word/walking-the-text/reading-in-context"
   prevLabel="Reading in Context"
-  nextHref="/the-word/knowing-your-own-way"
-  nextLabel="Knowing Your Own Way"
+  nextHref="/the-word/walking-the-text/to-see"
+  nextLabel="To See"
 >
   <Content />
 </ContentLayout>

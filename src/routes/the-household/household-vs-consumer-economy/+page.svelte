@@ -10,8 +10,8 @@
   moduleHref="/the-household"
   prevHref="/the-household/agrarian-rhythms"
   prevLabel="Agrarian Rhythms"
-  nextHref="/the-household/land-and-inheritance"
-  nextLabel="Land and Inheritance"
+  nextHref="/the-household/the-household-hollowed"
+  nextLabel="The Household Hollowed"
 >
   <figure class="lead-figure">
     <img
