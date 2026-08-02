@@ -21,35 +21,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          flutter-version: '3.32.0'
-          channel: stable
-          cache: true
-
-      - name: Enable Flutter web
-        run: flutter config --enable-web
+          node-version: 20
+          cache: npm
 
       - name: Install dependencies
-        run: flutter pub get
+        run: npm ci
 
-      - name: Analyze
-        run: flutter analyze --no-fatal-infos
-
-      - name: Run tests
-        run: flutter test
-
-      - name: Build web
-        run: flutter build web --release --base-href "/CovenantOS/"
+      - name: Build site
+        run: npm run build
+        env:
+          BASE_PATH: /CovenantOS
 
       - name: Add .nojekyll
-        run: touch build/web/.nojekyll
+        run: touch build/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build/web
+          path: build
 
   deploy:
     needs: build

@@ -1,9 +1,11 @@
 <script>
+  import { withBase } from '$lib/paths';
+
   export let activeHref = '';
 
   const links = [
-    { href: '/the-word/living-the-covenant/come-to-the-table', label: 'Come to the Table' },
-    { href: '/the-word/living-the-covenant/harvest-and-hymn', label: 'Harvest & Hymn' }
+    { href: withBase('/the-word/living-the-covenant/come-to-the-table'), label: 'Come to the Table' },
+    { href: withBase('/the-word/living-the-covenant/harvest-and-hymn'), label: 'Harvest & Hymn' }
   ];
 
   function linkClasses(href) {
@@ -17,7 +19,7 @@
   {#each links as link}
     <a
       href={link.href}
-      aria-current={activeHref === link.href ? 'page' : undefined}
+      aria-current={withBase(activeHref) === link.href ? 'page' : undefined}
       class={`rounded-full border px-4 py-2 text-sm font-semibold no-underline transition-colors duration-300 ${linkClasses(link.href)}`}
     >
       {link.label}

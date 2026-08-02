@@ -8,7 +8,7 @@
 
 ## What this file is
 
-This file describes how and when to bring the Berean Tool ([modules/01_the_word/03_berean_tool/](/the-word/the-streams-of-the-traditions)) to the family table as part of Come to the Table. The Berean Tool is an occasional, structured practice within the weekly table rhythm — not the center of it.
+This file describes how and when to bring the Berean Tool ([The Streams of the Traditions](/the-word/the-streams-of-the-traditions)) to the family table as part of Come to the Table. The Berean Tool is an occasional, structured practice within the weekly table rhythm — not the center of it.
 
 This is an important file. Read it before introducing the Berean Tool at the table.
 
@@ -50,7 +50,7 @@ The Berean Tool at the table is occasional — perhaps once a month, perhaps les
 
 ## How to use it at the table
 
-The Berean Tool at the table is a simplified version of the full tool described in [03_berean_tool/how_to_use.md](/the-word/the-streams-of-the-traditions). The table version does not produce a full profile. It simply uses the tool's posture and a few of its core questions.
+The Berean Tool at the table is a simplified version of the full tool described in [The Streams of the Traditions](/the-word/the-streams-of-the-traditions). The table version does not produce a full profile. It simply uses the tool's posture and a few of its core questions.
 
 **A simple table structure:**
 

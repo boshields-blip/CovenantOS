@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../modules/02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md';
 </script>
 
@@ -14,7 +15,7 @@
 >
   <figure class="lead-figure">
     <img
-      src="/images/gleaning.png"
+      src={withBase("/images/gleaning.png")}
       alt="A gleaner gathering grain left at the edge of a harvested field — ownership bounded by mercy."
       loading="eager"
     />

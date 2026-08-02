@@ -4,31 +4,31 @@
 
 ---
 
-> A markdown-first content tree for The Word's five-pathway formation architecture.
+> A markdown-first content tree for The Word's six-movement formation architecture.
 
-This directory gathers The Word's pathway content: foundational principles, diagnostic structures, Berean material, language formation, and embodied practices. This content is markdown-first and lives inside the active module structure; the broader repository boundaries are described in the architecture docs.
+This directory gathers The Word's content: the world of the text, its language, the practice of reading it in context, the self-examination it provokes, the traditions that have shaped readers, and the embodied practices that carry it into life.
 
 ## What lives here
 
-The Word is organized into five integrated pathways:
+The Word is organized into six movements:
 
-1. **The Governing Frame** — the covenantal philosophy that supplies the governing frame
-2. **Diagnostic Engine** — a seven-category engine for examining rival philosophies and distortions
-3. **Berean Tool** — a teacher/pastor diagnostic that applies the engine to real-world influences
-4. **Language Module** — the bridge that exposes how language carries philosophy and reshapes imagination
-5. **Formation Layer** — the re-formation pathway that turns diagnosis into embodied renewal
+1. **The Land of the Text** — the world, story, and first principles the Bible assumes
+2. **The Language of the Land** — the Hebraic vocabulary and imagination the text trains
+3. **Walking the Text** — reading passages in context and learning to walk through scripture rather than skim it
+4. **Knowing Your Own Way** — guided self-examination of the assumptions and currents that shape the reader
+5. **The Streams of the Traditions** — weighing the gifts and blind spots of Christian traditions
+6. **Living the Covenant** — the re-formation pathway and embodied household/community practices
 
 ## How to navigate this content tree
 
 - Start with [INTRODUCTION.md](/the-word/introduction) for the recommended first read — what The Word is, why it exists, and how to use it.
-- See [docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md) for the big-picture technical map, ownership boundaries, and layer rules.
-- Read the governing frame in [01_foundational_layer/covenantal_philosophy.md](/the-word/the-land-of-the-text).
-- Explore the engine in [02_diagnostic_engine/README.md](/the-word/knowing-your-own-way).
-- See the teacher-facing application in [03_berean_tool/README.md](/the-word/the-streams-of-the-traditions).
-- Follow the bridge from diagnosis to imagination in [04_language_module/README.md](/the-word/the-language-of-the-land).
-- Note the next-step formation loop in [06_living_the_covenant/reformation_pathway.md](/the-word/living-the-covenant/reformation-pathway).
-- Start the first concrete formation practice at [06_living_the_covenant/come_to_the_table/README.md](/the-word/living-the-covenant/come-to-the-table).
-- Follow the quarterly community expression at [06_living_the_covenant/harvest_and_hymn/README.md](/the-word/living-the-covenant/harvest-and-hymn).
+- See [docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md) for the big-picture repository map and module boundaries.
+- Enter the frame through [The Land of the Text](/the-word/the-land-of-the-text).
+- Learn the vocabulary in [The Language of the Land](/the-word/the-language-of-the-land).
+- Practice contextual reading in [Walking the Text](/the-word/walking-the-text).
+- Use [Knowing Your Own Way](/the-word/knowing-your-own-way) to surface the assumptions you carry into the text.
+- Weigh inherited strengths and blind spots in [The Streams of the Traditions](/the-word/the-streams-of-the-traditions).
+- Follow the hinge from insight to embodiment in [the Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway), then continue into [Come to the Table](/the-word/living-the-covenant/come-to-the-table) and [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn).
 
 ## Intended posture
 
@@ -40,10 +40,11 @@ This content tree assumes a tone that is truthful, gentle, precise, and covenant
 modules/01_the_word/
 ├── README.md
 ├── INTRODUCTION.md
-├── 01_foundational_layer/
-├── 02_diagnostic_engine/
-├── 03_berean_tool/
-├── 04_language_module/
+├── 01_the_land_of_the_text/
+├── 02_the_language_of_the_land/
+├── 03_walking_the_text/
+├── 04_knowing_your_own_way/
+├── 05_the_streams_of_the_traditions/
 └── 06_living_the_covenant/
     ├── come_to_the_table/    ← weekly household table practice
     └── harvest_and_hymn/     ← quarterly seasonal community gathering
@@ -51,4 +52,4 @@ modules/01_the_word/
 
 ## What this content tree is for
 
-This tree preserves The Word's core formation content in a form that can continue to guide the module. It gives the product a canonical vocabulary, consistent category order, draft schemas, and a navigable documentation structure that remains independent from PlumbLineOS and CommunityOS operational concerns.
+This tree preserves The Word's core formation content in a form that can continue to guide the module. It gives the product a canonical vocabulary, consistent sequence, structured reflection data, and a navigable documentation structure that remains independent from PlumbLineOS and CommunityOS operational concerns.

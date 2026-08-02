@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../modules/03_the_compact/LOCAL_MARKET_AND_SOCIAL_FABRIC.md';
 </script>
 
@@ -14,7 +15,7 @@
 >
   <figure class="lead-figure">
     <img
-      src="/images/market-at-the-gate.png"
+      src={withBase("/images/market-at-the-gate.png")}
       alt="A modest local market of wooden stalls just inside a stone gate — trade as neighbor-love."
       loading="eager"
     />

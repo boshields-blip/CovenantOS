@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { withBase } from '$lib/paths';
 
   const title = 'The Compact';
   const openingStatement =
@@ -9,7 +10,7 @@
     label: 'Suggested starting place →',
     title: 'Covenant vs Contract',
     description: 'Begin with the fault line that makes the rest of the module intelligible.',
-    href: '/the-compact/covenant-vs-contract'
+    href: withBase('/the-compact/covenant-vs-contract')
   };
 
   const stones = [
@@ -17,43 +18,43 @@
       number: '01',
       title: 'Covenant vs Contract',
       description: 'Begin with the foundational distinction between shared obligation and negotiated self-interest.',
-      href: '/the-compact/covenant-vs-contract'
+      href: withBase('/the-compact/covenant-vs-contract')
     },
     {
       number: '02',
       title: 'Subsidiarity',
       description: 'Trace how authority is rightly ordered from household outward into public life.',
-      href: '/the-compact/subsidiarity'
+      href: withBase('/the-compact/subsidiarity')
     },
     {
       number: '03',
       title: 'Commons and Shared Life',
       description: 'See how shared spaces and obligations make a community more than a collection of households.',
-      href: '/the-compact/commons-and-shared-life'
+      href: withBase('/the-compact/commons-and-shared-life')
     },
     {
       number: '04',
       title: 'Peoplehood',
       description: 'Ask what it means to belong to a people rather than a market segment or political tribe.',
-      href: '/the-compact/peoplehood'
+      href: withBase('/the-compact/peoplehood')
     },
     {
       number: '05',
       title: 'Local Market and Social Fabric',
       description: 'Explore how trade, rightly ordered, can build rather than dissolve community.',
-      href: '/the-compact/local-market-and-social-fabric'
+      href: withBase('/the-compact/local-market-and-social-fabric')
     },
     {
       number: '06',
       title: 'Hebraic Word Studies',
       description: 'Return often to the word-study practice as a repeatable formation tool for public life.',
-      href: '/the-compact/hebraic-word-studies'
+      href: withBase('/the-compact/hebraic-word-studies')
     },
     {
       number: '07',
       title: 'Compact Builder',
       description: 'Close with the capstone formation questions that gather the work of all three modules.',
-      href: '/the-compact/formation-questions'
+      href: withBase('/the-compact/formation-questions')
     }
   ];
 
@@ -76,7 +77,7 @@
 <div class="min-h-screen bg-parchment px-6 py-8 text-charcoal sm:px-8 lg:px-12">
   <div class="mx-auto flex w-full max-w-4xl flex-col gap-8">
     <a
-      href="/"
+      href={withBase("/")}
       class="w-fit text-sm text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
     >
       ← CovenantOS
@@ -91,13 +92,13 @@
             </p>
             <div class="flex flex-wrap gap-4">
               <a
-                href="/the-word"
+                href={withBase("/the-word")}
                 class="inline-flex text-sm font-semibold text-sage no-underline transition-colors duration-300 hover:text-charcoal"
               >
                 Visit The Word →
               </a>
               <a
-                href="/the-household"
+                href={withBase("/the-household")}
                 class="inline-flex text-sm font-semibold text-sage no-underline transition-colors duration-300 hover:text-charcoal"
               >
                 Visit The Household →
@@ -117,7 +118,7 @@
 
     <header class="flex flex-col gap-6 sm:flex-row sm:items-center">
       <img
-        src="/images/the-compact-gate-tower.png"
+        src={withBase("/images/the-compact-gate-tower.png")}
         alt="A stone city gate and round water tower opening onto the commons."
         class="w-28 shrink-0 rounded-sm border border-ochre/30 sm:w-36"
         loading="eager"

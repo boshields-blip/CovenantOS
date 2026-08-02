@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../modules/02_the_household/LAND_AND_INHERITANCE.md';
 </script>
 
@@ -14,7 +15,7 @@
 >
   <figure class="lead-figure">
     <img
-      src="/images/land-and-inheritance.png"
+      src={withBase("/images/land-and-inheritance.png")}
       alt="An old oak on a boundary line at dusk, a stone water tower rising beside a homestead — generational rootedness in a place."
       loading="eager"
     />

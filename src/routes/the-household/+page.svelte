@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { withBase } from '$lib/paths';
 
   const title = 'The Household';
   const openingStatement =
@@ -9,7 +10,7 @@
     label: 'Suggested starting place →',
     title: 'Oikonomia',
     description: 'Start with the recovery of household stewardship as the center of covenantal economic life.',
-    href: '/the-household/oikonomia'
+    href: withBase('/the-household/oikonomia')
   };
 
   const stones = [
@@ -17,37 +18,37 @@
       number: '01',
       title: 'Oikonomia',
       description: 'Recover household stewardship as the center of life rather than impersonal market theory.',
-      href: '/the-household/oikonomia'
+      href: withBase('/the-household/oikonomia')
     },
     {
       number: '02',
       title: 'Household Flow Model',
       description: 'See how labor, provision, inheritance, and hospitality move through a rightly ordered household.',
-      href: '/the-household/household-flow-model'
+      href: withBase('/the-household/household-flow-model')
     },
     {
       number: '03',
       title: 'Agrarian Rhythms',
       description: 'Read the household through land, season, and the embodied rhythms that teach stewardship.',
-      href: '/the-household/agrarian-rhythms'
+      href: withBase('/the-household/agrarian-rhythms')
     },
     {
       number: '04',
       title: 'Household vs Consumer Economy',
       description: 'Name the inversion that made the marketplace central and the household optional.',
-      href: '/the-household/household-vs-consumer-economy'
+      href: withBase('/the-household/household-vs-consumer-economy')
     },
     {
       number: '05',
       title: 'Land and Inheritance',
       description: 'Anchor household life in inheritance, responsibility, and covenantal continuity across generations.',
-      href: '/the-household/land-and-inheritance'
+      href: withBase('/the-household/land-and-inheritance')
     },
     {
       number: '06',
       title: 'Hebraic Word Studies',
       description: 'Use the word-study practice as a repeatable formation tool for household life.',
-      href: '/the-household/hebraic-word-studies'
+      href: withBase('/the-household/hebraic-word-studies')
     }
   ];
 
@@ -70,7 +71,7 @@
 <div class="min-h-screen bg-parchment px-6 py-8 text-charcoal sm:px-8 lg:px-12">
   <div class="mx-auto flex w-full max-w-4xl flex-col gap-8">
     <a
-      href="/"
+      href={withBase("/")}
       class="w-fit text-sm text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
     >
       ← CovenantOS
@@ -82,7 +83,7 @@
           <div class="space-y-2 text-sm text-charcoal sm:text-base">
             <p>The Word forms the foundation. Walking The Word first will make everything here more legible.</p>
             <a
-              href="/the-word"
+              href={withBase("/the-word")}
               class="inline-flex text-sm font-semibold text-sage no-underline transition-colors duration-300 hover:text-charcoal"
             >
               Walk The Word first →
@@ -101,7 +102,7 @@
 
     <header class="flex flex-col gap-6 sm:flex-row sm:items-center">
       <img
-        src="/images/the-household-table.png"
+        src={withBase("/images/the-household-table.png")}
         alt="A covenant household table set beneath the hearth and vine."
         class="w-28 shrink-0 rounded-sm border border-ochre/30 sm:w-36"
         loading="eager"

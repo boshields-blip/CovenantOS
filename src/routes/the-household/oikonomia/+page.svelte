@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../modules/02_the_household/OIKONOMIA.md';
 </script>
 
@@ -12,7 +13,7 @@
 >
   <figure class="lead-figure">
     <img
-      src="/images/baker.png"
+      src={withBase("/images/baker.png")}
       alt="Floured hands lifting a round loaf from a stone hearth oven — the craftsman's labor becoming the household's provision."
       loading="eager"
     />
