@@ -8,7 +8,7 @@ These questions are not a quiz. They are an invitation to walk. Formation is not
 
 Use these questions slowly — one section at a sitting, with a household or a small group that meets regularly. Let silence be productive. Where a question surfaces resistance or difficulty, stay there rather than moving on.
 
-The interactive Compact Builder at `/the-compact/formation-questions` uses the structured mirror in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). Keep the questions in sync if either source is edited.
+*Note: The interactive Compact Builder at `/the-compact/formation-questions` uses the structured question data in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). The questions in this document and the JSON are intended to stay in sync. If you edit one, update the other.*
 
 This capstone document draws from all three CovenantOS modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
 
@@ -86,7 +86,7 @@ The Compact is where household formation meets public obligation. These question
 
 - What story does your community tell about itself? Is it a consumer market — a place people chose for cost and convenience and will leave when the calculus changes? An ideological tribe — a group defined by shared opposition and mutual reinforcement? Or a covenant people — a community with shared memory, shared obligation, shared land, and a shared future before God?
 
-What would have to change for the last answer to be more true?
+- **Follow-through question:** What would have to change for the last answer to be more true?
 
 ---
 

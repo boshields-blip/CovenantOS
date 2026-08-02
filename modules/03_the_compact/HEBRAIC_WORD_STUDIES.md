@@ -12,6 +12,12 @@ Use these studies as formation tools, not only lexical notes. Read the texts slo
 - **Key references:** Genesis 9:8–17 (covenant with Noah); Genesis 15:9–18 (the covenant of the pieces with Abraham — where God alone passes between the animals); Jeremiah 31:31–34 (the New Covenant promise).
 - **Formation implication:** Every relationship you hold — in marriage, in congregation, in neighborhood, in market — can be held either covenantally or contractually. *Berith* calls the community to ask: what are we actually sworn to? Where have we accepted obligations that go beyond self-interest? Where are we still treating covenant relationships as contracts, breakable when the terms no longer suit us?
 
+## חֶסֶד (*hesed*) — covenant love, lovingkindness, loyal love
+
+- **Root meaning and range:** Steadfast love, covenant loyalty, lovingkindness — the affective and relational quality inside a covenant bond. Appears approximately 245 times in the Hebrew Bible. *Hesed* is not merely emotion; it is faithfulness expressed in action toward the one to whom you are bound. It is love with memory, loyalty with tenderness, obligation carried gladly rather than coldly.
+- **Key references:** Micah 6:8 ("love *hesed*"); Hosea 2:19–20 (YHWH betroths Israel in *hesed*); Ruth 1:8 (Naomi blesses Ruth and Orpah for their *hesed* to the dead and to her); Ruth 2:20 (Boaz's *hesed* to the living and the dead); Psalm 136 (the great litany of *hesed* — "for his steadfast love endures forever"); Lamentations 3:22–23 ("the steadfast loves of YHWH never cease").
+- **Formation implication:** *Hesed* asks whether your covenant obligations — to spouse, household, congregation, neighbor — are held with loyal love or merely with contractual compliance. You can keep the letter of an obligation while withholding *hesed*. The covenant imagination requires both the bond of *berith* and the living warmth of *hesed* within it.
+
 ## עַם (*am*) — people, nation, kindred
 
 - **Root meaning and range:** People, nation, kindred, community — always specific, always relational, always embodied. Appears approximately 1,800 times in the Hebrew Bible, making it the most frequent word for "people" in the entire text. *Am YHWH* ("the people of YHWH") designates a specific community with specific obligations, specific practices, a specific land, and a specific history and future. The word is never abstract: there is no generic "humanity" in this term; there is always *this* people, *these* families, *this* place.
