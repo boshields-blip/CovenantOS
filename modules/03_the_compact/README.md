@@ -57,6 +57,7 @@ modules/03_the_compact/
 ├── PEOPLEHOOD.md
 ├── LOCAL_MARKET_AND_SOCIAL_FABRIC.md
 ├── HEBRAIC_WORD_STUDIES.md
+├── SEEING_THE_NEIGHBOR.md
 └── FORMATION_QUESTIONS.md
 ```
 
@@ -70,4 +71,5 @@ A suggested path:
 4. Work through [PEOPLEHOOD.md](/the-compact/peoplehood) — what it means to belong to a people, not merely a market segment or a political tribe
 5. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric) — how trade, rightly ordered, builds rather than dissolves community
 6. Use [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) as a repeatable formation tool, returning to it often
-7. Close with [FORMATION_QUESTIONS.md](/the-compact/formation-questions) — the capstone questions across all three CovenantOS modules
+7. Read [SEEING_THE_NEIGHBOR.md](/the-compact/seeing-the-neighbor) — the capstone that draws the full arc together: from seeing the text, to seeing yourself, to seeing your household, to seeing your neighbor as the whole grammar of CovenantOS
+8. Close with [FORMATION_QUESTIONS.md](/the-compact/formation-questions) — the formal capstone questions across all three CovenantOS modules

@@ -97,6 +97,18 @@ Peoplehood is not designed; it is grown. The conditions that allow it to take ro
 
 In the Piedmont of South Carolina, the material conditions for this are present: land, season, local markets, congregations, a culture that still honors place and family and the names of neighbors. What is needed is the covenantal imagination to see what is there and the covenantal will to walk into it.
 
+## Starting from scatteredness
+
+Many readers come to this document as mobile, uprooted people who have never experienced *am* in the covenantal sense — people who have moved multiple times, who belong to no particular place, and for whom the language of "staying long enough to be known" sounds like a rebuke rather than an invitation.
+
+Most Western readers come to this material from **fragmentation**, not from rootedness. Mobility, divorce, career relocation, digital displacement — these are the waters many people now swim in. To name the goodness of rooted peoplehood is not to pretend that most households already have it. It is to tell the truth about what has been lost.
+
+That fragmentation is not a disqualifier. Ruth was not rooted. She was a Moabite widow in a foreign land. Yet she becomes one of the great emblems of *am* in the Hebrew Bible precisely because she chose to be bound — to a people, to a place, and to the God of that people. The covenantal path often begins not in inherited stability but in a faithful act of attachment.
+
+You do not begin with **peoplehood**. You begin with one neighbor, one congregation, one market, one commitment to stay. Peoplehood is what grows when enough households make that choice in the same place over enough time. What feels small at first is often the seed of everything that follows.
+
+This is a long project. It is not achieved in a season. But it is begun in a decision: to stop imagining that rootedness will appear later on its own, and to start practicing covenantal presence where you actually are.
+
 ## Connection to The Word and The Household
 
 The Word forms the imagination of a people — giving them the story, the language, the frame, and the practices that shape a community's inner life. See the full formation pathway in [modules/01_the_word/README.md](/the-word).

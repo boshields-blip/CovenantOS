@@ -14,9 +14,7 @@ The Hebrew Bible is not suspicious of commerce. It is suspicious of commerce tha
 
 The repeated commands around honest weights and measures — *"You shall not have in your bag two kinds of weights, a large and a small"* (Deuteronomy 25:13); *"A false balance is an abomination to YHWH, but a just weight is his delight"* (Proverbs 11:1); *"You shall do no wrong in judgment, in measures of length or weight or quantity. You shall have just balances, just weights"* (Leviticus 19:35–36) — are not merely commercial regulations. They are covenant obligations. The market is a moral place. To trade honestly is to act covenantally with your neighbor. To use false weights is to treat your neighbor as a mark rather than as an image-bearer.
 
-<figure class="inline-figure">
-  <img src="/images/honest-weights.png" alt="Antique brass balance scales in equilibrium with iron weights and a measure of grain — just weights and true measures." loading="lazy" />
-</figure>
+The honest merchant's balance — iron weights, level scales, the measure of grain that neither cheats the buyer nor robs the seller — is one of the most concrete images of neighbor-love in the entire Torah.
 
 Trade at its best is a form of mutual provision. The household's productive surplus — its extra harvest, its skilled labor, its craft — becomes provision for other households. The local market is where those surpluses meet. This is not the invisible hand of the market; it is the visible hand of neighbors exchanging what they have made.
 
@@ -59,7 +57,7 @@ The small business owner who lives in the community, employs neighbors, sources 
 
 A corporation is a contractual actor. It has legal obligations to its shareholders, regulatory obligations to the state, and contractual obligations to its employees and vendors. It has no covenantal obligations to the community in which it operates.
 
-A small business owner who is embedded in the community is a covenantal actor. They cannot exernalize costs onto the neighborhood without bearing the consequences in reputation, relationship, and reciprocal obligation. They know their employees' families. They source from neighbors when they can. They sponsor the local baseball team not because the marketing ROI demands it, but because they live here and the community's health is their health.
+A small business owner who is embedded in the community is a covenantal actor. They cannot externalize costs onto the neighborhood without bearing the consequences in reputation, relationship, and reciprocal obligation. They know their employees' families. They source from neighbors when they can. They sponsor the local baseball team not because the marketing ROI demands it, but because they live here and the community's health is their health.
 
 In the Piedmont of South Carolina, this is not a lost ideal. Small farms, skilled tradespeople, local food producers, and local craftspeople are the backbone of the communities that have held together — and the emerging backbone of the communities being rebuilt. Supporting them is not merely an economic preference; it is a covenantal act.
 

@@ -89,6 +89,16 @@ Subsidiarity also does not mean that communities close in on themselves and igno
 
 As your community walks in this, the question is not: *how do we become independent of everyone else?* The question is: *what decisions belong here, among us, in this place — and what would it cost us to take them back?*
 
+## The civil state as bounded authority
+
+The **civil state** is a legitimate and necessary level of authority. It is not the enemy of subsidiary order; rightly ordered, it can be one of its protectors. Romans 13 does not describe governing authority as imaginary or inherently illicit. The magistrate is named there as God's servant for good, and the sword is treated as real and legitimate. The Mosaic pattern says the same in a different key: Moses himself exercises civil-level authority, and the covenant law establishes forms of public justice that no single household or village could hold alone.
+
+There are things the civil state does that no lower level can do by itself. It protects the covenant community against violence. It upholds wide-scale justice across communities that do not share immediate ties of kinship or congregation. It defends the weak against the powerful where the local community is too compromised, fearful, or partial to act rightly on its own. A covenantal political imagination should be able to say this without embarrassment.
+
+The failure comes in both directions. When the state absorbs what belongs below it — household formation, neighborly care, the ordinary governance of local life — it becomes the modern administrative state and hollows out the competence of the people. But when communities refuse legitimate civil authority altogether, they do not become free; they become islands of private power, where the strong answer only to themselves and the vulnerable have nowhere to appeal beyond the local circle that failed them.
+
+The question, then, is not whether to have a civil state but whether the civil state does what belongs to it — and no more.
+
 ## See also
 
 - [Covenant vs. Contract](/the-compact/covenant-vs-contract) — the philosophical foundation from which subsidiarity flows
