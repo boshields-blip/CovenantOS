@@ -1,6 +1,6 @@
 # Architecture
 
-**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-07-31
+**Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-08-02
 
 ---
 
@@ -8,7 +8,7 @@
 
 CovenantOS 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
 
-The target architecture has no backend, no accounts, no forum, no memberships, no transactional logic, and no Supabase runtime dependency. Existing Flutter code, legacy content locations, and migration artifacts remain in this repository only as transitional assets until the new content structure is fully established.
+The target architecture has no backend, no accounts, no forum, no memberships, no transactional logic, and no Supabase runtime dependency. Historical migration and audit material is preserved only under `archive/`.
 
 ---
 
@@ -16,14 +16,14 @@ The target architecture has no backend, no accounts, no forum, no memberships, n
 
 ### Module 1 — The Word
 
-The Word is the Hebraic thinking environment for CovenantOS. It absorbs the existing 5-layer philosophy and study tools: the Foundational Layer, Diagnostic Engine, Berean Tool, Language Module, and Formation Layer. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
+The Word is the Hebraic thinking environment for CovenantOS. It absorbs the earlier philosophy and study material into six movements: The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
 
 Primary content in this module includes:
 - Foundational covenantal philosophy and first principles
 - Diagnostic frames for rival philosophies and contradictions
 - Berean examination tools for teachers, traditions, and self
 - Hebraic word studies and language formation
-- Embodied practices such as Come to the Table, Harvest and Hymn, domain lenses, and Patristic Voices
+- Embodied practices such as Come to the Table and Harvest and Hymn
 
 **Tone:** Scripture is a land, not a library. You walk in it.
 
@@ -31,7 +31,7 @@ Primary content in this module includes:
 
 ### Module 2 — The Household
 
-The Household is the oikonomia module: household stewardship as the center of life. It reframes economics away from abstract transactions and back toward the relational life of work, craft, land, hospitality, trade, and community. This module is net-new and does not have a direct equivalent in the legacy CovenantOS structure.
+The Household is the oikonomia module: household stewardship as the center of life. It reframes economics away from abstract transactions and back toward the relational life of work, craft, land, hospitality, trade, and community.
 
 Primary content in this module includes:
 - Household flow models (work → craft → garden → hospitality → trade → community)
@@ -46,7 +46,7 @@ Primary content in this module includes:
 
 ### Module 3 — The Compact
 
-The Compact is the political anthropology module. It helps users understand how people organize themselves covenantally: through subsidiarity, shared stewardship, commons, local market life, and peoplehood. This module is also net-new and grows from the imagination formed in The Word and the household patterns formed in The Household.
+The Compact is the political anthropology module. It helps users understand how people organize themselves covenantally: through subsidiarity, shared stewardship, commons, local market life, and peoplehood. This module grows from the imagination formed in The Word and the household patterns formed in The Household.
 
 Primary content in this module includes:
 - Covenant vs. contract distinctions
@@ -76,7 +76,7 @@ The Compact
 ## Design principles
 
 - **Hebraic cognition** — walking over detached analysis; practices over abstractions; household over atomized individualism; land over placelessness; covenant over contract
-- **No-backend architecture** — the target system depends on no accounts, forum, membership, or server-managed application state
+- **No-backend architecture** — the system depends on no accounts, forum, membership, or server-managed application state
 - **Interactive web-first** — the experience is guided and participatory, but the interaction serves reflection rather than feeds, alerts, or social features
 - **Static content-first** — markdown and structured content are the primary source material; interface is secondary and interpretive
 
@@ -92,29 +92,17 @@ CovenantOS may name Aletheia Farm and The Commons as lived examples inside its c
 
 ---
 
-## Content philosophy
-
-CovenantOS 2.0 is governed by three content convictions:
-
-- **Walking, not merely studying** — scripture is encountered as terrain to inhabit, not only as information to catalog
-- **Relational, not transactional** — households, communities, and political life are understood through stewardship and covenantal obligation rather than market logic alone
-- **Covenantal, not contractual** — the deepest social grammar is promise, fidelity, inheritance, and belonging, not mere negotiated exchange
-
----
-
 ## Active repository surfaces
 
-The target architecture is expressed primarily through:
+The active CovenantOS 2.0 architecture is expressed primarily through:
 
-- `modules/` — the new module-oriented content scaffold
-- `docs/ARCHITECTURE.md` — this target architecture document
+- `modules/` — markdown source of truth for module content
+- `content/data/` — structured content packs for interactive reflection tools
+- `src/routes/` — SvelteKit route surfaces and module entry points
+- `src/lib/` — shared UI primitives for the static site
+- `static/` — public images and site assets
+- `docs/WEB_ARCHITECTURE.md` — canonical web architecture document
+- `docs/ROUTE_MATRIX.md` — canonical route/content mapping
 - `docs/DESIGN_PRINCIPLES.md` — design-language and sequencing rationale
-- `docs/INTEGRATION_WITH_COMMUNITY_OS.md` — operational boundary with CommunityOS
-- `docs/CONTENT_TRANSFER.md` — canonical mapping from legacy content into The Word and net-new work for the other modules
-
-Transitional assets that remain in place but are not the target architecture:
-
-- `covenant_os/` — existing 5-layer markdown tree retained until transfer is complete
-- `lib/` — legacy Flutter implementation retained during transition
-- `supabase/` — legacy backend migrations retained during transition
-- `archive/` — historical architecture documents preserved for reference only
+- `docs/CONTENT_TRANSFER.md` — historical record of the completed transfer
+- `archive/` — historical migration and audit documents preserved for reference only

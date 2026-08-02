@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
 
   const householdNodes = [
     { label: 'Land', x: 260, y: 76 },
@@ -41,7 +42,7 @@
   <div class="space-y-8">
     <figure class="lead-figure">
       <img
-        src="/images/craftsman-hands.png"
+        src={withBase("/images/craftsman-hands.png")}
         alt="Weathered hands shaping wood at a workbench — the dignity of skilled, patient work."
         loading="eager"
       />
@@ -72,14 +73,14 @@
     <div class="figure-row">
       <figure>
         <img
-          src="/images/potter.png"
+          src={withBase("/images/potter.png")}
           alt="Hands at a potter's wheel drawing up a clay vessel — making from the ground itself."
           loading="lazy"
         />
       </figure>
       <figure>
         <img
-          src="/images/smith.png"
+          src={withBase("/images/smith.png")}
           alt="A blacksmith's hands at the anvil — patient force and repair."
           loading="lazy"
         />

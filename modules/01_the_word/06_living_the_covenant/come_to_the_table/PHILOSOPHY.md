@@ -62,7 +62,7 @@ Over time, a table that holds these two rules will produce people who are genuin
 
 ## Connection to the Foundational Layer
 
-The covenantal philosophy of [01_foundational_layer/covenantal_philosophy.md](/the-word/the-land-of-the-text) establishes that persons are relational, embodied, and historical beings before God.
+The covenantal philosophy of [The Land of the Text](/the-word/the-land-of-the-text) establishes that persons are relational, embodied, and historical beings before God.
 
 Come to the Table is that conviction made concrete. It is formation that is:
 

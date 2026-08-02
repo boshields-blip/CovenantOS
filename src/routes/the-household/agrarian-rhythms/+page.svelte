@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../modules/02_the_household/AGRARIAN_RHYTHMS.md';
 </script>
 
@@ -14,7 +15,7 @@
 >
   <figure class="lead-figure">
     <img
-      src="/images/seasonal-wheel.png"
+      src={withBase("/images/seasonal-wheel.png")}
       alt="The agrarian year as one turning wheel — seed, growth, harvest, and rest."
       loading="eager"
     />

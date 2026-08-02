@@ -1,4 +1,6 @@
 <script>
+  import { withBase } from '$lib/paths';
+
   const title = 'The Word';
   const openingStatement =
     'Scripture is a land you walk, not a library you reference. The Word roots you in the world the text was written from, so your imagination is reshaped by it.';
@@ -6,7 +8,7 @@
     label: 'Suggested starting place →',
     title: 'The Land of the Text',
     description: 'Begin by entering the original world the Bible assumes — the ground the rest of the module stands on.',
-    href: '/the-word/the-land-of-the-text'
+    href: withBase('/the-word/the-land-of-the-text')
   };
 
   const stones = [
@@ -14,37 +16,37 @@
       number: '01',
       title: 'The Land of the Text',
       description: 'Enter the original context: the Hebraic mind, the Ancient Near Eastern world, and the one covenant story.',
-      href: '/the-word/the-land-of-the-text'
+      href: withBase('/the-word/the-land-of-the-text')
     },
     {
       number: '02',
       title: 'The Language of the Land',
       description: 'Learn to think in the Bible’s own words — concrete, embodied, held in covenant.',
-      href: '/the-word/the-language-of-the-land'
+      href: withBase('/the-word/the-language-of-the-land')
     },
     {
       number: '03',
       title: 'Walking the Text',
       description: 'Read a passage as its first hearers would, inside the world they actually lived in.',
-      href: '/the-word/walking-the-text'
+      href: withBase('/the-word/walking-the-text')
     },
     {
       number: '04',
       title: 'Knowing Your Own Way',
       description: 'A mirror for your own convictions: what you believe, and where it came from.',
-      href: '/the-word/knowing-your-own-way'
+      href: withBase('/the-word/knowing-your-own-way')
     },
     {
       number: '05',
       title: 'The Streams of the Traditions',
       description: 'Weigh the gifts and blind spots of the Christian traditions, charitably.',
-      href: '/the-word/the-streams-of-the-traditions'
+      href: withBase('/the-word/the-streams-of-the-traditions')
     },
     {
       number: '06',
       title: 'Living the Covenant',
       description: 'Where seeing becomes practice — the table, the season, the shared life.',
-      href: '/the-word/living-the-covenant'
+      href: withBase('/the-word/living-the-covenant')
     }
   ];
 </script>
@@ -56,7 +58,7 @@
 <div class="min-h-screen bg-parchment px-6 py-8 text-charcoal sm:px-8 lg:px-12">
   <div class="mx-auto flex w-full max-w-4xl flex-col gap-8">
     <a
-      href="/"
+      href={withBase("/")}
       class="w-fit text-sm text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
     >
       ← CovenantOS
@@ -64,7 +66,7 @@
 
     <header class="flex flex-col gap-6 sm:flex-row sm:items-center">
       <img
-        src="/images/the-word-threshing-floor.png"
+        src={withBase("/images/the-word-threshing-floor.png")}
         alt="A threshing floor where the Word separates wheat from chaff."
         class="w-28 shrink-0 rounded-sm border border-ochre/30 sm:w-36"
         loading="eager"

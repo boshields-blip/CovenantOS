@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import HebrewWordCard from '$lib/HebrewWordCard.svelte';
   import { parseWordStudies } from '$lib/word-studies.js';
   import wordStudiesSource from '../../../../modules/02_the_household/HEBRAIC_WORD_STUDIES.md?raw';
@@ -26,8 +27,8 @@
 
     <figure class="lead-figure">
       <img
-        src="/images/tool-wall.png"
-        alt="A craftsman's wall of well-kept hand tools hung in order — an image of shamar, keeping what is entrusted."
+        src={withBase("/images/tool-wall.png")}
+        alt="A craftsman's wall of well-kept hand tools hung in order — shamar, keeping what is entrusted."
         loading="eager"
       />
     </figure>

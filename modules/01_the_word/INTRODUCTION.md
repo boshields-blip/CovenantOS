@@ -33,8 +33,8 @@ The Compact
 - `modules/` expresses the target three-module architecture
 - `docs/ARCHITECTURE.md` explains the active three-module structure
 - `docs/DESIGN_PRINCIPLES.md` explains the design language behind the redesign
-- `docs/CONTENT_TRANSFER.md` tracks how legacy content moves into The Word and what must be authored for the other modules
-- legacy source content, `lib/`, and `supabase/` remain elsewhere in the repository as transition-era assets until later cleanup
+- `docs/CONTENT_TRANSFER.md` records the completed migration into the six-movement Word structure
+- `archive/` preserves historical migration material that no longer defines the active site
 
 ---
 

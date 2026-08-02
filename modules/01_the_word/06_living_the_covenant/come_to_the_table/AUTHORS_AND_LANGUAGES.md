@@ -81,7 +81,7 @@ Over time, the household builds a living sense of the canonical arc — not as a
 
 A gentle pointer to the Diagnostic Layer's seven categories: metaphysics, epistemology, anthropology, ethics, social/political, identity/meaning, eschatology. Name the category without necessarily requiring everyone at the table to memorize it at once.
 
-See [../../02_diagnostic_engine/README.md](/the-word/knowing-your-own-way) for the full treatment of each category.
+See [Knowing Your Own Way](/the-word/knowing-your-own-way) for the full treatment of each category.
 
 **Examples:**
 - *"This passage says something about what a human being is. According to this, what are we made for?"* (Anthropology)

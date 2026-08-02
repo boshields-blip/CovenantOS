@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { withBase } from '$lib/paths';
   import ContentLayout from '$lib/ContentLayout.svelte';
   import data from '../../../../../content/data/streams.json';
 
@@ -97,7 +98,7 @@
           {shapedList.map((t) => t.name).join(' · ')}
         </p>
         <p class="mt-2 text-sm text-slate-covenant">
-          Read these first. Carry them into <a href="/the-word/knowing-your-own-way/the-examination" class="font-semibold text-ochre underline underline-offset-2">Knowing Your Own Way</a> — how do their gifts and blind spots show up in what you believe?
+          Read these first. Carry them into <a href={withBase("/the-word/knowing-your-own-way/the-examination")} class="font-semibold text-ochre underline underline-offset-2">Knowing Your Own Way</a> — how do their gifts and blind spots show up in what you believe?
         </p>
         <button
           type="button"
@@ -168,7 +169,7 @@
 
     <p class="border-t border-ochre/20 pt-6 text-sm text-slate-covenant">
       A tradition map names common tendencies, not verdicts on individuals. Real people are always more than their stream. For the full written treatment, see
-      <a href="/the-word/the-streams-of-the-traditions/the-traditions" class="font-semibold text-ochre underline underline-offset-2">The Traditions</a>.
+      <a href={withBase("/the-word/the-streams-of-the-traditions/the-traditions")} class="font-semibold text-ochre underline underline-offset-2">The Traditions</a>.
     </p>
   </div>
 </ContentLayout>

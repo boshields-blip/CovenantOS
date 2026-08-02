@@ -1,8 +1,9 @@
 <script>
   import { onMount } from 'svelte';
+  import { withBase } from '$lib/paths';
 
   const hero = {
-    src: '/images/covenant-map-hero.png',
+    src: withBase('/images/covenant-map-hero.png'),
     alt: 'A covenant land seen from above — an open Scripture, a household hearth, and a stone city gate joined by a single path.'
   };
 
@@ -10,22 +11,22 @@
     {
       title: 'The Word',
       invitation: 'Walk in the land of Scripture. Form your imagination.',
-      href: '/the-word',
-      image: '/images/the-word-threshing-floor.png',
+      href: withBase('/the-word'),
+      image: withBase('/images/the-word-threshing-floor.png'),
       imageAlt: 'A threshing floor where the Word separates wheat from chaff.'
     },
     {
       title: 'The Household',
       invitation: 'Tend the oikonomia. Steward what you have been given.',
-      href: '/the-household',
-      image: '/images/the-household-table.png',
+      href: withBase('/the-household'),
+      image: withBase('/images/the-household-table.png'),
       imageAlt: 'A covenant household table set beneath the hearth and vine.'
     },
     {
       title: 'The Compact',
       invitation: 'Enter covenant with your neighbors. Order your common life.',
-      href: '/the-compact',
-      image: '/images/the-compact-gate-tower.png',
+      href: withBase('/the-compact'),
+      image: withBase('/images/the-compact-gate-tower.png'),
       imageAlt: 'A stone city gate and round water tower opening onto the commons.'
     }
   ];

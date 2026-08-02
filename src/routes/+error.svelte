@@ -1,5 +1,6 @@
 <script>
   import { page } from '$app/stores';
+  import { withBase } from '$lib/paths';
 </script>
 
 <svelte:head>
@@ -18,7 +19,7 @@
       You may have followed a link that doesn't exist yet, or mistyped a path.
     </p>
     <a
-      href="/"
+      href={withBase("/")}
       class="inline-block border border-ochre text-ochre px-6 py-3 text-sm font-semibold rounded-sm no-underline hover:bg-ochre hover:text-parchment transition-colors duration-300"
     >
       Return to the Covenant Map →
