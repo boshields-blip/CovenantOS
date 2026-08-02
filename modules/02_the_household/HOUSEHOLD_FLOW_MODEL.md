@@ -48,7 +48,7 @@ The table opens outward. Neighbor, stranger, friend, and church are welcomed int
 
 ## 6) Local Trade & Exchange
 
-Surplus and specialties move through local exchange: market stands, skilled services, shared tools, trusted trades. Trade is real and good when it serves households and place instead of dissolving them.
+Surplus and specialties move through local exchange: market stands, skilled services, shared tools, trusted trades. Trade is real and good when it serves households and place instead of dissolving them. The local trade or family business is not only an economic unit — it is a covenant institution. The tradesperson known by name, whose father served the same families, whose apprentice is a neighbor's son, is participating in a form of community formation that scale eliminates. To buy from them, to hire them, to pass work to them is to sustain that covenant fabric, not merely to make a transaction.
 
 ## 7) Community & Commons
 
