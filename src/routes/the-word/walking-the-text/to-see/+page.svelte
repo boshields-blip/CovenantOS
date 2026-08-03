@@ -1,5 +1,6 @@
 <script>
   import ContentLayout from '$lib/ContentLayout.svelte';
+  import { withBase } from '$lib/paths';
   import Content from '../../../../../modules/01_the_word/03_walking_the_text/TO_SEE.md';
 </script>
 
@@ -12,5 +13,12 @@
   nextHref="/the-word/walking-the-text/the-two-and-the-one"
   nextLabel="The Two and the One"
 >
+  <figure class="lead-figure">
+    <img
+      src={withBase("/images/to-see.png")}
+      alt="Two figures seated across a table by lamplight, leaning toward one another — face to face."
+      loading="eager"
+    />
+  </figure>
   <Content />
 </ContentLayout>
