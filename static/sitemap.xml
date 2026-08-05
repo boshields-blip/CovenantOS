@@ -6,6 +6,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://covenantos.example.com/about</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://covenantos.example.com/the-compact</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -147,6 +152,11 @@
   </url>
   <url>
     <loc>https://covenantos.example.com/the-word/knowing-your-own-way/the-seven-questions</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://covenantos.example.com/the-word/living-the-covenant/a-lament</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>

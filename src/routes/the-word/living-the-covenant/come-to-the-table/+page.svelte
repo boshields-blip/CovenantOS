@@ -8,8 +8,8 @@
   title="Come to the Table"
   module="The Word"
   moduleHref="/the-word/living-the-covenant"
-  prevHref="/the-word/living-the-covenant/reformation-pathway"
-  prevLabel="Re-formation Pathway"
+  prevHref="/the-word/living-the-covenant/a-lament"
+  prevLabel="A Lament"
   nextHref="/the-word/living-the-covenant/come-to-the-table/philosophy"
   nextLabel="Philosophy"
 >

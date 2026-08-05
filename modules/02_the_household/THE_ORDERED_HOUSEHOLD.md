@@ -46,6 +46,8 @@ All of it gathers, finally, at the table. The household's worship begins at home
 
 Take this as a direction to walk, not a standard to be measured against and found wanting. No household embodies all of this, and yours will look different from your neighbor's — the specific shape of it is worked out over years, in community, under grace, not imposed from a page. Start where you are: recover one piece of shared work, honor one strength you have been overlooking, be present at one more meal, set down one image you have been holding of the person across the table and go looking for their face. The ordered household is not built in a day. It is tended, like a field, across a lifetime.
 
+> *A word from the author.* I am not writing this from a finished house. My wife and I are still building ours — still learning to work our land together, still failing and beginning again at our own table. I offer this not as a man who has arrived, but as one who is walking the road and has found it good.
+
 And it does not stop at the door. A household that recovers presence, honor, and shared life becomes a household that can *see* — and a people who can see across their own table can begin to see across the square. That widening of sight into public life is the work of [The Compact](/the-compact).
 
 ---

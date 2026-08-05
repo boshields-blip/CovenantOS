@@ -8,7 +8,9 @@
   module="The Word"
   moduleHref="/the-word"
   prevHref="/the-word/living-the-covenant"
-  prevLabel="Formation"
+  prevLabel="Living the Covenant"
+  nextHref="/the-word/living-the-covenant/a-lament"
+  nextLabel="A Lament"
 >
   <Content />
 </ContentLayout>

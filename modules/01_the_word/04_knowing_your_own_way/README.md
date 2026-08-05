@@ -38,3 +38,5 @@ Naming where a conviction came from is not the same as condemning it. Some of wh
 ## The posture
 
 Notice, don't prosecute. The aim is not a list of your failures but an honest map of your own way — where it runs with the grain of the text, and where it has quietly bent toward something else. Clarity is the beginning of formation, and formation, not self-condemnation, is the point.
+
+> *A word from the author.* I know this ground because I have stood on it. When my own crisis of faith came, I questioned nearly everything I believed. What I learned is that the danger was never in the questions themselves, but in whether I would let them tear the house down or drive me deeper into it. Ask honestly. Hold nothing back from God. But bring your questions home to the text, not away from it.

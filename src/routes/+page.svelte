@@ -82,6 +82,13 @@
   </div>
 
   <footer class="mt-16 text-sm text-slate-covenant text-center">
+    <a
+      href={withBase('/about')}
+      class="text-slate-covenant underline underline-offset-2 no-underline transition-colors duration-300 hover:text-charcoal"
+    >
+      About the author
+    </a>
+    <span class="mx-2 text-ochre/50">·</span>
     CovenantOS 2.0 — no accounts, no tracking, no backend.
   </footer>
 </div>

@@ -20,9 +20,11 @@ And it does not happen alone. Covenant is, by definition, a bond between persons
 
 1. **[The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway)** — the hinge that turns seeing into practice, in the New Testament's own grammar: *put off*, *be renewed*, *put on*. Not a technique, but the ordinary shape of dying and rising with Christ, worked out in thought, speech, habit, and shared life.
 
-2. **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)** — the weekly household practice. A household gathers at the table, blesses the meal, reads a passage aloud, talks about what they heard, and ends in prayer and blessing. The most ordinary and most formative place in a household's life, across every age from infant to elder.
+2. **[A Lament](/the-word/living-the-covenant/a-lament)** — a personal prayer wrung out of pain, moving from complaint through the sight of the crucified and risen Christ to worship. A model of praying honestly, and a reminder that the covenant life has room for the whole of the heart, grief and all.
 
-3. **[Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn)** — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony, under the ordering text of 1 Corinthians 14:26. Where formation moves outward from the household table into the wider community.
+3. **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)** — the weekly household practice. A household gathers at the table, blesses the meal, reads a passage aloud, talks about what they heard, and ends in prayer and blessing. The most ordinary and most formative place in a household's life, across every age from infant to elder.
+
+4. **[Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn)** — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony, under the ordering text of 1 Corinthians 14:26. Where formation moves outward from the household table into the wider community.
 
 Together the two practices form one cadence: the weekly table and the seasonal gathering, the household and the community, breath by breath and season by season.
 

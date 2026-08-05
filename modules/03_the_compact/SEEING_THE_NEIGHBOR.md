@@ -41,6 +41,8 @@ The recovery is not a program; it is the patient return to the places where neig
 
 None of this requires a platform or a program. It requires proximity, patience, and the willingness to keep looking at the particular people God has placed around you until they come into focus as faces rather than categories.
 
+> *A word from the author.* I have felt the difference this makes at my own farm gate and in my own trade. When you know the name of the man whose pipes you mend, or the family who eats the eggs you gathered that morning, the neighbor stops being an abstraction and becomes a face. I have found that I cannot love a category — but I can love the man standing in front of me.
+
 ## The whole arc, in one word
 
 Step back and the entire architecture of CovenantOS resolves into a single discipline, widening as it goes:

@@ -32,6 +32,8 @@ Here is the thing worth sitting with: **men and women are not, at root, each oth
 
 That reframing is itself a small healing, because it lets a couple stop fighting each other and start seeing each other — which, as [To See](/the-word/walking-the-text/to-see) and [The Two and the One](/the-word/walking-the-text/the-two-and-the-one) argue, is where everything begins. And it names the real culprit honestly: not men, not women, but the [cultural currents](/the-word/knowing-your-own-way/the-cultural-currents) — consumerism and technocratic industrialism — that hollowed the home and then handed each sex a caricature of the other to fight.
 
+> *A word from the author.* I felt this hollowing in my own home long before I could name it. It was not until I began to work my own land and eat food from my own garden — beside my wife and my children — that my eyes were opened to how far we had drifted, and to how much could still be recovered. This is not theory to me. It is the road I am still walking.
+
 ## What was actually lost
 
 Strip it down and the loss is threefold:
