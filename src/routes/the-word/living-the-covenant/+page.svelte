@@ -20,5 +20,12 @@
       loading="eager"
     />
   </figure>
+  <p class="mt-6 rounded-sm border border-ochre/30 bg-white/55 px-4 py-3 text-slate-covenant">
+    New here:
+    <a href={withBase('/the-word/living-the-covenant/a-lament')} class="text-charcoal">
+      read A Lament
+    </a>
+    , a personal prayer moving from pain to worship.
+  </p>
   <Content />
 </ContentLayout>

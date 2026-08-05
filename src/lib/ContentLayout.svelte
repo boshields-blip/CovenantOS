@@ -38,6 +38,12 @@
         <span class="text-ochre/60">›</span>
         <span class="text-charcoal">{title}</span>
       </div>
+      <a
+        href={withBase('/about')}
+        class="text-sm text-slate-covenant no-underline transition-colors hover:text-charcoal"
+      >
+        About the author
+      </a>
     </div>
   </nav>
 
