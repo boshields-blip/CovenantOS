@@ -98,6 +98,7 @@ For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY
 
 ## See also
 
+- [A Call to Freedom](/the-compact/a-call-to-freedom) — a synthesis bridge from diagnosis to covenantal public practice
 - [Covenantal Philosophy](/the-word/the-land-of-the-text) — the first-principles frame from which the covenant/contract distinction is drawn
 - [Subsidiarity](/the-compact/subsidiarity) — how covenant ordering structures authority from the household outward
 - [Peoplehood](/the-compact/peoplehood) — what it means to be a covenant people rather than a contractual constituency

@@ -7,8 +7,8 @@
   title="Subsidiarity"
   module="The Compact"
   moduleHref="/the-compact"
-  prevHref="/the-compact/covenant-vs-contract"
-  prevLabel="Covenant vs Contract"
+  prevHref="/the-compact/a-call-to-freedom"
+  prevLabel="A Call to Freedom"
   nextHref="/the-compact/commons-and-shared-life"
   nextLabel="Commons and Shared Life"
 >

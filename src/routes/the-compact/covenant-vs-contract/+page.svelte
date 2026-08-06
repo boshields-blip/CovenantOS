@@ -7,8 +7,8 @@
   title="Covenant vs Contract"
   module="The Compact"
   moduleHref="/the-compact"
-  nextHref="/the-compact/subsidiarity"
-  nextLabel="Subsidiarity"
+  nextHref="/the-compact/a-call-to-freedom"
+  nextLabel="A Call to Freedom"
 >
   <Content />
 </ContentLayout>

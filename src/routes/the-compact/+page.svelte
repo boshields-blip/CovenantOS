@@ -22,42 +22,48 @@
     },
     {
       number: '02',
+      title: 'A Call to Freedom',
+      description: 'Read the synthesis bridge that gathers The Word, The Household, and The Compact into one argument.',
+      href: withBase('/the-compact/a-call-to-freedom')
+    },
+    {
+      number: '03',
       title: 'Subsidiarity',
       description: 'Trace how authority is rightly ordered from household outward into public life.',
       href: withBase('/the-compact/subsidiarity')
     },
     {
-      number: '03',
+      number: '04',
       title: 'Commons and Shared Life',
       description: 'See how shared spaces and obligations make a community more than a collection of households.',
       href: withBase('/the-compact/commons-and-shared-life')
     },
     {
-      number: '04',
+      number: '05',
       title: 'Peoplehood',
       description: 'Ask what it means to belong to a people rather than a market segment or political tribe.',
       href: withBase('/the-compact/peoplehood')
     },
     {
-      number: '05',
+      number: '06',
       title: 'Local Market and Social Fabric',
       description: 'Explore how trade, rightly ordered, can build rather than dissolve community.',
       href: withBase('/the-compact/local-market-and-social-fabric')
     },
     {
-      number: '06',
+      number: '07',
       title: 'Seeing the Neighbor',
       description: 'The public form of the covenant discipline of sight: beholding the neighbor, the stranger, and the poor as they are.',
       href: withBase('/the-compact/seeing-the-neighbor')
     },
     {
-      number: '07',
+      number: '08',
       title: 'Hebraic Word Studies',
       description: 'Return often to the word-study practice as a repeatable formation tool for public life.',
       href: withBase('/the-compact/hebraic-word-studies')
     },
     {
-      number: '08',
+      number: '09',
       title: 'Compact Builder',
       description: 'Close with the capstone formation questions that gather the work of all three modules.',
       href: withBase('/the-compact/formation-questions')

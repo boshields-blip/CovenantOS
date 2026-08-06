@@ -90,6 +90,32 @@ The Compact is where household formation meets public obligation. These question
 
 ---
 
+## Section 4 — Implementation Practices: covenantal habits that prevent fragmentation
+
+This final section turns conviction into repeatable practice. The aim is not a program launch but sustained household and neighborhood habits that make covenantal freedom durable.
+
+**Household formation practice:**
+
+- What one weekly household rhythm will you adopt for the next ninety days that strengthens shared responsibility — shared meal planning, shared labor, shared prayer, shared budgeting, or shared neighbor care? Name the rhythm, day, and who is responsible for holding it.
+
+**Interdependence practice:**
+
+- Which two households, neighbors, or families will you intentionally weave into shared burdens this season? Define one concrete exchange (childcare, meals, repairs, transport, elder support, tools, or produce) and the cadence that keeps it regular.
+
+**Covenant economics practice:**
+
+- Where can your household shift one recurring economic decision from anonymous convenience toward covenantal relationship this month — food, trade, services, or craftsmanship? Identify the person or household by name and define the first repeated transaction.
+
+**Anti-fragmentation and power-vacuum practice:**
+
+- What local obligation is currently unheld in your neighborhood, congregation, or shared commons? Choose one responsibility you can help steward, name who must join you, and define the first meeting or action date.
+
+**Accountability cycle:**
+
+- How will you review these commitments in thirty, sixty, and ninety days so they survive beyond intention? Name the people, dates, and evidence you will use to measure faithfulness (not perfection).
+
+---
+
 ## Closing reflection
 
 The three modules of CovenantOS form one arc:

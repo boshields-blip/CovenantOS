@@ -67,6 +67,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 |---|---|---|
 | `/the-compact` | `modules/03_the_compact/README.md` | module-landing |
 | `/the-compact/covenant-vs-contract` | `modules/03_the_compact/COVENANT_VS_CONTRACT.md` | page |
+| `/the-compact/a-call-to-freedom` | `modules/03_the_compact/A_CALL_TO_FREEDOM.md` | page |
 | `/the-compact/subsidiarity` | `modules/03_the_compact/SUBSIDIARITY.md` | page |
 | `/the-compact/commons-and-shared-life` | `modules/03_the_compact/COMMONS_AND_SHARED_LIFE.md` | page |
 | `/the-compact/peoplehood` | `modules/03_the_compact/PEOPLEHOOD.md` | page |
@@ -127,7 +128,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 
 - **Route:** `/the-compact/formation-questions`
 - **Source:** [`content/data/compact_builder.json`](../content/data/compact_builder.json)
-- **Form:** localStorage-backed reflection tool organized into the three module sections from `modules/03_the_compact/FORMATION_QUESTIONS.md`.
+- **Form:** localStorage-backed reflection tool organized into four sections from `modules/03_the_compact/FORMATION_QUESTIONS.md` (The Word, The Household, The Compact, and Implementation Practices).
 - **Interaction:** users can move section by section, save reflection text locally, and trigger client-side print/export views using `export_label` and `print_title` metadata.
 - **Copy rule:** the capstone question copy is authored in `modules/03_the_compact/FORMATION_QUESTIONS.md` and mirrored in `content/data/compact_builder.json` for the interactive tool; the two sources must stay in sync.
 

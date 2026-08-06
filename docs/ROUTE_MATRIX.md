@@ -66,6 +66,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 |---|---|---|---|---|
 | `/the-compact` | `modules/03_the_compact/README.md` | The Compact | module-landing | Module landing with stepping-stone pathway and contextual banner when deep-linked directly. |
 | `/the-compact/covenant-vs-contract` | `modules/03_the_compact/COVENANT_VS_CONTRACT.md` | Covenant vs. Contract | content-page | Suggested entry point for Module 3. |
+| `/the-compact/a-call-to-freedom` | `modules/03_the_compact/A_CALL_TO_FREEDOM.md` | A Call to Freedom | content-page | Synthesis bridge from household formation into political stability and public obligation. |
 | `/the-compact/subsidiarity` | `modules/03_the_compact/SUBSIDIARITY.md` | Subsidiarity | content-page | Authority-ordering page. |
 | `/the-compact/commons-and-shared-life` | `modules/03_the_compact/COMMONS_AND_SHARED_LIFE.md` | Commons and Shared Life | content-page | Commons formation page. |
 | `/the-compact/peoplehood` | `modules/03_the_compact/PEOPLEHOOD.md` | Peoplehood | content-page | Peoplehood and belonging page. |

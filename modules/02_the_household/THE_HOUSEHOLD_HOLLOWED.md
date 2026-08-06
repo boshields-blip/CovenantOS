@@ -46,4 +46,8 @@ You cannot rebuild all of it, and you do not need to. But you can recover more o
 
 ---
 
+*Bridge forward: [A Call to Freedom](/the-compact/a-call-to-freedom) gathers this household diagnosis into the wider covenantal argument about freedom, responsibility, and political stability.*
+
+---
+
 *Next: [The Ordered Household](/the-household/the-ordered-household) — the recovered vision. This page rests on [To See](/the-word/walking-the-text/to-see) and [The Two and the One](/the-word/walking-the-text/the-two-and-the-one) in The Word.*

@@ -52,6 +52,7 @@ In the Piedmont of South Carolina, this is not abstract. Local farmers markets, 
 modules/03_the_compact/
 ├── README.md
 ├── COVENANT_VS_CONTRACT.md
+├── A_CALL_TO_FREEDOM.md
 ├── SUBSIDIARITY.md
 ├── COMMONS_AND_SHARED_LIFE.md
 ├── PEOPLEHOOD.md
@@ -67,11 +68,12 @@ modules/03_the_compact/
 A suggested path:
 
 1. Begin with [COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract) — the foundational distinction that makes everything else legible
-2. Move to [SUBSIDIARITY.md](/the-compact/subsidiarity) — how authority is rightly ordered from household outward
-3. Read [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life) — the shared spaces and obligations that make a community more than a collection of households
-4. Work through [PEOPLEHOOD.md](/the-compact/peoplehood) — what it means to belong to a people, not merely a market segment or a political tribe
-5. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric) — how trade, rightly ordered, builds rather than dissolves community
-6. Read [COVENANT_ECONOMY_IN_PRACTICE.md](/the-compact/covenant-economy-in-practice) — the practical capstone that brings hospitality, farming, and small business together into one covenantal frame; for the householder, the farmer, and the tradesperson asking what faithfulness looks like in the economic life they actually have
-7. Use [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) as a repeatable formation tool, returning to it often
-8. Read [SEEING_THE_NEIGHBOR.md](/the-compact/seeing-the-neighbor) — the capstone that draws the full arc together: from seeing the text, to seeing yourself, to seeing your household, to seeing your neighbor as the whole grammar of CovenantOS
-9. Close with [FORMATION_QUESTIONS.md](/the-compact/formation-questions) — the formal capstone questions across all three CovenantOS modules
+2. Continue with [A_CALL_TO_FREEDOM.md](/the-compact/a-call-to-freedom) — the synthesis bridge that gathers the CovenantOS arc into one call: freedom as covenantal responsibility practiced together
+3. Move to [SUBSIDIARITY.md](/the-compact/subsidiarity) — how authority is rightly ordered from household outward
+4. Read [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life) — the shared spaces and obligations that make a community more than a collection of households
+5. Work through [PEOPLEHOOD.md](/the-compact/peoplehood) — what it means to belong to a people, not merely a market segment or a political tribe
+6. Engage [LOCAL_MARKET_AND_SOCIAL_FABRIC.md](/the-compact/local-market-and-social-fabric) — how trade, rightly ordered, builds rather than dissolves community
+7. Read [COVENANT_ECONOMY_IN_PRACTICE.md](/the-compact/covenant-economy-in-practice) — the practical capstone that brings hospitality, farming, and small business together into one covenantal frame; for the householder, the farmer, and the tradesperson asking what faithfulness looks like in the economic life they actually have
+8. Use [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies) as a repeatable formation tool, returning to it often
+9. Read [SEEING_THE_NEIGHBOR.md](/the-compact/seeing-the-neighbor) — the capstone that draws the full arc together: from seeing the text, to seeing yourself, to seeing your household, to seeing your neighbor as the whole grammar of CovenantOS
+10. Close with [FORMATION_QUESTIONS.md](/the-compact/formation-questions) — the formal capstone questions across all three CovenantOS modules
