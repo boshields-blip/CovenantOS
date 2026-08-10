@@ -55,6 +55,8 @@ Practical reordering includes:
 - treating table, hospitality, and generosity as economic acts
 - refusing growth logic that destroys household and land rhythms
 
+Take something as small as an egg. A store egg and an egg from your own hens will scramble the same, but they do not *cost* the same, and they do not *form* you the same. The store egg costs money and nothing else — no early mornings, no broken frost pipes at the coop, no watching a hen go broody, no children learning that food has a face before it has a carton. The egg from your own yard costs more of your life and less of your money, and it hands your household a dozen small lessons a grocery run never will. This is not a claim that buying eggs is sinful. It is a claim that a household which produces nothing knows something a producing household cannot help but know.
+
 ## Gleaning as Hebraic economic grammar
 
 Leviticus 19:9–10 and Ruth 2 establish a crucial principle: harvest was never entirely private. The edges of the field belonged to the poor and the stranger.

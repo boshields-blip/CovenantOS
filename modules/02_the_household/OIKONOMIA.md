@@ -68,6 +68,10 @@ To recover *oikonomia* is not to reject markets. It is to re-order them.
 
 As you walk in this, ask: what does my household produce, preserve, share, and pass on?
 
+## This is not a country requirement
+
+Nothing above requires acreage. A rented apartment three flights up can practice *oikonomia* as really as a farm can — a kitchen that cooks instead of only reheats, an herb box on the balcony, a repair skill kept instead of always outsourced, a Saturday spent making something with your children instead of buying it for them. The point was never land ownership; it was ownership of the questions land forces you to ask. A city block of neighbors trading skills and watching each other's kids is a household economy in exactly the sense this page means. I say this because I farm, and it would be easy to hear all of this and assume it isn't for you unless you own dirt. It is for you. The household is a human reality before it is a rural one.
+
 ## Hebraic resonance: *bayit*
 
 The Hebraic parallel is *bayit* (house/household). In the Old Testament, household is never merely a building. It is people, lineage, labor, memory, and responsibility in place.

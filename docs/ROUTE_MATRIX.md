@@ -14,6 +14,8 @@ This matrix is the canonical route-to-content map for the static web build. Refe
 | Route | Content Source File | Nav Label | Route Type | Notes |
 |---|---|---|---|---|
 | `/` | `docs/INTRODUCTION.md` | Home | content-page | Homepage is The Covenant Map; hero copy is supported by the three module landing summaries. |
+| `/what-we-believe` | `content/what_we_believe.md` | What We Believe | content-page | Foundational confession (Trinity, gospel, hope) underneath all three modules; linked from homepage footer, About, and The Household-Covenant Tradition. Added 2026-08-09. |
+| `/about` | `content/about_the_author.md` | About the Author | content-page | Author bio and AI-disclosure page; linked from homepage footer. |
 
 ## The Word
 

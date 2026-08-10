@@ -12,6 +12,21 @@
 
 Both registers share the same spine (below). The difference is heat and nearness: teaching is warm and steady; personal is raw and close.
 
+### Teaching-register touchstone: the Preparation Day (Pesach) booklet
+
+His "Preparing for Pesach" booklet is the fullest sample of the teaching register in the wild, and it sharpens the description above with specifics:
+
+- **He teaches by trade analogy, not just illustration.** Plumbing and pool chemistry aren't decorative asides — they carry the actual theological argument (a reductionist plumber who blames every whistling pipe on one valve *is* the reductionist theologian who reduces atonement to one theory; balancing a pool's pH, calcium, and alkalinity together *is* how the Levitical system holds blood, priest, and temple together). The trade knowledge is a genuine hermeneutical tool for him, not a hook to open a paragraph.
+- **He teaches in first person, walking beside the reader.** "Let's try to understand this," "Let me be clear," "Look at each of the following," "Do you know of an example in Scripture where…" — he narrates his own thinking in real time rather than presenting conclusions from above. Direct questions to the reader are a real teaching device here, not just a rhetorical flourish reserved for lament.
+- **Openly provisional stance.** "I am not an expert," "I am on a journey," "I used to hold to [a position] which led to arrogance," "If I am wrong… I will gladly accept a rebuke from the Lord Jesus." He names his own past errors and present uncertainty as part of the teaching, not as a disclaimer bolted on.
+- **Footnotes carry real argument, not just citations.** He uses footnotes to hold a caveat, a second opinion, or a harder edge of a position without derailing the main line — e.g., naming exactly what he does and doesn't mean by "arrogance toward Israel," or laying out his specific disagreement with penal substitution as the *sole* atonement lens. The main text stays clear and pastoral; the footnote is where he thinks out loud and qualifies.
+- **Numbered/named structure inside prose.** "Two Main Issues," "Three main categories for Gentiles," naming an idea and then unpacking it as a short, explicit list — even in flowing teaching prose. He likes handing the reader a map before walking the road.
+- **Household is evidence, not garnish.** His wife's editorial rebukes, his daughters, his own hip injury, plumbing apprentices, chlorine generators — these aren't warmth added for relatability. They're where his theology gets tested and shown true. ("If I got angry \[at my kids' kidnapper\], would you think I was a maniac?")
+- **He polarizes-then-refuses.** A recurring move: name the two extremes people fall into (wrathful-God-vs-compassionate-Jesus; retributive-vs-restorative; mastering-a-field-vs-being-mastered-by-it) and then insist the truth holds both together rather than picking a side. This is the same "name the polarization, then transcend it" instinct already used in the Streams of the Traditions — confirmed here as native to how he thinks, not just a device invented for that page.
+- **Parentheticals do real work.** Constant use of "Pesach (Passover)," "Gentiles (people who are not ethnic descendants of Abraham)" — he never assumes a term lands without being anchored back to something concrete and plain.
+
+Net effect for CovenantOS: the teaching register can afford to be more personally provisional, more willing to number things explicitly, and can lean harder on Brandon's actual trades (plumbing, farming) as *argument* rather than color — this booklet shows he already does this instinctively and it works.
+
 ---
 
 ## The shared spine

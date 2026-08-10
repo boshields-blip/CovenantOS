@@ -22,6 +22,8 @@ But let me be plain about what matters most. My greatest ambition and my deepest
 
 ## Where I stand, and what I hope for you
 
+Before anything else, I want you to know what I actually believe about God, because everything downstream of that is a lens and this is not. You can read it plainly on [What We Believe](/what-we-believe) — the Trinity, the gospel, the bodily return of Jesus and our bodily resurrection. That page is not mine to adjust. It is the floor every Christian tradition already stands on, and I wanted it stated clearly rather than assumed.
+
 I believe the covenant-household way of living fits *within* all of the Christian traditions, not over against them. It is not a new denomination, and it is not a claim that everyone else has gotten it wrong. It is a way of living and serving faithfully in our own contexts — a way that promotes unity as we wrestle with the Scriptures together and ask the deep questions honestly, without letting go of one another. My hope is simple: that CovenantOS would encourage you to challenge your beliefs without deconstructing your tradition, and to immerse yourself in the world of Scripture, until you come to know more of our Creator and Redeemer — who revealed Himself through His prophets and apostles, and finally and most fully through His Son, Jesus Christ.
 
 ## How this was made

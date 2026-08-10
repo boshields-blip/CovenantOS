@@ -40,6 +40,8 @@ Reading a passage in its place in the story keeps you from two common errors: tr
 
 You will not run a formal checklist every time you open the Bible, and you do not need to. But holding these five questions in the back of your mind — genre, audience, occasion, assumed world, location in the story — slowly retrains how you read. They become instincts. And once they are instincts, you find you are no longer dropping ancient words into a modern frame, but stepping into the world where those words first came alive.
 
+There is a difference between mastering a set of questions and being mastered by them. A man can memorize five diagnostic categories for a leaking pipe and still flood a house, because the categories were never meant to be applied once and filed away — they are meant to become the way he sees pipe, the instinct he cannot turn off even when he is standing in someone's bathroom off the clock. The five questions here work the same way. The goal is not to pass a test on genre and audience. The goal is to be slowly re-formed until you cannot help but ask them, the way a tradesman cannot help but notice the work.
+
 The next page puts these five to work on an actual passage.
 
 ---

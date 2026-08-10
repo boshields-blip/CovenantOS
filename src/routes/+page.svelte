@@ -83,6 +83,13 @@
 
   <footer class="mt-16 text-sm text-slate-covenant text-center">
     <a
+      href={withBase('/what-we-believe')}
+      class="text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
+    >
+      What we believe
+    </a>
+    <span class="mx-2 text-ochre/50">·</span>
+    <a
       href={withBase('/about')}
       class="text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
     >

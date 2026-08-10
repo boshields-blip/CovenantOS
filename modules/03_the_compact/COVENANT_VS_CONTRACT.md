@@ -41,6 +41,8 @@ The Diagnostic Engine's covenantal philosophy documents name these threads in mo
 
 ## How contract thinking replaced covenant thinking
 
+I did not learn to see this by reading political philosophy. I saw it when I noticed how naturally I read my own Bible as a contract — a set of individual promises to be claimed, terms to be met, benefits to be collected — without anyone ever telling me to read it that way. No one handed me Hobbes at church. I absorbed the imagination anyway, because it is simply the water a modern person swims in. Naming where it came from was the first step in setting it down.
+
 The Western political tradition made a fateful turn in the seventeenth and eighteenth centuries. The thinkers most responsible for the modern political imagination — Hobbes, Locke, and Rousseau — each began from the same premise: the individual precedes the community.
 
 In this account:
@@ -50,6 +52,8 @@ In this account:
 - Obligations are binding only because they were voluntarily entered
 
 This is the **social contract tradition**, and it now forms the background assumption of almost all modern political thinking — left and right, progressive and conservative.
+
+> *A note on this claim.* Hobbes, Locke, and Rousseau did not agree with one another and should not be flattened into a single villain. Locke, in particular, wrote as a Christian and believed in a real moral law behind his contract. The critique here is not that these three men conspired against covenant — it is that the starting premise they share, the individual existing prior to community, took root in the Western imagination regardless of what each of them personally intended, and that premise is what needs to be examined.
 
 The problems with this account are both historical and theological:
 
