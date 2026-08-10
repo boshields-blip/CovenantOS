@@ -44,13 +44,23 @@ Into this longing comes Jesus. He is the faithful Israelite, the true image-bear
 
 Everything before now converges. Creation's calling, Abraham's promise, Sinai's law, the prophets' longing — all of it is gathered up and fulfilled in the covenant Christ makes. And the community it creates is exactly what the story always pointed toward: a household gathered from every people, adopted as sons and daughters, breaking bread together, learning covenant life.
 
+None of this erases what came before. Fulfillment in Scripture is completion, not cancellation — a seed come to fruit, not a seed thrown away for the fruit. Abraham's household is not replaced by the church; the church is grafted into it (Romans 11:17–18). Israel's covenant calling is not revoked by Israel's unbelief. Paul is plain about this: "the gifts and the calling of God are irrevocable" (Romans 11:29). Whatever discipline or delay Israel has walked through, the promise made to Abraham's household still stands, and the story is not yet finished with her.
+
+## Where we stand: the present age
+
+The story of Scripture divides into two great ages, not two testaments — this present age, and the age to come (Matthew 12:32; Ephesians 1:21). The line between them is not a date on a calendar. It is a person: the return of Jesus Christ.
+
+We are still living in the first age. Christ has already been raised, already ascended, already enthroned — but enthroned in the heavens, not yet upon the earth. His reign is real and total, yet it is not yet *visible* the way it will be when he returns and every knee bows where every eye can see it happen. Until then, the church does not rule the world; it represents a King who does. We are ambassadors for a kingdom whose throne is presently in heaven and whose reign on earth is still coming (2 Corinthians 5:20).
+
+This is why the new covenant, for all its glory, is not the last word in the story — only the decisive turn toward it. It belongs to this present age along with every covenant that came before it. It inaugurates what the age to come will complete; it does not yet contain that completion. That is not a flaw in the story. It is simply where we live: after the decisive turn, before the final one, ambassadors in the meantime.
+
 ## Consummation: the covenant complete
 
 The story does not end in escape from the world but in the healing of it. The last pages return to the first: a garden-city, a restored creation, the dwelling of God with humanity, every tear wiped away. "Behold, the dwelling place of God is with man." The temple that was guarded, the presence that was fenced, now fills everything. The covenant reaches its consummation — God, a people, a place, and a shared life, at last made whole.
 
 ## Reading inside the story
 
-This is the shape of the whole, and every passage lives somewhere within it. A law in Leviticus, a psalm of lament, a prophet's warning, a parable, an epistle's instruction — each means what it means because of where it stands in this one covenant story, moving from creation through rupture and promise and people and failure to fulfillment and consummation.
+This is the shape of the whole, and every passage lives somewhere within it. A law in Leviticus, a psalm of lament, a prophet's warning, a parable, an epistle's instruction — each means what it means because of where it stands in this one covenant story, moving from creation through rupture and promise and people and failure to fulfillment, the present age we now stand in, and consummation.
 
 To read Scripture in its original context, then, is finally to read it *as this story* — not a library to be raided for verses, but a land to be walked from one end to the other, until its arc becomes the arc your own household is learning to live inside.
 
