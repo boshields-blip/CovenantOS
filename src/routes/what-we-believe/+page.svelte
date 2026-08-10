@@ -5,7 +5,7 @@
 
 <ContentLayout
   title="What We Believe"
-  module="CovenantOS"
+  module="Covenantal Architecture"
   moduleHref="/"
 >
   <Content />

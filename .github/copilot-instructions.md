@@ -1,15 +1,15 @@
-# Copilot Instructions — CovenantOS 2.0
+# Copilot Instructions — Covenantal Architecture 2.0
 
 ## What this repo is
 
-CovenantOS is a **static SvelteKit 2.0 site for covenantal formation**. It is not operational software, not a trade management system, and not a homestead platform.
+Covenantal Architecture is a **static SvelteKit 2.0 site for covenantal formation**. It is not operational software, not a trade management system, and not a homestead platform.
 
 **This repo is for:**
 - A static SvelteKit site built with `@sveltejs/adapter-static`
 - Markdown-first module content authored in `modules/`
 - Structured interactive content in `content/data/*.json`
 - Guided, local-only reflection tools that persist to `localStorage`
-- The three CovenantOS modules: **The Word**, **The Household**, and **The Compact**
+- The three Covenantal Architecture modules: **The Word**, **The Household**, and **The Compact**
 
 **This repo is NOT for:**
 - Plumbing, HVAC, or commercial trade operations → `boshields-blip/PlumbLineOS`
@@ -36,7 +36,7 @@ If a user asks for operational, commercial, plumbing-related, or homestead-opera
 
 ### Module structure
 
-CovenantOS is organized into three modules:
+Covenantal Architecture is organized into three modules:
 
 1. **The Word**
    - Content source of truth: `modules/01_the_word/`
@@ -105,10 +105,10 @@ Follow the canonical design rules from `docs/WEB_ARCHITECTURE.md`:
 - Keep the experience markdown-first and content-first
 - Prefer static generation and local interaction over any remote runtime behavior
 - Use `snake_case` for directories and `lower_snake_case` for file names
-- Keep CommunityOS integration one-way only; CovenantOS does not import CommunityOS internals
+- Keep CommunityOS integration one-way only; Covenantal Architecture does not import CommunityOS internals
 
 ---
 
 ## Repository boundary reminder
 
-CovenantOS explains the **why** of covenantal life. CommunityOS handles the operational **how**. Keep CovenantOS focused on formation, reflection, reading, comparison, and guided practice.
+Covenantal Architecture explains the **why** of covenantal life. CommunityOS handles the operational **how**. Keep Covenantal Architecture focused on formation, reflection, reading, comparison, and guided practice.

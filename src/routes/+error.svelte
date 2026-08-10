@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <title>Page not found | CovenantOS</title>
+  <title>Page not found | Covenantal Architecture</title>
 </svelte:head>
 
 <div class="min-h-screen bg-parchment flex flex-col items-center justify-center px-6 text-center">

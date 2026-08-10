@@ -1,14 +1,14 @@
-# Introduction to CovenantOS
+# Introduction to Covenantal Architecture
 
 **Status:** Draft | **Owner:** @boshields-blip | **Last updated:** 2026-08-02
 
 ---
 
-## What is CovenantOS?
+## What is Covenantal Architecture?
 
-CovenantOS is a static, interactive web experience for covenantal formation. It is designed as a guided interpretive space that helps people re-see life through a Hebraic frame: scripture, household, land, stewardship, and public life held together in covenant rather than split apart into isolated topics.
+Covenantal Architecture is a static, interactive web experience for covenantal formation. It is designed as a guided interpretive space that helps people re-see life through a Hebraic frame: scripture, household, land, stewardship, and public life held together in covenant rather than split apart into isolated topics.
 
-The target architecture is deliberately simple. There is no backend, no account system, no forum, no membership model, and no intended Supabase runtime in CovenantOS 2.0.
+The target architecture is deliberately simple. There is no backend, no account system, no forum, no membership model, and no intended Supabase runtime in Covenantal Architecture 2.0.
 
 ---
 
@@ -30,7 +30,7 @@ The Compact
 
 ## How to read the repository right now
 
-- `modules/` expresses the content source of truth for CovenantOS 2.0
+- `modules/` expresses the content source of truth for Covenantal Architecture 2.0
 - `content/data/` contains the structured data packs used by local-only reflection tools
 - `src/` contains the SvelteKit routes, layouts, and shared components
 - `docs/WEB_ARCHITECTURE.md` explains the canonical interactive architecture
@@ -40,6 +40,6 @@ The Compact
 
 ---
 
-## What CovenantOS is not
+## What Covenantal Architecture is not
 
-CovenantOS is not operational software for trades, homestead logistics, commerce, or backend-managed community features. Its purpose is formational, interpretive, and relational.
+Covenantal Architecture is not operational software for trades, homestead logistics, commerce, or backend-managed community features. Its purpose is formational, interpretive, and relational.

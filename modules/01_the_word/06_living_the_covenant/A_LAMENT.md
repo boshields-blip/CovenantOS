@@ -6,6 +6,12 @@
 
 > A lament is an honest prayer wrung out of pain. The Psalms are full of them — they begin in the dark, sometimes even in complaint against God, and more often than not they turn, and end in worship. What follows is one of mine. In it the Lord met me in my suffering and opened my eyes to see the crucified and risen Christ — and to see my own hand among those who pierced Him. I share it as a model of praying honestly, and because the covenant life has room for the whole of the heart, grief and all.
 >
+> I wrote this in the years just after COVID, in a season where many of us felt cut off from one another and unsure how to return to real community. At the same time I was carrying depression, severe back pain, long stretches of near-sleepless nights, and the grief-tension of stepping back from leading our home fellowship. Those pressures are part of the prayer. They are also part of why the longing for a stronger local community sits under it.
+>
+> I do not process pain by talking about it for long. More often it goes into a lament like this one, or into something I build.
+>
+> This is not only my pain. Every person carries some real measure of suffering until Christ returns — that is simply what it means to live in a world still waiting for its King. I am not sharing this so you would feel mine. I am sharing it so you would have somewhere honest to put your own. The point was never the pain. It was always where you turn with it.
+>
 > Read it slowly. Let the turns do their work.
 
 ---
@@ -31,5 +37,11 @@ In my unworthiness, I see now who is worthy of all praise and honor and glory. T
 ---
 
 *Scripture beneath this lament: the pierced one whom we look upon (Zechariah 12:10; John 19:37); the silent, suffering servant (Isaiah 53:7); eating his flesh and drinking his blood (John 6:53–56); offering ourselves as a living sacrifice (Romans 12:1); and the hope that he will return on the clouds in the same way he went up (Acts 1:9–11).*
+
+One of the laments beneath this one, and beneath so many of ours, is the loss of [real community](/the-compact/commons-and-shared-life). The world is changing faster than most of us can metabolize, and it is genuinely hard — for us, and harder still for the generation coming behind us — to know [what a person is even for](/the-word/knowing-your-own-way/the-seven-questions) anymore, when so much around them treats a human being as an audience, a data point, or a set of preferences to be served. I believe that is the deepest loss of our age: not the technology itself, but our grip on what it means to be human, made in God's image, worth something that does not depend on being useful, productive, or seen online.
+
+The right response to that is not despair, and it is not nostalgia. It is lament, and then it is work — fighting for what is true in a way that actually builds something: real households, real tables, real local community, sturdy enough to hand to the next generation. The world will keep changing. Our dignity as image-bearers does not have to change with it.
+
+*If this prayer names your own turning, carry it to **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)**, where lament and worship are practiced with nearby people at a real table, week by week, as local community is slowly rebuilt.*
 
 *Return to [Living the Covenant](/the-word/living-the-covenant).*

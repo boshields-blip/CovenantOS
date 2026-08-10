@@ -52,7 +52,7 @@
 </script>
 
 <svelte:head>
-  <title>{title} | CovenantOS</title>
+  <title>{title} | Covenantal Architecture</title>
 </svelte:head>
 
 <div class="min-h-screen bg-parchment px-6 py-8 text-charcoal sm:px-8 lg:px-12">
@@ -61,7 +61,7 @@
       href={withBase("/")}
       class="w-fit text-sm text-slate-covenant no-underline transition-colors duration-300 hover:text-charcoal"
     >
-      ← CovenantOS
+      ← Covenantal Architecture
     </a>
 
     <header class="flex flex-col gap-6 sm:flex-row sm:items-center">

@@ -6,7 +6,7 @@
 
 Each stream below is mapped the same way: its center of gravity, its genuine gifts, the blind spots it tends to carry, and what any believer can receive from it. Gifts come first, always — not as flattery, but because every one of these streams has produced saints and wisdom, and you cannot rightly weigh what you have not first honored. These are common tendencies, not verdicts on any individual. Real people are always more than their tradition.
 
-For the lens CovenantOS itself reads from, see [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition).
+For the lens Covenantal Architecture itself reads from, see [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition).
 
 ---
 
@@ -170,8 +170,8 @@ For the lens CovenantOS itself reads from, see [The Household-Covenant Tradition
 
 **Blind spots to watch:** Recovery of Jewish practice can tip toward a new legalism, or toward treating observance as a mark of superior faith. Identity questions can become fraught. Enthusiasm can outrun careful theology.
 
-**What to receive:** That Jesus and the early church were thoroughly Jewish, and that reading Scripture in its Hebraic, covenantal context is not optional background but the native soil of the faith — a conviction close to the heart of CovenantOS.
+**What to receive:** That Jesus and the early church were thoroughly Jewish, and that reading Scripture in its Hebraic, covenantal context is not optional background but the native soil of the faith — a conviction close to the heart of Covenantal Architecture.
 
 ---
 
-*Return to [The Streams of the Traditions](/the-word/the-streams-of-the-traditions), or read the lens CovenantOS reads from in [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition).*
+*Return to [The Streams of the Traditions](/the-word/the-streams-of-the-traditions), or read the lens Covenantal Architecture reads from in [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition).*

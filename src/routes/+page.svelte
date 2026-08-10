@@ -103,6 +103,6 @@
       Read A Lament
     </a>
     <span class="mx-2 text-ochre/50">·</span>
-    CovenantOS 2.0 — no accounts, no tracking, no backend.
+    Covenantal Architecture 2.0 — no accounts, no tracking, no backend.
   </footer>
 </div>

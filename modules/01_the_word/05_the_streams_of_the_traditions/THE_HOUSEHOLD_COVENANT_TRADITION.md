@@ -4,15 +4,15 @@
 
 ---
 
-> This is the stream CovenantOS reads from. It is named here, and held to the same gifts-first, blind-spots-second standard as every other tradition, so you can weigh the lens for yourself.
+> This is the stream Covenantal Architecture reads from. It is named here, and held to the same gifts-first, blind-spots-second standard as every other tradition, so you can weigh the lens for yourself.
 
-> *A note on naming a lens.* Naming this stream is not a claim that it sees more clearly than the others, any more than a plumber naming his own toolbox is a claim that other men's tools are inferior. It is a disclosure, not a boast — so that when you notice a slant in how CovenantOS reads a passage, you have somewhere to trace it back to.
+> *A note on naming a lens.* Naming this stream is not a claim that it sees more clearly than the others, any more than a plumber naming his own toolbox is a claim that other men's tools are inferior. It is a disclosure, not a boast — so that when you notice a slant in how Covenantal Architecture reads a passage, you have somewhere to trace it back to.
 
 > Everything on this page is a lens — one stream's emphasis, held to the same standard as every other. The confession it stands on is not: see [What We Believe](/what-we-believe) for the Trinity, the gospel, and our hope, stated plainly and shared across every tradition named below.
 
 ## Where this comes from
 
-Honesty requires that we locate ourselves. CovenantOS is not written from a neutral vantage above the traditions; it is written from within one. Naming it is not a claim to be the true or final stream — it is the opposite. It is an invitation for you to see the lens clearly, account for it, and weigh it as you would any other.
+Honesty requires that we locate ourselves. Covenantal Architecture is not written from a neutral vantage above the traditions; it is written from within one. Naming it is not a claim to be the true or final stream — it is the opposite. It is an invitation for you to see the lens clearly, account for it, and weigh it as you would any other.
 
 ## Center of gravity
 

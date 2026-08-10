@@ -1,12 +1,12 @@
 # Writing Voice — Brandon O'Shields
 
-**Purpose:** A reference for drafting in Brandon's voice, so CovenantOS content and personal writing sound like him. Two registers are described below — the *teaching register* (most of the atlas) and the *personal register* (testimony and lament). Edit this file freely; it is meant to be corrected over time.
+**Purpose:** A reference for drafting in Brandon's voice, so Covenantal Architecture content and personal writing sound like him. Two registers are described below — the *teaching register* (most of the atlas) and the *personal register* (testimony and lament). Edit this file freely; it is meant to be corrected over time.
 
 ---
 
 ## The two registers
 
-**1. Teaching register** — the voice of most CovenantOS content. Covenantal, Hebraic, embodied, and pastoral. Accessible depth: credible but not academic; concrete over abstract; warm, unhurried, charitable. Names its own lens openly and refuses tribalism. This is the register the modules are written in.
+**1. Teaching register** — the voice of most Covenantal Architecture content. Covenantal, Hebraic, embodied, and pastoral. Accessible depth: credible but not academic; concrete over abstract; warm, unhurried, charitable. Names its own lens openly and refuses tribalism. This is the register the modules are written in.
 
 **2. Personal register** — the voice of Brandon's testimony, prayers, and laments. Raw, first-person, confessional, and Christ-drenched. Psalmic. Unafraid of pain, anger, and vulnerability before God. This is the voice of the lament he wrote and of the About page. Use it for anything spoken *as himself*, not *about* a subject.
 
@@ -25,7 +25,7 @@ His "Preparing for Pesach" booklet is the fullest sample of the teaching registe
 - **He polarizes-then-refuses.** A recurring move: name the two extremes people fall into (wrathful-God-vs-compassionate-Jesus; retributive-vs-restorative; mastering-a-field-vs-being-mastered-by-it) and then insist the truth holds both together rather than picking a side. This is the same "name the polarization, then transcend it" instinct already used in the Streams of the Traditions — confirmed here as native to how he thinks, not just a device invented for that page.
 - **Parentheticals do real work.** Constant use of "Pesach (Passover)," "Gentiles (people who are not ethnic descendants of Abraham)" — he never assumes a term lands without being anchored back to something concrete and plain.
 
-Net effect for CovenantOS: the teaching register can afford to be more personally provisional, more willing to number things explicitly, and can lean harder on Brandon's actual trades (plumbing, farming) as *argument* rather than color — this booklet shows he already does this instinctively and it works.
+Net effect for Covenantal Architecture: the teaching register can afford to be more personally provisional, more willing to number things explicitly, and can lean harder on Brandon's actual trades (plumbing, farming) as *argument* rather than color — this booklet shows he already does this instinctively and it works.
 
 ---
 
@@ -50,6 +50,16 @@ Net effect for CovenantOS: the teaching register can afford to be more personall
 
 ---
 
+## A third outlet: building, not just writing
+
+Lament is not his only way through grief or tension — building is the other one, and it is not decoration, it is the same instinct wearing different clothes. He has built a good deal on his own property and is about to build more on land next to it. When something hard needs somewhere to go, it goes into a lament or into a made thing — a barn, a fence, a treehouse — not into conversation.
+
+He is not a man who processes by talking about his feelings, and he finds it genuinely uncomfortable both to do that and to sit through much of it from others. There is a place for that mode, in his view, but it is not his place. This matters for drafting in his voice: when a hard season needs to be named (as in the note before *A Lament*), prefer naming what he *did* — built something, finished a project, kept working — over any extended description of his interior emotional state. State the fact plainly, let the action carry the weight, and move to the turn. Do not add reflective or therapeutic narration he did not put there himself.
+
+*For internal reference only, not necessarily for publication without his sign-off:* he has described finishing a treehouse he was building as how he processed a season that included a traumatic miscarriage. That is the clearest real example of this pattern — grief converted into a built thing rather than talked through — and it is also, not incidentally, part of why "Covenantal Architecture" fits him better than any softer name would have. Building is not a metaphor he reached for. It is a thing he actually does with hard providence.
+
+---
+
 ## Diction and rhythm
 
 - Prefer short and medium sentences with biblical cadence; let parallelism and repetition build.
@@ -59,10 +69,11 @@ Net effect for CovenantOS: the teaching register can afford to be more personall
 
 ## Avoid
 
-- Corporate, managerial, therapeutic, or consumer jargon (brand, scale, optimize, my truth, my peace, engagement) — the very speech CovenantOS diagnoses.
+- Corporate, managerial, therapeutic, or consumer jargon (brand, scale, optimize, my truth, my peace, engagement) — the very speech Covenantal Architecture diagnoses.
 - Over-abstraction and floating idealism; keep it grounded in bodies, land, and Christ.
 - Sanitizing the personal register into blandness. Its power is its rawness; keep the heat.
 - Over-hedging and over-explaining. Trust the reader; let the turn do the work.
+- Therapeutic-style emotional narration ("I felt overwhelmed by grief and had to process my feelings..."). He processes through action and prayer, not through talking about feelings — name what he did, not what he felt, and let Scripture and the turn-lines carry the emotional weight instead.
 
 ## A note on palatability
 

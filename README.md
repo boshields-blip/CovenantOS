@@ -1,4 +1,4 @@
-# CovenantOS
+# Covenantal Architecture
 
 > **A static, interactive web experience for covenantal formation** — no backend, no accounts, no forum, no membership.
 
@@ -6,11 +6,11 @@
 
 ---
 
-## CovenantOS 2.0
+## Covenantal Architecture 2.0
 
-CovenantOS is a guided covenantal atlas: a static, interactive web experience that helps people re-see life through a Hebraic frame. It is embodied, relational, land-aware, and household-centered. The experience is designed to form imagination first, then household life, then public life.
+Covenantal Architecture is a guided covenantal atlas: a static, interactive web experience that helps people re-see life through a Hebraic frame. It is embodied, relational, land-aware, and household-centered. The experience is designed to form imagination first, then household life, then public life.
 
-There is no backend in the target architecture. There are no accounts, no memberships, no forum surfaces, and no Supabase-dependent runtime in CovenantOS 2.0. CovenantOS explains the why of covenantal life; CommunityOS handles the operational how of shared spaces, markets, and participation.
+There is no backend in the target architecture. There are no accounts, no memberships, no forum surfaces, and no Supabase-dependent runtime in Covenantal Architecture 2.0. Covenantal Architecture explains the why of covenantal life; CommunityOS handles the operational how of shared spaces, markets, and participation.
 
 ---
 
@@ -34,7 +34,7 @@ The Compact
 
 ## Repository documents
 
-- [`docs/WEB_ARCHITECTURE.md`](docs/WEB_ARCHITECTURE.md) — canonical CovenantOS 2.0 web architecture
+- [`docs/WEB_ARCHITECTURE.md`](docs/WEB_ARCHITECTURE.md) — canonical Covenantal Architecture 2.0 web architecture
 - [`docs/ROUTE_MATRIX.md`](docs/ROUTE_MATRIX.md) — route-to-content inventory for the static site
 - [`docs/DESIGN_PRINCIPLES.md`](docs/DESIGN_PRINCIPLES.md) — design language and product posture
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — module boundaries and repository surfaces
@@ -46,7 +46,7 @@ The Compact
 ## Repository structure
 
 ```text
-CovenantOS/
+Covenantal Architecture/
 ├── archive/                  # historical migration, audit, and Supabase reference docs
 ├── content/
 │   └── data/                 # structured JSON data for interactive reflection tools
@@ -66,7 +66,7 @@ CovenantOS/
 
 ## Transition note
 
-Legacy Flutter, Supabase, and duplicate content artifacts were removed after the CovenantOS 2.0 transfer completed on 2026-08-02. Historical planning and migration documents worth keeping now live under [`archive/`](archive/).
+Legacy Flutter, Supabase, and duplicate content artifacts were removed after the Covenantal Architecture 2.0 transfer completed on 2026-08-02. Historical planning and migration documents worth keeping now live under [`archive/`](archive/).
 
 ---
 
@@ -76,7 +76,7 @@ Apache 2.0 — see [`LICENSE`](LICENSE).
 
 ## Development
 
-CovenantOS 2.0 is a static SvelteKit web application.
+Covenantal Architecture 2.0 is a static SvelteKit web application.
 
 ### Prerequisites
 - Node.js 20+
@@ -96,4 +96,4 @@ npm run dev
 npm run build
 ```
 
-The build output lands in `build/`. GitHub Pages deploys with `BASE_PATH=/CovenantOS`; Netlify builds without that override.
+The build output lands in `build/`. GitHub Pages deploys with `BASE_PATH=/Covenantal Architecture`; Netlify builds without that override.

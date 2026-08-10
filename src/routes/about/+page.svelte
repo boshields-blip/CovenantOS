@@ -5,7 +5,7 @@
 
 <ContentLayout
   title="About the Author"
-  module="CovenantOS"
+  module="Covenantal Architecture"
   moduleHref="/"
 >
   <Content />

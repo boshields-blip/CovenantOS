@@ -1,6 +1,6 @@
-# CovenantOS imagery
+# Covenantal Architecture imagery
 
-Woodcut/engraving-style images for the site, generated to the CovenantOS palette
+Woodcut/engraving-style images for the site, generated to the Covenantal Architecture palette
 (parchment, charcoal, ochre, slate, sage). The build references these exact filenames.
 Drop each finished PNG here with the name below. If a file is missing the page still
 renders; only that image slot is empty.

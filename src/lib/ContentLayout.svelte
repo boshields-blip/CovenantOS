@@ -9,7 +9,7 @@
   export let nextHref = '';
   export let nextLabel = '';
   export let homeHref = '/';
-  export let homeLabel = 'CovenantOS Home';
+  export let homeLabel = 'Covenantal Architecture Home';
 
   $: resolvedModuleHref = withBase(moduleHref);
   $: resolvedPrevHref = withBase(prevHref);
@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-  <title>{title} | CovenantOS</title>
+  <title>{title} | Covenantal Architecture</title>
 </svelte:head>
 
 <div class="min-h-screen bg-parchment text-charcoal">
@@ -26,7 +26,7 @@
     <div class="mx-auto flex max-w-3xl items-center justify-between px-6 py-3">
       <div class="flex items-center gap-3 text-sm">
         <a href={resolvedHomeHref} class="text-slate-covenant no-underline transition-colors hover:text-charcoal">
-          CovenantOS
+          Covenantal Architecture
         </a>
         <span class="text-ochre/60">›</span>
         <a

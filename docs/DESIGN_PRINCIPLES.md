@@ -6,13 +6,13 @@
 
 ## Purpose
 
-These principles define the design language for CovenantOS 2.0. They describe not only how the interface should look and behave, but how the product should think: slowly, relationally, and covenantally.
+These principles define the design language for Covenantal Architecture 2.0. They describe not only how the interface should look and behave, but how the product should think: slowly, relationally, and covenantally.
 
 ---
 
 ## Hebraic cognition as design language
 
-CovenantOS should privilege **walking over abstract thinking**. The experience should feel like entering a land, tracing a path, dwelling in a household, and standing inside an inheritance rather than consuming disconnected content blocks.
+Covenantal Architecture should privilege **walking over abstract thinking**. The experience should feel like entering a land, tracing a path, dwelling in a household, and standing inside an inheritance rather than consuming disconnected content blocks.
 
 This leads to five governing contrasts:
 
@@ -26,9 +26,9 @@ This leads to five governing contrasts:
 
 ## No-backend principle
 
-CovenantOS 2.0 is intentionally static and interactive. It has no accounts, no forum, no membership, no Supabase dependency, and no requirement for server-side persistence in the target architecture. Interaction should deepen reflection without introducing platform behaviors that depend on authentication, moderation, or social feeds.
+Covenantal Architecture 2.0 is intentionally static and interactive. It has no accounts, no forum, no membership, no Supabase dependency, and no requirement for server-side persistence in the target architecture. Interaction should deepen reflection without introducing platform behaviors that depend on authentication, moderation, or social feeds.
 
-When a user is ready to move from formation to participation, CovenantOS should point outward to CommunityOS rather than absorbing bookings, listings, account flows, or transactional coordination into this product.
+When a user is ready to move from formation to participation, Covenantal Architecture should point outward to CommunityOS rather than absorbing bookings, listings, account flows, or transactional coordination into this product.
 
 ---
 
@@ -47,7 +47,7 @@ Interactivity exists to help users:
 
 ## Content-first
 
-Markdown content drives CovenantOS. Structure, naming, and module sequencing should emerge from the content itself, and any future UI should serve that structure rather than forcing the content into an application-first mold.
+Markdown content drives Covenantal Architecture. Structure, naming, and module sequencing should emerge from the content itself, and any future UI should serve that structure rather than forcing the content into an application-first mold.
 
 In practice, this means:
 - content architecture comes before component architecture

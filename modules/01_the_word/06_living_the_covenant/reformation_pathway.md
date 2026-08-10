@@ -12,6 +12,8 @@ The movements before this one exist to make something possible: to root you in t
 
 The Re-formation Pathway is the hinge. It takes everything the earlier movements reveal and turns it toward repentance, renewal, and embodied practice. It answers the practical question the rest of The Word leaves open: **now that I can see, how do I actually walk a different way?**
 
+Before moving into weekly and seasonal practices, this movement pauses at **[A Lament](/the-word/living-the-covenant/a-lament)**: a personal doorway from seeing to surrender, where confession becomes worship and the heart is prepared to walk what it now sees.
+
 ---
 
 ## The shape of biblical re-formation

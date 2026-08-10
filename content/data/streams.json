@@ -4,7 +4,7 @@
   "groups": [
     { "id": "primary", "label": "Primary streams" },
     { "id": "also-mapped", "label": "Also mapped" },
-    { "id": "anchor", "label": "Where CovenantOS reads from" }
+    { "id": "anchor", "label": "Where Covenantal Architecture reads from" }
   ],
   "traditions": [
     {
@@ -131,13 +131,13 @@
       "center": "Faith in Jesus (Yeshua) as Messiah lived within Jewish identity, practice, and the feasts, honoring the Hebraic roots of the faith.",
       "gifts": "A living recovery of the Jewish context of Jesus and the early church. Attention to the feasts, the Sabbath, and the covenant story as one continuous whole. A vivid sense that the gospel grew from the soil of Israel's covenant.",
       "blind_spots": "Recovery of Jewish practice can tip toward a new legalism, or toward treating observance as a mark of superior faith. Identity questions can become fraught; enthusiasm can outrun careful theology.",
-      "receive": "That Jesus and the early church were thoroughly Jewish, and that reading Scripture in its Hebraic, covenantal context is the native soil of the faith — close to the heart of CovenantOS."
+      "receive": "That Jesus and the early church were thoroughly Jewish, and that reading Scripture in its Hebraic, covenantal context is the native soil of the faith — close to the heart of Covenantal Architecture."
     },
     {
       "id": "household-covenant",
       "name": "The Household-Covenant Tradition",
       "group": "anchor",
-      "center": "The household as the primary arena of discipleship, the table as the center of communal life, and covenant as the architecture of reality — mirroring the early church's households gathered around Scripture, shared meals, and mutual responsibility. This is the stream CovenantOS reads from, named openly and held to the same standard as every other.",
+      "center": "The household as the primary arena of discipleship, the table as the center of communal life, and covenant as the architecture of reality — mirroring the early church's households gathered around Scripture, shared meals, and mutual responsibility. This is the stream Covenantal Architecture reads from, named openly and held to the same standard as every other.",
       "gifts": "Deeply relational, with a strong sense of belonging. Embodied discipleship lived in daily life. Hospitality as mission. Scripture practiced at home. Healthy household leadership. The integration of work, land, and faith into one covenant life, formed by table-centered rhythms.",
       "blind_spots": "Left unwatched, it can turn inward — tables closed rather than opened. It can idealize agrarian and rural life, insulate households, undervalue the broader church and its accountability, lack theological accountability because it is decentralized, and assume every household has equal capacity.",
       "receive": "A recovery of the household and the table as the ordinary, God-given places of formation — and a reminder that covenant, not contract, is the deep grammar of life with God and neighbor."

@@ -6,13 +6,13 @@ Status: Historical | Owner: @boshields-blip | Last updated: 2026-08-02
 
 ## Purpose
 
-This document is the historical record of the CovenantOS 2.0 content transfer. The transfer is complete, the duplicate legacy content tree has been removed, and the current source of truth now lives in `modules/` plus `content/data/*.json`.
+This document is the historical record of the Covenantal Architecture 2.0 content transfer. The transfer is complete, the duplicate legacy content tree has been removed, and the current source of truth now lives in `modules/` plus `content/data/*.json`.
 
 ---
 
 ## Completion status
 
-- All legacy CovenantOS formation content has been absorbed into CovenantOS 2.0.
+- All legacy Covenantal Architecture formation content has been absorbed into Covenantal Architecture 2.0.
 - The duplicate legacy tree was removed on 2026-08-02 after all tracker items reached Complete.
 - The Word no longer uses the old five-layer directory layout; it is now organized as six movements.
 
@@ -20,7 +20,7 @@ This document is the historical record of the CovenantOS 2.0 content transfer. T
 
 ## Where the transferred material landed
 
-| Legacy material | CovenantOS 2.0 destination | Notes |
+| Legacy material | Covenantal Architecture 2.0 destination | Notes |
 |---|---|---|
 | Foundational philosophy and first-principles framing | **The Word → The Land of the Text** and module introduction | Reframed around the world Scripture assumes rather than the former layer directory names. |
 | Diagnostic and self-examination material | **The Word → Knowing Your Own Way** and `content/data/knowing_your_own_way.json` | Diagnostic content became a guided self-examination sequence and local-only reflection tool. |

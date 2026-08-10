@@ -6,7 +6,7 @@
 
 ## Overview
 
-CovenantOS 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
+Covenantal Architecture 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
 
 The target architecture has no backend, no accounts, no forum, no memberships, no transactional logic, and no Supabase runtime dependency. Historical migration and audit material is preserved only under `archive/`.
 
@@ -16,7 +16,7 @@ The target architecture has no backend, no accounts, no forum, no memberships, n
 
 ### Module 1 — The Word
 
-The Word is the Hebraic thinking environment for CovenantOS. It absorbs the earlier philosophy and study material into six movements: The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
+The Word is the Hebraic thinking environment for Covenantal Architecture. It absorbs the earlier philosophy and study material into six movements: The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
 
 Primary content in this module includes:
 - Foundational covenantal philosophy and first principles
@@ -69,7 +69,7 @@ The Household
 The Compact
 ```
 
-**Rule:** The sequence is deliberate. CovenantOS does not begin with institutional life or abstract politics. Imagination is formed by The Word, that imagination is embodied in The Household, and only then does The Compact emerge with coherence.
+**Rule:** The sequence is deliberate. Covenantal Architecture does not begin with institutional life or abstract politics. Imagination is formed by The Word, that imagination is embodied in The Household, and only then does The Compact emerge with coherence.
 
 ---
 
@@ -86,15 +86,15 @@ See [`docs/DESIGN_PRINCIPLES.md`](DESIGN_PRINCIPLES.md) for the fuller rationale
 
 ## Relationship to CommunityOS
 
-CovenantOS explains the why of covenantal household life, honest trade, and shared commons. CommunityOS handles the how of participation in shared spaces and local commerce.
+Covenantal Architecture explains the why of covenantal household life, honest trade, and shared commons. CommunityOS handles the how of participation in shared spaces and local commerce.
 
-CovenantOS may name Aletheia Farm and The Commons as lived examples inside its content, but market calendars, vendor sign-up, venue booking, accounts, and operational logistics belong in CommunityOS rather than in this repository. If CommunityOS chooses to surface CovenantOS framing through a one-way `frameOverride` hook, CovenantOS still remains a standalone product with no reverse dependency.
+Covenantal Architecture may name Aletheia Farm and The Commons as lived examples inside its content, but market calendars, vendor sign-up, venue booking, accounts, and operational logistics belong in CommunityOS rather than in this repository. If CommunityOS chooses to surface Covenantal Architecture framing through a one-way `frameOverride` hook, Covenantal Architecture still remains a standalone product with no reverse dependency.
 
 ---
 
 ## Active repository surfaces
 
-The active CovenantOS 2.0 architecture is expressed primarily through:
+The active Covenantal Architecture 2.0 architecture is expressed primarily through:
 
 - `modules/` — markdown source of truth for module content
 - `content/data/` — structured content packs for interactive reflection tools

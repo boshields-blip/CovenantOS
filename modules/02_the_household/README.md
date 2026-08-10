@@ -4,7 +4,7 @@
 
 ---
 
-The Household is CovenantOS's *oikonomia* module: the recovery of household stewardship as the center of life. In this module, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
+The Household is Covenantal Architecture's *oikonomia* module: the recovery of household stewardship as the center of life. In this module, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
 
 ## Why *oikonomia*
 
@@ -28,7 +28,7 @@ For related diagnosis upstream in The Word, see:
 - [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents)
 - [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents)
 
-## Sequence in CovenantOS
+## Sequence in Covenantal Architecture
 
 The Household sits between imagination and public order:
 
@@ -49,7 +49,7 @@ The Compact
 
 This module is Hebraic, embodied, agrarian, and practical. As you walk in this, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations added later; they are part of the lived texture of the argument.
 
-Aletheia Farm can be named here as a real, lived instance of this household stewardship. Its operational concerns — venue scheduling, bookings, and event logistics — still belong in CommunityOS rather than in CovenantOS.
+Aletheia Farm can be named here as a real, lived instance of this household stewardship. Its operational concerns — venue scheduling, bookings, and event logistics — still belong in CommunityOS rather than in Covenantal Architecture.
 
 This is not nostalgia. It is covenantal recovery.
 

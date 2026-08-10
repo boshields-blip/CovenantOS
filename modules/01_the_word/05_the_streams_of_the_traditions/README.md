@@ -26,9 +26,9 @@ Read it slowly and start close to home. The most honest use begins with your own
 
 A tradition map names *common tendencies*, not verdicts on individuals. Real people are always more than their stream. Many of the wisest, most faithful believers you will meet have quietly outgrown the blind spots of the tradition that formed them, or drawn on the gifts of streams they never officially joined. Hold the map loosely enough to be surprised by people.
 
-## Where CovenantOS reads from
+## Where Covenantal Architecture reads from
 
-CovenantOS does not pretend to stand above the streams as a neutral judge. It reads from within one — the **[Household-Covenant tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition)** — named openly and held to the same standard as every other: gifts first, then blind spots to steward. Locating our own lens is the first act of the honesty this whole movement asks of everyone.
+Covenantal Architecture does not pretend to stand above the streams as a neutral judge. It reads from within one — the **[Household-Covenant tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition)** — named openly and held to the same standard as every other: gifts first, then blind spots to steward. Locating our own lens is the first act of the honesty this whole movement asks of everyone.
 
 ## The streams
 
@@ -38,6 +38,6 @@ CovenantOS does not pretend to stand above the streams as a neutral judge. It re
 
 **Anchor / Where we read from:** the Household-Covenant tradition
 
-See [The Traditions](/the-word/the-streams-of-the-traditions/the-traditions) for the full map, and [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition) for the lens CovenantOS reads from.
+See [The Traditions](/the-word/the-streams-of-the-traditions/the-traditions) for the full map, and [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition) for the lens Covenantal Architecture reads from.
 
 Or **[explore the streams interactively](/the-word/the-streams-of-the-traditions/explore)** — filter the traditions, open each one's gifts and blind spots, and mark the streams that have shaped you (saved only on your device) to carry into your own self-examination.

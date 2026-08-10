@@ -6,7 +6,7 @@
 
 Everything else on this site is a lens. This page is not.
 
-The Word, the Household, and the Compact all describe a particular way of seeing — Hebraic, covenantal, household-rooted — and I have tried to be honest everywhere that it is one stream among many faithful ones, held to the same standard I ask of every other tradition. But underneath that lens sits something that is not mine to adjust: the confession every orthodox Christian tradition already shares. Before CovenantOS is Hebraic, agrarian, table-centered, or anything else distinctive, it is simply Christian. This page says what that means, plainly, so you never have to guess.
+The Word, the Household, and the Compact all describe a particular way of seeing — Hebraic, covenantal, household-rooted — and I have tried to be honest everywhere that it is one stream among many faithful ones, held to the same standard I ask of every other tradition. But underneath that lens sits something that is not mine to adjust: the confession every orthodox Christian tradition already shares. Before Covenantal Architecture is Hebraic, agrarian, table-centered, or anything else distinctive, it is simply Christian. This page says what that means, plainly, so you never have to guess.
 
 ## The Triune God
 
@@ -40,7 +40,7 @@ Because Jesus is our High Priest, every believer is drawn into a kind of priesth
 
 ## Table fellowship, in brief
 
-The table is where this confession becomes visible, which is why CovenantOS spends so much time there. We will not re-argue that here — see [Come to the Table](/the-word/living-the-covenant/come-to-the-table) for the practice, and [To See](/the-word/walking-the-text/to-see) for the theology of what it means to behold Christ and one another rightly. This page only says why the table matters enough to build a practice around: because the blood of Jesus and the fellowship of His people were never meant to be separated.
+The table is where this confession becomes visible, which is why Covenantal Architecture spends so much time there. We will not re-argue that here — see [Come to the Table](/the-word/living-the-covenant/come-to-the-table) for the practice, and [To See](/the-word/walking-the-text/to-see) for the theology of what it means to behold Christ and one another rightly. This page only says why the table matters enough to build a practice around: because the blood of Jesus and the fellowship of His people were never meant to be separated.
 
 ## The confession, in one paragraph
 
@@ -48,7 +48,7 @@ The gospel is the good news that Jesus Christ — the eternal Son of God — bec
 
 ## Where this leaves you
 
-If you hold to this, you already stand on the same ground CovenantOS stands on, whatever tradition handed it to you — Baptist, Catholic, Orthodox, Pentecostal, Anglican, Messianic, or something with no denominational name at all. Everything else here — the household as first church, the table as center, covenant over contract — is what we do with this confession, not a replacement for it. See [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition) for that lens, named openly, and held to the same honesty this page asks of everyone else.
+If you hold to this, you already stand on the same ground Covenantal Architecture stands on, whatever tradition handed it to you — Baptist, Catholic, Orthodox, Pentecostal, Anglican, Messianic, or something with no denominational name at all. Everything else here — the household as first church, the table as center, covenant over contract — is what we do with this confession, not a replacement for it. See [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition) for that lens, named openly, and held to the same honesty this page asks of everyone else.
 
 ---
 

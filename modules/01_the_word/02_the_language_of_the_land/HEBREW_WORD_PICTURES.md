@@ -40,7 +40,7 @@ To "know" in Hebrew is not primarily to hold information. *Yada* is knowledge by
 
 Notice what all these words have in common. Each keeps the truth attached to something concrete — breath, weight, throat, wholeness, a kept promise, an intimate knowing. This is the native genius of the language of the land: it will not let faith become a set of abstractions floating above your ordinary life. It insists that glory has weight, that the soul is a hungering body, that the word does work, that love keeps covenant, that to know God is to live with Him.
 
-This is the same instinct that runs through everything CovenantOS is trying to recover: a faith that is embodied, relational, and lived — not because that is a strategy, but because that is how the language of Scripture thinks. Learn to see the pictures, and you begin to think in the Bible's own tongue.
+This is the same instinct that runs through everything Covenantal Architecture is trying to recover: a faith that is embodied, relational, and lived — not because that is a strategy, but because that is how the language of Scripture thinks. Learn to see the pictures, and you begin to think in the Bible's own tongue.
 
 ---
 

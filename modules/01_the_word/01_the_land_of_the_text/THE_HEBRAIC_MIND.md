@@ -30,7 +30,7 @@ Later Western thought inherited a habit of splitting the person into a lower bod
 
 So the spiritual life is not an escape from ordinary creaturely existence. It happens *in* it. Worship is embodied — bending, eating, resting, singing, working. Holiness is worked out in what you do with your hands, your food, your money, your Sabbath, your bed, your fields. The most spiritual thing in the Hebrew world is often the most physical: a shared meal, a kept promise, a rested field, a welcomed stranger.
 
-This is the root of everything CovenantOS says about the household and the table. In the world of the text, formation is never merely mental. It is bodily, repeated, and lived.
+This is the root of everything Covenantal Architecture says about the household and the table. In the world of the text, formation is never merely mental. It is bodily, repeated, and lived.
 
 ## Covenantal, not contractual
 

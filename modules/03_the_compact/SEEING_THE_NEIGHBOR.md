@@ -4,7 +4,7 @@
 
 ---
 
-Everything CovenantOS has been building toward comes to a point here. In The Word you learned to *see* — to read a text in its own world rather than your projection of it, and then to see the person across the table as they are rather than as your image of them (see [To See](/the-word/walking-the-text/to-see)). In The Household that sight was trained across a lifetime between two people and passed on to children. Now it reaches its widest form: the public life of a people is, finally, a question of whether we can *see one another* — the neighbor, the stranger, the poor, the one who is not like us — as real people rather than as categories, threats, or market segments. The Compact is a community learning to behold one another face to face. Everything else is downstream of that.
+Everything Covenantal Architecture has been building toward comes to a point here. In The Word you learned to *see* — to read a text in its own world rather than your projection of it, and then to see the person across the table as they are rather than as your image of them (see [To See](/the-word/walking-the-text/to-see)). In The Household that sight was trained across a lifetime between two people and passed on to children. Now it reaches its widest form: the public life of a people is, finally, a question of whether we can *see one another* — the neighbor, the stranger, the poor, the one who is not like us — as real people rather than as categories, threats, or market segments. The Compact is a community learning to behold one another face to face. Everything else is downstream of that.
 
 ## Love is a kind of seeing
 
@@ -45,7 +45,7 @@ None of this requires a platform or a program. It requires proximity, patience, 
 
 ## The whole arc, in one word
 
-Step back and the entire architecture of CovenantOS resolves into a single discipline, widening as it goes:
+Step back and the entire architecture of Covenantal Architecture resolves into a single discipline, widening as it goes:
 
 ```text
 See the text  →  see yourself  →  see your spouse  →  see your household  →  see your neighbor

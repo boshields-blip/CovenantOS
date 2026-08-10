@@ -58,7 +58,7 @@ Built on the seed already present in `tradition_influence_map.md`, expanded and 
 
 - *Primary:* Reformed · Baptist · Non-denominational evangelical · Pentecostal/Charismatic · Roman Catholic · Eastern Orthodox · Anglican · Methodist/Wesleyan · Lutheran · Anabaptist
 - *Secondary (as capacity allows):* Mainline Protestant · Holiness movement · Restorationist (Stone-Campbell) · Messianic Jewish
-- *Anchor / "Where I Come From":* **The Household-Covenant Tradition** (see below) — named openly so readers can locate the lens CovenantOS is written from.
+- *Anchor / "Where I Come From":* **The Household-Covenant Tradition** (see below) — named openly so readers can locate the lens Covenantal Architecture is written from.
 
 The individual-teacher analysis, profile builder, and JSON schemas are retired.
 
@@ -97,7 +97,7 @@ Everything is written at **accessible depth** — scholarship distilled into emb
 
 ## The anchor tradition: The Household-Covenant Tradition
 
-CovenantOS is written from a named lens, stated openly so readers can locate it. It is the "Where I Come From" entry in *The Streams of the Traditions* and the lens from which *The Land of the Text* is written.
+Covenantal Architecture is written from a named lens, stated openly so readers can locate it. It is the "Where I Come From" entry in *The Streams of the Traditions* and the lens from which *The Land of the Text* is written.
 
 **Center of gravity.** A stream of Christian faith that sees the household as the primary arena of discipleship, the table as the center of communal life, and covenant as the architecture of reality — mirroring the early church's pattern of households gathered around Scripture, shared meals, and mutual responsibility. It is Hebraic in worldview, covenantal in theology, agrarian and land-aware, household-centered, table-oriented, post-denominational, deeply evangelical in its love of Scripture, ancient in its imagination, Reformed-influenced, and shaped by covenant theology, ANE context, and *oikonomia* localism.
 

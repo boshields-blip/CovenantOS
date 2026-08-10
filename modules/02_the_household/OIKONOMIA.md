@@ -54,7 +54,7 @@ What remains in much modern usage is a technical language of prices, incentives,
 
 "Economics" now often names abstract market forces, monetary systems, and aggregate behavior. The household that gave the word its body has disappeared from view. When that happens, the imagination defaults to the individual consumer as the center of economic life.
 
-This is the inversion diagnosed across CovenantOS: the market becomes first reality; the household becomes private preference.
+This is the inversion diagnosed across Covenantal Architecture: the market becomes first reality; the household becomes private preference.
 
 ## Covenantal recovery now
 

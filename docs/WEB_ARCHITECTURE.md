@@ -9,7 +9,7 @@ Status: Draft | Owner: @boshields-blip | Last updated: 2026-08-01
 
 ## Canonical role
 
-This document is the canonical interactive web architecture for CovenantOS 2.0. It defines the build target, route ownership, page patterns, tool behaviors, and presentation rules that the build agent should treat as the complete source of truth before any application code is written. The exhaustive route-to-content mapping lives in [`docs/ROUTE_MATRIX.md`](./ROUTE_MATRIX.md).
+This document is the canonical interactive web architecture for Covenantal Architecture 2.0. It defines the build target, route ownership, page patterns, tool behaviors, and presentation rules that the build agent should treat as the complete source of truth before any application code is written. The exhaustive route-to-content mapping lives in [`docs/ROUTE_MATRIX.md`](./ROUTE_MATRIX.md).
 
 ---
 
@@ -170,7 +170,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 
 ## Sequence enforcement policy
 
-- CovenantOS uses **guided mode** as the recommended path: The Word -> The Household -> The Compact.
+- Covenantal Architecture uses **guided mode** as the recommended path: The Word -> The Household -> The Compact.
 - Direct deep links to `/the-household` and `/the-compact` must display a dismissible contextual banner: **"You are entering Module 2/3 — The Word forms the foundation."**
 - The banner is contextual, not a gate. Users may continue immediately after dismissal.
 

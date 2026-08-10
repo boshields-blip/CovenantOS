@@ -28,7 +28,7 @@ To read rightly, we do not first need more study techniques. We need to be reloc
 
 ## Where this is written from
 
-CovenantOS does not pretend to read from nowhere. It reads from within the **Household-Covenant tradition** — a stream that sees the household as the first church, the table as the center of shared life, and covenant as the architecture of reality. That lens is named openly in [The Streams of the Traditions](/the-word/the-streams-of-the-traditions) so you can locate it, weigh it, and account for it as you read.
+Covenantal Architecture does not pretend to read from nowhere. It reads from within the **Household-Covenant tradition** — a stream that sees the household as the first church, the table as the center of shared life, and covenant as the architecture of reality. That lens is named openly in [The Streams of the Traditions](/the-word/the-streams-of-the-traditions) so you can locate it, weigh it, and account for it as you read.
 
 ## The posture
 

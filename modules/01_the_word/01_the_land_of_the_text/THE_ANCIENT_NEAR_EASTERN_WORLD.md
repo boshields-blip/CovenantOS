@@ -22,7 +22,7 @@ The basic unit of the ancient world was not the individual and not the modern nu
 
 Almost everything in Scripture assumes this. When God calls Abraham, He calls a household. When a covenant is made, it is made with households. When the gospel spreads in Acts, it spreads household by household — "he was baptized, he and all his family." Salvation itself is described as adoption into a household: becoming sons and daughters, brothers and sisters, members of the household of God.
 
-This is why CovenantOS treats the household as the first church. It is not a modern strategy; it is the recovery of the world the text assumes. The household was where faith was formed and lived, and the Bible was written for people who took that for granted.
+This is why Covenantal Architecture treats the household as the first church. It is not a modern strategy; it is the recovery of the world the text assumes. The household was where faith was formed and lived, and the Bible was written for people who took that for granted.
 
 ## Land and season
 
@@ -50,7 +50,7 @@ The categories of clean and unclean, so strange to modern readers, belong here. 
 
 You do not need to master ancient history to read Scripture well. You need to stop assuming the text shares your furniture. When you read covenant where you assumed contract, household where you assumed individual, land where you assumed background, honor where you assumed only guilt, and holiness where you assumed mere morality — the text begins to speak in its own voice.
 
-And its own voice turns out to be strikingly near to the things CovenantOS cares about: covenants kept, households formed, land stewarded, neighbors honored, and the holy presence of God meeting people at an ordinary table.
+And its own voice turns out to be strikingly near to the things Covenantal Architecture cares about: covenants kept, households formed, land stewarded, neighbors honored, and the holy presence of God meeting people at an ordinary table.
 
 ---
 

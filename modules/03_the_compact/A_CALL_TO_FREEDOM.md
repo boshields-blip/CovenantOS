@@ -4,7 +4,7 @@
 
 ---
 
-This document gathers the central argument of CovenantOS into one line of sight. It is not a fourth module and it is not a detour from the existing path. It is a bridge text inside The Compact that draws together what The Word formed, what The Household embodied, and what public life now requires.
+This document gathers the central argument of Covenantal Architecture into one line of sight. It is not a fourth module and it is not a detour from the existing path. It is a bridge text inside The Compact that draws together what The Word formed, what The Household embodied, and what public life now requires.
 
 Freedom in this frame is not autonomy. Freedom is covenantal responsibility practiced together over time.
 
@@ -83,9 +83,9 @@ See [Subsidiarity](/the-compact/subsidiarity) and [Commons and Shared Life](/the
 
 ---
 
-## VI. The CovenantOS response
+## VI. The Covenantal Architecture response
 
-CovenantOS is not a partisan program and not an institutional platform. It is a formation system ordered to covenantal recovery.
+Covenantal Architecture is not a partisan program and not an institutional platform. It is a formation system ordered to covenantal recovery.
 
 Its integrated aims are:
 
@@ -94,7 +94,7 @@ Its integrated aims are:
 3. Rebuild interdependent local communities.
 4. Re-establish covenantal responsibility as the ground of freedom.
 
-This preserves the existing CovenantOS arc:
+This preserves the existing Covenantal Architecture arc:
 
 ```text
 The Word → forms imagination

@@ -10,7 +10,7 @@ Use these questions slowly — one section at a sitting, with a household or a s
 
 *Note: The interactive Compact Builder at `/the-compact/formation-questions` uses the structured question data in [`content/data/compact_builder.json`](../../content/data/compact_builder.json). The questions in this document and the JSON are intended to stay in sync. If you edit one, update the other.*
 
-This capstone document draws from all three CovenantOS modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
+This capstone document draws from all three Covenantal Architecture modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
 
 ---
 
@@ -118,7 +118,7 @@ This final section turns conviction into repeatable practice. The aim is not a p
 
 ## Closing reflection
 
-The three modules of CovenantOS form one arc:
+The three modules of Covenantal Architecture form one arc:
 
 **The Word** gives the imagination — the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and public life.
 
