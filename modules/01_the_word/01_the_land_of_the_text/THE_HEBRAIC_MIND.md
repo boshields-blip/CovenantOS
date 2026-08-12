@@ -4,17 +4,19 @@
 
 ---
 
-Before you can read Scripture in its own world, you have to meet the mind that wrote it. The biblical authors did not think the way modern Westerners think. This is not a matter of intelligence; it is a matter of imagination — the deep, usually invisible assumptions about what is real, how truth works, and what a person is. When we read the Bible with a modern mind, we hear modern answers to questions the text was not asking. Learning to think Hebraically is learning to hear the questions it *was* asking.
+Before you can read Scripture in its own world, you have to meet the mind that wrote it. The biblical authors, on the whole, did not think the way modern Westerners think. This is not a matter of intelligence; it is a matter of imagination — the deep, usually invisible assumptions about what is real, how truth works, and what a person is. When we read the Bible with a modern mind, we hear modern answers to questions the text was not asking. Learning to think Hebraically is learning to hear the questions it *was* asking.
 
 Four contrasts open the door.
 
 ## Concrete, not abstract
 
-The Hebrew imagination is concrete. It reaches for the world you can touch, taste, and walk on. Where a Greek philosopher might speak of "justice" as an abstract ideal, the Hebrew speaks of honest weights in a merchant's bag, of a field with its corners left unreaped, of a widow who is not turned away at the gate. Where we might say "God is faithful," the Hebrew says God is a rock, a shepherd, a father, a fortress, a hen gathering her chicks.
+The Hebrew imagination leans concrete. It reaches for the world you can touch, taste, and walk on. Where Greek philosophical prose often speaks of "justice" as an abstract ideal, Hebrew narrative and law more often speak of honest weights in a merchant's bag, of a field with its corners left unreaped, of a widow who is not turned away at the gate. Where we might say "God is faithful," the Hebrew Scriptures say God is a rock, a shepherd, a father, a fortress, a hen gathering her chicks.
 
-Even the words carry it. Hebrew nouns often trace back to physical roots. *Kavod*, the word we translate "glory," first means *weight* — glory is heaviness, substance, the opposite of what is light and passing. To have glory is to be weighty, to matter. The abstraction is always anchored in something you could pick up.
+Even the words carry it. Hebrew nouns often trace back to physical roots. *Kavod*, the word we translate "glory," first means *weight* — glory is heaviness, substance, the opposite of what is light and passing. To have glory is to be weighty, to matter. The abstraction is often anchored in something you could pick up.
 
 This matters for reading. When Scripture wants to teach you something true, it usually does not hand you a definition. It hands you a story, an image, a command you can obey with your hands. The truth is meant to be walked into, not merely understood.
+
+> *A note on this contrast.* "Hebrew mind" and "Greek mind" can sound like two sealed, opposite boxes, and stated that way it overstates things. Second Temple Judaism was not walled off from Hellenism — the Septuagint is Jewish Scripture rendered into Greek, Philo engaged Greek philosophy directly, and Paul writes in Greek using recognizably Greek rhetorical forms while staying thoroughly Jewish underneath. What holds up here is a difference of emphasis and genre: Hebrew vocabulary and narrative do lean concrete and relational in ways that differ from later Greek and Western philosophical abstraction. What doesn't hold up is treating either tradition as monolithic, or assuming the two never touched.
 
 ## Relational, not individual
 

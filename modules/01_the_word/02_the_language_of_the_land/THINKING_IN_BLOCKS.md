@@ -4,7 +4,9 @@
 
 ---
 
-It is not only the *words* of Scripture that differ from ours. It is the way the mind behind them *reasons*. The Western tradition, shaped by Greek philosophy, tends to think in straight lines and systems: define your terms, resolve every tension, arrange the truths into a logical order with no loose ends. The Hebrew mind thinks differently — in images, in stories, in truths laid side by side and held together without being flattened into a system. Learning to read Scripture well means learning to reason a little more the way it reasons.
+It is not only the *words* of Scripture that differ from ours. It is often the way the mind behind them *reasons*. Later Western thought, drawing heavily on Greek philosophy, developed a strong habit of thinking in straight lines and systems: define your terms, resolve every tension, arrange the truths into a logical order with no loose ends. Hebrew Scripture more often reasons differently — in images, in stories, in truths laid side by side and held together without being flattened into a system. Learning to read Scripture well means learning to reason a little more the way it reasons.
+
+> *A note on "Hebrew" and "Greek."* Neither tradition was one monolithic thing. Greek philosophy itself ranges from Plato's abstraction to Aristotle's close attention to particulars, and Second Temple Judaism absorbed real Hellenistic influence rather than staying sealed off from it — the Septuagint and Philo are both evidence of that. What's described here is a genuine and well-attested difference in how biblical narrative and poetry tend to reason compared to later systematic philosophy, not a claim that Hebrew and Greek thought never overlapped or that either was cognitively uniform.
 
 ## Block logic: truth held in tension
 

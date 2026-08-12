@@ -8,6 +8,8 @@ Biblical Hebrew is a concrete language. Where we reach for abstractions, it reac
 
 Here are a handful of words. Learn to see the picture inside each, and you will read differently.
 
+> *A note on word studies.* A word does not carry its full root picture every time it is used — language wears smooth with ordinary use, the way "understand" rarely makes you think about standing under something. The pictures below are a real and well-attested way into these words, not a claim that every biblical writer consciously heard the root every time. Treat them as windows, not equations.
+
 ## *dabar* — word, thing, matter, deed
 
 The Hebrew word for "word" also means "thing" and "deed." In Hebrew, a word is not mere sound or information; it is an event, something that happens, that does work in the world. When God speaks, things come into being — the word *is* the deed. This is why "the word of the LORD" is never just a message to be filed away. It is a living, active thing that accomplishes what it says. To receive God's word, in this language, is to receive something that intends to *do* something to you.
