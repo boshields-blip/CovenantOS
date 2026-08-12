@@ -22,7 +22,7 @@ Construction before critique. Learn the land's own tongue first; you will hear t
 
 2. **[Thinking in Blocks](/the-word/the-language-of-the-land/thinking-in-blocks)** — how the Hebrew mind reasons: in stories and images rather than systems, holding two truths in tension, favoring both-and over either-or.
 
-3. **[Appendix: How Modern Language Re-Trains Us](/the-word/the-language-of-the-land/appendix-modern-language)** — the older diagnostic work, kept as a reference: how corporate, therapeutic, and consumer speech quietly reshapes Christian imagination, with covenantal alternatives.
+3. **[Appendix: Packaged Words, Grown Words](/the-word/the-language-of-the-land/appendix-modern-language)** — a reference page on packaged speech versus grown speech: how corporate, therapeutic, and consumer vocabulary arrives pre-made, and what it looks like to grow your own words from the text and the land instead.
 
 ## The posture
 

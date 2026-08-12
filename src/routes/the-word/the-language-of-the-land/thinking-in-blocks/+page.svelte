@@ -10,7 +10,7 @@
   prevHref="/the-word/the-language-of-the-land/hebrew-word-pictures"
   prevLabel="Hebrew Word Pictures"
   nextHref="/the-word/the-language-of-the-land/appendix-modern-language"
-  nextLabel="How Modern Language Re-Trains Us"
+  nextLabel="Packaged Words, Grown Words"
 >
   <Content />
 </ContentLayout>

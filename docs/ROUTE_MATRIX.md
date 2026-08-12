@@ -32,7 +32,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-word/the-language-of-the-land` | `02_the_language_of_the_land/README.md` | The Language of the Land | content-page |
 | `/the-word/the-language-of-the-land/hebrew-word-pictures` | `02_the_language_of_the_land/HEBREW_WORD_PICTURES.md` | Hebrew Word Pictures | content-page |
 | `/the-word/the-language-of-the-land/thinking-in-blocks` | `02_the_language_of_the_land/THINKING_IN_BLOCKS.md` | Thinking in Blocks | content-page |
-| `/the-word/the-language-of-the-land/appendix-modern-language` | `02_the_language_of_the_land/APPENDIX_MODERN_LANGUAGE.md` | How Modern Language Re-Trains Us | reference |
+| `/the-word/the-language-of-the-land/appendix-modern-language` | `02_the_language_of_the_land/APPENDIX_MODERN_LANGUAGE.md` | Packaged Words, Grown Words | reference |
 | `/the-word/walking-the-text` | `03_walking_the_text/README.md` | Walking the Text | content-page |
 | `/the-word/walking-the-text/reading-in-context` | `03_walking_the_text/READING_IN_CONTEXT.md` | Reading in Context | content-page |
 | `/the-word/walking-the-text/the-walk` | `03_walking_the_text/THE_WALK.md` | The Walk | content-page |

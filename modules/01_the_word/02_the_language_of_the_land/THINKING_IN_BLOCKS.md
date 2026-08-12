@@ -42,4 +42,4 @@ None of this is difficult, but all of it is countercultural, because it runs aga
 
 ---
 
-*Next: [Appendix — How Modern Language Re-Trains Us](/the-word/the-language-of-the-land/appendix-modern-language), or return to [The Language of the Land](/the-word/the-language-of-the-land).*
+*Next: [Appendix — Packaged Words, Grown Words](/the-word/the-language-of-the-land/appendix-modern-language), or return to [The Language of the Land](/the-word/the-language-of-the-land).*

@@ -4,7 +4,7 @@
 </script>
 
 <ContentLayout
-  title="How Modern Language Re-Trains Us"
+  title="Packaged Words, Grown Words"
   module="The Word"
   moduleHref="/the-word"
   prevHref="/the-word/the-language-of-the-land/thinking-in-blocks"

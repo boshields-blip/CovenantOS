@@ -12,37 +12,31 @@ Three currents shape the modern imagination more than any others. They are not v
 
 ## Consumerism
 
-**What it is:** The training to see the whole world through preference, choice, acquisition, and convenience. It turns everything — goods, experiences, churches, even people — into products evaluated by how well they satisfy me.
+Consumerism is the training to see the whole world through preference, choice, acquisition, and convenience — the habit of turning everything, goods, experiences, churches, even people, into products evaluated by how well they satisfy me.
 
-**How to recognize it in yourself:** You reach for the language of fit, options, and upgrade when talking about your life. Church, vocation, and relationships get quietly judged by whether they are "working for me" and whether a better option might be available. Loyalty feels fragile; commitment feels like a cost you would rather keep low. Sacrifice, patience, and long obedience strike you as vaguely irrational. Abundance and novelty feel like blessing.
+You'll know it has hold of you when you notice yourself reaching for the language of fit, options, and upgrade to talk about your own life. Church, vocation, marriage — they get quietly judged by whether they're "working for me" and whether a better option might be out there. Loyalty starts to feel fragile. Commitment feels like a cost you'd rather keep low. Sacrifice, patience, and long obedience strike you as vaguely irrational, while abundance and novelty feel like blessing.
 
-**Its partial truth:** It rightly notices that stewardship, beauty, and care for people's real constraints matter — that institutions can be careless and opaque, and that good design serves people.
-
-**What the land of the text answers:** Persons are not customers and the people of God are not a brand. Goods are received with gratitude, but a life is not built by curation. Meaning comes through faithful belonging, patient love, and stewardship under God — not through endless preference satisfaction. The deepest things are not chosen from a shelf; they are received as covenant and kept.
+It isn't lying to you about everything. It's right that stewardship and beauty matter, that institutions can be careless and opaque, and that good design actually serves people — that part of the instinct is sound. But persons are not customers, and the people of God are not a brand. Goods are received with gratitude; a life is not built by curation. Meaning comes through faithful belonging and stewardship under God, not endless preference satisfaction. The deepest things were never chosen off a shelf. They were received as covenant, and kept.
 
 ---
 
 ## Expressive individualism
 
-**What it is:** The belief that the truest thing about you is an inner self that must be discovered, expressed, and validated by others — and that the highest good is to be authentic to that self, whatever the cost.
+Expressive individualism is the belief that the truest thing about you is an inner self, one that has to be discovered, expressed, and validated by others — and that the highest good you can do is stay authentic to that self, whatever it costs.
 
-**How to recognize it in yourself:** You locate the "real you" inside, in your feelings and desires, and you feel that to constrain them is to betray yourself. Your identity feels like a project you are authoring and performing rather than a gift you received. Words like authenticity, my truth, my journey, and living my purpose come naturally. Obligations that don't express your inner self start to feel inauthentic, even oppressive.
+You'll feel it when you locate the "real you" inside, in your feelings and desires, and start to sense that constraining them is a kind of betrayal. Identity starts to feel like a project you're authoring and performing rather than a gift you received. Words like authenticity, my truth, my journey, and living my purpose come naturally. Obligations that don't express your inner self begin to feel inauthentic, even oppressive.
 
-**Its partial truth:** It rightly honors that persons have real interior depth, that conscience matters, and that hollow conformity is not the same as faithfulness.
-
-**What the land of the text answers:** Identity is received before it is performed — given by God, within a covenant people, clarified through vocation, holiness, memory, and hope. The self is not sovereign and not the source of its own meaning. You become who you are not by expressing an inner core but by taking your place in God's story and being faithful within it. You are named before you author anything.
+It isn't wrong about everything either — persons do have real interior depth, conscience does matter, and hollow conformity was never the same thing as faithfulness. But identity is received before it is performed. It is given by God, inside a covenant people, and clarified through vocation, holiness, memory, and hope. The self was never sovereign, and was never the source of its own meaning. You don't become who you are by expressing some inner core. You become who you are by taking your place in God's story and staying faithful inside it. You are named before you ever author anything.
 
 ---
 
 ## Technocratic rationalism
 
-**What it is:** The assumption that reality is basically a system to be managed, that truth is what experts and data certify, and that most problems are best solved by more technique, more optimization, and more control.
+It's a mouthful of a name for something simple: treating the world like a system to be managed rather than a creation to be stewarded — trusting that truth is basically whatever the experts and the data certify, and that most problems get solved with more technique, more optimization, more control.
 
-**How to recognize it in yourself:** You instinctively reach for the language of scaling, strategy, optimization, and metrics — even about your soul, your family, or your church. You trust process and expertise more than embodied wisdom, and you feel that anything that can't be measured probably isn't real progress. Limits feel like engineering problems. Efficiency quietly functions as a form of goodness. When something is broken, your first instinct is a better system.
+You'll catch it in yourself when you reach for the language of scaling, strategy, and metrics — even about your soul, your family, or your church. You start trusting process and expertise more than embodied wisdom, and anything that can't be measured starts to feel like it isn't real progress. Limits feel like engineering problems to solve rather than gifts to receive. Efficiency quietly starts functioning as a form of goodness. And when something breaks, your first instinct is always a better system.
 
-**Its partial truth:** It rightly values competence, order, honesty about outcomes, and care for people's real needs — and it resists laziness and sentimentality.
-
-**What the land of the text answers:** The world is a creation to be stewarded, not a machine to be mastered, and human beings are creatures with real limits that are gifts, not defects. Truth is known through revelation, obedience, and the tested wisdom of a community — not by expertise alone. Some of the most important things (love, faithfulness, formation, a shared table) cannot be optimized, only practiced patiently over time. Technique serves covenant life; it cannot replace it.
+There's real truth buried in it — competence matters, order matters, honesty about outcomes matters, and it rightly resists laziness and sentimentality. But the world is a creation to be stewarded, not a machine to be mastered, and human limits are gifts, not defects. Truth is known through revelation, obedience, and the tested wisdom of a community, not by expertise alone. Some of the most important things — love, faithfulness, formation, a shared table — cannot be optimized. They can only be practiced patiently, over time. Technique can serve covenant life. It was never able to replace it.
 
 ---
 

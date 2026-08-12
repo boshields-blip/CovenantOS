@@ -8,17 +8,15 @@ Something has been lost in modern political life that is not easily named. We ha
 
 This document names what has been lost and what the covenantal alternative is.
 
-## The diagnosis
+## What we settle for
 
-Modern people are increasingly defined by:
+Ask most people today what makes them "a people," and you'll get a list of things that aren't quite it. You'll hear about the brands they buy and the lifestyle those purchases signal — a certain grocery bag says something different than another grocery bag, and everyone in that transaction knows it, even if no one says it out loud. You'll hear about a side — a set of political and cultural positions held together as much by a shared enemy as by a shared conviction — the kind of belonging where you can size up someone's tribe in about four seconds and never learn their name. You'll hear about the apps, the feeds, the voices someone lets into their head every day, which is a real community of a kind, except it can be swapped out with a swipe and it doesn't know when you're sick. You'll hear about "who I really am underneath it all" — the personal journey, the authentic self — as if a people could ever be built out of individuals each excavating their own interior alone.
 
-- **Consumer preferences** — your brand affiliations, purchasing patterns, and lifestyle choices shape your identity and determine which market segments you belong to
-- **Ideological tribe** — your alignment with a set of political or cultural positions defines your community; those who disagree are not neighbors but opponents
-- **Platform affiliation** — which apps you use, which communities you follow, which influencers you trust
-- **Therapeutic identity** — who you are inside, your authentic self, your personal journey — as described in [expressive_individualism.md](/the-word/knowing-your-own-way/the-cultural-currents)
-- **Political citizenship** — a legal status, a passport, a set of rights and obligations granted and enforced by the state
+> *A note on this one.* This is the "expressive individualism" current described more fully in [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents).
 
-None of these is nothing. But none of them is *peoplehood* in the covenantal sense. They are all either chosen, curated, or granted by an institution. They are held lightly and exchanged easily. They do not bind you to a place or a past. They do not require you to stay when staying is costly.
+And you'll hear about citizenship: a passport, a legal status, real enough, granted and revoked by people who have never met you.
+
+None of this is nothing. I buy things I've thought about, I hold convictions I'll argue for, I follow people whose voices I trust, I know something of my own heart, and I am glad to be a citizen of my country. But not one of these binds you to a place or a past. None of them requires you to stay when staying is costly. You can walk away from all five and lose nothing but convenience. Peoplehood, in the sense Scripture means it, cannot be walked away from that easily — which is exactly why so few of us have it anymore.
 
 ## *Am* (עַם) — the Hebrew word for people
 

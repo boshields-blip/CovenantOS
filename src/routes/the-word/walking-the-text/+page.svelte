@@ -9,7 +9,7 @@
   module="The Word"
   moduleHref="/the-word"
   prevHref="/the-word/the-language-of-the-land/appendix-modern-language"
-  prevLabel="How Modern Language Re-Trains Us"
+  prevLabel="Packaged Words, Grown Words"
   nextHref="/the-word/walking-the-text/reading-in-context"
   nextLabel="Reading in Context"
 >
