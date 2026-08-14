@@ -12,7 +12,7 @@ The target architecture is deliberately simple. There is no backend, no account 
 
 ---
 
-## The three modules
+## The three pillars
 
 1. **The Word** — the Hebraic thought environment organized into six movements
 2. **The Household** — oikonomia, household stewardship, agrarian rhythms, and relational economics

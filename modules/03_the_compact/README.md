@@ -2,7 +2,7 @@
 
 ---
 
-The Compact is Covenantal Architecture's political anthropology module. It asks the oldest public question: *how do communities govern themselves, order their shared life, and understand authority?* The answer here is not partisan — it is covenantal. Communities precede governments. Households covenant together before institutions are built. Authority is personal, local, and accountable before it is procedural, distant, and abstract.
+The Compact is Covenantal Architecture's political anthropology pillar. It asks the oldest public question: *how do communities govern themselves, order their shared life, and understand authority?* The answer here is not partisan — it is covenantal. Communities precede governments. Households covenant together before institutions are built. Authority is personal, local, and accountable before it is procedural, distant, and abstract.
 
 ## What The Compact is — and is not
 
@@ -14,7 +14,7 @@ The core diagnosis:
 
 The deepest fault line in Western political life is not left vs. right. It is **covenant vs. contract** — the difference between a community built on shared obligation, shared life, and faithfulness before God, and an arrangement built on negotiated terms, mutual self-interest, and consent alone.
 
-## How this module flows from The Household
+## How this pillar flows from The Household
 
 The Household showed that the household is the original economic and relational unit — that *oikonomia* is the ordering of home, land, and neighbor before it is the theory of markets.
 
@@ -33,12 +33,12 @@ The Compact → communities require a covenantal ordering of shared life
 ```
 
 - Upstream formation frame: [The Land of the Text](/the-word/the-land-of-the-text)
-- The diagnoses that this module answers: [Expressive Individualism](/the-word/knowing-your-own-way/the-cultural-currents), [Technocratic Rationalism](/the-word/knowing-your-own-way/the-cultural-currents), [Progressivist Utopianism](/the-word/knowing-your-own-way/the-cultural-currents)
-- Upstream household module: [The Household](/the-household)
+- The diagnoses that this pillar answers: [Expressive Individualism](/the-word/knowing-your-own-way/the-cultural-currents), [Technocratic Rationalism](/the-word/knowing-your-own-way/the-cultural-currents), [Progressivist Utopianism](/the-word/knowing-your-own-way/the-cultural-currents)
+- Upstream household pillar: [The Household](/the-household)
 
 ## Tone and posture
 
-This module is covenantal, local, embodied, and place-based. Authority is personal and accountable — it belongs to people you know by name, not to abstract institutions or managerial processes. Community emerges from shared life and shared obligation, not from institutional design.
+This pillar is covenantal, local, embodied, and place-based. Authority is personal and accountable — it belongs to people you know by name, not to abstract institutions or managerial processes. Community emerges from shared life and shared obligation, not from institutional design.
 
 The posture is slow, patient, and particular. Not revolutionary and not reactionary. The invitation is faithful presence in the specific place where you actually live — this neighborhood, this congregation, this market, this watershed.
 
@@ -58,7 +58,7 @@ In the Piedmont of South Carolina, this is not abstract. Local farmers markets, 
 - [Seeing the Neighbor](/the-compact/seeing-the-neighbor)
 - [Formation Questions](/the-compact/formation-questions)
 
-## How to read this module
+## How to read this pillar
 
 A suggested path:
 
@@ -71,4 +71,4 @@ A suggested path:
 7. Read [Covenant Economy in Practice](/the-compact/covenant-economy-in-practice) — the practical capstone that brings hospitality, farming, and small business together into one covenantal frame; for the householder, the farmer, and the tradesperson asking what faithfulness looks like in the economic life they actually have
 8. Use [Hebraic Word Studies](/the-compact/hebraic-word-studies) as a repeatable formation tool, returning to it often
 9. Read [Seeing the Neighbor](/the-compact/seeing-the-neighbor) — the capstone that draws the full arc together: from seeing the text, to seeing yourself, to seeing your household, to seeing your neighbor as the whole grammar of Covenantal Architecture
-10. Close with [Formation Questions](/the-compact/formation-questions) — the formal capstone questions across all three Covenantal Architecture modules
+10. Close with [Formation Questions](/the-compact/formation-questions) — the formal capstone questions across all three Covenantal Architecture pillars

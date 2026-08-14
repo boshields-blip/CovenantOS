@@ -48,11 +48,11 @@ Use these studies as formation tools, not only lexical notes. Read the texts slo
 
 ## Walking practice
 
-As you walk in this module:
+As you walk in this pillar:
 
 1. Choose one word for a week.
 2. Read its references at the household table.
 3. Name one concrete practice shift — one thing your household or community could do differently to walk more fully in this word.
 4. Revisit after one season and record what changed.
 
-For the full formation questions across all three modules, see [Formation Questions](/the-compact/formation-questions). For the word studies anchoring The Household module, see [Hebraic Word Studies](/the-household/hebraic-word-studies).
+For the full formation questions across all three pillars, see [Formation Questions](/the-compact/formation-questions). For the word studies anchoring The Household pillar, see [Hebraic Word Studies](/the-household/hebraic-word-studies).

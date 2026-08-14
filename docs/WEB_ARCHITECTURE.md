@@ -4,7 +4,7 @@ Status: Draft | Owner: @boshields-blip | Last updated: 2026-08-01
 
 ---
 
-> **The Word was restructured on 2026-08-01.** The module is now six movements — The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. The Diagnostic Engine and Berean Tool routes are retired. See `docs/WORD_REDESIGN.md` for the full rationale and map.
+> **The Word was restructured on 2026-08-01.** The pillar is now six movements — The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. The Diagnostic Engine and Berean Tool routes are retired. See `docs/WORD_REDESIGN.md` for the full rationale and map.
 
 
 ## Canonical role
@@ -18,7 +18,7 @@ This document is the canonical interactive web architecture for Covenantal Archi
 - **Framework:** SvelteKit
 - **Deployment target:** `@sveltejs/adapter-static` with prerendered routes and static asset output
 - **Styling:** Tailwind CSS
-- **Markdown pipeline:** mdsvex for markdown-driven pages and module content ingestion
+- **Markdown pipeline:** mdsvex for markdown-driven pages and pillar content ingestion
 - **Hebrew rendering font:** Noto Serif Hebrew for Hebrew word cards and inline Hebrew tokens
 - **Persistence:** browser `localStorage` only for reflection tools; no remote persistence
 
@@ -40,7 +40,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 
 | URL Path | Source Content File | Route Type |
 |---|---|---|
-| `/the-word` | `modules/01_the_word/README.md` | module-landing |
+| `/the-word` | `modules/01_the_word/README.md` | pillar-landing |
 | `/the-word/introduction` | `modules/01_the_word/INTRODUCTION.md` | page |
 | `/the-word/the-land-of-the-text/**` | `modules/01_the_word/01_the_land_of_the_text/*` | page subtree |
 | `/the-word/the-language-of-the-land/**` | `modules/01_the_word/02_the_language_of_the_land/*` | page subtree |
@@ -53,7 +53,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 
 | URL Path | Source Content File | Route Type |
 |---|---|---|
-| `/the-household` | `modules/02_the_household/README.md` | module-landing |
+| `/the-household` | `modules/02_the_household/README.md` | pillar-landing |
 | `/the-household/oikonomia` | `modules/02_the_household/OIKONOMIA.md` | page |
 | `/the-household/household-flow-model` | `modules/02_the_household/HOUSEHOLD_FLOW_MODEL.md` | tool |
 | `/the-household/agrarian-rhythms` | `modules/02_the_household/AGRARIAN_RHYTHMS.md` | page |
@@ -65,7 +65,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 
 | URL Path | Source Content File | Route Type |
 |---|---|---|
-| `/the-compact` | `modules/03_the_compact/README.md` | module-landing |
+| `/the-compact` | `modules/03_the_compact/README.md` | pillar-landing |
 | `/the-compact/covenant-vs-contract` | `modules/03_the_compact/COVENANT_VS_CONTRACT.md` | page |
 | `/the-compact/a-call-to-freedom` | `modules/03_the_compact/A_CALL_TO_FREEDOM.md` | page |
 | `/the-compact/subsidiarity` | `modules/03_the_compact/SUBSIDIARITY.md` | page |
@@ -81,14 +81,14 @@ The route inventory below is authoritative for the web build. Use it together wi
 
 - The homepage at `/` is **The Covenant Map**: a visual entry point that introduces the full formation terrain.
 - It uses **no navigation bar**. Entry happens through the map itself, a short orientation sentence, and slow reveal motion that invites walking rather than skimming.
-- Its regions foreshadow the formation terrain before the user moves into the three primary modules.
-- Each region reveal should fade in sequentially, with slight stagger and no abrupt movement, before the three module pathways become active entry points.
+- Its regions foreshadow the formation terrain before the user moves into the three primary pillars.
+- Each region reveal should fade in sequentially, with slight stagger and no abrupt movement, before the three pillar pathways become active entry points.
 
-## Module landing page pattern
+## Pillar landing page pattern
 
-Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follows the same pattern:
+Every pillar landing page (`/the-word`, `/the-household`, `/the-compact`) follows the same pattern:
 
-- **Scroll-based journey:** the landing page should read like a walk into the module rather than a dashboard.
+- **Scroll-based journey:** the landing page should read like a walk into the pillar rather than a dashboard.
 - **Stepping-stone pathway:** a visible ordered sequence of the key pages in the recommended reading path.
 - **Suggested entry points:** one highlighted first page, one reflective question, and one optional branch for returning users.
 - **Context banner support:** `/the-household` and `/the-compact` must be able to show the direct-entry contextual banner defined below.
@@ -97,7 +97,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 
 - **Reading width:** `720px` maximum text column width.
 - **Supporting elements:** pull quotes, Hebrew word cards, comparison panels, side-drawer cross-references, and reflective prompts are standard page-level primitives.
-- **Cross-reference behavior:** side drawers open inline related content from another module file without taking the user away from the current page.
+- **Cross-reference behavior:** side drawers open inline related content from another pillar file without taking the user away from the current page.
 - **Reflective posture:** prompts appear after major sections, never as interruptive pop-ups.
 
 ## Interactive element specifications
@@ -171,7 +171,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 ## Sequence enforcement policy
 
 - Covenantal Architecture uses **guided mode** as the recommended path: The Word -> The Household -> The Compact.
-- Direct deep links to `/the-household` and `/the-compact` must display a dismissible contextual banner: **"You are entering Module 2/3 — The Word forms the foundation."**
+- Direct deep links to `/the-household` and `/the-compact` must display a dismissible contextual banner: **"You are entering Pillar 2/3 — The Word forms the foundation."**
 - The banner is contextual, not a gate. Users may continue immediately after dismissal.
 
 ## localStorage policy
@@ -189,7 +189,7 @@ Every module landing page (`/the-word`, `/the-household`, `/the-compact`) follow
 ## Side drawer scope
 
 - Side drawers are **contextual cross-references only**.
-- A drawer opens inline content from another module file while preserving the current reading context.
+- A drawer opens inline content from another pillar file while preserving the current reading context.
 - Limit the interface to **two open drawers simultaneously**.
 - Drawer state is local to the current page instance; **no global state**.
 

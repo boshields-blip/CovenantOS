@@ -2,7 +2,7 @@
 
 ---
 
-The Household is Covenantal Architecture's *oikonomia* module: the recovery of household stewardship as the center of life. In this module, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
+The Household is Covenantal Architecture's *oikonomia* pillar: the recovery of household stewardship as the center of life. In this pillar, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
 
 ## Why *oikonomia*
 
@@ -12,14 +12,14 @@ Over time, *oikonomia* became Latin *oeconomia* and then modern "economics." In 
 
 See [Oikonomia](/the-household/oikonomia) for the full recovery study.
 
-## The inversion this module diagnoses
+## The inversion this pillar diagnoses
 
 The modern world inverted the order:
 
 - **Modern inversion:** marketplace as center; household as optional
 - **Covenantal order:** household as center; marketplace as supportive and derivative
 
-This module helps households name that inversion, see what was lost, and walk toward a recovered order where economics is relational rather than transactional.
+This pillar helps households name that inversion, see what was lost, and walk toward a recovered order where economics is relational rather than transactional.
 
 For related diagnosis upstream in The Word, see:
 
@@ -39,13 +39,13 @@ The Compact
 ```
 
 - Upstream frame: [The Land of the Text](/the-word/the-land-of-the-text)
-- Downstream module: [The Compact](/the-compact)
+- Downstream pillar: [The Compact](/the-compact)
 - Household table practice already present in The Word: [Philosophy](/the-word/living-the-covenant/come-to-the-table/philosophy)
 - Seasonal formation anchor in The Word: [Seasonal Rhythm](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm)
 
 ## Tone and posture
 
-This module is Hebraic, embodied, agrarian, and practical. As you walk in this, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations added later; they are part of the lived texture of the argument.
+This pillar is Hebraic, embodied, agrarian, and practical. As you walk in this, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations added later; they are part of the lived texture of the argument.
 
 Aletheia Farm can be named here as a real, lived instance of this household stewardship. Its operational concerns — venue scheduling, bookings, and event logistics — still belong in CommunityOS rather than in Covenantal Architecture.
 
@@ -64,7 +64,7 @@ This is not nostalgia. It is covenantal recovery.
 - [Land and Inheritance](/the-household/land-and-inheritance)
 - [Hebraic Word Studies](/the-household/hebraic-word-studies)
 
-## How to read this module
+## How to read this pillar
 
 A suggested path:
 

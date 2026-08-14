@@ -47,7 +47,7 @@ Beneath the reading are the assumptions that drive it — the [cultural currents
 - Where has faithfulness been quietly replaced by safety, efficiency, or being seen?
 - Where have I let a borrowed vocabulary — brand, platform, my truth, my peace — train my imagination without my noticing?
 
-Putting off is confession before it is correction. It names what must be set down without pretending the person who carried it was a villain — including when that person is you. The posture is the one the whole module requires: truthful, gentle, unhurried. Repentance, not self-contempt. The aim is to set something down, not to flog yourself for having carried it.
+Putting off is confession before it is correction. It names what must be set down without pretending the person who carried it was a villain — including when that person is you. The posture is the one this whole pathway requires: truthful, gentle, unhurried. Repentance, not self-contempt. The aim is to set something down, not to flog yourself for having carried it.
 
 A caution belongs here. Putting off is not the same as throwing away every good thing your tradition gave you. As [The Streams of the Traditions](/the-word/the-streams-of-the-traditions) insists, every stream carries real gifts alongside its blind spots. Re-formation keeps the gift and sets down the distortion. It does not burn the house to kill the moth.
 

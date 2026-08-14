@@ -8,7 +8,7 @@
 
 ---
 
-## What this module is
+## What this practice is
 
 Come to the Table is a weekly dinner practice. Once a week, a household gathers at a table, blesses the meal, reads a short passage aloud from an actual Bible, talks about what they heard, learns one thing from the text, and ends with simple prayer and blessing.
 
@@ -38,7 +38,7 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 ---
 
-## Module contents
+## Contents
 
 | File | Purpose |
 |---|---|
@@ -63,8 +63,8 @@ There is no required reading before the first session. Pick a passage, open a Bi
 - **01 Foundational Layer** supplies the covenantal "who God is" that the *Live* movement points to every week.
 - **02 Diagnostic Layer** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.
 - **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table).
-- **04 Language Module** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
-- **05 Formation Layer** — this module is the first concrete instance of the communal exercise promised in [The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway).
+- **04 Language Layer** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
+- **05 Formation Layer** — this practice is the first concrete instance of the communal exercise promised in [The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway).
 
 ---
 

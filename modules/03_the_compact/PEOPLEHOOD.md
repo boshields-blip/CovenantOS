@@ -111,7 +111,7 @@ The Word forms the imagination of a people — giving them the story, the langua
 
 The Household is where peoplehood is reproduced generation by generation — where children are formed within a covenant family before they are formed by any institution. See [Household Flow Model](/the-household/household-flow-model) for how the household's life flows into community.
 
-The Compact — this module — is where households that have been formed by The Word come together to form *am*: a people with a shared commons, a shared public life, and a shared future. The three modules form one arc.
+The Compact — this pillar — is where households that have been formed by The Word come together to form *am*: a people with a shared commons, a shared public life, and a shared future. The three pillars form one arc.
 
 ## See also
 

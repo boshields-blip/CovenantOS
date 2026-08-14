@@ -22,7 +22,7 @@ This document is the historical record of the Covenantal Architecture 2.0 conten
 
 | Legacy material | Covenantal Architecture 2.0 destination | Notes |
 |---|---|---|
-| Foundational philosophy and first-principles framing | **The Word → The Land of the Text** and module introduction | Reframed around the world Scripture assumes rather than the former layer directory names. |
+| Foundational philosophy and first-principles framing | **The Word → The Land of the Text** and pillar introduction | Reframed around the world Scripture assumes rather than the former layer directory names. |
 | Diagnostic and self-examination material | **The Word → Knowing Your Own Way** and `content/data/knowing_your_own_way.json` | Diagnostic content became a guided self-examination sequence and local-only reflection tool. |
 | Berean and text-walking material | **The Word → Walking the Text** and related study pages | The route tree now emphasizes reading in context and walking the text rather than a separate tool namespace. |
 | Language and Hebraic vocabulary material | **The Word → The Language of the Land** | Language work now lives inside the movement structure of The Word. |
@@ -31,9 +31,9 @@ This document is the historical record of the Covenantal Architecture 2.0 conten
 
 ---
 
-## Net-new module status
+## Net-new pillar status
 
-| Module | Status | Notes |
+| Pillar | Status | Notes |
 |---|---|---|
 | The Household | Complete | Household stewardship, agrarian rhythms, inheritance, and household reflection pages are now part of the active static site. |
 | The Compact | Complete | Covenantal public-life content and the Compact Builder reflection tool are now part of the active static site. |

@@ -36,7 +36,7 @@ The table is not the only place Scripture is heard. But it is a consistently ava
 
 A covenantal view of persons resists any arrangement where children are passive recipients while adults do the real forming. Children are image-bearers. They hear. They wonder. They ask questions adults no longer think to ask.
 
-The format in this module is designed so that the youngest child at the table has a door in before the oldest child takes the floor. That is not a technique for managing attention spans. It reflects a judgment about what kind of community a covenant household should be.
+The format in this practice is designed so that the youngest child at the table has a door in before the oldest child takes the floor. That is not a technique for managing attention spans. It reflects a judgment about what kind of community a covenant household should be.
 
 Children who are given a voice — even a very simple one — in a regular practice of Scripture and conversation grow into adults who believe that Scripture belongs to them, that God's word is for them, and that their attention matters.
 
@@ -48,7 +48,7 @@ Formation is fragile when it requires performance to survive.
 
 If the weekly table practice becomes a quiz, or a moment where children feel they must display knowledge to belong, the practice will produce anxiety rather than love. The surest way to train a young person to avoid Scripture is to make Scripture the place where they feel tested.
 
-This module holds two explicit commitments:
+This practice holds two explicit commitments:
 
 **No performance.** The table is not a classroom. The host is not a teacher extracting correct answers. The passage is read, the meal is eaten, and everyone is invited to say what they noticed — not what they can prove.
 

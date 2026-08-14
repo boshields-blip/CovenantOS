@@ -4,7 +4,7 @@ Status: Draft | Owner: @boshields-blip | Last updated: 2026-08-01
 
 ---
 
-> **The Word was restructured on 2026-08-01.** The module is now six movements — The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. The Diagnostic Engine and Berean Tool routes are retired. See `docs/WORD_REDESIGN.md` for the full rationale and map.
+> **The Word was restructured on 2026-08-01.** The pillar is now six movements — The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. The Diagnostic Engine and Berean Tool routes are retired. See `docs/WORD_REDESIGN.md` for the full rationale and map.
 
 
 This matrix is the canonical route-to-content map for the static web build. Reference routes are valid direct-link destinations but are never surfaced in primary navigation.
@@ -13,8 +13,8 @@ This matrix is the canonical route-to-content map for the static web build. Refe
 
 | Route | Content Source File | Nav Label | Route Type | Notes |
 |---|---|---|---|---|
-| `/` | `docs/INTRODUCTION.md` | Home | content-page | Homepage is The Covenant Map; hero copy is supported by the three module landing summaries. |
-| `/what-we-believe` | `content/what_we_believe.md` | What We Believe | content-page | Foundational confession (Trinity, gospel, hope) underneath all three modules; linked from homepage footer, About, and The Household-Covenant Tradition. Added 2026-08-09. |
+| `/` | `docs/INTRODUCTION.md` | Home | content-page | Homepage is The Covenant Map; hero copy is supported by the three pillar landing summaries. |
+| `/what-we-believe` | `content/what_we_believe.md` | What We Believe | content-page | Foundational confession (Trinity, gospel, hope) underneath all three pillars; linked from homepage footer, About, and The Household-Covenant Tradition. Added 2026-08-09. |
 | `/about` | `content/about_the_author.md` | About the Author | content-page | Author bio and AI-disclosure page; linked from homepage footer. |
 
 ## The Word
@@ -23,7 +23,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 
 | Route | Content Source File | Nav Label | Route Type |
 |---|---|---|---|
-| `/the-word` | landing component | The Word | module-landing |
+| `/the-word` | landing component | The Word | pillar-landing |
 | `/the-word/introduction` | `modules/01_the_word/INTRODUCTION.md` | Introduction | content-page |
 | `/the-word/the-land-of-the-text` | `01_the_land_of_the_text/README.md` | The Land of the Text | content-page |
 | `/the-word/the-land-of-the-text/the-hebraic-mind` | `01_the_land_of_the_text/THE_HEBRAIC_MIND.md` | The Hebraic Mind | content-page |
@@ -56,8 +56,8 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 
 | Route | Content Source File | Nav Label | Route Type | Notes |
 |---|---|---|---|---|
-| `/the-household` | `modules/02_the_household/README.md` | The Household | module-landing | Module landing with stepping-stone pathway and contextual banner when deep-linked directly. |
-| `/the-household/oikonomia` | `modules/02_the_household/OIKONOMIA.md` | Oikonomia | content-page | Suggested entry point for Module 2. |
+| `/the-household` | `modules/02_the_household/README.md` | The Household | pillar-landing | Pillar landing with stepping-stone pathway and contextual banner when deep-linked directly. |
+| `/the-household/oikonomia` | `modules/02_the_household/OIKONOMIA.md` | Oikonomia | content-page | Suggested entry point for Pillar 2. |
 | `/the-household/household-flow-model` | `modules/02_the_household/HOUSEHOLD_FLOW_MODEL.md` | Household Flow Model | tool | Narrative page with the animated circular household flow diagram and consumer economy toggle. |
 | `/the-household/agrarian-rhythms` | `modules/02_the_household/AGRARIAN_RHYTHMS.md` | Agrarian Rhythms | content-page | Embodied stewardship page. |
 | `/the-household/household-vs-consumer-economy` | `modules/02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md` | Household vs Consumer Economy | content-page | Comparison panel-heavy page. |
@@ -68,8 +68,8 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 
 | Route | Content Source File | Nav Label | Route Type | Notes |
 |---|---|---|---|---|
-| `/the-compact` | `modules/03_the_compact/README.md` | The Compact | module-landing | Module landing with stepping-stone pathway and contextual banner when deep-linked directly. |
-| `/the-compact/covenant-vs-contract` | `modules/03_the_compact/COVENANT_VS_CONTRACT.md` | Covenant vs. Contract | content-page | Suggested entry point for Module 3. |
+| `/the-compact` | `modules/03_the_compact/README.md` | The Compact | pillar-landing | Pillar landing with stepping-stone pathway and contextual banner when deep-linked directly. |
+| `/the-compact/covenant-vs-contract` | `modules/03_the_compact/COVENANT_VS_CONTRACT.md` | Covenant vs. Contract | content-page | Suggested entry point for Pillar 3. |
 | `/the-compact/a-call-to-freedom` | `modules/03_the_compact/A_CALL_TO_FREEDOM.md` | A Call to Freedom | content-page | Synthesis bridge from household formation into political stability and public obligation. |
 | `/the-compact/subsidiarity` | `modules/03_the_compact/SUBSIDIARITY.md` | Subsidiarity | content-page | Authority-ordering page. |
 | `/the-compact/commons-and-shared-life` | `modules/03_the_compact/COMMONS_AND_SHARED_LIFE.md` | Commons and Shared Life | content-page | Commons formation page. |

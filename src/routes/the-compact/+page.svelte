@@ -9,7 +9,7 @@
   const suggestedEntry = {
     label: 'Suggested starting place →',
     title: 'Covenant vs Contract',
-    description: 'Begin with the fault line that makes the rest of the module intelligible.',
+    description: 'Begin with the fault line that makes the rest of the pillar intelligible.',
     href: withBase('/the-compact/covenant-vs-contract')
   };
 
@@ -65,7 +65,7 @@
     {
       number: '09',
       title: 'Compact Builder',
-      description: 'Close with the capstone formation questions that gather the work of all three modules.',
+      description: 'Close with the capstone formation questions that gather the work of all three pillars.',
       href: withBase('/the-compact/formation-questions')
     }
   ];
@@ -100,7 +100,7 @@
         <div class="flex items-start justify-between gap-4">
           <div class="space-y-2 text-sm text-charcoal sm:text-base">
             <p>
-              The Compact builds on The Word and The Household. Walking those modules first will ground what you find here.
+              The Compact builds on The Word and The Household. Walking those pillars first will ground what you find here.
             </p>
             <div class="flex flex-wrap gap-4">
               <a

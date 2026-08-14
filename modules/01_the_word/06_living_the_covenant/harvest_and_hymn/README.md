@@ -4,17 +4,17 @@
 
 > *A quarterly, seasonal gathering where households come together with food, Scripture, song, and shared offerings.*
 
-**Harvest & Hymn** is a formation module within The Word for **quarterly community gathering**. Where [Come to the Table](/the-word/living-the-covenant/come-to-the-table) forms a household weekly around Scripture and meal, Harvest & Hymn extends that same rhythm into seasonal shared life.
+**Harvest & Hymn** is a quarterly community gathering within The Word. Where [Come to the Table](/the-word/living-the-covenant/come-to-the-table) forms a household weekly around Scripture and meal, Harvest & Hymn extends that same rhythm into seasonal shared life.
 
 The relationship is intentional: **weekly at home → quarterly in community**.
 
 ---
 
-## What this module is
+## What this practice is
 
 Harvest & Hymn is a table-centered community liturgy rooted in **1 Corinthians 14:26**: *"When you come together, each one has…"* Families bring food, reflection, creative offerings, and testimony so that the body is strengthened through mutual contribution.
 
-This module gives a stable quarterly shape whose content changes by season.
+This practice gives a stable quarterly shape whose content changes by season.
 
 ---
 

@@ -61,7 +61,7 @@ In the Piedmont of South Carolina, this is not a lost ideal. Small farms, skille
 
 ## The Piedmont SC context
 
-The texture of this module is not abstract. The Piedmont — from Greenville and Spartanburg to the smaller communities further out — has a genuine local economy being rebuilt from within:
+The texture of this pillar is not abstract. The Piedmont — from Greenville and Spartanburg to the smaller communities further out — has a genuine local economy being rebuilt from within:
 
 - Direct-market farms selling at local farmers markets and through CSA shares, where the relationship between grower and household is direct and personal
 - Small-scale animal agriculture — beef, pork, poultry, eggs — sold direct, with the grower's name on the label and their phone number available

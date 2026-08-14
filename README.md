@@ -14,9 +14,9 @@ There is no backend in the target architecture. There are no accounts, no member
 
 ---
 
-## The three modules
+## The three pillars
 
-| Module | Purpose | Tone |
+| Pillar | Purpose | Tone |
 |---|---|---|
 | **The Word** | Hebraic thought environment organized as six movements | Scripture is a land, not a library. You walk in it. |
 | **The Household** | Oikonomia — household stewardship, agrarian rhythms, and relational economics | Economics is relational, not transactional. The household is the first school. |
@@ -37,7 +37,7 @@ The Compact
 - [`docs/WEB_ARCHITECTURE.md`](docs/WEB_ARCHITECTURE.md) — canonical Covenantal Architecture 2.0 web architecture
 - [`docs/ROUTE_MATRIX.md`](docs/ROUTE_MATRIX.md) — route-to-content inventory for the static site
 - [`docs/DESIGN_PRINCIPLES.md`](docs/DESIGN_PRINCIPLES.md) — design language and product posture
-- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — module boundaries and repository surfaces
+- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — pillar boundaries and repository surfaces
 - [`docs/CONTENT_TRANSFER.md`](docs/CONTENT_TRANSFER.md) — historical transfer record for the retired legacy tree
 - [`archive/README.md`](archive/README.md) — archived Flutter/Supabase-era planning and migration documents
 
@@ -51,7 +51,7 @@ Covenantal Architecture/
 ├── content/
 │   └── data/                 # structured JSON data for interactive reflection tools
 ├── docs/                     # active architecture, design, and route docs
-├── modules/                  # markdown source of truth for module content
+├── modules/                  # markdown source of truth for pillar content
 │   ├── 01_the_word/
 │   ├── 02_the_household/
 │   └── 03_the_compact/

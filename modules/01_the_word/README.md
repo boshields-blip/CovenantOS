@@ -46,4 +46,4 @@ This content tree assumes a tone that is truthful, gentle, precise, and covenant
 
 ## What this content tree is for
 
-This tree preserves The Word's core formation content in a form that can continue to guide the module. It gives the product a canonical vocabulary, consistent sequence, structured reflection data, and a navigable documentation structure that remains independent from PlumbLineOS and CommunityOS operational concerns.
+This tree preserves The Word's core formation content in a form that can continue to guide the pillar. It gives the product a canonical vocabulary, consistent sequence, structured reflection data, and a navigable documentation structure that remains independent from PlumbLineOS and CommunityOS operational concerns.

@@ -42,11 +42,11 @@ Use these studies as formation tools, not only lexical notes. Read the texts slo
 
 ## Walking practice
 
-As you walk in this module:
+As you walk in this pillar:
 
 1. Choose one word for a week.
 2. Read its references at the household table.
 3. Name one concrete practice shift.
 4. Revisit after one season and record what changed.
 
-For the Greek bridge into this module's central term, see [Oikonomia](/the-household/oikonomia).
+For the Greek bridge into this pillar's central term, see [Oikonomia](/the-household/oikonomia).

@@ -6,7 +6,7 @@
 
 Most of us were handed the Bible as a book of information — verses to look up, doctrines to assemble, answers to retrieve. But the people who first received these words did not experience them that way. They received them as the story of a land they lived on, a covenant they were bound by, a household they belonged to, and a God who had made Himself known in their own soil, seasons, and shared life.
 
-*The Land of the Text* is the first movement of The Word, and it is the ground the rest of the module stands on. Before you can trace your own way through Scripture (movement 4), or weigh the streams of the traditions (movement 5), or live the covenant in table and season (movement 6), you have to enter the world the text assumes — the world it was written *from* and *into*.
+*The Land of the Text* is the first movement of The Word, and it is the ground the rest of the pillar stands on. Before you can trace your own way through Scripture (movement 4), or weigh the streams of the traditions (movement 5), or live the covenant in table and season (movement 6), you have to enter the world the text assumes — the world it was written *from* and *into*.
 
 This is not about becoming a scholar. It is about learning to read as someone standing inside the story rather than outside it, looking in.
 

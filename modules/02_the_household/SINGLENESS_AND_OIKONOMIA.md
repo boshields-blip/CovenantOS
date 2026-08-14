@@ -2,7 +2,7 @@
 
 ---
 
-Say the word "household" and most people picture a husband, a wife, and children — which means [The Ordered Household](/the-household/the-ordered-household) can sound, on a careless reading, like a vision with no room in it for anyone unmarried. That reading would be a mistake, and it would repeat the very error this whole module exists to correct. Singleness is not the absence of household. It is a different position inside one.
+Say the word "household" and most people picture a husband, a wife, and children — which means [The Ordered Household](/the-household/the-ordered-household) can sound, on a careless reading, like a vision with no room in it for anyone unmarried. That reading would be a mistake, and it would repeat the very error this whole pillar exists to correct. Singleness is not the absence of household. It is a different position inside one.
 
 ## The *bayit* was never just a couple
 

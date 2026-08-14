@@ -7,7 +7,7 @@
   const suggestedEntry = {
     label: 'Suggested starting place →',
     title: 'The Land of the Text',
-    description: 'Begin by entering the original world the Bible assumes — the ground the rest of the module stands on.',
+    description: 'Begin by entering the original world the Bible assumes — the ground the rest of the pillar stands on.',
     href: withBase('/the-word/the-land-of-the-text')
   };
 

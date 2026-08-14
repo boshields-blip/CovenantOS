@@ -8,7 +8,7 @@ Use these questions slowly — one section at a sitting, with a household or a s
 
 *There is also an interactive [Compact Builder](/the-compact/formation-questions) if you would rather work through these same questions on screen, one section at a time, with space to save your reflections as you go.*
 
-This capstone document draws from all three Covenantal Architecture modules. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
+This capstone document draws from all three Covenantal Architecture pillars. The arc is from imagination to household to public life — not because the three are separate, but because they are one covenantal whole seen from three angles.
 
 ---
 
@@ -116,7 +116,7 @@ This final section turns conviction into repeatable practice. The aim is not a p
 
 ## Closing reflection
 
-The three modules of Covenantal Architecture form one arc:
+The three pillars of Covenantal Architecture form one arc:
 
 **The Word** gives the imagination — the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and public life.
 
@@ -134,4 +134,4 @@ The gate is where you know your neighbor. Start there.
 
 ---
 
-*For further formation, return to [Hebraic Word Studies](/the-compact/hebraic-word-studies) in this module and [Hebraic Word Studies](/the-household/hebraic-word-studies) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*
+*For further formation, return to [Hebraic Word Studies](/the-compact/hebraic-word-studies) in this pillar and [Hebraic Word Studies](/the-household/hebraic-word-studies) in The Household. The word studies are designed for seasonal return — a word a week, a season at a time, across years.*

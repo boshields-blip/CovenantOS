@@ -2,7 +2,7 @@
 
 ---
 
-This isn't a fourth module, and it isn't a detour. It's what happens when you hold the other three up next to each other: what The Word forms in the imagination, what The Household embodies at the table, and what public life is actually asking of us. If you want the fuller diagnostic picture of why the word "freedom" means something so thin to us now, [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents) and [The Seven Questions](/the-word/knowing-your-own-way/the-seven-questions) trace it in more depth than I will here.
+This isn't a fourth pillar, and it isn't a detour. It's what happens when you hold the other three up next to each other: what The Word forms in the imagination, what The Household embodies at the table, and what public life is actually asking of us. If you want the fuller diagnostic picture of why the word "freedom" means something so thin to us now, [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents) and [The Seven Questions](/the-word/knowing-your-own-way/the-seven-questions) trace it in more depth than I will here.
 
 ## Two rafters, no ridge
 
@@ -30,7 +30,7 @@ Paul told the Galatians something that still cuts against the grain: *"You were 
 
 ## What this looks like from here
 
-None of this is a platform, and I'm not interested in building one. It's a diagnosis, and the household and the local market are where the recovery has to start, because that's the only place I actually have standing to build anything. [Subsidiarity](/the-compact/subsidiarity) and [Commons and Shared Life](/the-compact/commons-and-shared-life) work out how that recovery moves from one kitchen table out into a neighborhood without ever needing a program or an institution to launch it. If you want somewhere to actually start rather than more to read, the [Formation Questions](/the-compact/formation-questions) at the end of this module turn all three modules into concrete, seasonal practice — one household, one commitment, one season at a time.
+None of this is a platform, and I'm not interested in building one. It's a diagnosis, and the household and the local market are where the recovery has to start, because that's the only place I actually have standing to build anything. [Subsidiarity](/the-compact/subsidiarity) and [Commons and Shared Life](/the-compact/commons-and-shared-life) work out how that recovery moves from one kitchen table out into a neighborhood without ever needing a program or an institution to launch it. If you want somewhere to actually start rather than more to read, the [Formation Questions](/the-compact/formation-questions) at the end of this pillar turn all three pillars into concrete, seasonal practice — one household, one commitment, one season at a time.
 
 ## A call
 

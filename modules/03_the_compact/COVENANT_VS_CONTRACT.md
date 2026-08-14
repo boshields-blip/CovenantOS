@@ -2,7 +2,7 @@
 
 ---
 
-This is the foundational document of The Compact. Everything else in this module — subsidiarity, the commons, peoplehood, local markets — depends on seeing the difference between covenant and contract clearly. Once the distinction is named, the shape of modern political life becomes readable in a new way.
+This is the foundational document of The Compact. Everything else in this pillar — subsidiarity, the commons, peoplehood, local markets — depends on seeing the difference between covenant and contract clearly. Once the distinction is named, the shape of modern political life becomes readable in a new way.
 
 ## The distinction
 

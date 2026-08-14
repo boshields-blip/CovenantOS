@@ -6,19 +6,19 @@
 
 ## Overview
 
-Covenantal Architecture 2.0 is a static, interactive web experience organized around three modules: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
+Covenantal Architecture 2.0 is a static, interactive web experience organized around three pillars: **The Word**, **The Household**, and **The Compact**. The system is content-first and formative in intent: it is meant to reshape imagination, stewardship, and public life through a guided encounter rather than through dashboards, feeds, accounts, or backend-managed communities.
 
 The target architecture has no backend, no accounts, no forum, no memberships, no transactional logic, and no Supabase runtime dependency. Historical migration and audit material is preserved only under `archive/`.
 
 ---
 
-## Module structure
+## Pillar structure
 
-### Module 1 — The Word
+### Pillar 1 — The Word
 
 The Word is the Hebraic thinking environment for Covenantal Architecture. It absorbs the earlier philosophy and study material into six movements: The Land of the Text, The Language of the Land, Walking the Text, Knowing Your Own Way, The Streams of the Traditions, and Living the Covenant. Its purpose is not merely to help someone study scripture as information, but to help them walk through scripture as a land that forms perception, language, and practice.
 
-Primary content in this module includes:
+Primary content in this pillar includes:
 - Foundational covenantal philosophy and first principles
 - Diagnostic frames for rival philosophies and contradictions
 - Berean examination tools for teachers, traditions, and self
@@ -29,11 +29,11 @@ Primary content in this module includes:
 
 ---
 
-### Module 2 — The Household
+### Pillar 2 — The Household
 
-The Household is the oikonomia module: household stewardship as the center of life. It reframes economics away from abstract transactions and back toward the relational life of work, craft, land, hospitality, trade, and community.
+The Household is the oikonomia pillar: household stewardship as the center of life. It reframes economics away from abstract transactions and back toward the relational life of work, craft, land, hospitality, trade, and community.
 
-Primary content in this module includes:
+Primary content in this pillar includes:
 - Household flow models (work → craft → garden → hospitality → trade → community)
 - Oikonomia word study and household economy framing
 - Household economy vs. consumer economy contrasts
@@ -44,11 +44,11 @@ Primary content in this module includes:
 
 ---
 
-### Module 3 — The Compact
+### Pillar 3 — The Compact
 
-The Compact is the political anthropology module. It helps users understand how people organize themselves covenantally: through subsidiarity, shared stewardship, commons, local market life, and peoplehood. This module grows from the imagination formed in The Word and the household patterns formed in The Household.
+The Compact is the political anthropology pillar. It helps users understand how people organize themselves covenantally: through subsidiarity, shared stewardship, commons, local market life, and peoplehood. This pillar grows from the imagination formed in The Word and the household patterns formed in The Household.
 
-Primary content in this module includes:
+Primary content in this pillar includes:
 - Covenant vs. contract distinctions
 - Subsidiarity across local, regional, and civil layers
 - Commons and shared stewardship
@@ -59,7 +59,7 @@ Primary content in this module includes:
 
 ---
 
-## Module dependency diagram
+## Pillar dependency diagram
 
 ```text
 The Word
@@ -96,9 +96,9 @@ Covenantal Architecture may name Aletheia Farm and The Commons as lived examples
 
 The active Covenantal Architecture 2.0 architecture is expressed primarily through:
 
-- `modules/` — markdown source of truth for module content
+- `modules/` — markdown source of truth for pillar content
 - `content/data/` — structured content packs for interactive reflection tools
-- `src/routes/` — SvelteKit route surfaces and module entry points
+- `src/routes/` — SvelteKit route surfaces and pillar entry points
 - `src/lib/` — shared UI primitives for the static site
 - `static/` — public images and site assets
 - `docs/WEB_ARCHITECTURE.md` — canonical web architecture document

@@ -47,16 +47,16 @@ Interactivity exists to help users:
 
 ## Content-first
 
-Markdown content drives Covenantal Architecture. Structure, naming, and module sequencing should emerge from the content itself, and any future UI should serve that structure rather than forcing the content into an application-first mold.
+Markdown content drives Covenantal Architecture. Structure, naming, and pillar sequencing should emerge from the content itself, and any future UI should serve that structure rather than forcing the content into an application-first mold.
 
 In practice, this means:
 - content architecture comes before component architecture
-- module and layer naming should remain intelligible in plain text
+- pillar and layer naming should remain intelligible in plain text
 - the interface should illuminate the content, not compete with it
 
 ---
 
-## Module flow rationale
+## Pillar flow rationale
 
 The sequence **The Word → The Household → The Compact** is not arbitrary.
 

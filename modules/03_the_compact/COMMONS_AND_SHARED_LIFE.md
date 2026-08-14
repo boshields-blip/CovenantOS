@@ -86,4 +86,4 @@ The commons is not state ownership or collective management. Persons retain prop
 
 Collectivism absorbs the household into the collective. The commons *serves* the household by making the community that households need to flourish. This is the distinction that subsidiarity protects. See [Subsidiarity](/the-compact/subsidiarity) for how the levels interact.
 
-The covenant spirit in which the commons is held is described throughout this module — beginning with [Covenant vs. Contract](/the-compact/covenant-vs-contract). Subsidiarity determines which level governs which commons. Covenant determines the spirit in which it is held. The commons is the visible form of both working together in daily life.
+The covenant spirit in which the commons is held is described throughout this pillar — beginning with [Covenant vs. Contract](/the-compact/covenant-vs-contract). Subsidiarity determines which level governs which commons. Covenant determines the spirit in which it is held. The commons is the visible form of both working together in daily life.

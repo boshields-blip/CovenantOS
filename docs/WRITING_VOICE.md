@@ -6,7 +6,7 @@
 
 ## The two registers
 
-**1. Teaching register** — the voice of most Covenantal Architecture content. Covenantal, Hebraic, embodied, and pastoral. Accessible depth: credible but not academic; concrete over abstract; warm, unhurried, charitable. Names its own lens openly and refuses tribalism. This is the register the modules are written in.
+**1. Teaching register** — the voice of most Covenantal Architecture content. Covenantal, Hebraic, embodied, and pastoral. Accessible depth: credible but not academic; concrete over abstract; warm, unhurried, charitable. Names its own lens openly and refuses tribalism. This is the register the pillars are written in.
 
 **2. Personal register** — the voice of Brandon's testimony, prayers, and laments. Raw, first-person, confessional, and Christ-drenched. Psalmic. Unafraid of pain, anger, and vulnerability before God. This is the voice of the lament he wrote and of the About page. Use it for anything spoken *as himself*, not *about* a subject.
 
