@@ -62,11 +62,11 @@ Invite them in just as you would your own children: *"[Name], what's a word you 
 
 ## The hard rule: no Berean critique at a guest table
 
-When another family is present, the Berean Tool stays away. No critique of a teacher, sermon, tradition, or theological position that may belong to the guest family.
+When another family is present, Berean critique stays away. No critique of a teacher, sermon, tradition, or theological position that may belong to the guest family.
 
 This is not a rule born of conflict avoidance. It is a rule born of hospitality. A guest has come to the table. They have not signed up for a diagnostic conversation about their tradition or their trusted teachers.
 
-The table is a place of formation, not contention. This rule holds even when the Berean Tool would be genuinely useful and even when the guest family seems comfortable. Keep it for another occasion.
+The table is a place of formation, not contention. This rule holds even when Berean discernment would be genuinely useful and even when the guest family seems comfortable. Keep it for another occasion.
 
 ---
 

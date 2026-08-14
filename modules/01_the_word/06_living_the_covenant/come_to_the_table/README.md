@@ -4,7 +4,7 @@
 
 > *A weekly meal, a short passage, and a household learning to know God together.*
 
-**Come to the Table** is the first concrete communal practice under the Formation Layer of The Word. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.
+**Come to the Table** is the first concrete communal practice under Living the Covenant in The Word. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.
 
 ---
 
@@ -48,7 +48,7 @@ There is no required reading before the first session. Pick a passage, open a Bi
 | [Authors and Languages](/the-word/living-the-covenant/come-to-the-table/authors-and-languages) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
 | [Canonical Arc](/the-word/living-the-covenant/come-to-the-table/canonical-arc) | A four-year, low-pressure arc through the Scriptures |
 | [Host Guide](/the-word/living-the-covenant/come-to-the-table/host-guide) | Practical guide for the parent or host leading the table |
-| [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table) | How and when to bring the Berean Tool to the family table |
+| [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table) | How and when to bring Berean discernment to the family table |
 | [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) | How to invite and host another family |
 | [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
 | [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) | A short opening call to attention and blessing of the meal |
@@ -60,11 +60,11 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 ## How this practice relates to the rest of The Word
 
-- **01 Foundational Layer** supplies the covenantal "who God is" that the *Live* movement points to every week.
-- **02 Diagnostic Layer** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.
-- **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table).
-- **04 Language Layer** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
-- **05 Formation Layer** — this practice is the first concrete instance of the communal exercise promised in [The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway).
+- **The Land of the Text** supplies the covenantal "who God is" that the *Live* movement points to every week.
+- **Knowing Your Own Way** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.
+- **The Streams of the Traditions** is brought to the table occasionally, with guardrails, as Berean discernment during the Apprentice stage. See [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table).
+- **The Language of the Land** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
+- **Living the Covenant** — this practice is the first concrete instance of the communal exercise promised in [The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway).
 
 ---
 

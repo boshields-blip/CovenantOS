@@ -6,9 +6,9 @@
 
 ## What this file is
 
-This file describes how and when to bring the Berean Tool ([The Streams of the Traditions](/the-word/the-streams-of-the-traditions)) to the family table as part of Come to the Table. The Berean Tool is an occasional, structured practice within the weekly table rhythm — not the center of it.
+This file describes how and when to bring Berean discernment to the family table as part of Come to the Table — receiving teaching eagerly and then examining it against Scripture, as in Acts 17. It draws on the same posture as [The Streams of the Traditions](/the-word/the-streams-of-the-traditions). It is an occasional, structured practice within the weekly table rhythm — not the center of it.
 
-This is an important file. Read it before introducing the Berean Tool at the table.
+This is an important file. Read it before introducing this practice at the table.
 
 ---
 
@@ -20,7 +20,7 @@ A household that never learns to evaluate teaching will absorb whatever is offer
 
 This is especially important for the **Apprentice** stage (~15+). The Apprentice is old enough to recognize that not all teaching is equivalent, and young enough that their critical instincts may still be shaped toward warmth rather than contempt.
 
-The Berean Tool at the table teaches:
+Berean discernment at the table teaches:
 - That faithful people can be wrong without being faithless.
 - That a partial truth is still a truth, even when it is also incomplete.
 - That the goal of discernment is formation, not a verdict.
@@ -30,7 +30,7 @@ The Berean Tool at the table teaches:
 
 ## When to use it
 
-The Berean Tool at the table is occasional — perhaps once a month, perhaps less. It is not part of every session. Sessions that use the Berean Tool are longer and should be chosen for moments when the household has capacity.
+Berean discernment at the table is occasional — perhaps once a month, perhaps less. It is not part of every session. Sessions that include it are longer and should be chosen for moments when the household has capacity.
 
 **Good occasions:**
 - After a sermon the family heard together that week
@@ -40,7 +40,7 @@ The Berean Tool at the table is occasional — perhaps once a month, perhaps les
 - During Year 4 of the canonical arc, when the philosophy categories are explicitly in view
 
 **Not good occasions:**
-- When guests are present who are not familiar with the tool or the household's practice (see [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide))
+- When guests are present who are not familiar with the household's practice (see [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide))
 - When Little Ones or Image Bearers are at the table and fully present — keep the discussion brief and simple, or defer to after they have left the table
 - When the purpose is to win an argument, confirm an existing opinion, or dismiss someone
 
@@ -48,7 +48,7 @@ The Berean Tool at the table is occasional — perhaps once a month, perhaps les
 
 ## How to use it at the table
 
-The Berean Tool at the table is a simplified version of the full tool described in [The Streams of the Traditions](/the-word/the-streams-of-the-traditions). The table version does not produce a full profile. It simply uses the tool's posture and a few of its core questions.
+The table version keeps things simple and conversational — no profile, no written analysis. It borrows its posture and a few of its core questions from [The Streams of the Traditions](/the-word/the-streams-of-the-traditions).
 
 **A simple table structure:**
 
@@ -83,7 +83,7 @@ The Apprentice who leads a Berean moment at the table should ask, not declare. *
 An adult who demonstrates sophisticated critique without genuine warmth teaches the wrong lesson. The Mentor's role in a Berean conversation is to show that it is possible to say "I have real concerns here" and also "I am grateful for this person's courage, gifts, or faithfulness in these areas."
 
 **No Berean critique of a guest's tradition or teachers at a guest table.**
-See [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) for the explicit rule here. When another family is at the table, the Berean Tool stays away.
+See [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) for the explicit rule here. When another family is at the table, this practice stays away.
 
 ---
 
@@ -127,8 +127,8 @@ That is the posture the table should model.
 
 ---
 
-## Connection to the full Berean Tool
+## Going deeper outside the meal
 
-The table version of the Berean conversation is an entry point. For more structured analysis — a fuller profile, a careful category-by-category examination, a written comparison — use the full Berean Tool outside the meal.
+The table version of the Berean conversation is an entry point, not the whole of it. For more structured reflection — weighing a teacher's tradition, naming its gifts and its blind spots — see [The Streams of the Traditions](/the-word/the-streams-of-the-traditions).
 
-The full tool is designed for personal study, small-group work, or individual discernment. The table version is designed for formation in the midst of the meal — brief, accessible, and generative.
+That kind of study belongs to personal reading and reflection, or small-group work, outside the meal. The table version is designed for formation in the midst of the meal — brief, accessible, and generative.
