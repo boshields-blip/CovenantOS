@@ -1,7 +1,5 @@
 # Philosophy — Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Anchoring text

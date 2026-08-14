@@ -1,7 +1,5 @@
 # Authors and Languages — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## The rotating "Know" slot

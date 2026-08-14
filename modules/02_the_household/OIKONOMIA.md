@@ -1,7 +1,5 @@
 # Oikonomia: Recovering the Household Center
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Why this word matters
@@ -78,8 +76,8 @@ The Hebraic parallel is *bayit* (house/household). In the Old Testament, househo
 
 That is why *oikonomia* recovery belongs inside a Hebraic frame:
 
-- [covenantal_philosophy.md](/the-word/the-land-of-the-text)
-- [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies)
+- [The Land of the Text](/the-word/the-land-of-the-text)
+- [Hebraic Word Studies](/the-household/hebraic-word-studies)
 
 In covenantal thought, household stewardship is not domestic minimalism. It is participation in God's ordering of life.
 

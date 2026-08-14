@@ -1,14 +1,12 @@
 # Introduction to The Word
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## What is The Word?
 
 The Word is a static, interactive web experience for covenantal formation. It is designed as a guided interpretive space that helps people re-see life through a Hebraic frame: scripture, household, land, stewardship, and public life held together in covenant rather than split apart into isolated topics.
 
-This module belongs to a deliberately simple architecture. There is no backend, no account system, no forum, no membership model, and no intended Supabase runtime.
+This module is deliberately simple: there's no login, no account to create, and no forum to manage. Just words to read and sit with.
 
 ---
 
@@ -26,18 +24,6 @@ The Household → households form communities
 The Compact
 ```
 
----
-
-## How to read the repository right now
-
-- `modules/` expresses the target three-module architecture
-- `docs/ARCHITECTURE.md` explains the active three-module structure
-- `docs/DESIGN_PRINCIPLES.md` explains the design language behind the redesign
-- `docs/CONTENT_TRANSFER.md` records the completed migration into the six-movement Word structure
-- `archive/` preserves historical migration material that no longer defines the active site
-
----
-
 ## What this module is not
 
-The Word is not operational software for trades, homestead logistics, commerce, or backend-managed community features. Its purpose is formational, interpretive, and relational.
+The Word is not a tool for managing trades, homestead logistics, or commerce. Its purpose is formational, interpretive, and relational.

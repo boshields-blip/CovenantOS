@@ -1,7 +1,5 @@
 # To See
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > Now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known. — 1 Corinthians 13:12

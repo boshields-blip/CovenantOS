@@ -36,6 +36,7 @@ renders; only that image slot is empty.
 | `seasonal-wheel.png` | Household → Agrarian Rhythms (cycle) | 1:1 |
 | `gleaning.png` | Household → Household vs Consumer Economy / Compact → Commons | 16:9 |
 | `land-and-inheritance.png` | Household → Land and Inheritance (with water tower) | 16:9 |
+| `singleness-and-oikonomia.png` | Household → Singleness and Oikonomia | 16:9 |
 
 ## Craftsman & trade
 

@@ -1,7 +1,5 @@
 # The Covenant Story
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 The Bible is not a collection of religious sayings, a rulebook, or an anthology of inspirational passages to be mined for verses. It is one story — a single covenant narrative that runs from creation to new creation, held together by a God who binds Himself to a people and will not let them go. Learning to see that arc is learning to read any single passage in its true home. A verse pulled out of the story can be made to mean almost anything. A verse read within the story means what it was given to mean.

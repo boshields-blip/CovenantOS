@@ -1,7 +1,5 @@
 # Appendix — Packaged Words, Grown Words
 
-**Status:** Draft (reference) | **Author:** Brandon O'Shields | **Last updated:** 2026-08-12
-
 ---
 
 > This is a reference appendix, not part of the main path. Learn the language of the land first ([Hebrew Word Pictures](/the-word/the-language-of-the-land/hebrew-word-pictures), [Thinking in Blocks](/the-word/the-language-of-the-land/thinking-in-blocks)); this page is here for when you want to notice the pull of your own tongue by contrast.

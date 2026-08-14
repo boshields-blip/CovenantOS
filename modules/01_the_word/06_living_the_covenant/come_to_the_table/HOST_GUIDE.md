@@ -1,7 +1,5 @@
 # Host Guide — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Who this guide is for
@@ -12,12 +10,12 @@ This guide is for the parent, guardian, or adult who leads the weekly table prac
 
 ## How to prepare in ten minutes
 
-The session files in `sessions/` are designed so that a host can prepare in a single short read. Here is how:
+Each week's session guide is designed so a host can prepare in a single short read. Here is how:
 
-1. **Read the session file once.** Note the passage reference, the author, the Know slot category, the notice prompts, and the live invitation.
+1. **Read the session guide once.** Note the passage reference, the author, the Know slot category, the notice prompts, and the live invitation.
 2. **Open your Bible to the passage.** Read it once to yourself. You do not need to understand it fully before the session — your job is to read it aloud, not to explain it.
-3. **Choose the Know slot point.** The session file will tell you which category is up (author, audience, language, genre, frame, philosophy, or tradition). Read the corresponding entry in [AUTHORS_AND_LANGUAGES.md](/the-word/living-the-covenant/come-to-the-table/authors-and-languages).
-4. **Glance at the notice prompts.** Each session file has one prompt per age band. You will not read these aloud — they are cues to help you invite each age naturally in the *Notice* movement.
+3. **Choose the Know slot point.** The session guide will tell you which category is up (author, audience, language, genre, frame, philosophy, or tradition). Read the corresponding entry in [Authors and Languages](/the-word/living-the-covenant/come-to-the-table/authors-and-languages).
+4. **Glance at the notice prompts.** Each session guide has one prompt per age band. You will not read these aloud — they are cues to help you invite each age naturally in the *Notice* movement.
 5. **Know the live invitation.** You will say this once, near the end. It should be concrete and short enough that you can repeat it without looking at notes.
 
 That is all. Put the device away. Come to the table.
@@ -38,7 +36,7 @@ Reading aloud is a skill, and it improves quickly with practice. A few principle
 
 **Read it twice when young children are present.** The first reading is for the older bands. The second reading allows younger children a second pass, which is often when a single image or word catches.
 
-See [liturgies/reading.md](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for more guidance.
+See [Reading](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for more guidance.
 
 ---
 
@@ -110,7 +108,7 @@ The simplest prompt for a young child is: *"[Name], what's a word you heard?"* A
 
 ## How to close
 
-The closing blessing in [liturgies/closing.md](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) is brief — meant to be said together, if possible. After the blessing, the session is done. The household returns to the rest of the meal or the work of clearing plates.
+The closing blessing in [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) is brief — meant to be said together, if possible. After the blessing, the session is done. The household returns to the rest of the meal or the work of clearing plates.
 
 Resist the urge to add a summary or a lesson after the closing. The closing is the closing. Let it end.
 

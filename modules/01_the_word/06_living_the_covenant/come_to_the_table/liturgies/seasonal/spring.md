@@ -14,4 +14,4 @@
 
 What might your family bring this season to Harvest & Hymn?
 
-See the matching quarterly liturgy: [../../../harvest_and_hymn/liturgies/spring.md](/the-word/living-the-covenant/harvest-and-hymn/liturgies/spring).
+See the matching quarterly liturgy: [Spring Liturgy](/the-word/living-the-covenant/harvest-and-hymn/liturgies/spring).

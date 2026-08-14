@@ -111,6 +111,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://covenantos.example.com/the-household/singleness-and-oikonomia</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://covenantos.example.com/the-word/introduction</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -148,6 +153,11 @@
   <url>
     <loc>https://covenantos.example.com/the-word/knowing-your-own-way/the-cultural-currents</loc>
     <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://covenantos.example.com/the-word/knowing-your-own-way/covenantal-identity</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>

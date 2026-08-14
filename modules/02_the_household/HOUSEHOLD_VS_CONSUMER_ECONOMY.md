@@ -1,7 +1,5 @@
 # Household Economy vs Consumer Economy
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Two economic imaginations
@@ -30,9 +28,9 @@ That vision can make every relationship transactional. Christian formation is th
 
 For upstream diagnosis, see:
 
-- [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents)
-- [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents)
-- [covenantal_philosophy.md](/the-word/the-land-of-the-text)
+- [Consumerism](/the-word/knowing-your-own-way/the-cultural-currents)
+- [Technocratic Rationalism](/the-word/knowing-your-own-way/the-cultural-currents)
+- [The Land of the Text](/the-word/the-land-of-the-text)
 
 ## The inversion moment (brief history)
 

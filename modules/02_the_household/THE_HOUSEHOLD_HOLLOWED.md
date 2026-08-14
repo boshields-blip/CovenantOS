@@ -1,7 +1,5 @@
 # The Household Hollowed
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Before we can talk about what a household is *for*, we have to name what happened to it — because most of us are trying to build a home on the ruins of one, without quite knowing that a demolition took place. The unease so many men and women feel in their own houses is not a personal failure and it is not imagined. It is the aftershock of a structural change so large that it reshaped what it even means to be a man, a woman, and a family. And almost no one told us it happened.

@@ -1,7 +1,5 @@
 # Canonical Arc — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## What this arc is

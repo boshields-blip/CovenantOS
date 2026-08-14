@@ -143,6 +143,20 @@
       ],
       "land_of_text": "The world is a creation to be stewarded, not a machine to be mastered, and human beings are creatures with real limits that are gifts, not defects. Some of the most important things — love, faithfulness, formation, a shared table — cannot be optimized, only practiced patiently over time. Technique serves covenant life; it cannot replace it.",
       "reflect_prompt": "Where do I feel this current pulling in me — and what would it look like to be re-anchored?"
+    },
+    {
+      "id": "current_therapeutic",
+      "kind": "current",
+      "subtitle": "Cultural current",
+      "title": "Therapeutic determinism",
+      "why": "The conviction that your family's wounds are the truest, most durable fact about you — that your childhood and inherited dysfunction are the primary lens for reading your life, and that naming and breaking from the wound is the central task of adulthood.",
+      "ask": [
+        "Does my default account of myself start with my damage rather than my calling?",
+        "Do I explain a marriage, a parenting choice, or a besetting struggle mainly by tracing it back to what was done to me?",
+        "Does faithfulness feel presumptuous to me until a wound is fully resolved?"
+      ],
+      "land_of_text": "Scripture never asks you to arrive with an unbroken past before it asks you to be faithful. Real trauma is real and should be named honestly, but a wound is not a foundation and a diagnosis is not an identity. Christ transforms the person first, and through the person, the household — generational faithfulness carried by people who no longer let the fracture write the next chapter.",
+      "reflect_prompt": "Where do I feel this current pulling in me — and what would it look like to be re-anchored?"
     }
   ],
   "closing": "You will not answer these once and be done. Return to them — a question a season, across years — and watch your answers change as your life is reshaped by the world of the text. Where you found your way running against the grain, do not despair and do not merely resolve to try harder. Notice where it came from, and carry it into Living the Covenant, where seeing becomes practice."

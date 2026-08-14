@@ -1,7 +1,5 @@
 # Philosophy — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Why the family table

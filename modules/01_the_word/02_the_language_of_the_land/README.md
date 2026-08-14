@@ -1,7 +1,5 @@
 # The Language of the Land
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > Learn to think in the Bible's own words — rooted in land, household, and covenant.

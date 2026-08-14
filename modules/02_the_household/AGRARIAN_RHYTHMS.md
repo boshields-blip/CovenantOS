@@ -1,7 +1,5 @@
 # Agrarian Rhythms
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Thesis
@@ -90,7 +88,7 @@ Use seasons intentionally:
 - schedule hospitality around harvest and rest windows
 - review what the land taught this season and what to change next
 
-For a companion formation practice, see [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm).
+For a companion formation practice, see [Seasonal Rhythm](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm).
 
 ## See also
 

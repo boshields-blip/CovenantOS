@@ -1,7 +1,5 @@
 # The Hebraic Mind
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Before you can read Scripture in its own world, you have to meet the mind that wrote it. The biblical authors, on the whole, did not think the way modern Westerners think. This is not a matter of intelligence; it is a matter of imagination — the deep, usually invisible assumptions about what is real, how truth works, and what a person is. When we read the Bible with a modern mind, we hear modern answers to questions the text was not asking. Learning to think Hebraically is learning to hear the questions it *was* asking.

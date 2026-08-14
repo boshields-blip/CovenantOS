@@ -1,7 +1,5 @@
 # Walking the Text
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > The first hearers walked the text in their own world. Learn to walk it with them.

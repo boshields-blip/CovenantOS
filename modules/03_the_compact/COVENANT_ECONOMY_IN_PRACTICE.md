@@ -1,7 +1,5 @@
 # Covenant Economy in Practice
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 The theology of The Compact is not abstract — it has hands and a workbench and a market stall. What the previous documents establish in principle, this one asks to inhabit in practice. It is written for three kinds of people who are already present in the Piedmont: the householder learning to practice hospitality as a covenant rhythm, the farmer or producer building a direct-market operation with covenant ethics, and the tradesperson or small business owner asking what it means to build something worth passing on. The question for each is the same: *what does faithfulness look like in the economic life I actually have?*
@@ -63,7 +61,7 @@ This section is for the tradesperson, the small business owner, and the person w
 
 ### The Covenant Business and the Contractual Business
 
-[COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract) traces the deepest fault line in Western political life. The same fault line runs through commercial life:
+[Covenant vs. Contract](/the-compact/covenant-vs-contract) traces the deepest fault line in Western political life. The same fault line runs through commercial life:
 
 | Dimension | Covenant business | Contractual business |
 |---|---|---|

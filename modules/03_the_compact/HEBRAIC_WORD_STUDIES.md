@@ -1,7 +1,5 @@
 # Hebraic Word Studies for The Compact
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Use these studies as formation tools, not only lexical notes. Read the texts slowly, then ask what your household and community are called to do differently.
@@ -57,4 +55,4 @@ As you walk in this module:
 3. Name one concrete practice shift — one thing your household or community could do differently to walk more fully in this word.
 4. Revisit after one season and record what changed.
 
-For the full formation questions across all three modules, see [FORMATION_QUESTIONS.md](/the-compact/formation-questions). For the word studies anchoring The Household module, see [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies).
+For the full formation questions across all three modules, see [Formation Questions](/the-compact/formation-questions). For the word studies anchoring The Household module, see [Hebraic Word Studies](/the-household/hebraic-word-studies).

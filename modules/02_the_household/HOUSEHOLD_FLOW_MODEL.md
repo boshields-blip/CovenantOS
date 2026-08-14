@@ -1,7 +1,5 @@
 # Household Flow Model
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## The flow

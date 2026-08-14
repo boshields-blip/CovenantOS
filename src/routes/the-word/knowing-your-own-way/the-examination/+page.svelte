@@ -120,8 +120,8 @@
   title="The Examination"
   module="The Word"
   moduleHref="/the-word"
-  prevHref="/the-word/knowing-your-own-way/the-cultural-currents"
-  prevLabel="The Cultural Currents"
+  prevHref="/the-word/knowing-your-own-way/covenantal-identity"
+  prevLabel="Covenantal Identity"
   nextHref="/the-word/the-streams-of-the-traditions"
   nextLabel="The Streams of the Traditions"
 >

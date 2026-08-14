@@ -1,7 +1,5 @@
 # Covenant vs. Contract
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 This is the foundational document of The Compact. Everything else in this module — subsidiarity, the commons, peoplehood, local markets — depends on seeing the difference between covenant and contract clearly. Once the distinction is named, the shape of modern political life becomes readable in a new way.
@@ -37,7 +35,7 @@ God's covenants in Scripture follow a consistent pattern:
 
 Each of these covenants is personal, specific, and embedded in a people in a place. The New Covenant does not dissolve particularity — it expands it to include the nations while remaining rooted in God's faithfulness to His word.
 
-The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [covenantal_philosophy.md](/the-word/the-land-of-the-text) for the full frame.
+The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [The Land of the Text](/the-word/the-land-of-the-text) for the full frame.
 
 ## How contract thinking replaced covenant thinking
 
@@ -61,7 +59,7 @@ The problems with this account are both historical and theological:
 
 **Theologically**, it inverts the order. Creation precedes individual freedom. Community — household, clan, tribe, people — is part of how God made human beings, not a post-hoc agreement among prior individuals. To say that individuals form communities is to say that persons are more basic than relationships. But Scripture says otherwise: "It is not good for man to be alone" (Genesis 2:18) — and that was before the Fall.
 
-For the diagnostic anatomy of these traditions, see [expressive_individualism.md](/the-word/knowing-your-own-way/the-cultural-currents) and [progressivist_utopianism.md](/the-word/knowing-your-own-way/the-cultural-currents).
+For the diagnostic anatomy of these traditions, see [Expressive Individualism](/the-word/knowing-your-own-way/the-cultural-currents) and [Progressivist Utopianism](/the-word/knowing-your-own-way/the-cultural-currents).
 
 ## The political consequences of contract thinking
 
@@ -83,7 +81,7 @@ The covenantal imagination stands the social contract tradition on its head:
 
 **Persons are formed within covenant communities before they can negotiate contracts.** The capacity to make and keep agreements — to be a reliable covenant partner — is itself a formation product. You learn faithfulness in a household before you can practice it in a market.
 
-**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal — not because a procedure granted it.
+**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [Hebraic Word Studies](/the-compact/hebraic-word-studies)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal — not because a procedure granted it.
 
 **Obligations precede rights.** The covenant establishes obligations first — toward God, toward neighbor, toward the land, toward the stranger. Rights are the protections that correspond to those obligations. The widow has a claim on gleaning fields not because she negotiated for it, but because the covenant obligates landowners to make room for her.
 
@@ -98,7 +96,7 @@ The practical question is not whether you prefer covenant or contract as a philo
 
 The answers reveal which imagination has formed you. As your household and community walk in this, the covenant imagination can be re-learned — not as theory, but as practice, obligation, and shared life.
 
-For the household economic dimension of this, see [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy). For the public-life application, see [SUBSIDIARITY.md](/the-compact/subsidiarity) and [COMMONS_AND_SHARED_LIFE.md](/the-compact/commons-and-shared-life).
+For the household economic dimension of this, see [Household Economy vs Consumer Economy](/the-household/household-vs-consumer-economy). For the public-life application, see [Subsidiarity](/the-compact/subsidiarity) and [Commons and Shared Life](/the-compact/commons-and-shared-life).
 
 ## See also
 

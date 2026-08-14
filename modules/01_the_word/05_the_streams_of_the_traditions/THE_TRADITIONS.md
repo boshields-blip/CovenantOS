@@ -1,7 +1,5 @@
 # The Traditions
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Each stream below is mapped the same way: its center of gravity, its genuine gifts, the blind spots it tends to carry, and what any believer can receive from it. Gifts come first, always — not as flattery, but because every one of these streams has produced saints and wisdom, and you cannot rightly weigh what you have not first honored. These are common tendencies, not verdicts on any individual. Real people are always more than their tradition.

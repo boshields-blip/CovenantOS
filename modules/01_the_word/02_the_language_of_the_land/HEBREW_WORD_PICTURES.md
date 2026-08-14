@@ -1,7 +1,5 @@
 # Hebrew Word Pictures
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Biblical Hebrew is a concrete language. Where we reach for abstractions, it reaches for things you can see, touch, and carry. Its words often trace back to physical roots — breath, weight, soil, a firm-planted post — so that even its most "spiritual" terms keep the smell of the earth on them. This is not a limitation of a primitive tongue. It is a gift. It keeps the truth attached to something you can live, and it resists the very abstraction that lets modern faith float free of ordinary life.

@@ -1,7 +1,5 @@
 # Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 > *A quarterly, seasonal gathering where households come together with food, Scripture, song, and shared offerings.*
@@ -24,21 +22,21 @@ This module gives a stable quarterly shape whose content changes by season.
 
 | File | Purpose |
 |---|---|
-| [PHILOSOPHY.md](/the-word/living-the-covenant/harvest-and-hymn/philosophy) | The governing convictions for Harvest & Hymn |
-| [SEASONAL_RHYTHM.md](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm) | Spring, Summer, Fall, Winter themes and anchors |
-| [GATHERING_FORMAT.md](/the-word/living-the-covenant/harvest-and-hymn/gathering-format) | Canonical five-movement quarterly liturgy |
-| [FAMILY_PREPARATION.md](/the-word/living-the-covenant/harvest-and-hymn/family-preparation) | How households prepare through worship, work, and reflection |
-| [ELDER_GUIDE.md](/the-word/living-the-covenant/harvest-and-hymn/elder-guide) | How elders equip without dominating |
-| [WORKSHOPS.md](/the-word/living-the-covenant/harvest-and-hymn/workshops) | Optional seasonal workshops and add-ons |
-| [liturgies/spring.md](/the-word/living-the-covenant/harvest-and-hymn/liturgies/spring) | Spring liturgy |
-| [liturgies/summer.md](/the-word/living-the-covenant/harvest-and-hymn/liturgies/summer) | Summer liturgy |
-| [liturgies/fall.md](/the-word/living-the-covenant/harvest-and-hymn/liturgies/fall) | Fall liturgy |
-| [liturgies/winter.md](/the-word/living-the-covenant/harvest-and-hymn/liturgies/winter) | Winter liturgy |
+| [Philosophy](/the-word/living-the-covenant/harvest-and-hymn/philosophy) | The governing convictions for Harvest & Hymn |
+| [Seasonal Rhythm](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm) | Spring, Summer, Fall, Winter themes and anchors |
+| [Gathering Format](/the-word/living-the-covenant/harvest-and-hymn/gathering-format) | Canonical five-movement quarterly liturgy |
+| [Family Preparation](/the-word/living-the-covenant/harvest-and-hymn/family-preparation) | How households prepare through worship, work, and reflection |
+| [Elder Guide](/the-word/living-the-covenant/harvest-and-hymn/elder-guide) | How elders equip without dominating |
+| [Workshops](/the-word/living-the-covenant/harvest-and-hymn/workshops) | Optional seasonal workshops and add-ons |
+| [Spring Liturgy](/the-word/living-the-covenant/harvest-and-hymn/liturgies/spring) | Spring liturgy |
+| [Summer Liturgy](/the-word/living-the-covenant/harvest-and-hymn/liturgies/summer) | Summer liturgy |
+| [Fall Liturgy](/the-word/living-the-covenant/harvest-and-hymn/liturgies/fall) | Fall liturgy |
+| [Winter Liturgy](/the-word/living-the-covenant/harvest-and-hymn/liturgies/winter) | Winter liturgy |
 
 ---
 
 ## Relationship to Come to the Table
 
-- **Come to the Table** remains the weekly household practice. See [../come_to_the_table/README.md](/the-word/living-the-covenant/come-to-the-table).
+- **Come to the Table** remains the weekly household practice. See [Come to the Table](/the-word/living-the-covenant/come-to-the-table).
 - **Harvest & Hymn** is the quarterly community expression of that same rhythm.
-- Households carry the same seasonal thread from weekly table practice into quarterly shared gathering. See [../come_to_the_table/SEASONAL_LITURGY.md](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy).
+- Households carry the same seasonal thread from weekly table practice into quarterly shared gathering. See [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy).

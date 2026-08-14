@@ -1,7 +1,5 @@
 # Subsidiarity
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Subsidiarity is the principle that decisions and authority should rest at the lowest competent level — closest to the people affected. What can be done at the household level should not be done at the community level. What can be done at the community level should not be done at the regional level. What can be done at the regional level should not be done by the civil state.
@@ -37,7 +35,7 @@ The Mosaic governance structure (Exodus 18) makes this concrete. Moses is judgin
 
 Jethro's counsel is administrative, but it is also covenantal. He advises Moses to establish leaders of thousands, hundreds, fifties, and tens — each level holding cases appropriate to its competence, only the most difficult cases reaching Moses. This is not bureaucracy. It is a covenant people distributing authority so that it remains personal, accessible, and accountable at every level.
 
-The city gates (*sha'ar*) are the Hebraic image of this principle in daily life. See the word study in [HEBRAIC_WORD_STUDIES.md](/the-compact/hebraic-word-studies). The elders at the gate are local, known, embedded in the community whose disputes they adjudicate. Justice at the gate is not abstract: it is the face of your neighbor on one side and the face of the person they wronged on the other.
+The city gates (*sha'ar*) are the Hebraic image of this principle in daily life. See the word study in [Hebraic Word Studies](/the-compact/hebraic-word-studies). The elders at the gate are local, known, embedded in the community whose disputes they adjudicate. Justice at the gate is not abstract: it is the face of your neighbor on one side and the face of the person they wronged on the other.
 
 ## The inversion in modern life
 
@@ -47,7 +45,7 @@ The modern world has inverted subsidiarity on nearly every front.
 
 **Platform consolidation.** The digital economy has repeated the pattern of industrial consolidation: what once existed as distributed local institutions — the local bookshop, the local newspaper, the local marketplace, the local forum of public discourse — now runs through a handful of large platforms. These platforms are not neutral infrastructure; they shape attention, surface information, and govern speech according to their own incentive structures. What belongs to the local has been captured by the distant.
 
-**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents).
+**Managerial bureaucracy.** In government, in education, in healthcare, and increasingly in churches, the response to complexity is to add a management layer — a specialist, a committee, a regulatory board, a credentialing body. The cumulative effect is that ordinary people lose the expectation that they can handle their own affairs. The managerial class is not evil; it is self-perpetuating. Every problem it fails to solve becomes a reason to expand its reach. See the diagnosis in [Technocratic Rationalism](/the-word/knowing-your-own-way/the-cultural-currents).
 
 ## The formative damage
 
@@ -55,7 +53,7 @@ When authority is removed from the local and personal level, the damage is not o
 
 People lose the capacity for self-governance when they are never required to exercise it. Mutual aid networks atrophy when the state provides the safety net and asks nothing in return. The skills of negotiation, repair, and local accountability — skills learned in real community, between people who must live together afterward — disappear when all conflict is routed through distant legal systems.
 
-The Household's productive capacity — its ability to be a real economic and social actor rather than a dependent consumer — is exactly what subsidiarity protects. When the household is expected to be only a consumption unit, and all production, care, and formation are outsourced to institutions, the household loses the covenantal thickness that made it a place of genuine life. For the full household-economy frame, see [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model) and [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy).
+The Household's productive capacity — its ability to be a real economic and social actor rather than a dependent consumer — is exactly what subsidiarity protects. When the household is expected to be only a consumption unit, and all production, care, and formation are outsourced to institutions, the household loses the covenantal thickness that made it a place of genuine life. For the full household-economy frame, see [Household Flow Model](/the-household/household-flow-model) and [Household Economy vs Consumer Economy](/the-household/household-vs-consumer-economy).
 
 ## Subsidiarity in practice
 

@@ -1,7 +1,5 @@
 # The Household
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 The Household is Covenantal Architecture's *oikonomia* module: the recovery of household stewardship as the center of life. In this module, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
@@ -12,7 +10,7 @@ The Greek word *oikonomia* joins *oikos* (household) and *nomos* (ordering, rule
 
 Over time, *oikonomia* became Latin *oeconomia* and then modern "economics." In that translation chain, the household was slowly stripped out. What began as covenantal stewardship of home and land was recast as impersonal market theory.
 
-See [OIKONOMIA.md](/the-household/oikonomia) for the full recovery study.
+See [Oikonomia](/the-household/oikonomia) for the full recovery study.
 
 ## The inversion this module diagnoses
 
@@ -25,8 +23,8 @@ This module helps households name that inversion, see what was lost, and walk to
 
 For related diagnosis upstream in The Word, see:
 
-- [consumerism.md](/the-word/knowing-your-own-way/the-cultural-currents)
-- [technocratic_rationalism.md](/the-word/knowing-your-own-way/the-cultural-currents)
+- [Consumerism](/the-word/knowing-your-own-way/the-cultural-currents)
+- [Technocratic Rationalism](/the-word/knowing-your-own-way/the-cultural-currents)
 
 ## Sequence in Covenantal Architecture
 
@@ -40,10 +38,10 @@ The Household → households form communities
 The Compact
 ```
 
-- Upstream frame: [covenantal_philosophy.md](/the-word/the-land-of-the-text)
-- Downstream module: [modules/03_the_compact/README.md](/the-compact)
-- Household table practice already present in The Word: [come_to_the_table/PHILOSOPHY.md](/the-word/living-the-covenant/come-to-the-table/philosophy)
-- Seasonal formation anchor in The Word: [harvest_and_hymn/SEASONAL_RHYTHM.md](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm)
+- Upstream frame: [The Land of the Text](/the-word/the-land-of-the-text)
+- Downstream module: [The Compact](/the-compact)
+- Household table practice already present in The Word: [Philosophy](/the-word/living-the-covenant/come-to-the-table/philosophy)
+- Seasonal formation anchor in The Word: [Seasonal Rhythm](/the-word/living-the-covenant/harvest-and-hymn/seasonal-rhythm)
 
 ## Tone and posture
 
@@ -55,25 +53,27 @@ This is not nostalgia. It is covenantal recovery.
 
 ## Directory map
 
-```text
-modules/02_the_household/
-├── README.md
-├── OIKONOMIA.md
-├── HOUSEHOLD_FLOW_MODEL.md
-├── AGRARIAN_RHYTHMS.md
-├── HOUSEHOLD_VS_CONSUMER_ECONOMY.md
-├── LAND_AND_INHERITANCE.md
-└── HEBRAIC_WORD_STUDIES.md
-```
+- **The Household** — this page
+- [Oikonomia](/the-household/oikonomia)
+- [Household Flow Model](/the-household/household-flow-model)
+- [Agrarian Rhythms](/the-household/agrarian-rhythms)
+- [Household Economy vs Consumer Economy](/the-household/household-vs-consumer-economy)
+- [The Household Hollowed](/the-household/the-household-hollowed)
+- [The Ordered Household](/the-household/the-ordered-household)
+- [Singleness and Oikonomia](/the-household/singleness-and-oikonomia)
+- [Land and Inheritance](/the-household/land-and-inheritance)
+- [Hebraic Word Studies](/the-household/hebraic-word-studies)
 
 ## How to read this module
 
 A suggested path:
 
-1. Start with [OIKONOMIA.md](/the-household/oikonomia)
-2. Move to [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model)
-3. Read [AGRARIAN_RHYTHMS.md](/the-household/agrarian-rhythms)
-4. Work through [HOUSEHOLD_VS_CONSUMER_ECONOMY.md](/the-household/household-vs-consumer-economy)
-5. Anchor land theology in [LAND_AND_INHERITANCE.md](/the-household/land-and-inheritance)
-6. Use [HEBRAIC_WORD_STUDIES.md](/the-household/hebraic-word-studies) as a repeatable formation tool
-7. Continue into [The Compact](/the-compact) to follow household formation outward into public life
+1. Start with [Oikonomia](/the-household/oikonomia)
+2. Move to [Household Flow Model](/the-household/household-flow-model)
+3. Read [Agrarian Rhythms](/the-household/agrarian-rhythms)
+4. Work through [Household Economy vs Consumer Economy](/the-household/household-vs-consumer-economy)
+5. Name the wound in [The Household Hollowed](/the-household/the-household-hollowed) and walk toward the vision in [The Ordered Household](/the-household/the-ordered-household)
+6. Read [Singleness and Oikonomia](/the-household/singleness-and-oikonomia) — the household vision held by those not building one through marriage
+7. Anchor land theology in [Land and Inheritance](/the-household/land-and-inheritance)
+8. Use [Hebraic Word Studies](/the-household/hebraic-word-studies) as a repeatable formation tool
+9. Continue into [The Compact](/the-compact) to follow household formation outward into public life

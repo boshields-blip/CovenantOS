@@ -1,7 +1,5 @@
 # Knowing Your Own Way
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > This is about tracing your own path, not diagnosing anyone else's.
@@ -24,7 +22,7 @@ A mirror needs light, and a path needs a reference point. That reference is [The
 
 As you trace each answer, two influences will keep surfacing, and this movement names both so you can see them at work:
 
-- **[The cultural currents](/the-word/knowing-your-own-way/the-cultural-currents)** — the three great currents of the modern West (consumerism, expressive individualism, technocratic rationalism) that shape nearly everyone alive today, usually without their knowing.
+- **[The cultural currents](/the-word/knowing-your-own-way/the-cultural-currents)** — the four great currents of the modern West (consumerism, expressive individualism, technocratic rationalism, therapeutic determinism) that shape nearly everyone alive today, usually without their knowing.
 - **The streams of the traditions** — the Christian tradition that handed you the faith, with its particular gifts and blind spots. See [The Streams of the Traditions](/the-word/the-streams-of-the-traditions).
 
 Naming where a conviction came from is not the same as condemning it. Some of what you inherited is treasure to keep. Some is a cultural loan to set down. Most people are a blend, and the goal is not guilt but clarity.
@@ -32,8 +30,9 @@ Naming where a conviction came from is not the same as condemning it. Some of wh
 ## The path through this movement
 
 1. **[The Seven Questions](/the-word/knowing-your-own-way/the-seven-questions)** — the mirror itself: seven old questions, asked of your own heart, with the answer that arises from the land of the text alongside each.
-2. **[The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents)** — the three currents shaping your answers, named so you can recognize them in yourself.
-3. **[The Examination](/the-word/knowing-your-own-way/the-examination)** — the interactive, device-only self-examination: walk the seven questions and the three currents one at a time, write your own answer before revealing what arises from the land of the text, and keep your reflections.
+2. **[The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents)** — the four currents shaping your answers, named so you can recognize them in yourself.
+3. **[Covenantal Identity](/the-word/knowing-your-own-way/covenantal-identity)** — the positive counterpart to the two movements above: not just what to set down, but where identity actually comes from once you do.
+4. **[The Examination](/the-word/knowing-your-own-way/the-examination)** — the interactive, device-only self-examination: walk the seven questions and the four currents one at a time, write your own answer before revealing what arises from the land of the text, and keep your reflections.
 
 ## The posture
 

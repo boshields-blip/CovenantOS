@@ -39,6 +39,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-word/knowing-your-own-way` | `04_knowing_your_own_way/README.md` | Knowing Your Own Way | content-page |
 | `/the-word/knowing-your-own-way/the-seven-questions` | `04_knowing_your_own_way/THE_SEVEN_QUESTIONS.md` | The Seven Questions | content-page |
 | `/the-word/knowing-your-own-way/the-cultural-currents` | `04_knowing_your_own_way/THE_CULTURAL_CURRENTS.md` | The Cultural Currents | content-page |
+| `/the-word/knowing-your-own-way/covenantal-identity` | `04_knowing_your_own_way/COVENANTAL_IDENTITY.md` | Covenantal Identity | content-page |
 | `/the-word/knowing-your-own-way/the-examination` | `content/data/knowing_your_own_way.json` | The Examination | tool |
 | `/the-word/the-streams-of-the-traditions` | `05_the_streams_of_the_traditions/README.md` | The Streams of the Traditions | content-page |
 | `/the-word/the-streams-of-the-traditions/the-traditions` | `05_the_streams_of_the_traditions/THE_TRADITIONS.md` | The Traditions | content-page |
@@ -86,4 +87,5 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-word/walking-the-text/the-two-and-the-one` | `modules/01_the_word/03_walking_the_text/THE_TWO_AND_THE_ONE.md` | The Two and the One | content-page |
 | `/the-household/the-household-hollowed` | `modules/02_the_household/THE_HOUSEHOLD_HOLLOWED.md` | The Household Hollowed | content-page |
 | `/the-household/the-ordered-household` | `modules/02_the_household/THE_ORDERED_HOUSEHOLD.md` | The Ordered Household | content-page |
+| `/the-household/singleness-and-oikonomia` | `modules/02_the_household/SINGLENESS_AND_OIKONOMIA.md` | Singleness and Oikonomia | content-page |
 | `/the-compact/seeing-the-neighbor` | `modules/03_the_compact/SEEING_THE_NEIGHBOR.md` | Seeing the Neighbor | content-page |

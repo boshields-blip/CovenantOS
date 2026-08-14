@@ -1,7 +1,5 @@
 # The Ancient Near Eastern World
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Every text assumes a world. When you read a letter written to someone else, you overhear a conversation whose context you have to reconstruct — who is speaking, what they share, what they take for granted and never explain. Scripture is like this. It was written into a world its first hearers already inhabited, so it rarely stops to explain that world. It assumes you know how covenants are cut, how households work, why land matters, what honor is, and why holiness is a matter of place.

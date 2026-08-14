@@ -1,7 +1,5 @@
 # Elder Guide — Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Role of the elder

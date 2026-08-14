@@ -29,7 +29,7 @@
         },
         {
           "id": "the_word_05",
-          "text": "Before moving on to Section 2, sit with the covenantal philosophy document (`covenantal_philosophy.md`) and identify one category \u2014 Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology \u2014 where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.",
+          "text": "Before moving on to Section 2, sit with the covenantal philosophy laid out in The Land of the Text and identify one category \u2014 Metaphysics, Epistemology, Anthropology, Ethics, Social/Political, Identity/Meaning, or Eschatology \u2014 where the covenantal alternative is most foreign to how you currently live. Return to that category for thirty days before asking the next questions.",
           "type": "action"
         }
       ]
@@ -43,22 +43,22 @@
       "questions": [
         {
           "id": "the_household_01",
-          "text": "Is your household economically ordered around stewardship or consumption? What does your household's budget reveal about your actual priorities \u2014 not your stated ones, but the ones your money follows? See `HOUSEHOLD_VS_CONSUMER_ECONOMY.md` for the diagnostic framing.",
+          "text": "Is your household economically ordered around stewardship or consumption? What does your household's budget reveal about your actual priorities \u2014 not your stated ones, but the ones your money follows? See Household Economy vs Consumer Economy for the diagnostic framing.",
           "type": "inventory"
         },
         {
           "id": "the_household_02",
-          "text": "What is your household producing? What are you consuming that you could produce \u2014 food, repair, craft, care, formation? This is not a guilt question; it is a capacity question. Where could your household become more of an actor and less of a consumer? See `HOUSEHOLD_FLOW_MODEL.md`.",
+          "text": "What is your household producing? What are you consuming that you could produce \u2014 food, repair, craft, care, formation? This is not a guilt question; it is a capacity question. Where could your household become more of an actor and less of a consumer? See the Household Flow Model.",
           "type": "inventory"
         },
         {
           "id": "the_household_03",
-          "text": "What does your household's relationship to land, season, and neighbor look like? Are you rooted in a place? Do you know the season you are in \u2014 not only meteorologically, but agriculturally, liturgically, relationally? Do you know who lives next to you and what their household needs? See `AGRARIAN_RHYTHMS.md`.",
+          "text": "What does your household's relationship to land, season, and neighbor look like? Are you rooted in a place? Do you know the season you are in \u2014 not only meteorologically, but agriculturally, liturgically, relationally? Do you know who lives next to you and what their household needs? See Agrarian Rhythms.",
           "type": "inventory"
         },
         {
           "id": "the_household_04",
-          "text": "What are you building to pass on? What inheritance \u2014 material, relational, spiritual, formational \u2014 is your household building for children and grandchildren? Is there a next generation in your household's vision, or is your household organized primarily around the present? See `LAND_AND_INHERITANCE.md`.",
+          "text": "What are you building to pass on? What inheritance \u2014 material, relational, spiritual, formational \u2014 is your household building for children and grandchildren? Is there a next generation in your household's vision, or is your household organized primarily around the present? See Land and Inheritance.",
           "type": "reflection"
         },
         {
@@ -82,7 +82,7 @@
       "questions": [
         {
           "id": "the_compact_01",
-          "text": "What decisions are you allowing to be made at too high a level that belong closer to home? Who is deciding how your children are formed? Who is deciding what happens to the land and water in your community? Who is deciding how your neighborhood looks, who lives in it, and what happens there? What would it cost to take those decisions back? See `SUBSIDIARITY.md`.",
+          "text": "What decisions are you allowing to be made at too high a level that belong closer to home? Who is deciding how your children are formed? Who is deciding what happens to the land and water in your community? Who is deciding how your neighborhood looks, who lives in it, and what happens there? What would it cost to take those decisions back? See Subsidiarity.",
           "type": "inventory"
         },
         {
@@ -97,17 +97,17 @@
         },
         {
           "id": "the_compact_04",
-          "text": "What would your neighborhood's commons look like if you took it seriously? What shared spaces, shared practices, and shared obligations are latent in your neighborhood but unactivated? A shared garden, a regular shared meal, a neighborhood repair network, a mutual aid fund \u2014 what is waiting to be built? See `COMMONS_AND_SHARED_LIFE.md`.",
+          "text": "What would your neighborhood's commons look like if you took it seriously? What shared spaces, shared practices, and shared obligations are latent in your neighborhood but unactivated? A shared garden, a regular shared meal, a neighborhood repair network, a mutual aid fund \u2014 what is waiting to be built? See Commons and Shared Life.",
           "type": "action"
         },
         {
           "id": "the_compact_05",
-          "text": "What does your congregation look like as a covenant people? Does it have real mutual accountability \u2014 not merely pastoral authority, but horizontal covenant obligation between members? Does it share table, practices, and presence beyond the Sunday gathering? What would it need to become more fully a covenant assembly? See `PEOPLEHOOD.md` and the *edah* word study in `HEBRAIC_WORD_STUDIES.md`.",
+          "text": "What does your congregation look like as a covenant people? Does it have real mutual accountability \u2014 not merely pastoral authority, but horizontal covenant obligation between members? Does it share table, practices, and presence beyond the Sunday gathering? What would it need to become more fully a covenant assembly? See Peoplehood and the edah word study in Hebraic Word Studies.",
           "type": "reflection"
         },
         {
           "id": "the_compact_06",
-          "text": "What local market relationships are you building, and how do you trade? Do you know the name of the person who grew your food? Do you know the tradesperson who serves your household? Do you choose local when you can, not merely for efficiency but for covenant formation? See `LOCAL_MARKET_AND_SOCIAL_FABRIC.md`.",
+          "text": "What local market relationships are you building, and how do you trade? Do you know the name of the person who grew your food? Do you know the tradesperson who serves your household? Do you choose local when you can, not merely for efficiency but for covenant formation? See Local Market and Social Fabric.",
           "type": "inventory"
         },
         {
@@ -162,5 +162,5 @@
       ]
     }
   ],
-  "closing_reflection": "The three modules of Covenantal Architecture form one arc:\n\n**The Word** gives the imagination \u2014 the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and obligation.\n\n**The Household** grounds the imagination in embodied life \u2014 in land, season, work, table, inheritance, and the daily practice of stewardship before God and neighbor.\n\n**The Compact** extends that embodied life into public obligation \u2014 into the commons, the covenant people, the local market, the right ordering of authority from household to community to region to civil state.\n\nThis is not a quick journey. Formation is slow. The habits of the consumer imagination are deep; the covenantal alternative is demanding; the gap between what we know and how we live is real and often discouraging.\n\nThe invitation is not to complete a transformation. It is to walk faithfully in the particular place where you actually live \u2014 this neighborhood, this congregation, this market, this watershed, these neighbors, these children.\n\nFaithful presence. Patient rootedness. Covenantal obligation held honestly, including the failures. Repair rather than exit. The slow work of becoming a community that looks, in some small and particular way, like the covenant people the prophets imagined.\n\nThe gate is where you know your neighbor. Start there."
+  "closing_reflection": "The three modules of Covenantal Architecture form one arc:\n\nThe Word gives the imagination \u2014 the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and obligation.\n\nThe Household grounds the imagination in embodied life \u2014 in land, season, work, table, inheritance, and the daily practice of stewardship before God and neighbor.\n\nThe Compact extends that embodied life into public obligation \u2014 into the commons, the covenant people, the local market, the right ordering of authority from household to community to region to civil state.\n\nThis is not a quick journey. Formation is slow. The habits of the consumer imagination are deep; the covenantal alternative is demanding; the gap between what we know and how we live is real and often discouraging.\n\nThe invitation is not to complete a transformation. It is to walk faithfully in the particular place where you actually live \u2014 this neighborhood, this congregation, this market, this watershed, these neighbors, these children.\n\nFaithful presence. Patient rootedness. Covenantal obligation held honestly, including the failures. Repair rather than exit. The slow work of becoming a community that looks, in some small and particular way, like the covenant people the prophets imagined.\n\nThe gate is where you know your neighbor. Start there."
 }

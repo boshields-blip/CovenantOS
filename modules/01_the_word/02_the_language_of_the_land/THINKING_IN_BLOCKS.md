@@ -1,7 +1,5 @@
 # Thinking in Blocks
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 It is not only the *words* of Scripture that differ from ours. It is often the way the mind behind them *reasons*. Later Western thought, drawing heavily on Greek philosophy, developed a strong habit of thinking in straight lines and systems: define your terms, resolve every tension, arrange the truths into a logical order with no loose ends. Hebrew Scripture more often reasons differently — in images, in stories, in truths laid side by side and held together without being flattened into a system. Learning to read Scripture well means learning to reason a little more the way it reasons.

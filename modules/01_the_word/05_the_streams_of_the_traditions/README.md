@@ -1,7 +1,5 @@
 # The Streams of the Traditions
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > Traditions are rivers flowing from the same source.

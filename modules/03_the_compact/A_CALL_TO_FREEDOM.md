@@ -1,7 +1,5 @@
 # A Call to Freedom
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-12
-
 ---
 
 This isn't a fourth module, and it isn't a detour. It's what happens when you hold the other three up next to each other: what The Word forms in the imagination, what The Household embodies at the table, and what public life is actually asking of us. If you want the fuller diagnostic picture of why the word "freedom" means something so thin to us now, [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents) and [The Seven Questions](/the-word/knowing-your-own-way/the-seven-questions) trace it in more depth than I will here.

@@ -1,7 +1,5 @@
 # Reading in Context
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 To read a passage in its context is simply to ask, before anything else: *what was this, to the people who first received it?* Five questions reconstruct that world. You do not need special training to ask them — only the patience to ask them before you rush to application.

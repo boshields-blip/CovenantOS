@@ -10,8 +10,8 @@
   moduleHref="/the-household"
   prevHref="/the-household/the-household-hollowed"
   prevLabel="The Household Hollowed"
-  nextHref="/the-household/land-and-inheritance"
-  nextLabel="Land and Inheritance"
+  nextHref="/the-household/singleness-and-oikonomia"
+  nextLabel="Singleness and Oikonomia"
 >
   <figure class="lead-figure">
     <img

@@ -1,7 +1,5 @@
 # Living the Covenant
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > Walk it out — covenantal, communal, embodied.

@@ -8,8 +8,8 @@
   title="Land and Inheritance"
   module="The Household"
   moduleHref="/the-household"
-  prevHref="/the-household/the-ordered-household"
-  prevLabel="The Ordered Household"
+  prevHref="/the-household/singleness-and-oikonomia"
+  prevLabel="Singleness and Oikonomia"
   nextHref="/the-household/hebraic-word-studies"
   nextLabel="Hebraic Word Studies"
 >

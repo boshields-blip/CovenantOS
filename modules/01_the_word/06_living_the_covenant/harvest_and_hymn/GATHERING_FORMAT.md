@@ -1,7 +1,5 @@
 # Gathering Format — Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## Canonical quarterly shape

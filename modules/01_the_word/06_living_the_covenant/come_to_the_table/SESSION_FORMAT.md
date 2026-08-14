@@ -1,7 +1,5 @@
 # Session Format — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 ## The canonical session
@@ -17,12 +15,12 @@ Every Come to the Table session follows the same seven-movement shape. The movem
 | # | Movement | Target time | What happens |
 |---|---|---|---|
 | 1 | **Gather** | ~1 min | Everyone is seated. The host names the passage and author in one sentence. Phones are away. |
-| 2 | **Bless the meal** | ~1 min | A short, said-aloud blessing of the food. Children are invited to say it with the host. Use [liturgies/opening.md](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) or your own household blessing. |
-| 3 | **Read** | 1–3 min | The passage is read aloud, slowly, from a real Bible. See [liturgies/reading.md](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for guidance on how. |
+| 2 | **Bless the meal** | ~1 min | A short, said-aloud blessing of the food. Children are invited to say it with the host. Use [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) or your own household blessing. |
+| 3 | **Read** | 1–3 min | The passage is read aloud, slowly, from a real Bible. See [Reading](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for guidance on how. |
 | 4 | **Notice** | 2–4 min | "What did you hear?" Round the table: every voice gets one turn before any voice gets a second turn. The youngest band speaks first. |
-| 5 | **Know** | 2–4 min | The host adds one thing about the passage — author, language, setting, or covenantal frame. One thing only. See [AUTHORS_AND_LANGUAGES.md](/the-word/living-the-covenant/come-to-the-table/authors-and-languages). |
+| 5 | **Know** | 2–4 min | The host adds one thing about the passage — author, language, setting, or covenantal frame. One thing only. See [Authors and Languages](/the-word/living-the-covenant/come-to-the-table/authors-and-languages). |
 | 6 | **Live** | 2–3 min | "In light of who God is here, how do we live this week?" One concrete, household-sized response is named. |
-| 7 | **Bless and send** | ~1 min | A short closing blessing as plates are cleared. See [liturgies/closing.md](/the-word/living-the-covenant/come-to-the-table/liturgies/closing). |
+| 7 | **Bless and send** | ~1 min | A short closing blessing as plates are cleared. See [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing). |
 
 ---
 
@@ -36,7 +34,7 @@ If younger children are restless, Gather is the right moment for them to be sett
 
 ### 2. Bless the meal
 
-The blessing is said aloud and said together when possible. It should be short and sayable by a child. If the household has an established blessing, use it. If not, [liturgies/opening.md](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) is available.
+The blessing is said aloud and said together when possible. It should be short and sayable by a child. If the household has an established blessing, use it. If not, [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) is available.
 
 The meal blessing is not the same as the passage. It is a recognition that the food itself is a gift from the Creator about whom the passage will speak. The continuity between the blessing and the reading matters.
 
@@ -44,7 +42,7 @@ The meal blessing is not the same as the passage. It is a recognition that the f
 
 The passage is read from a physical Bible when possible. This is an intentional signal: the words belong to a book, the book has a history, the book was carried by people who read it before us.
 
-Read slowly. Pause at the end of a sentence. Read it a second time if young children are present. Older children may read — this is encouraged. See [liturgies/reading.md](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for more guidance.
+Read slowly. Pause at the end of a sentence. Read it a second time if young children are present. Older children may read — this is encouraged. See [Reading](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) for more guidance.
 
 Do not quote or paraphrase the passage. Read it. The exact words matter.
 
@@ -63,7 +61,7 @@ The host's job in Notice is:
 - Do not correct or redirect wrong answers — redirect with curiosity.
 - Keep it moving; do not let one voice take the floor.
 
-See [AGE_BANDS.md](/the-word/living-the-covenant/come-to-the-table/age-bands) for how to invite each age into this movement.
+See [Age Bands](/the-word/living-the-covenant/come-to-the-table/age-bands) for how to invite each age into this movement.
 
 ### 5. Know
 
@@ -82,19 +80,19 @@ This movement turns from hearing and knowing to acting. The response should be:
 - **Household-sized** — something the whole table can do or remember together.
 - **Short** — one invitation, named once, perhaps written on a card or put somewhere visible.
 
-The session file's `live_invitation` field is a suggested phrasing. The host may adapt it freely.
+The session guide's live invitation is a suggested phrasing. The host may adapt it freely.
 
 ### 7. Bless and send
 
-The closing blessing is brief. It marks the end of the session and releases the household into the rest of the evening. It need not be elaborate. See [liturgies/closing.md](/the-word/living-the-covenant/come-to-the-table/liturgies/closing).
+The closing blessing is brief. It marks the end of the session and releases the household into the rest of the evening. It need not be elaborate. See [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing).
 
 ---
 
-## The canonical shape and session files
+## The canonical shape and session guides
 
-Every file in `sessions/` follows this same seven-movement shape. The session files do not contain the full liturgy text — they contain the session-specific data: the passage reference, the author, the notice prompts, the Know slot category, and the live invitation.
+Every session guide follows this same seven-movement shape. A session guide does not contain the full liturgy text — it contains what's specific to that week: the passage reference, the author, the notice prompts, the Know slot category, and the live invitation.
 
-The host reads the session file once in preparation and then leads from memory and the Bible, not from a script.
+The host reads the session guide once in preparation and then leads from memory and the Bible, not from a script.
 
 ---
 

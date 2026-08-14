@@ -1,7 +1,5 @@
 # What We Believe
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-09
-
 ---
 
 Everything else on this site is a lens. This page is not.

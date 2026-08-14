@@ -1,7 +1,5 @@
 # Seasonal Liturgy — Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Come to the Table keeps its canonical weekly seven-movement shape:
@@ -30,9 +28,9 @@ This keeps weekly formation and community worship aligned without complicating t
 
 ## Seasonal files
 
-- [liturgies/seasonal/spring.md](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/spring)
-- [liturgies/seasonal/summer.md](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/summer)
-- [liturgies/seasonal/fall.md](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/fall)
-- [liturgies/seasonal/winter.md](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/winter)
+- [Spring Seasonal Overlay](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/spring)
+- [Summer Seasonal Overlay](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/summer)
+- [Fall Seasonal Overlay](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/fall)
+- [Winter Seasonal Overlay](/the-word/living-the-covenant/come-to-the-table/liturgies/seasonal/winter)
 
-Households may use these texts to replace or supplement [liturgies/opening.md](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) and [liturgies/closing.md](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) during the matching season.
+Households may use these texts to replace or supplement [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) and [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) during the matching season.

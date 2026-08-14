@@ -1,7 +1,5 @@
 # Seasonal Rhythm — Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Harvest & Hymn follows a four-season annual pattern. The gathering shape stays stable, but content, prompts, and emphasis shift with the season.

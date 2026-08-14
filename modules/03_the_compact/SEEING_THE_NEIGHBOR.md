@@ -1,7 +1,5 @@
 # Seeing the Neighbor
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Everything Covenantal Architecture has been building toward comes to a point here. In The Word you learned to *see* — to read a text in its own world rather than your projection of it, and then to see the person across the table as they are rather than as your image of them (see [To See](/the-word/walking-the-text/to-see)). In The Household that sight was trained across a lifetime between two people and passed on to children. Now it reaches its widest form: the public life of a people is, finally, a question of whether we can *see one another* — the neighbor, the stranger, the poor, the one who is not like us — as real people rather than as categories, threats, or market segments. The Compact is a community learning to behold one another face to face. Everything else is downstream of that.

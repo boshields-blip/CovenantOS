@@ -1,7 +1,5 @@
 # The Household-Covenant Tradition
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > This is the stream Covenantal Architecture reads from. It is named here, and held to the same gifts-first, blind-spots-second standard as every other tradition, so you can weigh the lens for yourself.

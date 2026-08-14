@@ -1,7 +1,5 @@
 # Hebraic Word Studies for the Household
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Use these studies as formation tools, not only lexical notes. Read the texts slowly, then ask how your household practice should change.
@@ -51,4 +49,4 @@ As you walk in this module:
 3. Name one concrete practice shift.
 4. Revisit after one season and record what changed.
 
-For the Greek bridge into this module's central term, see [OIKONOMIA.md](/the-household/oikonomia).
+For the Greek bridge into this module's central term, see [Oikonomia](/the-household/oikonomia).

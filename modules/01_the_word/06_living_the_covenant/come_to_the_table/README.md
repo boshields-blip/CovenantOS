@@ -1,14 +1,10 @@
 # Come to the Table
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 > *A weekly meal, a short passage, and a household learning to know God together.*
 
 **Come to the Table** is the first concrete communal practice under the Formation Layer of The Word. It gives a household a simple, repeatable liturgy for sharing a meal and sharing the Scriptures at the same table.
-
-> **This directory is documentation-first.** It lives under `modules/01_the_word/06_living_the_covenant/come_to_the_table/` and does not define app code or persistence wiring.
 
 ---
 
@@ -32,11 +28,11 @@ It is also designed to be hospitable outward: a format portable enough to share 
 
 ## How to start
 
-1. Read [SESSION_FORMAT.md](/the-word/living-the-covenant/come-to-the-table/session-format) — the canonical seven-movement liturgy of one weekly meal.
-2. Read [AGE_BANDS.md](/the-word/living-the-covenant/come-to-the-table/age-bands) — how to invite each age into the same passage.
-3. Run the first session using the pattern in [SESSION_FORMAT.md](/the-word/living-the-covenant/come-to-the-table/session-format).
-4. Use the [HOST_GUIDE.md](/the-word/living-the-covenant/come-to-the-table/host-guide) to prepare and lead.
-5. When you are ready to think about the longer plan, read [CANONICAL_ARC.md](/the-word/living-the-covenant/come-to-the-table/canonical-arc).
+1. Read [Session Format](/the-word/living-the-covenant/come-to-the-table/session-format) — the canonical seven-movement liturgy of one weekly meal.
+2. Read [Age Bands](/the-word/living-the-covenant/come-to-the-table/age-bands) — how to invite each age into the same passage.
+3. Run the first session using the pattern in [Session Format](/the-word/living-the-covenant/come-to-the-table/session-format).
+4. Use the [Host Guide](/the-word/living-the-covenant/come-to-the-table/host-guide) to prepare and lead.
+5. When you are ready to think about the longer plan, read [Canonical Arc](/the-word/living-the-covenant/come-to-the-table/canonical-arc).
 
 There is no required reading before the first session. Pick a passage, open a Bible, and begin.
 
@@ -46,18 +42,18 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 | File | Purpose |
 |---|---|
-| [PHILOSOPHY.md](/the-word/living-the-covenant/come-to-the-table/philosophy) | Why the family table; covenantal anthropology of shared meals |
-| [SESSION_FORMAT.md](/the-word/living-the-covenant/come-to-the-table/session-format) | The canonical seven-movement session liturgy |
-| [AGE_BANDS.md](/the-word/living-the-covenant/come-to-the-table/age-bands) | How to engage each age at the same table |
-| [AUTHORS_AND_LANGUAGES.md](/the-word/living-the-covenant/come-to-the-table/authors-and-languages) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
-| [CANONICAL_ARC.md](/the-word/living-the-covenant/come-to-the-table/canonical-arc) | A four-year, low-pressure arc through the Scriptures |
-| [HOST_GUIDE.md](/the-word/living-the-covenant/come-to-the-table/host-guide) | Practical guide for the parent or host leading the table |
-| [BEREAN_AT_THE_TABLE.md](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table) | How and when to bring the Berean Tool to the family table |
-| [GUEST_FAMILY_GUIDE.md](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) | How to invite and host another family |
-| [SEASONAL_LITURGY.md](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
-| [liturgies/opening.md](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) | A short opening call to attention and blessing of the meal |
-| [liturgies/reading.md](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) | How Scripture is read at the table |
-| [liturgies/closing.md](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) | A short closing blessing as plates are cleared |
+| [Philosophy](/the-word/living-the-covenant/come-to-the-table/philosophy) | Why the family table; covenantal anthropology of shared meals |
+| [Session Format](/the-word/living-the-covenant/come-to-the-table/session-format) | The canonical seven-movement session liturgy |
+| [Age Bands](/the-word/living-the-covenant/come-to-the-table/age-bands) | How to engage each age at the same table |
+| [Authors and Languages](/the-word/living-the-covenant/come-to-the-table/authors-and-languages) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
+| [Canonical Arc](/the-word/living-the-covenant/come-to-the-table/canonical-arc) | A four-year, low-pressure arc through the Scriptures |
+| [Host Guide](/the-word/living-the-covenant/come-to-the-table/host-guide) | Practical guide for the parent or host leading the table |
+| [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table) | How and when to bring the Berean Tool to the family table |
+| [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) | How to invite and host another family |
+| [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
+| [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) | A short opening call to attention and blessing of the meal |
+| [Reading](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) | How Scripture is read at the table |
+| [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) | A short closing blessing as plates are cleared |
 | [Seasonal liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Spring/Summer/Fall/Winter opening and closing overlays for weekly sessions |
 
 ---
@@ -66,14 +62,14 @@ There is no required reading before the first session. Pick a passage, open a Bi
 
 - **01 Foundational Layer** supplies the covenantal "who God is" that the *Live* movement points to every week.
 - **02 Diagnostic Layer** quietly underwrites the *Know* slot's "philosophy point" — the seven categories appear at the table without being named as a curriculum.
-- **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [BEREAN_AT_THE_TABLE.md](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table).
+- **03 Berean Tool** is brought to the table occasionally, with guardrails, as part of the Apprentice stage. See [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table).
 - **04 Language Module** feeds the "language note" and helps the household hear how Scripture's own vocabulary reshapes imagination.
-- **05 Formation Layer** — this module is the first concrete instance of the communal exercise promised in [reformation_pathway.md](/the-word/living-the-covenant/reformation-pathway).
+- **05 Formation Layer** — this module is the first concrete instance of the communal exercise promised in [The Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway).
 
 ---
 
 ## Seasonal & Community
 
-Come to the Table remains the weekly household practice. The seasonal overlay in [SEASONAL_LITURGY.md](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) keeps that weekly rhythm aligned with the quarterly community gathering in [../harvest_and_hymn/README.md](/the-word/living-the-covenant/harvest-and-hymn).
+Come to the Table remains the weekly household practice. The seasonal overlay in [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) keeps that weekly rhythm aligned with the quarterly community gathering in [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn).
 
 Together they form one cadence: weekly at home, quarterly in community.

@@ -1,7 +1,5 @@
 # Workshops — Harvest & Hymn
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Optional workshops may be offered before or after the canonical gathering format. They are supplementary and should not replace the five liturgical movements.

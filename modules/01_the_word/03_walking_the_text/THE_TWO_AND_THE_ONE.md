@@ -1,7 +1,5 @@
 # The Two and the One
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > So God created man in his own image, in the image of God he created him; male and female he created them. — Genesis 1:27

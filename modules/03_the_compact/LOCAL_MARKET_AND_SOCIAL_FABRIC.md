@@ -1,7 +1,5 @@
 # Local Market and Social Fabric
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 Trade is not inherently corrupting. It is a form of neighbor-love when ordered rightly. What you produce in your household — food, skill, craft, repair — and what I produce in mine can nourish each other when we trade honestly, face to face, with names and reputations that both of us carry into the next season.
@@ -18,7 +16,7 @@ The honest merchant's balance — iron weights, level scales, the measure of gra
 
 Trade at its best is a form of mutual provision. The household's productive surplus — its extra harvest, its skilled labor, its craft — becomes provision for other households. The local market is where those surpluses meet. This is not the invisible hand of the market; it is the visible hand of neighbors exchanging what they have made.
 
-For the household economics dimension of this, see [OIKONOMIA.md](/the-household/oikonomia) and [HOUSEHOLD_FLOW_MODEL.md](/the-household/household-flow-model).
+For the household economics dimension of this, see [Oikonomia](/the-household/oikonomia) and [Household Flow Model](/the-household/household-flow-model).
 
 ## The local market as a social institution
 
@@ -34,7 +32,7 @@ The Commons can be named here as a real, lived instance of that shared-space and
 
 When markets go to scale — regional, national, global — the relational accountability disappears. This is not primarily a moral failure of individuals; it is a structural consequence of scale.
 
-When you buy from a corporation, the corporation does not know your name. It does not know how the price affects your household. It does not live with the consequences of its supply chain decisions in your community. There is no covenant obligation — only price signals and liability law. The market transaction is purely contractual, and as [COVENANT_VS_CONTRACT.md](/the-compact/covenant-vs-contract) shows, contractual transactions produce contractual obligations only — nothing more, nothing less.
+When you buy from a corporation, the corporation does not know your name. It does not know how the price affects your household. It does not live with the consequences of its supply chain decisions in your community. There is no covenant obligation — only price signals and liability law. The market transaction is purely contractual, and as [Covenant vs. Contract](/the-compact/covenant-vs-contract) shows, contractual transactions produce contractual obligations only — nothing more, nothing less.
 
 The consequences are visible:
 - The small farm in the Piedmont cannot compete on price with the industrial farm that externalizes its costs onto the land, the watershed, and the laborers

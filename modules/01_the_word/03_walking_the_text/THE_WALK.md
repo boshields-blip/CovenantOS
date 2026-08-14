@@ -1,7 +1,5 @@
 # The Walk
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Here is the practice itself — a simple, repeatable way to walk any passage as its first hearers would. Then a worked example, so you can see it done before you try it on your own.

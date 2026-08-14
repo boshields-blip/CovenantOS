@@ -1,12 +1,10 @@
 # The Cultural Currents
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 When you traced your own way through [the seven questions](/the-word/knowing-your-own-way/the-seven-questions), some of your instincts ran against the grain of the text — and you may have wondered where they came from. Often the answer is not a book you read or a doctrine you chose. It is a current: one of the deep, invisible flows of the modern West that shapes nearly everyone alive today, usually without their noticing, the way a fish does not notice water.
 
-Three currents shape the modern imagination more than any others. They are not villains to denounce; they are waters you are swimming in. Each one even carries a partial truth, which is exactly why it is so persuasive. The point of naming them is not guilt but recognition — so you can tell the difference between a conviction formed by the land of the text and an instinct on loan from the culture.
+Four currents shape the modern imagination more than any others. They are not villains to denounce; they are waters you are swimming in. Each one even carries a partial truth, which is exactly why it is so persuasive. The point of naming them is not guilt but recognition — so you can tell the difference between a conviction formed by the land of the text and an instinct on loan from the culture.
 
 ---
 
@@ -37,6 +35,16 @@ It's a mouthful of a name for something simple: treating the world like a system
 You'll catch it in yourself when you reach for the language of scaling, strategy, and metrics — even about your soul, your family, or your church. You start trusting process and expertise more than embodied wisdom, and anything that can't be measured starts to feel like it isn't real progress. Limits feel like engineering problems to solve rather than gifts to receive. Efficiency quietly starts functioning as a form of goodness. And when something breaks, your first instinct is always a better system.
 
 There's real truth buried in it — competence matters, order matters, honesty about outcomes matters, and it rightly resists laziness and sentimentality. But the world is a creation to be stewarded, not a machine to be mastered, and human limits are gifts, not defects. Truth is known through revelation, obedience, and the tested wisdom of a community, not by expertise alone. Some of the most important things — love, faithfulness, formation, a shared table — cannot be optimized. They can only be practiced patiently, over time. Technique can serve covenant life. It was never able to replace it.
+
+---
+
+## Therapeutic determinism
+
+Therapeutic determinism is the conviction that your family's wounds are the truest and most durable fact about you — that your childhood, your parents' failures, and the dysfunction passed down to you are the primary lens for reading your present and future, and that the central task of adulthood is to name the wound, break from it, and heal before anything else can be built.
+
+You'll know it has hold of you when your default account of yourself starts with your damage rather than your calling — when you explain a marriage, a parenting choice, or a besetting struggle mainly by tracing it back to what was done to you, and when healing starts to function as a permanent project rather than a season walked through on the way to something. Faithfulness starts to feel presumptuous until the wound is fully resolved, and your family of origin starts to feel less like a household you were given than a diagnosis you were handed.
+
+It isn't wrong about everything. Real trauma is real, dysfunction really is inherited, and pretending otherwise is its own kind of lie; naming a wound honestly is part of walking in the light, not a failure of faith. But a wound is not a foundation, and a diagnosis is not an identity. Scripture never asks you to arrive with an unbroken past before it asks you to be faithful — it asks broken people, standing in broken households, to walk forward in the power of a Christ who transforms the person first and, through the person, the home. The mark of a mature household is not an unbroken family line behind it. It is generational faithfulness carried by people who no longer let the fracture write the next chapter.
 
 ---
 

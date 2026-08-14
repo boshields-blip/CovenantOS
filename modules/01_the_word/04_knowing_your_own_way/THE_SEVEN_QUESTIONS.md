@@ -1,7 +1,5 @@
 # The Seven Questions
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 Seven questions run underneath every life, whether or not we ever say them out loud. Your answers to them are your *way* — the path your imagination actually walks. Here they are asked of your own heart, one at a time. For each: the question, why it matters, some honest things to ask yourself, and the answer that arises from the land of the text — the plumb line, not a slogan.
@@ -86,4 +84,4 @@ You will not answer these once and be done. The point is to return — a questio
 
 ---
 
-*Next: [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents) — the three currents shaping your answers.*
+*Next: [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents) — the four currents shaping your answers.*

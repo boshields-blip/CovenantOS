@@ -1,7 +1,5 @@
 # The Re-formation Pathway
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 ## Why this document exists

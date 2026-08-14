@@ -1,7 +1,5 @@
 # A Lament
 
-**Status:** Draft | **Author:** Brandon O'Shields | **Last updated:** 2026-08-01
-
 ---
 
 > A lament is an honest prayer wrung out of pain. The Psalms are full of them — they begin in the dark, sometimes even in complaint against God, and more often than not they turn, and end in worship. What follows is one of mine. In it the Lord met me in my suffering and opened my eyes to see the crucified and risen Christ — and to see my own hand among those who pierced Him. I share it as a model of praying honestly, and because the covenant life has room for the whole of the heart, grief and all.

@@ -1,7 +1,5 @@
 # The Word
 
-**Status:** Draft | **Author:** Brandon O'Shields
-
 ---
 
 > A markdown-first content tree for The Word's six-movement formation architecture.
@@ -21,8 +19,7 @@ The Word is organized into six movements:
 
 ## How to navigate this content tree
 
-- Start with [INTRODUCTION.md](/the-word/introduction) for the recommended first read — what The Word is, why it exists, and how to use it.
-- See [docs/ARCHITECTURE.md](../../docs/ARCHITECTURE.md) for the big-picture repository map and module boundaries.
+- Start with [Introduction to The Word](/the-word/introduction) for the recommended first read — what The Word is, why it exists, and how to use it.
 - Enter the frame through [The Land of the Text](/the-word/the-land-of-the-text).
 - Learn the vocabulary in [The Language of the Land](/the-word/the-language-of-the-land).
 - Practice contextual reading in [Walking the Text](/the-word/walking-the-text).
@@ -36,19 +33,16 @@ This content tree assumes a tone that is truthful, gentle, precise, and covenant
 
 ## Directory map
 
-```text
-modules/01_the_word/
-├── README.md
-├── INTRODUCTION.md
-├── 01_the_land_of_the_text/
-├── 02_the_language_of_the_land/
-├── 03_walking_the_text/
-├── 04_knowing_your_own_way/
-├── 05_the_streams_of_the_traditions/
-└── 06_living_the_covenant/
-    ├── come_to_the_table/    ← weekly household table practice
-    └── harvest_and_hymn/     ← quarterly seasonal community gathering
-```
+- **The Word** — this page
+- [Introduction to The Word](/the-word/introduction)
+- [The Land of the Text](/the-word/the-land-of-the-text)
+- [The Language of the Land](/the-word/the-language-of-the-land)
+- [Walking the Text](/the-word/walking-the-text)
+- [Knowing Your Own Way](/the-word/knowing-your-own-way)
+- [The Streams of the Traditions](/the-word/the-streams-of-the-traditions)
+- [Living the Covenant](/the-word/living-the-covenant)
+  - [Come to the Table](/the-word/living-the-covenant/come-to-the-table) — weekly household table practice
+  - [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn) — quarterly seasonal community gathering
 
 ## What this content tree is for
 

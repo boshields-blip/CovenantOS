@@ -9,8 +9,8 @@
   moduleHref="/the-word"
   prevHref="/the-word/knowing-your-own-way/the-seven-questions"
   prevLabel="The Seven Questions"
-  nextHref="/the-word/knowing-your-own-way/the-examination"
-  nextLabel="The Examination"
+  nextHref="/the-word/knowing-your-own-way/covenantal-identity"
+  nextLabel="Covenantal Identity"
 >
   <Content />
 </ContentLayout>
