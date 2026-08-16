@@ -85,6 +85,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 |---|---|---|---|
 | `/the-word/walking-the-text/to-see` | `modules/01_the_word/03_walking_the_text/TO_SEE.md` | To See | content-page |
 | `/the-word/walking-the-text/the-two-and-the-one` | `modules/01_the_word/03_walking_the_text/THE_TWO_AND_THE_ONE.md` | The Two and the One | content-page |
+| `/the-word/walking-the-text/the-sacred-and-the-secular` | `modules/01_the_word/03_walking_the_text/THE_SACRED_AND_THE_SECULAR.md` | The Sacred and the Secular | content-page |
 | `/the-household/the-household-hollowed` | `modules/02_the_household/THE_HOUSEHOLD_HOLLOWED.md` | The Household Hollowed | content-page |
 | `/the-household/the-ordered-household` | `modules/02_the_household/THE_ORDERED_HOUSEHOLD.md` | The Ordered Household | content-page |
 | `/the-household/singleness-and-oikonomia` | `modules/02_the_household/SINGLENESS_AND_OIKONOMIA.md` | Singleness and Oikonomia | content-page |

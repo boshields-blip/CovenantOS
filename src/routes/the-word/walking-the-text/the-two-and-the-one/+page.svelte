@@ -10,8 +10,8 @@
   moduleHref="/the-word"
   prevHref="/the-word/walking-the-text/to-see"
   prevLabel="To See"
-  nextHref="/the-word/knowing-your-own-way"
-  nextLabel="Knowing Your Own Way"
+  nextHref="/the-word/walking-the-text/the-sacred-and-the-secular"
+  nextLabel="The Sacred and the Secular"
 >
   <figure class="lead-figure">
     <img
