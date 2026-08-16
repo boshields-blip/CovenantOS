@@ -2,13 +2,13 @@
 
 ---
 
-Something has been lost in modern political life that is not easily named. We have citizens, consumers, followers, fans, voters, subscribers, and demographic cohorts — but we struggle to find the word *people* in the deep sense: a community bound by shared memory, shared land, shared practice, and shared future, held together by something that precedes individual choice and outlasts any institutional arrangement.
+Something has been lost in modern political life that is not easily named. We have citizens, consumers, followers, fans, voters, subscribers, and demographic cohorts, but we struggle to find the word *people* in the deep sense: a community bound by shared memory, shared land, shared practice, and shared future, held together by something that precedes individual choice and outlasts any institutional arrangement.
 
 This document names what has been lost and what the covenantal alternative is.
 
 ## What we settle for
 
-Ask most people today what makes them "a people," and you'll get a list of things that aren't quite it. You'll hear about the brands they buy and the lifestyle those purchases signal — a certain grocery bag says something different than another grocery bag, and everyone in that transaction knows it, even if no one says it out loud. You'll hear about a side — a set of political and cultural positions held together as much by a shared enemy as by a shared conviction — the kind of belonging where you can size up someone's tribe in about four seconds and never learn their name. You'll hear about the apps, the feeds, the voices someone lets into their head every day, which is a real community of a kind, except it can be swapped out with a swipe and it doesn't know when you're sick. You'll hear about "who I really am underneath it all" — the personal journey, the authentic self — as if a people could ever be built out of individuals each excavating their own interior alone.
+Ask most people today what makes them "a people," and you'll get a list of things that aren't quite it. You'll hear about the brands they buy and the lifestyle those purchases signal. A certain grocery bag says something different than another grocery bag, and everyone in that transaction knows it, even if no one says it out loud. You'll hear about a side — a set of political and cultural positions held together as much by a shared enemy as by a shared conviction — the kind of belonging where you can size up someone's tribe in about four seconds and never learn their name. You'll hear about the apps, the feeds, the voices someone lets into their head every day, which is a real community of a kind, except it can be swapped out with a swipe and it doesn't know when you're sick. You'll hear about "who I really am underneath it all," the personal journey, the authentic self, as if a people could ever be built out of individuals each excavating their own interior alone.
 
 > *A note on this one.* This is the "expressive individualism" current described more fully in [The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents).
 
@@ -32,13 +32,13 @@ The *am* is always:
 
 Drawing from the Hebraic pattern, a covenant people is constituted by:
 
-**Shared memory and story.** The Passover seder begins: *"We were slaves in Egypt, and YHWH brought us out with a mighty hand."* Every generation says *we* — not "our ancestors." The story is received and inhabited, not merely studied. A people without a shared story is a demographic, not a community.
+**Shared memory and story.** The Passover seder begins with the words Deuteronomy commands a father to say to his son: *"We were Pharaoh's slaves in Egypt, and YHWH brought us out with a mighty hand"* (Deuteronomy 6:21). Every generation says *we* — not "our ancestors." The story is received and inhabited, not merely studied. A people without a shared story is a demographic, not a community.
 
-**Shared land and place.** The Promised Land is not merely a territory — it is a covenantal home. The people are shaped by its soil, its seasons, its boundaries. When Israel is in exile, the loss of land is not merely geographic; it is the disruption of the entire covenantal frame. *"How shall we sing YHWH's song in a foreign land?"* (Psalm 137:4). Place is not incidental to peoplehood; it is part of what makes a people particular. See [Land and Inheritance](/the-household/land-and-inheritance) for how this extends into household life.
+**Shared land and place.** The Promised Land is not merely a territory. It is a covenantal home. The people are shaped by its soil, its seasons, its boundaries. When Israel is in exile, the loss of land is not merely geographic; it is the disruption of the entire covenantal frame. *"How shall we sing YHWH's song in a foreign land?"* (Psalm 137:4). Place is not incidental to peoplehood; it is part of what makes a people particular. See [Land and Inheritance](/the-household/land-and-inheritance) for how this extends into household life.
 
-**Shared practices and obligations.** Sabbath, feasts, gleaning laws, honest weights, Jubilee, the city gate as the place of justice — these are the shared practices that form a people across time. A people that does not share practices is dissolving into individual lifestyle preferences.
+**Shared practices and obligations.** Sabbath, feasts, gleaning laws, honest weights, Jubilee, the city gate as the place of justice: these are the shared practices that form a people across time. A people that does not share practices is dissolving into individual lifestyle preferences.
 
-**Shared future and hope.** The prophetic vision — of restoration, of the nations coming to Zion, of the knowledge of YHWH covering the earth as the waters cover the sea — is a corporate future, not merely individual salvation. A people without a shared future becomes a faction competing for present advantage.
+**Shared future and hope.** The prophetic vision — of restoration, of the nations streaming to Zion (Isaiah 2:2–3), of the knowledge of YHWH covering the earth as the waters cover the sea (Habakkuk 2:14) — is a corporate future, not merely individual salvation. A people without a shared future becomes a faction competing for present advantage.
 
 **Shared accountability.** The covenant curses and blessings bind everyone (Deuteronomy 27–28). There is no private covenant; the community's faithfulness or unfaithfulness has consequences for all. This shared accountability is what makes mutual discipline and communal correction possible — and necessary. A people that cannot hold accountability cannot hold its own character over time.
 
@@ -46,19 +46,19 @@ Drawing from the Hebraic pattern, a covenant people is constituted by:
 
 Consumer identity is chosen, curated, and easily exchanged. You select a brand; when it no longer serves your preferences, you select another. There is no obligation beyond the transaction. No memory binds you. No land roots you. No practice forms you across generations.
 
-This is not a critique of purchasing things. It is a critique of *identity formation through consumption* — of the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [Consumerism](/the-word/knowing-your-own-way/the-cultural-currents). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
+This is not a critique of purchasing things. It is a critique of *identity formation through consumption*: the imagination that who you are is primarily what you choose and what you buy. The diagnostic anatomy of this is in [Consumerism](/the-word/knowing-your-own-way/the-cultural-currents). Consumer identity is the opposite of peoplehood: it is chosen before it is received, and exchanged before it is inherited.
 
 ## The contrast with ideological tribe
 
 Ideological tribe is defined by belief alignment and by the rejection of those who disagree. The tribe is held together by shared enemies as much as by shared convictions. When the enemy disappears or changes, the tribe reshapes itself.
 
-Ideological tribe is not without its appeal — it offers belonging, clarity, and a sense of significance. But it fractures communities rather than building them, because it defines membership by what you believe rather than by where you live, who you are obligated to, and what shared life you actually practice.
+Ideological tribe is not without its appeal. It offers belonging, clarity, and a sense of significance. But it fractures communities rather than building them, because it defines membership by what you believe rather than by where you live, who you are obligated to, and what shared life you actually practice.
 
-A covenantal people holds diversity within shared obligation and shared place. The Mosaic community included Levites and farmers, judges and shepherds, the obedient and the wayward. What held them was not doctrinal uniformity but covenant — the shared obligations, the shared story, and the shared accountability.
+A covenantal people holds diversity within shared obligation and shared place. The Mosaic community included Levites and farmers, judges and shepherds, the obedient and the wayward. What held them was not doctrinal uniformity but covenant: the shared obligations, the shared story, and the shared accountability.
 
 ## The contrast with political citizenship
 
-Political citizenship is a legal status granted and revoked by the state. It confers rights and obligations, and it can be lost or changed by political decision. It is important — it is not nothing — but it is not peoplehood.
+Political citizenship is a legal status granted and revoked by the state. It confers rights and obligations, and it can be lost or changed by political decision. It is important, and it is not nothing, but it is not peoplehood.
 
 Citizenship in a nation-state is one of the thinner forms of political belonging. It may correlate with some shared history and shared institutions, but it cannot constitute a people, because it lacks the covenantal density — the shared memory, shared practice, shared accountability, shared place — that actual peoplehood requires.
 
@@ -68,7 +68,7 @@ The nation-state is a modern form with a short history. Covenant peoples — the
 
 The New Testament *ekklesia* is not a voluntary religious organization. It is not a spiritual service provider or a weekly gathering of like-minded individuals.
 
-The word *ekklesia* (ἐκκλησία) means assembly — specifically, the assembly of a community called out to conduct its affairs in public. In the Greek city, the *ekklesia* was the gathering of citizens for public deliberation. The New Testament reuses this political term to describe the covenant people gathered by God in Christ.
+The word *ekklesia* (ἐκκλησία) means assembly, specifically the assembly of a community called out to conduct its affairs in public. In the Greek city, the *ekklesia* was the gathering of citizens for public deliberation. The New Testament reuses this political term to describe the covenant people gathered by God in Christ.
 
 The *ekklesia* is a new covenant people:
 - Called out and constituted by God's covenant in Christ (not by shared preferences)
@@ -79,7 +79,9 @@ The *ekklesia* is a new covenant people:
 
 The congregation that gathers on Sunday for 90 minutes and disperses into unrelated individual lives the rest of the week is not yet a covenant people. A covenant people eats together, works together, weeps together, celebrates together, holds one another's children, and lives proximate enough to one another that mutual accountability is possible and natural.
 
-This is a long way from most Western congregational life — and the distance is not primarily the fault of the people, but of the individualism and mobility that has fractured the possibility of genuine embeddedness. Recovery is slow. But recovery is happening.
+This is a long way from most Western congregational life, and the distance is not primarily the fault of the people, but of the individualism and mobility that has fractured the possibility of genuine embeddedness. Recovery is slow. But recovery is happening.
+
+> *A word from the author.* I have led a home fellowship and helped plant a church, and I can tell you the difference is not the size of the room. It is whether people actually know each other's Tuesdays. A gathering can be small and still be a crowd of strangers, or it can be a handful of households who show up when someone's barn roof leaks — and that second kind is what Scripture means by a people.
 
 ## Application: cultivating peoplehood locally
 
@@ -97,9 +99,9 @@ In the Piedmont of South Carolina, the material conditions for this are present:
 
 Many readers come to this document as mobile, uprooted people who have never experienced *am* in the covenantal sense — people who have moved multiple times, who belong to no particular place, and for whom the language of "staying long enough to be known" sounds like a rebuke rather than an invitation.
 
-Most Western readers come to this material from **fragmentation**, not from rootedness. Mobility, divorce, career relocation, digital displacement — these are the waters many people now swim in. To name the goodness of rooted peoplehood is not to pretend that most households already have it. It is to tell the truth about what has been lost.
+Most Western readers come to this material from **fragmentation**, not from rootedness. Mobility, divorce, career relocation, digital displacement: these are the waters many people now swim in. To name the goodness of rooted peoplehood is not to pretend that most households already have it. It is to tell the truth about what has been lost.
 
-That fragmentation is not a disqualifier. Ruth was not rooted. She was a Moabite widow in a foreign land. Yet she becomes one of the great emblems of *am* in the Hebrew Bible precisely because she chose to be bound — to a people, to a place, and to the God of that people. The covenantal path often begins not in inherited stability but in a faithful act of attachment.
+That fragmentation is not a disqualifier. Ruth was not rooted. She was a Moabite widow in a foreign land. Yet she becomes one of the great emblems of *am* in the Hebrew Bible precisely because she chose to be bound — "your people shall be my people, and your God my God" (Ruth 1:16) — to a people, to a place, and to the God of that people. The covenantal path often begins not in inherited stability but in a faithful act of attachment.
 
 You do not begin with **peoplehood**. You begin with one neighbor, one congregation, one market, one commitment to stay. Peoplehood is what grows when enough households make that choice in the same place over enough time. What feels small at first is often the seed of everything that follows.
 

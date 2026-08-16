@@ -34,7 +34,7 @@ Packaged: "We need a platform." Grown: "We need a trustworthy presence and a lif
 
 ## Using this well
 
-The cure is not cynicism about language, and it is certainly not a new legalism that polices every word anyone reaches for under pressure. It is the patient work of growing your own — which happens not by scolding yourself out of packaged words but by spending real time in the language of the land. The more you learn to think in *dabar* and *hesed* and *shalom*, the more the packaged words will start to taste like what they are: something made far away, by someone who never met you, for a shelf, not a table.
+The cure is not cynicism about language. It is the patient work of growing your own — which happens not by scolding yourself out of packaged words but by spending real time in the language of the land. The more you learn to think in *dabar* and *hesed* and *shalom*, the more the packaged words will start to taste like what they are: something made far away, by someone who never met you, for a shelf, not a table.
 
 ---
 

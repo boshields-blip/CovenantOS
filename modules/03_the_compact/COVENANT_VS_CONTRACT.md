@@ -2,7 +2,9 @@
 
 ---
 
-This is the foundational document of The Compact. Everything else in this pillar — subsidiarity, the commons, peoplehood, local markets — depends on seeing the difference between covenant and contract clearly. Once the distinction is named, the shape of modern political life becomes readable in a new way.
+I did not learn to see this by reading political philosophy. I saw it when I noticed how naturally I read my own Bible as a contract — a set of individual promises to be claimed, terms to be met, benefits to be collected — without anyone ever telling me to read it that way. No one handed me Hobbes at church. I absorbed the imagination anyway, because it is simply the water a modern person swims in. Naming where it came from was the first step in setting it down.
+
+This is the foundational document of The Compact. Everything else in this pillar — subsidiarity, the commons, peoplehood, local markets — depends on seeing the difference between covenant and contract clearly. Once the distinction is named, the shape of modern political life becomes readable in a new way, the same way mine did.
 
 ## The distinction
 
@@ -23,7 +25,7 @@ The covenant imagination is not merely a different style of political theory. It
 
 The Hebrew word for covenant is *berith*. It appears approximately 285 times in the Hebrew Bible, always carrying a weight that modern "agreement" language fails to capture.
 
-*Berith* implies oath, obligation, and blood. Covenants in the ancient world were often sealed by a sacrifice — the parties walked between divided animals, swearing by their lives that they would keep the terms. When God makes a covenant with Abraham in Genesis 15, He alone passes between the divided animals. The weight is entirely on God's faithfulness, not Abraham's performance.
+*Berith* implies oath, obligation, and blood. Covenants in the ancient world were often sealed by a sacrifice. The parties walked between divided animals, swearing by their lives that they would keep the terms. When God makes a covenant with Abraham in Genesis 15, He alone passes between the divided animals. The weight is entirely on God's faithfulness, not Abraham's performance.
 
 God's covenants in Scripture follow a consistent pattern:
 
@@ -33,13 +35,11 @@ God's covenants in Scripture follow a consistent pattern:
 - **David** (2 Samuel 7) — a covenant of kingship; the promise of an enduring house and throne
 - **The New Covenant in Christ** (Jeremiah 31:31–34; Luke 22:20) — the fulfillment of all prior covenants; law written on the heart; the people of God gathered from every nation into one covenant community
 
-Each of these covenants is personal, specific, and embedded in a people in a place. The New Covenant does not dissolve particularity — it expands it to include the nations while remaining rooted in God's faithfulness to His word.
+Each of these covenants is personal, specific, and embedded in a people in a place. The New Covenant does not dissolve particularity. It expands it to include the nations while remaining rooted in God's faithfulness to His word.
 
-The Diagnostic Engine's covenantal philosophy documents name these threads in more depth. See [The Land of the Text](/the-word/the-land-of-the-text) for the full frame.
+The Land of the Text traces these threads in more depth. See [The Land of the Text](/the-word/the-land-of-the-text) for the full frame.
 
 ## How contract thinking replaced covenant thinking
-
-I did not learn to see this by reading political philosophy. I saw it when I noticed how naturally I read my own Bible as a contract — a set of individual promises to be claimed, terms to be met, benefits to be collected — without anyone ever telling me to read it that way. No one handed me Hobbes at church. I absorbed the imagination anyway, because it is simply the water a modern person swims in. Naming where it came from was the first step in setting it down.
 
 The Western political tradition made a fateful turn in the seventeenth and eighteenth centuries. The thinkers most responsible for the modern political imagination — Hobbes, Locke, and Rousseau — each began from the same premise: the individual precedes the community.
 
@@ -49,15 +49,15 @@ In this account:
 - Authority is legitimate only insofar as individuals have consented to it
 - Obligations are binding only because they were voluntarily entered
 
-This is the **social contract tradition**, and it now forms the background assumption of almost all modern political thinking — left and right, progressive and conservative.
+This is the **social contract tradition**, and it now forms the background assumption of almost all modern political thinking: left and right, progressive and conservative.
 
-> *A note on this claim.* Hobbes, Locke, and Rousseau did not agree with one another and should not be flattened into a single villain. Locke, in particular, wrote as a Christian and believed in a real moral law behind his contract. The critique here is not that these three men conspired against covenant — it is that the starting premise they share, the individual existing prior to community, took root in the Western imagination regardless of what each of them personally intended, and that premise is what needs to be examined.
+> *A note on this claim.* Hobbes, Locke, and Rousseau did not agree with one another and should not be flattened into a single villain. Locke, in particular, wrote as a Christian and believed in a real moral law behind his contract. The critique here is not that these three men conspired against covenant. It is that the starting premise they share, the individual existing prior to community, took root in the Western imagination regardless of what each of them personally intended, and that premise is what needs to be examined.
 
 The problems with this account are both historical and theological:
 
-**Historically**, there was no state of nature. No human being has ever existed outside of a family, a community, and a tradition. Persons are *formed* within communities before they can negotiate contracts. The autonomous individual of social contract theory is a fiction — a useful fiction for certain political arguments, but a fiction nonetheless.
+**Historically**, there was no state of nature. No human being has ever existed outside of a family, a community, and a tradition. Persons are *formed* within communities before they can negotiate contracts. The autonomous individual of social contract theory is a fiction, a useful fiction for certain political arguments, but a fiction nonetheless.
 
-**Theologically**, it inverts the order. Creation precedes individual freedom. Community — household, clan, tribe, people — is part of how God made human beings, not a post-hoc agreement among prior individuals. To say that individuals form communities is to say that persons are more basic than relationships. But Scripture says otherwise: "It is not good for man to be alone" (Genesis 2:18) — and that was before the Fall.
+**Theologically**, it inverts the order. Creation precedes individual freedom. Community — household, clan, tribe, people — is part of how God made human beings, not a post-hoc agreement among prior individuals. To say that individuals form communities is to say that persons are more basic than relationships. But Scripture says otherwise: "It is not good for man to be alone" (Genesis 2:18), and that was before the Fall.
 
 For the diagnostic anatomy of these traditions, see [Expressive Individualism](/the-word/knowing-your-own-way/the-cultural-currents) and [Progressivist Utopianism](/the-word/knowing-your-own-way/the-cultural-currents).
 
@@ -67,11 +67,11 @@ When the social contract imagination becomes the default, the consequences are v
 
 **Communities become voluntary associations.** If I am an individual first and a community member second, then my membership in any community is merely chosen. I can leave whenever my interests change. Membership obligations become advisory. This produces what we see: high mobility, low rootedness, and the hollowing of community institutions.
 
-**Authority becomes procedural legitimacy.** Authority is legitimate not because it is good, wise, or accountable to God, but because the right procedures were followed — elections were held, contracts were signed, consents were obtained. This produces what we see: authority that is technically legitimate but substantively empty; leaders who are elected but not trusted; institutions that have legal standing but no moral weight.
+**Authority becomes procedural legitimacy.** Authority is legitimate not because it is good, wise, or accountable to God, but because the right procedures were followed: elections were held, contracts were signed, consents were obtained. This produces what we see: authority that is technically legitimate but substantively empty; leaders who are elected but not trusted; institutions that have legal standing but no moral weight.
 
 **Obligations become transactional.** If I owe you nothing beyond what we negotiated, then care for the poor, the widow, the stranger, and the elderly is charity rather than covenant obligation. The gleaning fields of Leviticus — where surplus belonged not to the owner but to the neighbor in need — become incomprehensible in a purely contractual frame.
 
-**The political imagination is driven by rights rather than responsibilities.** Rights-language dominates modern political discourse precisely because, in a contractual frame, obligations must be traded for rights — you give up some freedoms in exchange for the state's protection of others. The covenantal alternative asks not "what are my rights?" but "what is my obligation to my neighbor and to the common good?"
+**The political imagination is driven by rights rather than responsibilities.** Rights-language dominates modern political discourse precisely because, in a contractual frame, obligations must be traded for rights: you give up some freedoms in exchange for the state's protection of others. The covenantal alternative asks not "what are my rights?" but "what is my obligation to my neighbor and to the common good?"
 
 ## The covenantal alternative
 
@@ -81,9 +81,9 @@ The covenantal imagination stands the social contract tradition on its head:
 
 **Persons are formed within covenant communities before they can negotiate contracts.** The capacity to make and keep agreements — to be a reliable covenant partner — is itself a formation product. You learn faithfulness in a household before you can practice it in a market.
 
-**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [Hebraic Word Studies](/the-compact/hebraic-word-studies)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal — not because a procedure granted it.
+**Authority is real and personal and accountable to God, not merely legitimate because it was consented to.** The elder who sits in the city gate (see the *sha'ar* study in [Hebraic Word Studies](/the-compact/hebraic-word-studies)) is not a delegate of an atomized constituency. He is a person known by his neighbors, accountable to God for his judgments, embedded in the community his rulings will affect. Authority is weighty because it is real and personal, not because a procedure granted it.
 
-**Obligations precede rights.** The covenant establishes obligations first — toward God, toward neighbor, toward the land, toward the stranger. Rights are the protections that correspond to those obligations. The widow has a claim on gleaning fields not because she negotiated for it, but because the covenant obligates landowners to make room for her.
+**Obligations precede rights.** The covenant establishes obligations first: toward God, toward neighbor, toward the land, toward the stranger. Rights are the protections that correspond to those obligations. The widow has a claim on gleaning fields not because she negotiated for it, but because the covenant obligates landowners to make room for her.
 
 ## Walking in this
 
@@ -94,7 +94,7 @@ The practical question is not whether you prefer covenant or contract as a philo
 - Do you trade with your local farmer as a covenant partner in provision, or as a consumer evaluating a vendor?
 - Do you hold your household's relationship to the elderly, the poor, and the stranger as covenant obligation or as optional generosity?
 
-The answers reveal which imagination has formed you. As your household and community walk in this, the covenant imagination can be re-learned — not as theory, but as practice, obligation, and shared life.
+The answers reveal which imagination has formed you. The covenant imagination isn't gone, only atrophied — it can be re-learned, not as theory but as practice, obligation, and shared life, one household and one decision at a time.
 
 For the household economic dimension of this, see [Household Economy vs Consumer Economy](/the-household/household-vs-consumer-economy). For the public-life application, see [Subsidiarity](/the-compact/subsidiarity) and [Commons and Shared Life](/the-compact/commons-and-shared-life).
 

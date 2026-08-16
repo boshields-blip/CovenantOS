@@ -64,7 +64,7 @@ To recover *oikonomia* is not to reject markets. It is to re-order them.
 - Table, hospitality, and inheritance become economic categories again.
 - Trade serves household and neighborly life rather than replacing them.
 
-As you walk in this, ask: what does my household produce, preserve, share, and pass on?
+The question worth sitting with: what does my household produce, preserve, share, and pass on?
 
 ## This is not a country requirement
 

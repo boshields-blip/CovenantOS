@@ -90,3 +90,9 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-household/the-ordered-household` | `modules/02_the_household/THE_ORDERED_HOUSEHOLD.md` | The Ordered Household | content-page |
 | `/the-household/singleness-and-oikonomia` | `modules/02_the_household/SINGLENESS_AND_OIKONOMIA.md` | Singleness and Oikonomia | content-page |
 | `/the-compact/seeing-the-neighbor` | `modules/03_the_compact/SEEING_THE_NEIGHBOR.md` | Seeing the Neighbor | content-page |
+
+## Addendum — dyad studies (2026-08-16)
+
+| Route | Content Source File | Nav Label | Route Type | Notes |
+|---|---|---|---|---|
+| `/the-household/corresponding-strengths` | `modules/02_the_household/CORRESPONDING_STRENGTHS.md` | Corresponding Strengths | content-page | First of a planned "studies" track — a no-scoring, two-person reflection practice built on the Household Flow Model's stages and the *ezer kenegdo* grammar from The Two and the One. Companion practice to Household Flow Model and The Ordered Household. |

@@ -20,7 +20,7 @@ This matters for reading. When Scripture wants to teach you something true, it u
 
 The modern West begins with the individual: the self who exists first, alone, and then chooses which relationships and communities to join. The Hebrew mind begins with the household and the people. You are, first, someone's child, someone's kin, a member of a family, a tribe, a covenant people in a place. Your name locates you in a web of belonging before it distinguishes you from anyone.
 
-This is why the Bible cares so much about lineage, land allotment, and the household. These are not boring genealogical detours; they are the fabric of identity. When Ruth says "your people shall be my people, and your God my God," she is not making an individual spiritual decision in the modern sense. She is binding herself into a household and a people — accepting a whole web of obligation, memory, and belonging.
+This is why the Bible cares so much about lineage, land allotment, and the household. These are not boring genealogical detours; they are the fabric of identity. When Ruth says "your people shall be my people, and your God my God" (Ruth 1:16), she is not making an individual spiritual decision in the modern sense. She is binding herself into a household and a people — accepting a whole web of obligation, memory, and belonging.
 
 To read relationally is to stop asking only "what does this mean for me?" and to start hearing the text address a *we*: this household, this people, bound together before God.
 

@@ -69,7 +69,7 @@ These are not suggestions. They are the rules that keep this practice healthy an
 The table is not a tribunal. Naming a teacher by name while expressing contempt models something corrosive, especially for younger children. If a teacher must be named (because the sermon was heard that week), name them as you would want to be named.
 
 **Always ask "what is true here?" before "what is off here?"**
-This is not a technique. It is a conviction: partial truths are still truths. A household that only names errors loses the ability to receive genuine goods from teachers they disagree with on some points.
+Partial truths are still truths — that conviction, not a technique, is what's behind this rule. A household that only names errors loses the ability to receive genuine goods from teachers they disagree with on some points.
 
 **Adapt to the youngest person at the table.**
 If Little Ones or Image Bearers are fully present and engaged, the Berean discussion stays brief, simple, and warm. Do not use the table as a place to work through complex theological disagreement over a toddler's macaroni.

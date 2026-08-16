@@ -24,7 +24,7 @@ That is enough. Most families, having received this kind of honest, gentle warni
 
 ## A simpler first-time format
 
-The first time another family joins the table, skip movement 5 (*Know*). Keep movements 1–4, 6, and 7. The Know slot involves the rotating categories — author, language, genre, covenantal frame, philosophy, and tradition — and it is the least necessary piece for a first guest experience.
+The first time another family joins the table, skip movement 5 (*Know*). Keep movements 1–4, 6, and 7. The Know slot involves the rotating categories — author, language, genre, covenantal frame, philosophy, and tradition — and it is the least necessary piece the first time a guest family joins.
 
 **Simplified format for a guest table:**
 

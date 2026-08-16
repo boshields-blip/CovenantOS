@@ -2,7 +2,7 @@
 
 ---
 
-The Household is Covenantal Architecture's *oikonomia* pillar: the recovery of household stewardship as the center of life. In this pillar, formation happens in work, table, land, season, and neighborly exchange — not in abstraction.
+Let me tell you what this second pillar is. The Household is where the imagination The Word forms gets tested against an actual kitchen table, an actual garden, an actual Tuesday. I did not arrive at *oikonomia* — household stewardship as the center of life — by reading about it. I arrived at it by farming, by raising children, by noticing how far my own household had drifted from the things Scripture simply assumes. Here, formation happens in work, table, land, season, and neighborly exchange, not in abstraction.
 
 ## Why *oikonomia*
 
@@ -45,7 +45,7 @@ The Compact
 
 ## Tone and posture
 
-This pillar is Hebraic, embodied, agrarian, and practical. As you walk in this, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations added later; they are part of the lived texture of the argument.
+This pillar is Hebraic, embodied, agrarian, and practical, because that is the only way I know how to teach it. Here, the land teaches before lectures do. Hay fields, pasture rhythms, kitchen gardens, local markets, and household tables in the Piedmont of South Carolina are not illustrations I added later; they are the actual texture of my own life, and this whole pillar grew out of walking it.
 
 Aletheia Farm can be named here as a real, lived instance of this household stewardship. Its operational concerns — venue scheduling, bookings, and event logistics — still belong in CommunityOS rather than in Covenantal Architecture.
 

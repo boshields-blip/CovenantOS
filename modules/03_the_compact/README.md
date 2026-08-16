@@ -2,7 +2,7 @@
 
 ---
 
-The Compact is Covenantal Architecture's political anthropology pillar. It asks the oldest public question: *how do communities govern themselves, order their shared life, and understand authority?* The answer here is not partisan — it is covenantal. Communities precede governments. Households covenant together before institutions are built. Authority is personal, local, and accountable before it is procedural, distant, and abstract.
+Let me tell you what this third pillar is, and why it matters to me. I am a small business owner in a small corner of South Carolina, and long before I could name it, I could feel the difference between the neighbors who show up for each other and the systems that only show up for a signature. The Compact is Covenantal Architecture's political anthropology pillar — my attempt to put words to that difference. It asks the oldest public question: *how do communities govern themselves, order their shared life, and understand authority?* The answer here is not partisan. It is covenantal. Communities precede governments. Households covenant together before institutions are built. Authority is personal, local, and accountable before it is procedural, distant, and abstract.
 
 ## What The Compact is — and is not
 
@@ -42,7 +42,7 @@ This pillar is covenantal, local, embodied, and place-based. Authority is person
 
 The posture is slow, patient, and particular. Not revolutionary and not reactionary. The invitation is faithful presence in the specific place where you actually live — this neighborhood, this congregation, this market, this watershed.
 
-In the Piedmont of South Carolina, this is not abstract. Local farmers markets, small farms selling direct, skilled tradespeople known by name, and congregations with genuine mutual accountability are already forming. The Compact is a framework for naming what is happening and walking further into it.
+In the Piedmont of South Carolina, this is not abstract to me. I buy from the farmers markets, I am one of the tradespeople known by name, and I have watched congregations with genuine mutual accountability take root here. The Compact is my attempt to name what is happening around my own home and walk further into it.
 
 ## Directory map
 

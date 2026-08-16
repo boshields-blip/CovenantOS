@@ -44,17 +44,16 @@ There is no required reading before the first session. Pick a passage, open a Bi
 |---|---|
 | [Philosophy](/the-word/living-the-covenant/come-to-the-table/philosophy) | Why the family table; covenantal anthropology of shared meals |
 | [Session Format](/the-word/living-the-covenant/come-to-the-table/session-format) | The canonical seven-movement session liturgy |
-| [Age Bands](/the-word/living-the-covenant/come-to-the-table/age-bands) | How to engage each age at the same table |
+| [Age Bands](/the-word/living-the-covenant/come-to-the-table/age-bands) | How each age takes part at the same table |
 | [Authors and Languages](/the-word/living-the-covenant/come-to-the-table/authors-and-languages) | The rotating "Know" slot: authors, language, genre, covenantal frame, philosophy |
 | [Canonical Arc](/the-word/living-the-covenant/come-to-the-table/canonical-arc) | A four-year, low-pressure arc through the Scriptures |
 | [Host Guide](/the-word/living-the-covenant/come-to-the-table/host-guide) | Practical guide for the parent or host leading the table |
 | [Berean at the Table](/the-word/living-the-covenant/come-to-the-table/berean-at-the-table) | How and when to bring Berean discernment to the family table |
 | [Guest Family Guide](/the-word/living-the-covenant/come-to-the-table/guest-family-guide) | How to invite and host another family |
-| [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Seasonal overlay for weekly table practice aligned to quarterly gathering |
+| [Seasonal Liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Spring/Summer/Fall/Winter opening and closing overlays that keep the weekly table aligned with the quarterly gathering |
 | [Opening](/the-word/living-the-covenant/come-to-the-table/liturgies/opening) | A short opening call to attention and blessing of the meal |
 | [Reading](/the-word/living-the-covenant/come-to-the-table/liturgies/reading) | How Scripture is read at the table |
 | [Closing](/the-word/living-the-covenant/come-to-the-table/liturgies/closing) | A short closing blessing as plates are cleared |
-| [Seasonal liturgy](/the-word/living-the-covenant/come-to-the-table/seasonal-liturgy) | Spring/Summer/Fall/Winter opening and closing overlays for weekly sessions |
 
 ---
 

@@ -44,7 +44,7 @@ The result was not only economic change but formation change.
 
 Covenantal household economics is not anti-market. It is pre-market.
 
-Markets can serve good ends, but they must remain derivative. The household forms people first, then participates in exchange from that formed posture.
+Markets can serve good ends, but they must remain derivative. The household forms people first, then participates in exchange from that formed posture — a household that will not provide for its own is worse than unbelieving, Paul tells Timothy (1 Timothy 5:8), which makes ordinary household provision a matter of faith, not merely budgeting.
 
 Practical reordering includes:
 
@@ -72,7 +72,7 @@ What habits is your household currently training?
 - isolation or hospitality?
 - private accumulation or shared provision?
 
-As you walk in this, reorder one economic habit at a time.
+Pick one answer above that stung, and reorder that habit first.
 
 ## See also
 

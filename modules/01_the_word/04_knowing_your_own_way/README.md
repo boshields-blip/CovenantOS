@@ -10,7 +10,7 @@ Every person carries a set of answers to a handful of very old questions — wha
 
 ## Why this is a mirror, not a weapon
 
-The material here began as a tool for diagnosing rival philosophies "out there." That is the wrong posture for formation. The most honest and fruitful use of these seven questions is turned inward, on your own heart, before it is ever turned outward. As the old counsel puts it: examine yourself first. You cannot see anyone else's way clearly until you have traced your own.
+It would be easy to turn these seven questions into a tool for diagnosing rival philosophies "out there" — that is the wrong posture for formation, and the temptation to reach for it first is real. The most honest and fruitful use of these seven questions is turned inward, on your own heart, before it is ever turned outward. As the old counsel puts it: examine yourself first. You cannot see anyone else's way clearly until you have traced your own.
 
 So the questions are asked in the first person. Not "what is wrong with the modern world," but "what do *I* actually believe here, where did that come from, and how does it compare to what arises from Scripture read in its own world?"
 
@@ -32,7 +32,7 @@ Naming where a conviction came from is not the same as condemning it. Some of wh
 1. **[The Seven Questions](/the-word/knowing-your-own-way/the-seven-questions)** — the mirror itself: seven old questions, asked of your own heart, with the answer that arises from the land of the text alongside each.
 2. **[The Cultural Currents](/the-word/knowing-your-own-way/the-cultural-currents)** — the four currents shaping your answers, named so you can recognize them in yourself.
 3. **[Covenantal Identity](/the-word/knowing-your-own-way/covenantal-identity)** — the positive counterpart to the two movements above: not just what to set down, but where identity actually comes from once you do.
-4. **[The Examination](/the-word/knowing-your-own-way/the-examination)** — the interactive, device-only self-examination: walk the seven questions and the four currents one at a time, write your own answer before revealing what arises from the land of the text, and keep your reflections.
+4. **[The Examination](/the-word/knowing-your-own-way/the-examination)** — an interactive self-examination: walk the seven questions and the four currents one at a time, write your own answer before revealing what arises from the land of the text, and keep your reflections.
 
 ## The posture
 

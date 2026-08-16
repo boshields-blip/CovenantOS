@@ -4,6 +4,8 @@
 
 The Bible is not a collection of religious sayings, a rulebook, or an anthology of inspirational passages to be mined for verses. It is one story — a single covenant narrative that runs from creation to new creation, held together by a God who binds Himself to a people and will not let them go. Learning to see that arc is learning to read any single passage in its true home. A verse pulled out of the story can be made to mean almost anything. A verse read within the story means what it was given to mean.
 
+I used to read this story the way most of us are taught to: a shelf of separate books, a verse for this occasion and a verse for that one, checked out and re-shelved as needed. I could tell you facts about Genesis and facts about Revelation without ever once feeling the thread that runs between them. It took years of actually walking a season on my own land before I saw that the Bible was not a shelf at all. It was a story, moving somewhere, and I had been standing inside it the whole time without noticing.
+
 Here is the arc, told as the first hearers would have known it: not as doctrine, but as a story you can stand inside.
 
 ## Creation: the world as covenant home

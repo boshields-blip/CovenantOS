@@ -52,12 +52,18 @@
     },
     {
       number: '07',
+      title: 'Corresponding Strengths',
+      description: 'Practice seeing how two people carry household work, provision, hospitality, and community together.',
+      href: withBase('/the-household/corresponding-strengths')
+    },
+    {
+      number: '08',
       title: 'Land and Inheritance',
       description: 'Anchor household life in inheritance, responsibility, and covenantal continuity across generations.',
       href: withBase('/the-household/land-and-inheritance')
     },
     {
-      number: '08',
+      number: '09',
       title: 'Hebraic Word Studies',
       description: 'Use the word-study practice as a repeatable formation tool for household life.',
       href: withBase('/the-household/hebraic-word-studies')

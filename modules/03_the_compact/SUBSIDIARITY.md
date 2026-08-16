@@ -4,7 +4,9 @@
 
 Subsidiarity is the principle that decisions and authority should rest at the lowest competent level — closest to the people affected. What can be done at the household level should not be done at the community level. What can be done at the community level should not be done at the regional level. What can be done at the regional level should not be done by the civil state.
 
-This is not merely a principle of political efficiency. It is covenantal. It reflects the way God ordered authority in Israel — and the shape of faithful life for any people who seek to walk in that pattern.
+This is covenantal, not merely a principle of political efficiency — it reflects the way God ordered authority in Israel, and the shape of faithful life for any people who seek to walk in that pattern.
+
+I have watched this work for twenty years on job sites, long before I had a word for it. An apprentice handles what an apprentice can handle: the fitting he's sweated a hundred times, the drain he can clear on his own. When a problem is past him, it goes up — to me, or to whoever on the crew has actually done that particular job before. Nobody calls the manufacturer when a trap is clogged. That is subsidiarity, plainly, and it works for the same reason it works in a covenant community: the person closest to the pipe is also the person who knows the pipe best. Push the decision up past where the competence actually lives, and you do not get a better decision. You get a slower one, made by someone who has never stood in the house.
 
 ## The principle
 
@@ -33,7 +35,7 @@ The Mosaic governance structure (Exodus 18) makes this concrete. Moses is judgin
 > *"Why do you sit alone, and all the people stand around you from morning till evening?... The thing is too heavy for you. You are not able to do it alone."*
 > — Exodus 18:14, 18
 
-Jethro's counsel is administrative, but it is also covenantal. He advises Moses to establish leaders of thousands, hundreds, fifties, and tens — each level holding cases appropriate to its competence, only the most difficult cases reaching Moses. This is not bureaucracy. It is a covenant people distributing authority so that it remains personal, accessible, and accountable at every level.
+Jethro's counsel is administrative, but it is also covenantal. He advises Moses to establish leaders of thousands, hundreds, fifties, and tens — each level holding cases appropriate to its competence, only the most difficult cases reaching Moses. What this distributes is not bureaucracy but a covenant people's own authority, kept personal, accessible, and accountable at every level.
 
 The city gates (*sha'ar*) are the Hebraic image of this principle in daily life. See the word study in [Hebraic Word Studies](/the-compact/hebraic-word-studies). The elders at the gate are local, known, embedded in the community whose disputes they adjudicate. Justice at the gate is not abstract: it is the face of your neighbor on one side and the face of the person they wronged on the other.
 
@@ -85,7 +87,7 @@ The household cannot do everything. Some goods — regional water stewardship, c
 
 Subsidiarity also does not mean that communities close in on themselves and ignore their neighbors. The whole trajectory of Scripture runs toward the nations being gathered in, toward the expanding circle of the covenant people, toward the city of God that includes every tongue and tribe. Subsidiarity without catholicity becomes tribalism. The local matters because it is where covenant life is actually lived — not because it is the only life that matters.
 
-As your community walks in this, the question is not: *how do we become independent of everyone else?* The question is: *what decisions belong here, among us, in this place — and what would it cost us to take them back?*
+The question a community actually walking this out faces is not *how do we become independent of everyone else?* It's *what decisions belong here, among us, in this place — and what would it cost us to take them back?*
 
 ## The civil state as bounded authority
 

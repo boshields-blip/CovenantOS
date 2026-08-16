@@ -64,7 +64,7 @@ The Compact is where household formation meets public obligation. These question
 
 - What decisions are you allowing to be made at too high a level that belong closer to home? Who is deciding how your children are formed? Who is deciding what happens to the land and water in your community? Who is deciding how your neighborhood looks, who lives in it, and what happens there? What would it cost to take those decisions back? See [Subsidiarity](/the-compact/subsidiarity).
 
-- Where have you outsourced local responsibility to institutions, programs, or distant authorities — and what would it require to reclaim it? This is not about hostility to institutions; it is about the question of competence and accountability. What does your household and neighborhood know how to do, and what have you been told you need a specialist for?
+- Where have you outsourced local responsibility to institutions, programs, or distant authorities? And what would it require to reclaim it? This is not about hostility to institutions; it is about the question of competence and accountability. What does your household and neighborhood know how to do, and what have you been told you need a specialist for?
 
 **Shared obligations:**
 
@@ -78,7 +78,7 @@ The Compact is where household formation meets public obligation. These question
 
 - What local market relationships are you building, and how do you trade? Do you know the name of the person who grew your food? Do you know the tradesperson who serves your household? Do you choose local when you can, not merely for efficiency but for covenant formation? See [Local Market and Social Fabric](/the-compact/local-market-and-social-fabric).
 
-- What would it look like for your neighborhood or community to operate more covenantally? More shared obligation. More mutual aid. More accountability between households. More shared memory and story. More shared practices. Not as a program — as a way of life. Where is one step toward that? Name it specifically: one conversation, one shared meal, one market relationship, one act of mutual aid, one practice of presence.
+- What would it look like for your neighborhood or community to operate more covenantally? More shared obligation. More mutual aid. More accountability between households. More shared memory and story. More shared practices. Not as a program. As a way of life. Where is one step toward that? Name it specifically: one conversation, one shared meal, one market relationship, one act of mutual aid, one practice of presence.
 
 **The deepest question:**
 
@@ -88,29 +88,29 @@ The Compact is where household formation meets public obligation. These question
 
 ---
 
-## Section 4 — Implementation Practices: covenantal habits that prevent fragmentation
+## Section 4 — Living it out: the habits that hold
 
-This final section turns conviction into repeatable practice. The aim is not a program launch but sustained household and neighborhood habits that make covenantal freedom durable.
+This final section turns conviction into practice you can actually keep. The aim was never a program to launch. It is a handful of ordinary habits, carried over years and not quarters, that make covenantal life durable in your household and your neighborhood.
 
-**Household formation practice:**
+**A household rhythm:**
 
-- What one weekly household rhythm will you adopt for the next ninety days that strengthens shared responsibility — shared meal planning, shared labor, shared prayer, shared budgeting, or shared neighbor care? Name the rhythm, day, and who is responsible for holding it.
+- What one weekly rhythm will you take up and keep — the way you'd keep a Sabbath — that strengthens shared responsibility: shared meal planning, shared labor, shared prayer, shared budgeting, or shared neighbor care? Name the rhythm, the day, and who in your household will hold it.
 
-**Interdependence practice:**
+**Households woven together:**
 
-- Which two households, neighbors, or families will you intentionally weave into shared burdens this season? Define one concrete exchange (childcare, meals, repairs, transport, elder support, tools, or produce) and the cadence that keeps it regular.
+- Which two households, neighbors, or families will you intentionally bind your burdens to this season? Name one concrete exchange — childcare, meals, repairs, transport, elder support, tools, or produce — and the cadence that keeps it a living arrangement rather than a one-time favor.
 
-**Covenant economics practice:**
+**Trading like a neighbor:**
 
-- Where can your household shift one recurring economic decision from anonymous convenience toward covenantal relationship this month — food, trade, services, or craftsmanship? Identify the person or household by name and define the first repeated transaction.
+- Where can your household move one recurring purchase — food, trade, services, or craftsmanship — from a stranger's checkout line to a neighbor's name? Name the person or household, and name the first thing you will buy from them.
 
-**Anti-fragmentation and power-vacuum practice:**
+**An obligation nobody is carrying:**
 
-- What local obligation is currently unheld in your neighborhood, congregation, or shared commons? Choose one responsibility you can help steward, name who must join you, and define the first meeting or action date.
+- What is going unheld in your neighborhood, congregation, or commons right now — the thing everyone half-notices and no one has picked up? Choose one you can help carry, name who needs to join you, and set a date for the first conversation.
 
-**Accountability cycle:**
+**Returning to it:**
 
-- How will you review these commitments in thirty, sixty, and ninety days so they survive beyond intention? Name the people, dates, and evidence you will use to measure faithfulness (not perfection).
+- Come back to these commitments when a season turns — harvest, year's end, whatever marks time in your household. Name the people who will ask you honestly how it went. Faithfulness, not perfection, is what you are building toward.
 
 ---
 
@@ -118,11 +118,11 @@ This final section turns conviction into repeatable practice. The aim is not a p
 
 The three pillars of Covenantal Architecture form one arc:
 
-**The Word** gives the imagination — the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and public life.
+**The Word** gives the imagination: the covenantal frame, the Hebraic language, the diagnostic tools for seeing how the modern world has distorted the way we think about persons, authority, community, and public life.
 
-**The Household** grounds the imagination in embodied life — in land, season, work, table, inheritance, and the daily practice of stewardship before God and neighbor.
+**The Household** grounds the imagination in embodied life: land, season, work, table, inheritance, and the daily practice of stewardship before God and neighbor.
 
-**The Compact** extends that embodied life into public obligation — into the commons, the covenant people, the local market, the right ordering of authority from household to community to region.
+**The Compact** extends that embodied life into public obligation: the commons, the covenant people, the local market, the right ordering of authority from household to community to region.
 
 This is not a quick journey. Formation is slow. The habits of the consumer imagination are deep; the covenantal alternative is demanding; the gap between what we know and how we live is real and humbling. These questions are designed to surface that gap, not to shame it. The gap is where formation happens.
 

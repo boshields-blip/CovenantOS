@@ -35,6 +35,8 @@ For the household production dimension of this, see [Land and Inheritance](/the-
 
 **The city gates as the commons of justice.** The gate (*sha'ar*) is where disputes were resolved, where commerce was transacted, and where the community held its public life. It is not a government building — it is the threshold of the city, where everyone passes and everyone is known. Justice at the gate is embedded in the community. See the word study in [Hebraic Word Studies](/the-compact/hebraic-word-studies).
 
+The early church carried the same instinct forward after Pentecost: believers held their possessions in common and distributed to anyone who had need (Acts 2:44–45). The commons did not end with the Torah; it kept surfacing wherever a covenant people actually lived together.
+
 ## The commons in agrarian life
 
 In traditional agrarian communities, the commons was not a philosophical concept. It was the practical infrastructure of shared life:

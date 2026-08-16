@@ -59,6 +59,7 @@ The route inventory below is authoritative for the web build. Use it together wi
 | `/the-household/agrarian-rhythms` | `modules/02_the_household/AGRARIAN_RHYTHMS.md` | page |
 | `/the-household/household-vs-consumer-economy` | `modules/02_the_household/HOUSEHOLD_VS_CONSUMER_ECONOMY.md` | page |
 | `/the-household/land-and-inheritance` | `modules/02_the_household/LAND_AND_INHERITANCE.md` | page |
+| `/the-household/corresponding-strengths` | `modules/02_the_household/CORRESPONDING_STRENGTHS.md` | page |
 | `/the-household/hebraic-word-studies` | `modules/02_the_household/HEBRAIC_WORD_STUDIES.md` | page |
 
 ### The Compact

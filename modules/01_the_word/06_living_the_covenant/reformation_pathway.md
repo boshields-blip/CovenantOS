@@ -28,7 +28,7 @@ Put off  →  Renew the mind  →  Put on
         Harvest & Hymn
 ```
 
-The loop is not linear and finished. It is a returning cycle, walked again in each season and stage of life. In Hebraic terms this is *teshuvah* — turning, returning — not a single decision but a direction of life.
+The loop is a returning cycle, walked again in each season and stage of life, not a straight line finished once. In Hebraic terms this is *teshuvah* — turning, returning — not a single decision but a direction of life.
 
 ---
 
@@ -64,7 +64,7 @@ Putting something down leaves a space. If that space is not filled, the old patt
 - **Recover memory.** Covenant renewal is historical. It works through Scripture read aloud, the testimony of the saints, and liturgy that carries a community's memory forward. The mind is renewed less by novelty than by re-inhabiting what was given — the story into which you were baptized.
 - **Re-order the imagination Hebraically.** Renewal moves thought back toward the concrete: bodies, tables, seasons, places, obligations, and names — rather than abstractions floating free of any actual household.
 
-Renewal is not a single insight. It is repeated return. The mind is renewed the way a field is kept — not once, but every season.
+Renewal is repeated return, not a single insight. The mind is renewed the way a field is kept — not once, but every season.
 
 ---
 
@@ -97,22 +97,6 @@ The three movements are not a staircase climbed once. They are a cycle, walked a
 3. **Walk in the way** — practice the covenant life (renewal becomes habit and shared life)
 
 Each turn goes deeper. A drift you named this year will look different when you return to it after a season of practice. The self-examination in [Knowing Your Own Way](/the-word/knowing-your-own-way) is meant to be repeated, not completed. Re-formation is *teshuvah* as a settled direction — a life that keeps turning back toward covenant — not a problem solved and closed.
-
----
-
-## Where this pathway leads
-
-The Re-formation Pathway is the last movement of The Word, but not the end of the formation it begins. A covenant imagination does not stay in the head; it reorders a home. The person formed at the table begins to see labor, provision, land, and hospitality differently — the work of **[The Household](/the-household)**. And rightly ordered households, reaching toward one another, begin to form the shared public life that is the work of **[The Compact](/the-compact)**.
-
-```text
-The Word → forms imagination
-    ↓
-The Household → households form communities
-    ↓
-The Compact
-```
-
-The re-formed imagination is the seed. The household is the soil. The community is the harvest. This pathway is where the seed goes into the ground.
 
 ---
 

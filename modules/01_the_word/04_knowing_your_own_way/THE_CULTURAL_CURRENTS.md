@@ -56,4 +56,4 @@ This is slow work, and it is not done alone or merely in the head. It is carried
 
 ---
 
-*This completes [Knowing Your Own Way](/the-word/knowing-your-own-way). Next in The Word: [Walking the Text](/the-word/walking-the-text).*
+*Next in [Knowing Your Own Way](/the-word/knowing-your-own-way): [Covenantal Identity](/the-word/knowing-your-own-way/covenantal-identity).*

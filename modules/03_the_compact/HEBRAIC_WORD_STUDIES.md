@@ -48,7 +48,7 @@ Use these studies as formation tools, not only lexical notes. Read the texts slo
 
 ## Walking practice
 
-As you walk in this pillar:
+To practice this:
 
 1. Choose one word for a week.
 2. Read its references at the household table.

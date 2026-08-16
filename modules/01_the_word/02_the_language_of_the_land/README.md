@@ -8,11 +8,11 @@ Language is not a neutral container for ideas. It is the soil imagination grows 
 
 You do not need to master Hebrew or Greek to do this. You need to understand a few things about how biblical language works — how it is concrete where we are abstract, how it holds truths in tension where we rush to systematize, how a single word can carry a whole world of meaning. A handful of these insights will do more to reshape your reading than years of studying in translation alone.
 
-## The flip
+## Construction before critique
 
-In its earlier form, this material was mostly a tool for catching *modern* distorted speech — a way to notice when Christians talk about the church like a corporation or the self like a brand. That work is still worth doing, and it survives here as an appendix. But the heart of this movement now runs the other direction: not first "what is wrong with our modern words," but "how does the Bible's own language think, and how can I learn to think that way?"
+The heart of this movement runs one direction: not first "what is wrong with our modern words," but "how does the Bible's own language think, and how can I learn to think that way?" Learn the land's own tongue first; you will hear the distortions of your own soon enough by contrast.
 
-Construction before critique. Learn the land's own tongue first; you will hear the distortions of your own soon enough by contrast.
+The appendix turns that same instinct toward diagnosis — noticing when Christians talk about the church like a corporation or the self like a brand — but it comes last for a reason. You need something to hear the contrast against before the contrast means anything.
 
 ## The path through this movement
 

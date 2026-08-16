@@ -99,4 +99,4 @@ A household does not need to start at Year 1, Session 1. They can begin wherever
 
 A household that follows this arc for eight to ten years will have heard much of the Old and New Testament read aloud at the table. They will have encountered the major authors, languages, genres, covenant movements, and philosophical categories not as abstractions but as accumulated memory.
 
-That is not a curriculum. It is formation — gradual, embodied, relational, and covenantal.
+That is not a curriculum. It is formation: gradual, embodied, relational, and covenantal.

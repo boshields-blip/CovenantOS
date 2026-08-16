@@ -2,11 +2,7 @@
 
 ---
 
-> This is the stream Covenantal Architecture reads from. It is named here, and held to the same gifts-first, blind-spots-second standard as every other tradition, so you can weigh the lens for yourself.
-
-> *A note on naming a lens.* Naming this stream is not a claim that it sees more clearly than the others, any more than a plumber naming his own toolbox is a claim that other men's tools are inferior. It is a disclosure, not a boast — so that when you notice a slant in how Covenantal Architecture reads a passage, you have somewhere to trace it back to.
-
-> Everything on this page is a lens — one stream's emphasis, held to the same standard as every other. The confession it stands on is not: see [What We Believe](/what-we-believe) for the Trinity, the gospel, and our hope, stated plainly and shared across every tradition named below.
+> This is the stream Covenantal Architecture reads from, named here and held to the same gifts-first, blind-spots-second standard as every other tradition — the way a plumber naming his own toolbox isn't a claim that other men's tools are inferior. It's a disclosure, not a boast, so that when you notice a slant in how Covenantal Architecture reads a passage, you have somewhere to trace it back to. What it stands on is not a lens: see [What We Believe](/what-we-believe) for the Trinity, the gospel, and our hope, stated plainly and shared across every tradition named below.
 
 ## Where this comes from
 
@@ -14,16 +10,16 @@ Honesty requires that we locate ourselves. Covenantal Architecture is not writte
 
 ## Center of gravity
 
-The Household-Covenant tradition sees the **household as the primary arena of discipleship**, the **table as the center of communal life**, and **covenant as the architecture of reality**. It mirrors the early church's pattern: households gathered around Scripture, shared meals, and mutual responsibility. It is Hebraic in worldview, covenantal in theology, agrarian and land-aware, table-oriented, post-denominational, deeply evangelical in its love of Scripture, and ancient in its imagination — shaped by covenant theology, the world of the Ancient Near East, and the recovery of *oikonomia*, the ordering of the household.
+The Household-Covenant tradition sees the **household as the primary arena of discipleship**, the **table as the center of communal life**, and **covenant as the architecture of reality**. It mirrors the early church's pattern: devoted to the apostles' teaching, breaking bread house to house, holding all things in common, glad and generous hearts (Acts 2:42–47). It is Hebraic in worldview, covenantal in theology, agrarian and land-aware, table-oriented, post-denominational, deeply evangelical in its love of Scripture, and ancient in its imagination — shaped by covenant theology, the world of the Ancient Near East, and the recovery of *oikonomia*, the ordering of the household.
 
 ## Core convictions
 
-- **The household as the first church** — the primary place where faith is formed, Scripture is lived, work is stewarded, children are discipled, and the stranger is welcomed. The household is the little *ecclesia*, the first economy, and the first community.
+- **The household as the first church** — the primary place where faith is formed, Scripture is lived, work is stewarded, children are discipled, and the stranger is welcomed. The household is the little *ecclesia*, the first economy, and the first community — Paul greets "the church in their house" as an ordinary matter of course (Romans 16:5; 1 Corinthians 16:19).
 - **Covenant as the grammar of life** — not merely a doctrine but the structure of God's bond with His people, and of households with God and with one another. Everything is relational, binding, and mutual rather than contractual and consumeristic.
 - **Table fellowship as the center of ministry** — gathering around tables, with believers and unbelievers alike, is where Scripture is discussed, strangers become neighbors, covenant is remembered, and hospitality becomes witness.
 - **Responsibility for one's household** — men and women called to lead their households in Scripture, prayer, work, and hospitality, and to form children in covenant identity. Covenantal responsibility rooted in love and service, not authoritarianism.
 - **Honor for other households** — respecting boundaries, blessing work, supporting needs, and sharing life; each household a micro-image of God's covenant family. A community of households, not a collection of isolated individuals.
-- **Adoption into the household of God** — salvation understood not primarily as legal transaction or private decision but as adoption into God's family: becoming sons and daughters, brothers and sisters, members of the household of God.
+- **Adoption into the household of God** — salvation understood not primarily as legal transaction or private decision but as adoption into God's family (Ephesians 1:5; Romans 8:15): becoming sons and daughters, brothers and sisters, "members of the household of God" (Ephesians 2:19).
 
 ## Two paths in
 

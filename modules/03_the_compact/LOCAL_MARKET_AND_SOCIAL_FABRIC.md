@@ -24,7 +24,7 @@ The city gate (*sha'ar*) in ancient Israel was not merely a security installatio
 
 When Boaz redeems Ruth's family land in Ruth 4, the transaction happens at the gate — before ten elders, with witnesses, and with the formal public exchange of a sandal. The legal form is there, but what makes it meaningful is that Boaz is known in the community, Ruth is a woman whose faithfulness has been observed, and the kinsman-redeemer who declines is also known. The market transaction is embedded in a social fabric so thick that the commercial and the covenantal are inseparable.
 
-The local market — whether a Saturday farmers market in Greenville, South Carolina, or a town square in any agricultural community — has always functioned as a social institution as much as an economic one. You do not only buy food; you see who has survived the winter, who has a new baby, who is struggling with the harvest, and who has learned a new skill. The market is a form of commons — a shared space where private production meets public exchange and both are shaped by community accountability.
+The local market — whether a Saturday farmers market in Greenville, South Carolina, or a town square in any agricultural community — has always functioned as a social institution as much as an economic one. You do not only buy food; you see who has survived the winter, who has a new baby, who is struggling with the harvest, and who has learned a new skill. The market is a form of commons: a shared space where private production meets public exchange, and both are shaped by community accountability.
 
 The Commons can be named here as a real, lived instance of that shared-space and market logic. Covenantal Architecture names it to make the argument concrete, but vendor coordination, event scheduling, listings, and transactions remain CommunityOS responsibilities.
 
@@ -39,25 +39,25 @@ The consequences are visible:
 - The skilled local tradesperson cannot compete on speed with the platform that aggregates demand and routes work to the lowest bidder
 - The local retail shop cannot compete on selection with the online platform that aggregates every seller and charges a rent on every transaction
 
-None of this happens because people are evil. It happens because scale eliminates the relational accountability that made local markets covenantally ordered — and the resulting market structure rewards extraction over covenant.
+None of this happens because people are evil. It happens because scale eliminates the relational accountability that made local markets covenantally ordered. And the resulting market structure rewards extraction over covenant.
 
 ## The formative power of local trade
 
 Buying from a neighbor forms you differently than buying from a platform.
 
-When you buy vegetables from a farmer you know, you see their labor. You see the soil condition of their fields after a hard summer. You taste the difference between their August tomatoes and the January tomatoes shipped from a thousand miles away. You know what they sacrificed to grow it — the early mornings, the equipment failure, the crop that failed in the heat. This is *formation*, not merely transaction.
+When you buy vegetables from a farmer you know, you see their labor. You see the soil condition of their fields after a hard summer. You taste the difference between their August tomatoes and the January tomatoes shipped from a thousand miles away. You know what they sacrificed to grow it: the early mornings, the equipment failure, the crop that failed in the heat. This is *formation*, not merely transaction.
 
-When you hire a tradesperson you know — a plumber, a carpenter, a mechanic who lives in your community, attends a congregation nearby, and whose children go to school with yours — you are not merely purchasing a service. You are participating in a local economy that sustains the households around you. Your payment is not extracted by a distant corporation; it stays in the neighborhood. Your feedback about the quality of work travels through the community's reputation network and shapes how that tradesperson serves your neighbors. This is covenant accountability in the market.
+When you hire a tradesperson you know — a plumber, a carpenter, a mechanic who lives in your community, attends a congregation nearby, and whose children go to school with yours, you are not merely purchasing a service. You are participating in a local economy that sustains the households around you. Your payment is not extracted by a distant corporation; it stays in the neighborhood. Your feedback about the quality of work travels through the community's reputation network and shapes how that tradesperson serves your neighbors. This is covenant accountability in the market.
 
 ## Small business as social fabric
 
 The small business owner who lives in the community, employs neighbors, sources locally, and is known by name is a different kind of institution than a corporation.
 
-A corporation is a contractual actor. It has legal obligations to its shareholders, regulatory obligations to the state, and contractual obligations to its employees and vendors. It has no covenantal obligations to the community in which it operates.
+A corporation is a contractual actor. It has legal obligations to its shareholders, regulatory obligations to the state, and contractual obligations to its employees and vendors, and no covenantal obligations to the community in which it operates.
 
 A small business owner who is embedded in the community is a covenantal actor. They cannot externalize costs onto the neighborhood without bearing the consequences in reputation, relationship, and reciprocal obligation. They know their employees' families. They source from neighbors when they can. They sponsor the local baseball team not because the marketing ROI demands it, but because they live here and the community's health is their health.
 
-In the Piedmont of South Carolina, this is not a lost ideal. Small farms, skilled tradespeople, local food producers, and local craftspeople are the backbone of the communities that have held together — and the emerging backbone of the communities being rebuilt. Supporting them is not merely an economic preference; it is a covenantal act.
+In the Piedmont of South Carolina, this is not a lost ideal. Small farms, skilled tradespeople, local food producers, and local craftspeople are the backbone of the communities that have held together, and they are becoming the backbone of the communities now being rebuilt. Supporting them is not merely an economic preference; it is a covenantal act.
 
 ## The Piedmont SC context
 
@@ -73,7 +73,7 @@ Walking in this is not theoretical. It is going to the Saturday market. It is ch
 
 ## The gleaning economy revisited
 
-Ruth gleaning in Boaz's field (Ruth 2) is an image of a local economy where surplus is shared and the poor are accommodated — not by government program but by covenantal obligation built into the practice of harvest.
+Ruth gleaning in Boaz's field (Ruth 2) is an image of a local economy where surplus is shared and the poor are accommodated: not by government program but by covenantal obligation built into the practice of harvest.
 
 Boaz does not merely allow Ruth to glean the corners. He instructs his workers to leave extra (Ruth 2:16) and to give her water and food at the midday rest. He asks about her and learns her story. The local market in this scene is not a place of anonymous transaction; it is a place of recognized personhood, of covenant obligation, and of generosity flowing from surplus toward need.
 
@@ -89,4 +89,4 @@ To use false weights is to treat your neighbor as a victim of your manipulation 
 
 To trade honestly — with true prices, true representations, true quality — is to treat your neighbor as a covenant partner. It is to say: I am not here to take advantage of your need; I am here to exchange what I have made for what you have made, and to let that exchange nourish both of our households.
 
-As your household and community walk in this, the local market becomes one of the most ordinary and most formative places in community life. Not a transaction venue. A place where you meet your neighbors, hold your reputation, share your surplus, and practice the covenant life.
+Live this out and the local market stops being a transaction venue. It becomes one of the most ordinary and most formative places in community life — a place where you meet your neighbors, hold your reputation, share your surplus, and practice the covenant life.

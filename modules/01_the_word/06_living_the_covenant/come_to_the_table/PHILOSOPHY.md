@@ -8,7 +8,7 @@ The table is not incidental to formation. It is formative in itself.
 
 Human beings eat. They eat together. They pass food, share portions, refill cups, wait for one another, tell stories, argue, laugh, and go quiet together. Long before a child understands a doctrine, they understand the feel of a meal and the shape of a table.
 
-The Word treats the table as a formation surface precisely because it already is one. The question is not whether formation is happening at the table. It is: *what* is being formed?
+The Word treats the table as a formation surface precisely because it already is one. The real question was never whether formation happens at the table. It's *what* gets formed there.
 
 ---
 
@@ -18,7 +18,7 @@ The Scriptures do not treat meals as neutral occasions. They are covenant events
 
 From the earliest texts of Genesis through the final chapters of Revelation, shared food appears as a sign of covenant membership, a marker of reconciliation, a sign of restored fellowship, a foretaste of promised joy, and a site of moral testing.
 
-This is not a claim that every dinner is a sacrament. It is a claim that dinner is *never* philosophically neutral — and that a household that learns to bring Scripture to the table is practicing a deeply old form of covenantal life.
+That doesn't make every dinner a sacrament. But it means dinner is *never* philosophically neutral — and a household that learns to bring Scripture to the table is practicing a deeply old form of covenantal life.
 
 ---
 
@@ -50,7 +50,7 @@ If the weekly table practice becomes a quiz, or a moment where children feel the
 
 This practice holds two explicit commitments:
 
-**No performance.** The table is not a classroom. The host is not a teacher extracting correct answers. The passage is read, the meal is eaten, and everyone is invited to say what they noticed — not what they can prove.
+**No performance.** Nobody is grading this. The host isn't a teacher extracting correct answers — the passage is read, the meal is eaten, and everyone is invited to say what they noticed, not what they can prove.
 
 **Wrong answers welcome.** When a child (or an adult) says something that is incorrect or incomplete, the response is curiosity, not correction. "That's interesting — what made you think of that?" is a better formative move than immediate precision. Precision will come; fear is harder to undo.
 

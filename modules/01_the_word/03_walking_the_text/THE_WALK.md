@@ -40,6 +40,8 @@ Most of us have heard the parable of the prodigal son so many times it has gone 
 - Then the robe (the best one — the father's own honor), the ring (authority, restored sonship), the sandals (a son, not a servant — servants went barefoot), and the fatted calf (a feast for the whole village). This is not merely forgiveness. It is *full restoration to the household* — reinstatement as a son, celebrated publicly so the whole community must receive him back too.
 - And the elder brother, refusing to go in to the feast, is committing his own public shaming of the father — and the father goes out and pleads with *him* too, taking on shame a second time. The story ends unresolved, hanging over the grumbling Pharisees: *will you come in to the feast, or not?*
 
+*A note on this reading.* The honor-shame details above — the running, the bare feet, the insult in the early request — lean on cultural-background scholarship (Kenneth Bailey's work on this parable is where I first met it), and I may be pressing it harder in places than the text states outright. If so, I'd rather you correct me than take my word for it. But the shape of the scandal is well-attested, and even holding the specifics loosely, the shock underneath them is real.
+
 **5. Location in the story.** This stands in the Gospels, at the arrival of the King who is gathering a covenant people from among the lost. It echoes the whole Bible's arc — a child of the household grasps for autonomy, ruins himself in a far country, and is restored not by earning his way back but by a father who bears the shame and welcomes him home. It is the covenant story of exile and homecoming, told in miniature, around a table.
 
 **6. Crossing the bridge.** Only now, having heard what they heard, does it come home. Salvation here is not a legal transaction at a distance; it is a shamed child restored to the household — exactly the vision of adoption into God's family at the center of the Household-Covenant tradition. The father's running is the gospel: God taking our shame onto Himself to bring us home. And the unfinished ending asks the question of *us*: the feast is ready and the door is open — will you come in? Will your household be a place where the shamed are run to and restored at the table, or a place that grumbles at who is welcome?
@@ -56,4 +58,4 @@ You will find that the passages you thought were flat were only unwalked.
 
 ---
 
-*This completes [Walking the Text](/the-word/walking-the-text). Next in The Word: [Knowing Your Own Way](/the-word/knowing-your-own-way).*
+*Next in [Walking the Text](/the-word/walking-the-text): [To See](/the-word/walking-the-text/to-see) — the keystone this practice rests on.*

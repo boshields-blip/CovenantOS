@@ -30,7 +30,7 @@ The word we render "glory" first means *weight*. Glory is substance, heaviness, 
 
 ## *hesed* — covenant loyalty, steadfast love, kindness
 
-*Hesed* may be the most important covenant word in the Hebrew Bible, and English has no single word for it. It is loyal love — the faithful kindness that persists because of a covenant bond, not because of a passing feeling. It is what God shows His people "to the thousandth generation," and what Ruth shows Naomi, and what Boaz shows Ruth. It is love with a spine of commitment, kindness that keeps faith. Once you can see *hesed*, you can see the covenant heartbeat running through the whole story.
+*Hesed* may be the most important covenant word in the Hebrew Bible, and English has no single word for it. It is loyal love — the faithful kindness that persists because of a covenant bond, not because of a passing feeling. It is what God shows His people "to a thousand generations" (Deuteronomy 7:9), and what Ruth shows Naomi, and what Boaz shows Ruth. It is love with a spine of commitment, kindness that keeps faith. Once you can see *hesed*, you can see the covenant heartbeat running through the whole story.
 
 ## *yada* — to know, by experience and intimacy
 
@@ -40,7 +40,11 @@ To "know" in Hebrew is not primarily to hold information. *Yada* is knowledge by
 
 Notice what all these words have in common. Each keeps the truth attached to something concrete — breath, weight, throat, wholeness, a kept promise, an intimate knowing. This is the native genius of the language of the land: it will not let faith become a set of abstractions floating above your ordinary life. It insists that glory has weight, that the soul is a hungering body, that the word does work, that love keeps covenant, that to know God is to live with Him.
 
-This is the same instinct that runs through everything Covenantal Architecture is trying to recover: a faith that is embodied, relational, and lived — not because that is a strategy, but because that is how the language of Scripture thinks. Learn to see the pictures, and you begin to think in the Bible's own tongue.
+This is the same instinct that runs through everything Covenantal Architecture is trying to recover: a faith that is embodied, relational, and lived — not because that is a strategy, but because that is how the language of Scripture thinks.
+
+I did not come to love this the way a scholar loves it, from inside a lexicon. I came to it the way a plumber and a farmer comes to it: twenty years of trade work and a season on my own land taught me that a word which doesn't become a deed is worth nothing — you cannot invoice "I said I would fix it." So when I found a language where *word* and *thing done* share one root, where glory has actual weight and knowing is something you do with your whole self, it did not feel foreign. It felt like the way I already knew the world worked, finally given words.
+
+Learn to see the pictures, and you begin to think in the Bible's own tongue.
 
 ---
 

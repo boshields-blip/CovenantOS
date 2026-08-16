@@ -6,7 +6,7 @@ To read a passage in its context is simply to ask, before anything else: *what w
 
 ## 1. What kind of writing is this? *(Genre)*
 
-Scripture is a library of many kinds of writing, and each kind asks to be read differently. A psalm is not a legal code; a proverb is not a promise; an apocalyptic vision is not a newspaper report; a parable is not a historical account. Reading a poem as though it were a statute, or a proverb as though it were a guarantee, will mislead you every time.
+Scripture is a library of many kinds of writing, and each kind asks to be read differently. A psalm is not a legal code (Psalm 23); a proverb is not a promise — "train up a child in the way he should go" (Proverbs 22:6) is a wisdom saying, not a guarantee; an apocalyptic vision is not a newspaper report (Revelation); a parable is not a historical account (Luke 15:11–32). Reading a poem as though it were a statute, or a proverb as though it were a guarantee, will mislead you every time.
 
 Before you decide what a passage means, ask what *kind* of thing it is. Is it narrative, law, poetry, prophecy, proverb, parable, letter, apocalypse? The genre sets the rules for how to read. Poetry means to move the imagination with image and exaggeration; law means to order a community's life; a letter is one side of a specific conversation. Honor the kind of writing, and you are halfway to hearing it rightly.
 
@@ -18,7 +18,7 @@ You are always reading someone else's mail, in the best sense — overhearing a 
 
 ## 3. Why was this written? *(Occasion)*
 
-Most books and passages were written for a reason — to address a situation, answer a question, correct an error, comfort a grief, or call a people back. Paul writes to the Corinthians because their church is fracturing. Deuteronomy is given as a people stands on the edge of the land. Lamentations pours out grief over a fallen city.
+Most books and passages were written for a reason — to address a situation, answer a question, correct an error, comfort a grief, or call a people back. Paul writes to the Corinthians because their church is fracturing into quarreling factions (1 Corinthians 1:10–13). Deuteronomy is given as a people stands on the edge of the land, about to cross over (Deuteronomy 1:1–5). Lamentations pours out grief over a fallen city — "how lonely sits the city that was full of people" (Lamentations 1:1).
 
 Knowing the occasion keeps you from turning a specific word into a general rule it was never meant to be — or missing the force of a word that was answering a real, urgent need. Ask: what situation called this forth? What was it trying to do for the people who first heard it?
 
@@ -38,7 +38,7 @@ Reading a passage in its place in the story keeps you from two common errors: tr
 
 You will not run a formal checklist every time you open the Bible, and you do not need to. But holding these five questions in the back of your mind — genre, audience, occasion, assumed world, location in the story — slowly retrains how you read. They become instincts. And once they are instincts, you find you are no longer dropping ancient words into a modern frame, but stepping into the world where those words first came alive.
 
-There is a difference between mastering a set of questions and being mastered by them. A man can memorize five diagnostic categories for a leaking pipe and still flood a house, because the categories were never meant to be applied once and filed away — they are meant to become the way he sees pipe, the instinct he cannot turn off even when he is standing in someone's bathroom off the clock. The five questions here work the same way. The goal is not to pass a test on genre and audience. The goal is to be slowly re-formed until you cannot help but ask them, the way a tradesman cannot help but notice the work.
+There is a difference between mastering a set of questions and being mastered by them. I have watched it happen with apprentices more times than I can count: a young plumber can memorize five diagnostic categories for a leaking pipe and still flood a house, because the categories were never meant to be applied once and filed away. They are meant to become the way he sees pipe, the instinct he cannot turn off even when he is standing in someone's bathroom off the clock. The five questions here work the same way. The goal is not to pass a test on genre and audience. The goal is to be slowly re-formed until you cannot help but ask them, the way a tradesman cannot help but notice the work.
 
 The next page puts these five to work on an actual passage.
 

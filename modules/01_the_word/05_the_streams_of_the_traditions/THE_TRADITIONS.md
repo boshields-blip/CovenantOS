@@ -2,7 +2,7 @@
 
 ---
 
-Each stream below is mapped the same way: its center of gravity, its genuine gifts, the blind spots it tends to carry, and what any believer can receive from it. Gifts come first, always — not as flattery, but because every one of these streams has produced saints and wisdom, and you cannot rightly weigh what you have not first honored. These are common tendencies, not verdicts on any individual. Real people are always more than their tradition.
+Each stream below is mapped the same way: its center of gravity, its genuine gifts, the blind spots it tends to carry, and what any believer can receive from it. Gifts come first, always — not as flattery, but because every one of these streams has produced saints and wisdom, and you cannot rightly weigh what you have not first honored. This follows Paul's own logic in 1 Corinthians 12: one Spirit, one body, and "varieties of gifts" distributed for the common good, not for any one part to claim it is the whole. These are common tendencies, not verdicts on any individual. Real people are always more than their tradition.
 
 For the lens Covenantal Architecture itself reads from, see [The Household-Covenant Tradition](/the-word/the-streams-of-the-traditions/the-household-covenant-tradition).
 
@@ -21,6 +21,8 @@ For the lens Covenantal Architecture itself reads from, see [The Household-Coven
 ---
 
 ## Baptist
+
+*This is the stream that handed me the Bible — I came up Southern Baptist, and I am grateful for it. The blind spots below are ones I have had to watch for in myself, not just observe from outside.*
 
 **Center of gravity:** A regenerate church of believers, entered by personal faith and marked by believer's baptism; the authority of Scripture and the freedom of the local congregation.
 
