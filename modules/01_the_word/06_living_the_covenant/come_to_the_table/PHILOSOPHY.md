@@ -71,6 +71,7 @@ Come to the Table is that conviction made concrete. It is formation that is:
 
 ## See also
 
+- [Covenantal Worship](/the-word/living-the-covenant/covenantal-worship) — the theology of offering and table this weekly practice draws on, and why the peace offering's shared meal is worship's ongoing center
 - [Re-formation Pathway](/the-word/living-the-covenant/reformation-pathway) — the broader three-movement arc the table practice embodies week by week
 - [Oikonomia](/the-household/oikonomia) — the household as the first economic and formational unit
 - [Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn) — the quarterly community gathering that the weekly table prepares households for

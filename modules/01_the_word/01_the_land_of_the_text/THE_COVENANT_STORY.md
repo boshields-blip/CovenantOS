@@ -28,7 +28,7 @@ This is the hinge of the whole story, and it is deeply congenial to the Househol
 
 ## People: the covenant at Sinai
 
-The household becomes a people. Rescued from slavery in Egypt — the great picture of redemption that all later redemption echoes — Israel is brought to Sinai and formed into a covenant nation. The law is given, not as arbitrary rules, but as the shape of life for a freed people: how to worship, how to trade honestly, how to treat the poor and the stranger, how to keep Sabbath, how to hold land, how to be holy as their God is holy.
+The household becomes a people. Rescued from slavery in Egypt — the great picture of redemption that all later redemption echoes — Israel is brought to Sinai and formed into a covenant nation. The law is given, not as arbitrary rules, but as the shape of life for a freed people: how to worship (see [Covenantal Worship](/the-word/living-the-covenant/covenantal-worship)), how to trade honestly, how to treat the poor and the stranger, how to keep Sabbath, how to hold land, how to be holy as their God is holy.
 
 Israel is called to be a "kingdom of priests" — a people whose common life displays to the nations what it looks like when God is King. The story now has a working model: a people in a land, living covenant life in public, meant to be a light.
 

@@ -40,6 +40,7 @@ I have watched more than one gathering get quietly taken over by whoever was mos
 
 ## See also
 
+- [Covenantal Worship](/the-word/living-the-covenant/covenantal-worship) — the theology of offering and table underneath this gathering, especially the peace offering's three-way meal that Harvest & Hymn enacts at community scale
 - [Come to the Table](/the-word/living-the-covenant/come-to-the-table) — the weekly household practice that the quarterly gathering extends outward
 - [Peoplehood](/the-compact/peoplehood) — the covenant assembly dimension that Harvest & Hymn embodies
 - [Commons and Shared Life](/the-compact/commons-and-shared-life) — the shared-commons logic that a community gathering enacts
