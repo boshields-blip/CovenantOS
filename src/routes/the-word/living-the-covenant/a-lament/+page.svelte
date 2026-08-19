@@ -9,8 +9,8 @@
   moduleHref="/the-word/living-the-covenant"
   prevHref="/the-word/living-the-covenant/reformation-pathway"
   prevLabel="Re-formation Pathway"
-  nextHref="/the-word/living-the-covenant/covenantal-worship"
-  nextLabel="Covenantal Worship"
+  nextHref="/the-word/living-the-covenant/sin-sacrifice-and-righteousness"
+  nextLabel="Sin, Sacrifice, and Righteousness"
 >
   <Content />
 </ContentLayout>

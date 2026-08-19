@@ -40,7 +40,7 @@ And yet, in the very depths, the prophets begin to speak of something new: a cov
 
 ## Fulfillment: the covenant in Christ
 
-Into this longing comes Jesus. He is the faithful Israelite, the true image-bearer, the promised seed of Abraham and son of David. He keeps the covenant we could not keep, bears the curse of its breaking, and at a table, on the night He is betrayed, He lifts a cup and names it "the new covenant in my blood." In His death and resurrection the whole story turns: the curse is absorbed, the shame is answered with vindication, and the presence of God once guarded behind the veil is poured out on ordinary people.
+Into this longing comes Jesus. He is the faithful Israelite, the true image-bearer, the promised seed of Abraham and son of David. He keeps the covenant we could not keep, bears the curse of its breaking (see [Sin, Sacrifice, and Righteousness](/the-word/living-the-covenant/sin-sacrifice-and-righteousness) for what that bearing actually accomplishes), and at a table, on the night He is betrayed, He lifts a cup and names it "the new covenant in my blood." In His death and resurrection the whole story turns: the curse is absorbed, the shame is answered with vindication, and the presence of God once guarded behind the veil is poured out on ordinary people.
 
 Everything before now converges. Creation's calling, Abraham's promise, Sinai's law, the prophets' longing — all of it is gathered up and fulfilled in the covenant Christ makes. And the community it creates is exactly what the story always pointed toward: a household gathered from every people, adopted as sons and daughters, breaking bread together, learning covenant life.
 
