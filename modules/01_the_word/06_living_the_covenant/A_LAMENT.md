@@ -42,4 +42,4 @@ The right response to that is not despair, and it is not nostalgia. It is lament
 
 *If this prayer names your own turning, carry it to **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)**, where lament and worship are practiced with nearby people at a real table, week by week, as local community is slowly rebuilt.*
 
-*Return to [Living the Covenant](/the-word/living-the-covenant).*
+*Return to [Living the Covenant](/the-word/living-the-covenant). Companion piece: **[Lifted Up](/the-word/living-the-covenant/lifted-up)**, a lament about a different depth — the danger of diving into yourself rather than being found by God.*

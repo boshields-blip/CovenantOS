@@ -18,6 +18,20 @@ Jesus Christ died for our sins, exactly as the Scriptures said He would. He rose
 
 That last part is the piece most often left out, and it shouldn't be. Hebrews will not let you stop the story at the cross. Jesus took His own blood into the true and heavenly sanctuary and is there now, on our behalf, this moment. We are not saved only because Jesus died. We are saved because Jesus died, rose, ascended, and lives to intercede for us. His nearness to the Father is our access to the Father. His standing is our standing.
 
+## For us: what the cross accomplished
+
+"Jesus Christ died for our sins" is a sentence every tradition on this page already confesses, but it is worth saying plainly what those five words mean, because the *how* carries as much weight as the fact.
+
+Scripture describes the cross as the work of a representative. Christ is our great High Priest (Hebrews 4:14–5:10) — the one who entered our condition from the inside, tempted as we are, yet without sin, and who "learned obedience through what he suffered" (Hebrews 4:15; 5:8). What we owed and could not render — perfect faithfulness, perfect trust, perfect love toward God — he rendered in our place, as us, all the way to death. This is real substitution, not a legal fiction: he bore what our sin deserved, genuinely and at real cost (Isaiah 53:4–6; 1 Peter 2:24), the God-man entering the deepest alienation sin produces and carrying it through to the other side.
+
+God's justice, in this telling, is not a ledger to be balanced but a covenant to be kept — his own faithfulness (Psalm 9:8–9; Micah 6:8) to the promises he made to Abraham and, through Abraham, to the world. The cross does not change God's disposition toward us; it enacts it. "God shows his love for us in that while we were still sinners, Christ died for us" (Romans 5:8). The Father did not need persuading. The Father sent.
+
+And the story does not stop at the tomb's edge, because it never stopped there for the apostles either. He "was delivered over to death for our sins and raised to life for our justification" (Romans 4:25) — one sentence, one saving event. The empty tomb is not an epilogue confirming the cross worked. It is the other half of it, the moment death itself began to come undone.
+
+Faithful traditions describe the mechanics of the cross differently — some emphasizing penalty borne, some ransom paid, some victory won, some sacrifice offered — and Scripture itself holds these pictures together rather than flattening them into one. This page will not adjudicate between them. What every orthodox tradition confesses together is this: a real substitution happened, at real cost, by a real representative — and it was not the whole story until he rose.
+
+*See [Sin, Sacrifice, and Righteousness](/the-word/living-the-covenant/sin-sacrifice-and-righteousness) for how this corpus works out the mechanism further, and [Covenantal Worship](/the-word/living-the-covenant/covenantal-worship) for how it shapes the practice of worship.*
+
 ## The Spirit who unites us
 
 The Spirit is the one who takes what is true of Jesus and makes it true of us — joining us to His death and resurrection, cleansing and renewing us, sealing our adoption, and knitting believers into households and tables of shared life. He is the reason union with Christ is not a doctrine to admire from a distance but a life we actually share.

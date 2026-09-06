@@ -7,8 +7,8 @@
   title="Sin, Sacrifice, and Righteousness"
   module="The Word"
   moduleHref="/the-word/living-the-covenant"
-  prevHref="/the-word/living-the-covenant/a-lament"
-  prevLabel="A Lament"
+  prevHref="/the-word/living-the-covenant/lifted-up"
+  prevLabel="Lifted Up"
   nextHref="/the-word/living-the-covenant/covenantal-worship"
   nextLabel="Covenantal Worship"
 >

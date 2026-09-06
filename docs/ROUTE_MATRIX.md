@@ -48,6 +48,7 @@ Restructured into six movements (see `docs/WORD_REDESIGN.md`). The former Diagno
 | `/the-word/living-the-covenant` | `06_living_the_covenant/README.md` | Living the Covenant | content-page |
 | `/the-word/living-the-covenant/reformation-pathway` | `06_living_the_covenant/reformation_pathway.md` | Re-formation Pathway | content-page |
 | `/the-word/living-the-covenant/a-lament` | `06_living_the_covenant/A_LAMENT.md` | A Lament | content-page |
+| `/the-word/living-the-covenant/lifted-up` | `06_living_the_covenant/LIFTED_UP.md` | Lifted Up | content-page |
 | `/the-word/living-the-covenant/sin-sacrifice-and-righteousness` | `06_living_the_covenant/SIN_SACRIFICE_AND_RIGHTEOUSNESS.md` | Sin, Sacrifice, and Righteousness | content-page |
 | `/the-word/living-the-covenant/covenantal-worship` | `06_living_the_covenant/COVENANTAL_WORSHIP.md` | Covenantal Worship | content-page |
 | `/the-word/living-the-covenant/come-to-the-table/**` | `06_living_the_covenant/come_to_the_table/*` | Come to the Table | content-page (subtree retained from former Formation) |
