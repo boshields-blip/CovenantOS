@@ -20,13 +20,15 @@ And it does not happen alone. Covenant is, by definition, a bond between persons
 
 2. **[A Lament](/the-word/living-the-covenant/a-lament)** — a personal prayer wrung out of pain, moving from complaint through the sight of the crucified and risen Christ to worship. A model of praying honestly, and a reminder that the covenant life has room for the whole of the heart, grief and all.
 
-3. **[Sin, Sacrifice, and Righteousness](/the-word/living-the-covenant/sin-sacrifice-and-righteousness)** — what sin actually breaks, what a sacrifice actually does about it, and what it means to become righteous. Not a transfer of substance but a representative who bears the breach and a life we come to share. The theological floor underneath everything that follows.
+3. **[Lifted Up](/the-word/living-the-covenant/lifted-up)** — a lament about a different danger: mistaking the examined life for the saved life, and diving into your own depth and wisdom as if it could ever substitute for being found by God. A picture of dying to self, pride going silent, and being lifted back up by a voice that is not your own.
 
-4. **[Covenantal Worship](/the-word/living-the-covenant/covenantal-worship)** — why worship changes its shape from covenant to covenant but not its bones, what the five offerings of Leviticus name about belonging to God, and why the goal was always the shared table, not a summit to climb. The theology underneath the two practices that follow.
+4. **[Sin, Sacrifice, and Righteousness](/the-word/living-the-covenant/sin-sacrifice-and-righteousness)** — what sin actually breaks, what a sacrifice actually does about it, and what it means to become righteous. Not a transfer of substance but a representative who bears the breach and a life we come to share. The theological floor underneath everything that follows.
 
-5. **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)** — the weekly household practice. A household gathers at the table, blesses the meal, reads a passage aloud, talks about what they heard, and ends in prayer and blessing. The most ordinary and most formative place in a household's life, across every age from infant to elder.
+5. **[Covenantal Worship](/the-word/living-the-covenant/covenantal-worship)** — why worship changes its shape from covenant to covenant but not its bones, what the five offerings of Leviticus name about belonging to God, and why the goal was always the shared table, not a summit to climb. The theology underneath the two practices that follow.
 
-6. **[Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn)** — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony, under the ordering text of 1 Corinthians 14:26. Where formation moves outward from the household table into the wider community.
+6. **[Come to the Table](/the-word/living-the-covenant/come-to-the-table)** — the weekly household practice. A household gathers at the table, blesses the meal, reads a passage aloud, talks about what they heard, and ends in prayer and blessing. The most ordinary and most formative place in a household's life, across every age from infant to elder.
+
+7. **[Harvest & Hymn](/the-word/living-the-covenant/harvest-and-hymn)** — the quarterly, seasonal community gathering where households bring shared meal, creative offering, and testimony, under the ordering text of 1 Corinthians 14:26. Where formation moves outward from the household table into the wider community.
 
 Together the two practices form one cadence: the weekly table and the seasonal gathering, the household and the community, breath by breath and season by season.
 
